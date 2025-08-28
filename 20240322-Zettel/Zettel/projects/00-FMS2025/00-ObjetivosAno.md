@@ -1,0 +1,10 @@
+- down to 85kg lean
+	- monitorar taxas hormonais e hemogramas
+		- 1 teste por trimestre?
+- faturar US$20k extra
+-  falar para um grupo de 10 pessoas ( minimo ) 
+	- pelo menos uma vez a cada 3 meses 
+	- online
+	- presencial
+- controlar o orçamento pessoal
+- Logar o dia a dia

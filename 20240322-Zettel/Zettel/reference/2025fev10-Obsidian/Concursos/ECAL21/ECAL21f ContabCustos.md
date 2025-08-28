@@ -1,0 +1,24 @@
+- Defina investimento para contab de custos↔ 
+    - Aquisição de bens que são ativados
+    - caratér permanente
+    - ou em estoque até
+        - consumo
+        - baixa pra produção
+        - venda
+- Defina Gasto na contab de custos↔
+    - genero que comporta
+        - despesas
+        - custos
+        - investimentos
+- Defina Custo na Contab de custo↔
+    - gasto na produção de ativos
+    - ou prestação de serviço
+- Defina Despesa na contab de custo↔ 
+    - gasto na função de auferir receita
+- Classifique↔
+    - ![](https://remnote-user-data.s3.amazonaws.com/G5y_Lv372TvN6TDmEouyUP1yfS__DvY-RBnQoPuUc9nRCNrL_9-SRRRyyCuT9i4ydVOLz_FSxT1zlBJjD-_YlesAp2mJcxlArWpoQTZhb7-O5uqYUFjlei3klDgr3QJB.png)
+- Classifique no fluxo da Materia prima na etapa
+    - 1-Aquisição ->→Investimento
+    - 2- Entrou na produção ->→Custo
+    - 3-Produto pronto para venda ->→Investimento
+    - 4-Produto vendido ->↔Despesa

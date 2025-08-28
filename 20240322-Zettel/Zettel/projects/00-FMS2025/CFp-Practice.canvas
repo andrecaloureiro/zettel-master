@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"baabe9f547361c70","x":-591,"y":-134,"width":250,"height":60,"type":"text","text":"Previdencia"},
+		{"id":"4603655831bd09e4","x":-466,"y":-260,"width":250,"height":60,"type":"text","text":"Seguros"},
+		{"id":"ff53db55b7e1cfbf","x":-540,"y":20,"width":250,"height":60,"type":"text","text":"Orçamento"},
+		{"id":"dfd2ace678c05e72","x":-415,"y":132,"width":250,"height":60,"type":"text","text":"Tributario"},
+		{"id":"f4a283319a6329a0","x":-200,"y":-104,"width":250,"height":60,"type":"text","text":"Micro cursos ( free e $)\n"},
+		{"id":"b0921cabeb315c9e","x":720,"y":-104,"width":250,"height":60,"type":"text","text":"Execução (\\$\\$\\$\\$\\$)"},
+		{"id":"62993f244c217dab","x":240,"y":-194,"width":250,"height":60,"type":"text","text":"Consultoria (\\$\\$\\$)"},
+		{"id":"f3a02d0c961a8a50","x":-960,"y":-10,"width":250,"height":60,"type":"text","text":"Investimentos (RF e RV)"}
+	],
+	"edges":[
+		{"id":"d594c1b24290a753","fromNode":"f4a283319a6329a0","fromSide":"top","toNode":"4603655831bd09e4","toSide":"right"},
+		{"id":"49a1e110453108cf","fromNode":"f4a283319a6329a0","fromSide":"left","toNode":"baabe9f547361c70","toSide":"right"},
+		{"id":"53be94bef7e3b8d6","fromNode":"f4a283319a6329a0","fromSide":"left","toNode":"ff53db55b7e1cfbf","toSide":"right"},
+		{"id":"8ad30a218c1230c5","fromNode":"f4a283319a6329a0","fromSide":"bottom","toNode":"dfd2ace678c05e72","toSide":"right"},
+		{"id":"3de37a4b588dc6bf","fromNode":"f4a283319a6329a0","fromSide":"right","toNode":"62993f244c217dab","toSide":"left"},
+		{"id":"ac828cd79de88051","fromNode":"62993f244c217dab","fromSide":"right","toNode":"b0921cabeb315c9e","toSide":"left"},
+		{"id":"8337a71a9ad27027","fromNode":"ff53db55b7e1cfbf","fromSide":"left","toNode":"f3a02d0c961a8a50","toSide":"right"}
+	]
+}

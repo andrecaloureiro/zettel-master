@@ -1,0 +1,50 @@
+direção concursos
+economia - aula01
+
+O problema econômico fundamental 
+Escassez: se não conseguimos produzir tudo o que necessitamos vamos precisar escolher o que vamos produzir 
+Qual seria o melhor jeito de satisfazer as  necessidades humanas com os recursos limitados
+
+Escassez é diferente de pobreza -> Ter mais desejos do que é possível satisfazer(escasso) E ser carente de bens e serviços essenciais(pobre)
+
+O custo da escolha
+
+O custo de uma escolha é chamado de custo de oportunidade... trade off
+
+Questões econômicas fundamentais
+1) O que produzir --> Eficiência alocativa
+2) como produzir  --> Eficiência produtiva 
+3) para quem produzir -> eficiência distributiva  
+
+Subaproveitamento -> qualquer resultado que seja menor do que o potencial máximo da economia
+
+Curva de possibilidade de produção --> Modelo econômico ( com pressupostos
+Combinações das quantidades de 2 bens que podem ser produzidos na economia
+Mudar os pressupostos modifica as conclusões do modelo
+
+Pressupostos da CPP
+1) Os recursos são fixos
+2) A tecnologia é constante
+3) Os recursos não são perfeitamente substituíveis entre si
+
+Inclinação negativa: Para que a produção de um bem aumente a produção do outro bem precisa diminuir
+
+Concavidade: Porque os recursos não são perfeitamente substituíveis entre si --> Variação da inclinação da CPP nos diz que o custo de oportunidade é crescente
+- Taxa marginal de transformação: Quanto é preciso abrir mão de um bem para produzir uma unidade a mais do outro
+
+Alterando a CPP mudanças no primeiro e no segundo pressuposto
+- Tecnologia
+- Investimentos
+- Melhorias no sistema legal e regulação
+- Quantidade de fatores de produção
+
+O que ocorre quando apenas uma parte da produção se altera um dos bens ? Sua inclinação é afetada
+
+Mudanças de preços não alteram CPP
+
+Caso especial da cpp A mudança do terceiro pressuposto
+Se os recursos fossem perfeitamente substituíveis entre si teríamos uma CPP linear
+
+
+
+

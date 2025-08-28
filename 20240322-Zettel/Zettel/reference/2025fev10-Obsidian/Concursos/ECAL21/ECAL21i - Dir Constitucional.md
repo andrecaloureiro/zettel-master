@@ -1,0 +1,109 @@
+#Concursos 
+
+- EC Controle de Const
+    - 'Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+        - I - processar e julgar, originariamente:↔
+            - a) a ação direta de inconstitucionalidade -ADI de lei ou ato normativo
+                - federal ou estadual e
+                - a ação declaratória de constitucionalidade - ADC
+                    - de lei ou ato normativo federal''.
+    - backslash / override
+        - quando LEgis edita lei identica À q foi declarada inconst pelo STF
+        - ver ADI4983 contra L15299/13 do CE ( vaquejada)
+    - caso processo de aprovação de EC esteja incompatível com disposições constitucionais
+        - apenas parlamentar ( dep fed ou senador) poderá impetrar MS
+    - Como pode ocorrer o controle de const exercido pelo LEgislativo?→implementar
+        - a) na apreciação preventiva da Comissão de Constituição e Justiça – CCJ das proposições legislativas pelo Congresso Nacional (preventivo);
+        - b) na sustação dos atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites da delegação legislativa (art. 49, V);  (repressivo);
+        - c) na apreciação dos requisitos constitucionais das medidas provisórias, na forma do art. 62, § 5º; (repressivo, pois a MP já foi editada pelo Executivo);
+        - d) na hipótese do Presidente vetar um projeto de lei, no todo ou em parte com fundamento em sua inconstitucionalidade, cabe ao Congresso Nacional apreciar o veto, pela maioria absoluta dos deputados e senadores (art. 66, § 4º), não mais em escrutínio secreto, a partir da Emenda Constitucional 76/2013;
+    - controle difuso de const de norma anterior À CF88 pode ter como parametro CF anterior
+        - verificação de compatibilidade ou nao de norma pre-const com a ordem const superveniente
+    - deputado federal pode entrar com MS para controle preventivo de const e precisa se manter no mandato para a ação prosseguir
+    - Marbury versus  Madison,
+        - Leading Case do controle de constitucionalidade
+        - Juiz Marshall —> EUA - Suprema Corte
+        - Comando Constitucional em detrimento de leis ordinarias
+    - Onde na CF e quem pode propor ADC?→implementar2
+        - 'Art. 103. Podem propor a ação direta de inconstitucionalidade e a ação declaratória de constitucionalidade:
+            - I - o Presidente da República;
+            - a Mesa
+                - II - do Senado Federal;
+                - III - da Câmara dos Deputados;
+                - IV - Assembléia Legislativa ou da Câmara Legislativa do Distrito Federal;
+            - V o Governador de Estado ou do Distrito Federal;
+            - VI - o Procurador-Geral da República;
+            - VII - o Conselho Federal da Ordem dos Advogados do Brasil;
+            - VIII - partido político
+                - com representação no Congresso Nacional;
+            - IX - confederação sindical
+                - ou entidade de classe de âmbito nacional''.
+    - orgão fracionario da justiça q de deixa de aplicar lei por inconst
+        - regra de {{reserva }}de plenario
+        - exceto se : baseada em {{jurisprud }}do plenario do {{STF}}
+    - Para o STF, Qual a atual situação da Transcendencia dos motivos determinantes?→implement 3
+        - consiste em abranger outras normas q estao fora do processo objetivo
+            - mas com mesmo conteudo material
+            - vinculante do Pod Judiciario e admin publica
+        - antes era admitido
+        - hoje o STF vem se afastando dessa tese ↓ 
+            1. vide Rcl 2986 - MC ↓ 
+                - Teste de outr pergunta
+O q pode ser feito?
+                - 
+    - Quais especies de declaração podem ser usadas no controle abstrato?→implement 4
+        - 
+        - Quais especies de proposta? ↓ 
+            - ADI Generica (a102, 1, a)
+            - ADI interventiva (art. 36, III);
+            - ADI por omissão (art. 103, § 2o);
+            - ADC(art. 102,1, a, infine; EC n° 03/93);
+            - ADPF (art. 102, § 1°)
+            - tese↔hello
+            - tese2 ↓ 
+                - viados
+                - preconceituosos
+                - ignorantes
+            - tese3↔não é preciso muito
+            - tese 4 ↓ 
+                - suficiente
+                - adequada
+            - 
+    - Quais os parametros para reconhecimento de Inconst de uma norma?→ 
+        - a) dispositivos d  poder constituinte originario
+        - b) Emendas const
+            - de reforma
+            - e de revisao
+        - c)Dispositivos do ADCT
+            - exceto os exauridos
+        - d)Tratados internacionais de Dir Humanos
+            - internalizados como emenda const
+        - e) Principios const implicitos
+            - exemplos
+                - razoabilidade e proporcionalidade
+                - supremacia interesse publico
+                - clausulas petreas implicitas
+        - f) outros direitos e garantis
+            - do regime
+            - e principios adotados
+            - tratados internacionais doqual o brasil faça parte
+        - 
+        - 
+        - 
+    - Qual  modalidade e como ocorre controle de const exercido por parlamentar com finalidade de impedira pratica de ATOS INCOMPATIVEIS com o devido processo legis?→ 
+        - modalidade: controle preventivo e concreto
+        - via mandado de segurança
+    - Quando foi introduzido o controle de const no Brasil??→não sei
+    - Quem exerce controle concentrado / abstrato?→
+        - STF ou TJs dos Estados ou DF
+        - CF/88 - Art. 125. (...) 2º - Cabe aos Estados a instituição de representação de inconstitucionalidade
+            - de leis ou atos normativos
+                - estaduais ou municipais
+                - em face da Constituição Estadual,
+            - vedada a atribuição da legitimação para agir a um único órgão.
+    - Quem exerce o controle difuso (incidental, concreto, descentralizado ou aberto) e quais sao os efeitos?→
+        - qualquer Juiz ou tribunal
+        - efeitos tradicionalmente retroativos e inter-partes
+    - questoes de direit sempre podem ser conhecidas por iniciativa oficial
+        - independet de ser suscitada por interessados
+        - incluida saber se norma é ou nao constitucional

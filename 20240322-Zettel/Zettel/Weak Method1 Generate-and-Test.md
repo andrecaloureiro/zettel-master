@@ -1,0 +1,4 @@
+- esqueceu algo? procura nos lugares mais provaveis
+- esqueceu senha ? tenta as ultimas q lembra
+- ruim de usar se o espaço do problema for vasto
+- so funciona quando oproblema já esta definido e familiar o suficiente para testar hipoteses

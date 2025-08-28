@@ -1,0 +1,138 @@
+Sefaz-MT, pré edital, aula 08 
+- professor cadu CArrilho
+	- estrategia concursos
+	- 04/05/2022
+		- IG @profcaducarrilho
+		- telegram: t.me/professorcadu
+
+### video 1
+- Lei 11.101/2005
+	- alterações
+		- alterada significativamente pela lei 14112/2020
+	- art 1o )versa sobre
+		- procedimentos quando
+			- crise/
+			- insolvencia
+				- economica - sem caixa para contas
+				- patrimonial - passivo maior q ativo
+				- juridica - campo de estudo do dir empresarial --> situação definida pelo ligislador
+					- proteção de credores
+					- único devedor e multiplos credores
+		- Falencia
+			- sem condições de recuperar da crise
+			- Poder Judciário é acionado por credor
+				- liquidação forçada
+					- bens do devedor são arrecadados e vendidos
+					- credores pagos de acordo com a ORDEm da lei pelo TIPO de credito
+			- concurso de credores
+		- recup judicial
+			- crise, com codições de recuperar
+			- pode se reerguer e continuar atividade
+			- devedor requer ao poder Judiciario
+				- 1o verifica se seencaixa nos requisitos da Lei
+				- 2o apresenta plano de RJ
+					- aval e observação do Juiz
+		- recup extrajudicial 
+			- fora da Justiça
+			- devedor apresenta plano de renegociação diretametne com os credores
+				- assina acordo
+			- ganha força jurídica ao ser apresentado ao juiz
+				- juiz homologa, no ambito da justiça
+				- o juiz pode forçar aceitação de outrso credores
+		- crimes falimentares
+	- Historico
+		- havia previsão de punição 
+		- hoje: proteger o credito e credores, superação de crise e pagamento do maximo de credores
+	- art2o) Querm se sujeita
+		- PEssoa física ou Jurídica:
+			- não empresaria: se sujeita à INSOLVÊNCIA CIVIL, prevista no Codigo de processo civil
+			- empresaria: Lei 11101
+		- - atenção: empresário **irregular** PODE FALIR, mas não pode pedir RJ
+	- quem não está sujeita:
+		- Empresas Publicas, e sociedades de Econo mista
+		- Instituições financeiras --> lei 6024
+			- intervenção e liquid extrajudicial , BACEN
+		- Cooperativas --> sociedades simples
+		- Consórcios (L6404/76) --> mesmas intervenções de Instituições financeiras
+		- Entidade de Prev Complementar --> LC 109/2001, seja abertas ou fechadas
+		- Sociedade operadora de Plano de Saude ->
+			- intervenção da AgNacSsaúde ( L9656/98)
+			- l11101 de forma subsidiaria
+		- Sociedade Seguradora
+			- SUSEP, pelo DecLei 73/1966
+		- Soc de capitalização 
+			- SUSEP, pelo DecLei 73/1966
+		- Outras entidades legalmente equiparadas as anteriores
+	- art 3o)Juizo competente
+		- para análise de pedidos e dar sentença respectiva:
+			- empresa brasileira: Juizo do Local do PRINCIPAL ESTABELECIMENTO  do devedor
+				- disucssão da doutrina: qual é esse local?
+					- **onde está maior parte do patrimonio da empresa** 
+					- previsto no contrato? não
+					- sede da admin? não
+					- Local com maior volume conomico?
+			- empresa estrangeira: juízo do local da filial no Brasil
+			- o que faz o juiz:
+				- decreta falência
+				- defere processamento da RJ
+				- Homologa plano de recup da R ExtraJud
+	- art 5o) não é exigivel do devedor, em falencia ou RJ
+		- obrigações a título gratuito - sem contrapartida
+		- despesas de credores para tomar parte na RJ ou FAlência
+			- custas judiciais de litigios podemser exigidas
+	- art 6o) implicações da (decreatção de falencia) ou (deferimento do prcessamento da RJ):
+		- JUIZO UNIVERSAL
+		- suspensão de **prescrição** de obrigações do devedor - obg sujeitas ao regime dessa lei
+		- suspensão de **execuções** ajuiozadas contra o devedor
+			- inclusive de credores particulares do socio solidario, relat cred ou obg sujewitas à falencia ou RJ
+		- proibição de quelr tipo de *retenção, arresto, penhora, sequestro, busca e apreensão e constrição* Jud ou extrajud sobre bens do devedorr
+			- oriundas de demandas jud ou extra jud
+			- cujos creds ou obg se sujeitem a RJ ou falencia
+		- prazos de suspensão e RJ
+			- na falência: sem prazo fim
+			- nas RJ : prazo de 180 dias ( STAY PERIODO) do deferimento do processamento
+				- pode ser prorrogado 1 vez, excepcionalmente
+					- não pode ser provocado por devedor
+				- Aprofundando: 
+					- deferido o process de RJ: devedor tem 60 dias para apresentar o plano
+					- se não sofrer nenhuma objeção, o plano é aprovado
+					- se sofrer objeção:
+						- juiz convoca assembleia geral de credores, para que votem se aprovam ou não
+							- e se stay period se esgota e não há votação?
+								- 30 dias após o stay period: credores podem propor plano alternativo --> mantém-se suspensões e proibições
+							- novo stay period de 180 dias:
+								- após 1o Stay periodo havendo votação de AGC 
+								- após plano alternativo nos 180+30d iniciais
+		- Exceções à suspensão:
+			- ação q demanda quantia ilíquida (a6 ,$1) -- prossegue no juízo 
+				- ex: danos morais que ainda nao foram quantificados
+			-  a7b) execução  fiscais, na RJ
+				- juízo da RJ pode determinar --> **substituição** de atos de constrição  sobre bens de Kap essenciais à manutewnção da ativ empresarial
+					- até encerramento da RJ
+					- implementada mediante coop jurisdicional (a69, CPC, observado a805 do mesmo)
+			- (a6 $2) ações trabalhistas -- prossegue na justiça especializada até apuração do valor e é trazido projuízo
+			- cred não sujeitos à recup --> vale tb regra do juízo da RJ determinar **suspensao** de atos de constrição sobre bens importantes
+			- atos cooperativos --> a79 , L5764/1971
+				- atos entre cooperados e cooperativa
+				- aplica-se lei de falencia e RJ se for cooperativa medica, sociedade operadora de plano de assistencia à saúde 
+			- !! quanto a credito iliquido e trabalhista:
+				- juiz competente poderá determinar reserva da importancia que estimar devida, na RJ ou falência
+				- reconhecido liquido, sera incluido em classe própria
+		- outras novidades: 
+			- CPC, a300 --> **tutela  de urgencia** quando houver elementos que evidenciem probabilidade do direito e perigo de dano ou risco ao resultado util do processo
+				- juiz pode antecipar os efeitos do dfefereimento do processamento da RJ, sob tutela de urgÊncia
+			- (a6a)enquanto plano de RJ não for aprovado: devedor não pode distribuir lucros e dividendos 
+			- (a6c) vedado atribuiçãode responsaa 3os em relação a obrigação de devedor falido
+- Principios que norteiam a lei de falencia e RJ
+	- preservação da empresa
+	- função social da empresa
+	- Par condito creditorium --> condições de paridade e direitos iguais ao crédito
+		- exemplo: grupos conforme concurso de credores
+	- Juizo universal
+		- salvo : causas trabalhistas, fiscais e as nao reguladas por essa lei
+			- o crédito vem para esse juízo , mas não a ação
+		- ex : 5 pedidos de falencia--> todos vão para o primeiro q distribuir
+		- arbitragem continua mantida na dec de falência ou proc de RJ e admin judicial nao pode recusar  
+			- decisões já tomadas e em avaliação pelo árbitro
+	- mAXIMIzação de ativos
+	- celeridade e economia processual

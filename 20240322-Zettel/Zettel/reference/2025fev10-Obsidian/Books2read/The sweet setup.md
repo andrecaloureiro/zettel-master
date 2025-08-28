@@ -1,0 +1,110 @@
+---
+tags: done, ok, Obsidian
+author: Miike Schuz
+---
+Mod 2
+Mod 3 [[Module 3]]
+Mod 4
+Mod 5
+
+Pesquisar sobre obisidian
+
+- Sweet setup - obsidian and beyond
+    - module 1
+        - 13:39 21/10/2021
+        - 
+        - Mike Shmitz
+        - 
+        - Personal information mngmnt
+        - knowledge mngmnt
+        - 
+        - reference --> opinion notes
+        - tasks --> action
+        - ideas to develop --> posts and writing
+        - 
+        - what are your i/o?
+        - ―=======
+        - 
+        - essential components
+        - 
+        - free flow of info
+        - 
+        - series of apps that connect together --> share and link info easily
+        - 
+        - key comoponents
+        - 1- note taking
+        - 2 - quick capture ( your ideas)
+        - 3 - visual thinking ( ex mindmap, graph view)
+        - 4 - read it later (tasks)
+        - 5 - project management ( group takss together in a project)
+        - 6 -archive ( tofind stuff
+        - 7 - output ( essential )
+        - 
+        - ―==
+        - 
+        - 1.03 -- free from filing cabinet
+            - digital filing
+            - folder hierarchy + tag
+            - --> have thought 1st and then find
+            - --> better tto surface the right idea and notes when needed
+            - --> the slipbox for idea -- Nikolas
+            - --> the value is in the collection and curation of all ideas --> connected notes
+            - bidirectional backlink --> retroactive backlink
+            - -- no need to manual connection
+            - -- bidireciotnal in nature
+            - -- find notes 1st and then think abuot it―========
+            - 
+        - 1.04 Signal x Noise
+            - connect the quality dots over quantity
+            - --> think of a radio dial, specific stations and noise
+            - 2 places he captures notes:
+            - a- physcial notebook
+            - b) drafts on phone/electronic
+            - --> forces him to review and cut things before putting in the obsidian vault
+            - consider all your notes:
+            - what is static ?
+            - what is signal?
+        - 1.05 levels of knowledge-kl
+            - not all kl is equal
+            - --> facts, info and skills ( experience or reading) --> knowledge is siynthesize what matters us most
+            - levels:
+            - 1 - having somehting
+            - 2 - understanding something ( recall internalized
+            - 3 - doing somtheing ( it influences your actions --> the real output)
+            - FOMO --> fear of missing out
+            - bidirecitonal links
+            - opinion  notes
+            - judgeand articulate what you agree and disagree and why
+        - 1.06 note making x taking
+            - PKM must reflect what you aggreagate and your current level
+            - current think on a topic + opinions
+            - nck milo --> map of content --> like a cartographer --> The great mental models vol 1
+            - note making
+            - never dona
+            - dynamic
+            - living things
+            - always being developed
+            - relationships are impor    tant
+            - consider connections with other notes
+        - 1.07 atomic notes
+            - --> obsidian keeps everything in plain files
+            - --> think of notes as lego pieces
+            - --> connect em with the local graph
+        - 1.08 your notes are valuable
+            - notes that are written by oyou can sshow and evolution of your thoughts
+            - real value is in adding your POV over the collected notes of other ppls works
+            - put your own spin on collected ideas--> spark joy
+        - 1.09 you are creative
+            - --> create your own original opniated notes
+            - --> steal like an artist --> artist connected preexisting ideas --> you just need to collect better dots
+            - --> consuming without creating is unnatural
+            - --> your notes = your personal journey --> add your layers
+            - --> if unhappy with output , change your input
+        - 1.10 PKM quick tips
+            - --> identify your inputs --> your inbox
+            - --> consider your sources --> what is filling your inboxes?limit your sources according to qualitties
+            - --> curate your collection
+            - --> supplement your workflow--> no need to get all in one single app ( notioj + remnote + obsidian)
+            - --> keep things flowing
+            - --> practice Kaizen―small improvements
+            - 

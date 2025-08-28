@@ -1,0 +1,798 @@
+Dir-RFB25-Aud
+
+02.1 noções de audit independente
+
+NOÇÕES INTRODUTÓRIAS SOBRE A AUDITORIA
+Para começarmos o estudo da matéria auditoria, é importante qualificarmos o que seja auditoria.
+
+Existem inúmeras definições para auditoria, mas, nessa obra, utilizaremos a seguinte: “Auditoria é um exame cuidadoso e sistemático das atividades desenvolvidas em determinada empresa / entidade pública, cujo objetivo é averiguar se elas estão de acordo com as atividades planejadas e/ou estabelecidas previamente e/ou padrões legais ou normativos, se foram implementadas com eficácia e adequadas à consecução dos objetivos”. Veja que, segundo tal definição, é forçoso concluir que auditoria consiste na verificação do cumprimento de padrões (critérios) preestabelecidos.
+
+As auditorias podem ser divisadas em dois grandes grupos, quais sejam: auditoria contábil e auditoria procedimental (operacional) ou de conformidade.
+
+A auditoria contábil, com o próprio nome já denota, tem por objeto a mensuração da situação econômica, financeira e patrimonial de uma entidade pública ou privada, por meio de suas demonstrações financeiras. As auditorias procedimentais ou de conformidade, por outro lado, tem por objetivo verificar se a entidade está atingindo alguns parâmetros estabelecidos afetos à eficiência, eficácia, probidade da administração etc.
+
+No quadro infra, sintetizamos a classificação exposta nos dois parágrafos anteriores:
+
+[[[]]]
+
+---> fazer questões
+---> fazer questões
+---> fazer questões
+---> fazer questões
+
+Auditoria interna x Auditoria externa
+Os estudiosos da auditoria, bem como as normas técnicas e profissionais exaradas em nosso país, classificam as auditorias em duas modalidades, quais sejam: auditoria interna e auditoria externa (também denominada de “auditoria independente”).
+
+No quadro infra, sintetizamos as principais diferenças entre ambas as modalidades de auditoria:
+
+[[quadro de comparações]]
+
+---> fazer questões
+---> fazer questões
+---> fazer questões
+---> fazer questões
+
+Auditoria privada x Auditoria governamental
+As auditorias ainda podem ser classificas em “auditorias privadas” e “auditorias governamentais”. O critério diferenciador entre ambas as modalidades de auditoria reside em quem realiza a auditoria. Caso a auditoria seja realizada por servidores públicos, ela será qualificada como auditoria governamental; do contrário, será enquadrada como auditoria privada.
+
+Os auditores privados necessariamente dever ser formados em ciências contábeis (há uma certa polêmica se os auditores privados internos necessitam de tal formação; contudo, como as demonstrações financeiras podem ser objeto da auditoria interna, atualmente se entende adequado que os auditores internos possuam formação contábil).
+
+No quadro infra, relembramos as características que diferenciam a auditoria privada das auditorias governamentais que, frise-se, podem tanto ser qualificadas como internas quanto externas:
+
+[[[]]]
+
+Conforme já mencionado, as auditorias governamentais podem ser exercidas tanto em âmbito interno (ou seja, no âmbito do próprio órgão público) quanto em âmbito externo (seja pelos Tribunais de Contas, seja pelos servidores públicos que ostentam a competência para realizar a auditoria tributária). Vamos ver os detalhes de tal classificação na figura abaixo:
+
+[[[]]]
+
+
+Por fim, as auditorias são divididas em 4 etapas bem características, quais sejam:
+
+1. Planejamento
+
+2. Execução (procedimentos de auditoria destinados à obtenção de evidências de auditoria)
+
+3 .Relatório
+
+4. Monitoramento
+
+Na fase do planejamento, o auditor elabora as diretrizes gerais do trabalho (estratégia global) e estabelece os procedimentos de auditoria que serem realizados (plano de auditoria).
+
+Na fase de execução, o auditor realiza os procedimentos de auditoria planejados e, em decorrência deles, obtém evidências de auditoria. Interessante notar que as informações obtidas pelo auditor quando da execução dos procedimentos de auditoria planejados podem indicar necessários ajuste no planejamento (tais ajustes devem ser efetuados). Assim, veja: apesar de a fase de planejamento preceder lógica e cronologicamente a etapa de execução, a execução dos procedimentos de auditoria pode ensejar alterações no planejamento.
+
+Na fase do relatório, o auditor expõe as suas conclusões acerca da mensuração do objeto da auditoria.
+
+Por fim, na fase do monitoramento (que não costuma existir nas auditorias externas), o auditor verifica se as melhorias por ele sugeridas foram implementadas e quais foram os resultados obtidos.
+
+Por fim, é importante destacar que a auditoria envolve 4 grandes fatores a serem considerados:
+
+1. Requisitos: são a base técnica normativa que rege a auditoria (leis, normas, padrões de auditoria, procedimentos e técnicas etc.);
+
+2. Fontes de informação: são os dados que serão coletadas pelo auditor para conhecer o objeto da auditoria, aprender os critérios aplicáveis ao trabalho e as situações envolvidas;
+
+3. Recursos de transformação: são os elementos utilizados pelo auditor para transformar os dados coletados em informações;
+
+4. Resultados: são expressos pelo auditor em seu relatório, podendo consistir em achados de auditoria (desconformidade entre a mensuração do objeto realizada e a que deveria ter sido feita, de acordo com os critérios aplicáveis), conclusões de auditoria e propostas de ações corretivas.
+
+A figura infra consolida os 4 grandes fatores acima expostos:
+
+[[[]]]
+
+-------------------------
+
+2.2 NBC TA ESTRUTURA CONCEITUAL
+
+
+Antes de adentrarmos o estudo da NBC TA – Estrutura Conceitual, é relevante relembrarmos que existem 3 normas básicas de estrutura conceitual acerca da contabilidade privada ou pública, bem como da auditoria privada (este último tema é o objeto da NBC TA – Estrutura Conceitual).
+
+No quadro infra, demonstramos tais normas de estrutura conceitual e seu âmbito de aplicação:
+
+[[[]]]
+
+A NBC TA - Estrutura Conceitual foi emitida com o intuito de facilitar o entendimento dos elementos e objetivos dos trabalhos de asseguração e dos trabalhos aos quais as NBC TA, NBC TR e NBC TO se aplicam. É importante você já saber que a NBC TA - Estrutura Conceitual não é uma norma e, por isso, ela não estabelece nenhum requisito (nem princípios básicos ou procedimentos essenciais) para a realização de auditorias, revisões ou outros trabalhos de asseguração.
+
+ Trabalho de asseguração é o trabalho no qual o auditor independente visa obter evidências apropriadas e suficientes para expressar sua conclusão, de forma a aumentar o grau de confiança dos usuários previstos sobre o resultado da mensuração ou avaliação do objeto, de acordo com os critérios que sejam aplicáveis
+
+Um relatório de asseguração não pode, portanto, afirmar que o trabalho foi conduzido de acordo com NBC TA - Estrutura Conceitual, devendo se referir às normas de asseguração aplicáveis. As normas de asseguração possuem objetivos, requerimentos, aplicações e outros materiais explicativos, introduções e definições que são consistentes com a NBC TA - Estrutura Conceitual e devem ser aplicados em auditorias, revisões e outros trabalhos de asseguração.
+
+A Estrutura estabelecida pela NBC TA – Estrutura Conceitual acaba fornecendo um quadro de referência para os auditores independentes, outras pessoas envolvidas com trabalhos de asseguração, incluindo os usuários previstos de relatório de asseguração e aqueles que contratam o auditor independente (parte contratante) e, inclusive, para o Conselho federal de Contabilidade - CFC emitir normas de asseguração e outras normas técnicas.
+
+Antes de descermos aos detalhes do conteúdo da NBC TA – Estrutura Conceitual, é relevante você ter uma visão geral de seu conteúdo (estudaremos a NBC TA – Estrutura Conceitual com base nos tópicos a seguir delineados):
+
+  Princípios éticos e normas de controle de qualidade: menção dos princípios éticos que regem a atividade dos auditores, com a previsão de normas afetas ao controle de qualidade do trabalho desenvolvido no âmbito de auditorias;
+
+ Descrição dos trabalhos de asseguração: descreve os trabalhos de asseguração e distingue o trabalho direto em relação ao trabalho de atestação, assim como o trabalho de asseguração razoável e o trabalho de asseguração limitada.
+
+  Abrangência da estrutura conceitual: distingue trabalhos de asseguração de outros trabalhos, como, por exemplo, trabalhos de consultoria.
+
+ Precondições para trabalho de asseguração: estabelece precondições para que o auditor independente aceite trabalho de asseguração.
+
+  Elementos de trabalho de asseguração: identifica e discute os cinco elementos presentes em trabalhos de asseguração: o relacionamento entre três partes, o objeto, os critérios, as evidências e o relatório de asseguração. Ela explica, adicionalmente, as distinções importantes entre trabalhos de asseguração razoável e trabalhos de asseguração limitada. Esta seção também discute, por exemplo, a variação significativa no objeto dos trabalhos de asseguração, as características requeridas dos critérios adequados, a função do risco e da relevância nos trabalhos de asseguração e como as conclusões são expressas em trabalhos de asseguração razoável e trabalhos de asseguração limitada.
+
+ Outros assuntos: discute as responsabilidades de outras comunicações do auditor independente que não estejam relacionadas com o seu relatório de asseguração, a documentação e as implicações da associação do auditor com o objeto ou com a informação do objeto.
+
+Princípios éticos e normas de controle de qualidade
+O controle de qualidade em firmas que executam trabalhos de asseguração e a conformidade com os princípios éticos, incluindo requerimentos de independência, é amplamente reconhecido como sendo de interesse público e parte integrante dos trabalhos de asseguração de alta qualidade. Tais trabalhos são realizados de acordo com as normas de asseguração, que possuem como premissa a base de que:
+
+(a) os membros da equipe e o revisor de controle de qualidade (para aqueles trabalhos em que tal revisão foi estabelecida) estão sujeitos às normas NBC PG 100 – Aplicação Geral aos Profissionais da Contabilidade e 200 – Contadores que Prestam Serviços (Contadores Externos) e NBC PA 290 – Independência – Trabalhos de Auditoria e Revisão e 291 – Independência – Outros Trabalhos de Asseguração, relacionadas aos trabalhos de asseguração, ou requerimentos de lei ou regulamento, que sejam, pelo menos, tão exigentes quanto às referidas NBC; e
+
+(b) o auditor independente é membro da firma que está sujeita à NBC PA 01 ou outros requerimentos de lei ou regulamento sobre a responsabilidade da firma pelo seu sistema de controle de qualidade, que seja, pelo menos, tão exigente quanto à referida NBC PA 01.
+
+A NBC PG 100 estabelece os seguintes princípios éticos que o auditor independente é requerido a cumprir:
+
+(a) integridade;
+
+(b) objetividade;
+
+(c) competência e zelo profissionais;
+
+(d) sigilo profissional; e
+
+(e) comportamento profissional.
+
+A NBC PG 100 estabelece as seguintes nuances em relação a cada um dos princípios éticos acima arrolados:
+
+- Integridade: o profissional da contabilidade deve cumprir com o princípio da integridade que requer que ele seja direto e honesto em todos os relacionamentos profissionais e comerciais. Deve-se evitar qualquer associação com relatórios, documentos, comunicações ou informações que o contabilista (lembre-se que o auditor deve ser um contabilista com registro no CRC) acredita que sejam falsos, enganosos, levianos ou incompletos dolosamente;
+
+- Objetividade: o profissional da contabilidade deve cumprir com o princípio da objetividade que requer que ele não comprometa seu julgamento profissional ou comercial devido a comportamento tendencioso, a conflito de interesses ou a influência indevida de outros. Ademais, não deve realizar uma atividade profissional se uma circunstância ou relação influenciar, de forma indevida, o seu julgamento com relação a essa atividade;
+
+- Competência e zelo profissional: O profissional da contabilidade deve cumprir com o princípio da competência profissional e devido zelo que requer que ele a) obtenha e mantenha conhecimento profissional e habilidade no nível necessário para assegurar que o cliente ou a organização empregadora receba serviço profissional competente, com base em padrões técnicos e profissionais atuais e legislação relevante e b) aja de forma diligente e de acordo com os padrões técnicos e profissionais aplicáveis. Importante destacar que, ao cumprir com o princípio da competência profissional e devido zelo, o profissional da contabilidade deve tomar as providências razoáveis para assegurar que os que estão trabalhando na qualidade de profissional sob sua autoridade tenham o treinamento e a supervisão adequados;
+
+- Sigilo profissional: o profissional da contabilidade deve cumprir com o princípio de confidencialidade, o que requer que ele respeite a confidencialidade das informações obtidas em decorrência de relações profissionais e comerciais. Relevante apontar que a confidencialidade serve o interesse público porque facilita o fluxo livre de informações do cliente ou organização empregadora do profissional da contabilidade para o profissional da contabilidade, com a certeza de que essas informações não serão divulgadas para terceiro. As informações detidas pelos contabilistas (e, por decorrência, pelos contabilistas que exercem a função de auditores), somente podem ser divulgadas a terceiros quando houver determinação legal nesse sentido ou quando expressamente autorizado pela empresa que detém as informações.
+
+- Comportamento profissional: o profissional da contabilidade deve cumprir com o princípio de comportamento profissional que requer que ele cumpra com as leis e os regulamentos pertinentes e evite qualquer conduta da qual ele tem conhecimento ou deveria ter conhecimento que pode desacreditar a profissão. O profissional da contabilidade não deve, de forma consciente, envolver-se em qualquer negócio, ocupação ou atividade que prejudique ou possa prejudicar a integridade, a objetividade ou a boa reputação da profissão e que, como resultado, seria incompatível com os princípios fundamentais
+
+Relevante destacar, ainda, que a NBC PG 100 também fornece uma estrutura conceitual para ser aplicada pelos profissionais da contabilidade para identificar ameaças ao cumprimento dos princípios éticos, avaliar a significância das ameaças identificadas e, quando necessário, aplicar salvaguardas para eliminar as ameaças ou reduzi-las a um nível aceitável.
+
+A NBC PG 200, por sua vez, descreve como os conceitos da NBC PG 100 se aplicam em certas situações para profissionais da contabilidade que atuem como auditor independente, incluindo a independência. Essas normas profissionais definem a independência como abrangendo tanto a independência de pensamento quanto a independência na aparência. A independência garante a habilidade de formar uma conclusão de asseguração sem ser afetado por influências que possam comprometer essa conclusão. A independência aprimora a habilidade de agir com integridade, ser objetivo e de manter atitude de ceticismo profissional.
+
+Por fim, a NBC PA 01 – Controle de Qualidade para Firmas (Pessoas Jurídicas e Físicas) de Auditores Independentes trata das responsabilidades da firma em estabelecer e manter seu sistema de controle de qualidade para trabalhos de asseguração. O cumprimento da NBC PA 01 requer, entre outras coisas, que a firma estabeleça e mantenha um sistema de controle de qualidade. Esse sistema deve incluir políticas e procedimentos que abordem cada um dos elementos a seguir mencionados e que documentem suas políticas e procedimentos e que os comuniquem ao pessoal da firma, a saber:
+
+(a) responsabilidades da liderança pela qualidade dentro da firma;
+
+(b) exigências éticas relevantes;
+
+(c) aceitação e continuidade de relacionamento com clientes e para trabalhos específicos;
+
+(d) recursos humanos;
+
+(e) execução do trabalho; e
+
+(f) monitoramento.
+
+Descrição dos trabalhos de asseguração
+Inicialmente, é importante relembrar que trabalho de asseguração é o trabalho no qual o auditor independente visa obter evidências apropriadas e suficientes para expressar sua conclusão, de forma a aumentar o grau de confiança dos usuários previstos sobre o resultado da mensuração ou avaliação do objeto, de acordo com os critérios que sejam aplicáveis.
+
+ O resultado da mensuração ou avaliação do objeto é a informação que resulta da aplicação do critério ao objeto. Vamos a alguns exemplos, para você compreender bem a relação entre resultado, objeto e critério afetos aos trabalhos de asseguração:
+
+Demonstrações contábeis (resultado) resultam da mensuração da posição patrimonial e financeira da entidade, do desempenho e dos fluxos de caixa (objeto) ao aplicar a estrutura de relatórios financeiros aplicáveis (critério).
+
+Conclusão sobre a eficácia do controle interno (resultado) decorre da avaliação da eficácia do processo de controle interno da entidade (objeto) ao aplicar os critérios aplicáveis.
+
+ Mensurações de desempenho específicas à entidade (resultado) decorrem da mensuração de vários aspectos de desempenho (objeto) ao aplicar as metodologias de mensuração aplicáveis (critério).
+
+Declaração de gases de efeito estufa (resultado) decorre da mensuração das emissões de gases de efeito estufa da entidade (objeto) ao aplicar o reconhecimento, mensuração e apresentação de protocolos (critério).
+
+ Declaração sobre o cumprimento (resultado) decorre da avaliação do cumprimento da entidade (objeto) com, por exemplo, lei ou regulamento (critério).
+
+Os trabalhos de asseguração são comumente realizados sobre as demonstrações contábeis (resultado da mensuração da posição financeira e patrimonial da entidade, do desempenho e de seus fluxos de caixa), mas não se limitam a elas, como podemos ver nos exemplos acima.
+
+Relevante apontar que a expressão “informação do objeto” é usada para significar o resultado da mensuração ou avaliação do objeto de acordo com os critérios. É sobre a informação do objeto que o auditor independente obtém evidências apropriadas e suficientes para a base de sua conclusão.
+
+Os trabalhos de asseguração contábil, notadamente a auditoria independente sobre demonstrações contábeis, não se confunde com as perícias contábeis. De fato, nos trabalhos de asseguração o auditor busca evidências de auditoria para expressar sua opinião acerca das demonstrações financeiras, aumentando a segurança de seus usuários acerca das informações nela constantes; a perícia contábil, por sua vez, consiste na aplicação de um conjunto de procedimentos técnicos que tem por objetivos a emissão de laudos sobre questões controversas, esclarecer a verdade, sem subjetividade, buscando elementos de prova e subsidiando informações que servirão como base para alguma decisão.
+
+Ademais, na auditoria contábil há o denominado risco de auditoria, ou seja, o auditor não precisa obter certeza absoluta acerca das informações objeto da auditoria para expressar sua opinião. Na perícia contábil, por outro lado, não há qualquer espaço para equívocos.
+
+Outras diferenças entre a auditoria contábil e a perícia contábil residem na parte contratante do trabalho (na auditoria, a própria empresa contrata o auditor; na perícia contábil, há designação por autoridade judiciária) e no documento em que são expressas as conclusões (na auditoria, as opiniões são expressas no relatório de auditoria; na perícia contábil, há expedição de laudo ou parecer pericial).
+
+No quando infra, resumimos o acima exposto em relação às diferenças entre a auditoria contábil e a perícia contábil:
+
+[[[tabela]]]
+
+---> fazer questões
+---> fazer questões
+---> fazer questões
+---> fazer questões
+
+Vamos, agora, abordar as duas modalidades previstas de trabalhos de asseguração, quais sejam: trabalho de atestação e trabalho direto.
+
+Trabalho de atestação x Trabalho direto
+No trabalho de atestação, o profissional, que não seja o auditor independente, deve mensurar ou avaliar o objeto de acordo com os critérios aplicáveis. O referido profissional também deve apresentar, frequentemente, a informação resultante do objeto no relatório ou afirmação. A conclusão do auditor, em tal modalidade de trabalho, deve mencionar se a informação do objeto está livre de distorções relevantes.
+
+Ainda em relação aos trabalhos de atestação, é importante destacar que o mensurador ou o avaliador geralmente fornece ao auditor independente uma representação escrita sobre a informação do objeto. Em alguns casos, o auditor pode não ser capaz de obter tal representação, por exemplo, quando a contratante não é o mensurador ou o avaliador
+
+A informação do objeto pode falhar em ser adequadamente expressa no contexto de determinado objeto e dos critérios, e pode, portanto, ser distorcida, potencialmente, a uma extensão relevante. A função do auditor independente no trabalho de atestação é obter evidências apropriadas e suficientes de forma a expressar uma conclusão sobre se a informação do objeto, como preparada pelo mensurador ou avaliador, está livre de distorções relevantes.
+
+No trabalho direto, por outro lado, o auditor é quem mensura ou avalia o objeto de acordo com os critérios aplicáveis. Em tal modalidade de trabalho, é comum que a conclusão do auditor independente seja a própria informação do objeto decorrente de sua mensuração ou avaliação realizada pelo auditor ou seja parte da informação do objeto. No trabalho direto, a conclusão do auditor independente deve mencionar se o resultado reportado da mensuração ou avaliação do objeto, de acordo com os critérios, é redigido nos termos do objeto e dos critérios.
+
+É possível que o auditor, em trabalho direto, ainda tenha o dever de aplicar as habilidades e técnicas de asseguração para obter evidências apropriadas e suficientes sobre o resultado da mensuração ou avaliação do objeto por ele realizada, de acordo com os critérios aplicáveis. Em tais casos, o auditor independente pode obter essa evidência simultaneamente com a mensuração ou avaliação do objeto (que foi por ele próprio realizada), mas também pode obtê-la antes ou após tal mensuração ou avaliação.
+
+O resultado da mensuração ou avaliação no trabalho direto pode ser semelhante ao relatório ou declaração preparada pelo mensurador ou avaliador em trabalho de atestação. Em outras circunstâncias, contudo, o resultado, ou seja, a informação do objeto, pode ser refletido na descrição das constatações e base para a conclusão do auditor em relatório de asseguração de formato longo. Ademais, o auditor independente pode usar dados coletados ou compilados por outros (por exemplo, os dados podem vir do sistema de informação mantido pela parte responsável).
+
+O valor do trabalho direto se dá na combinação:
+
+(a) da independência do auditor em relação ao objeto, ao contratante, aos usuários previstos e à parte responsável, não obstante ele não seja independente da informação do objeto, porque o próprio auditor a preparou; e
+
+(b) das habilidades e técnicas aplicadas ao mensurar ou avaliar o objeto, que resultam na acumulação de evidências que são de quantidade e qualidade semelhantes para um trabalho de atestação. É essa obtenção de evidências apropriadas e suficientes que distingue um trabalho direto de uma mera compilação. Para ilustrar este ponto, se o auditor independente estivesse compilando informação sobre uma declaração de emissão de gases de efeito estufa da entidade, o auditor não iria, por exemplo, testar a calibração dos dispositivos de monitoramento. No trabalho direto, contudo, o auditor independente iria, onde relevante, calibrar os dispositivos como parte do processo de mensuração ou testar a calibração dos dispositivos de monitoramento realizada por outros da mesma forma que iria proceder se o trabalho fosse um trabalho de atestação.
+
+O quadro infra sintetiza as principais diferenças entre os trabalhos de atestação e relatório direto:
+
+[[[tabela]]]
+
+Trabalho de asseguração razoável x Trabalho de asseguração limitada
+Os trabalhos de asseguração, por sua vez são divisados em duas modalidades, em função do grau de profundidade dos trabalhos realizados pelo auditor e o consequente grau diverso do risco de auditoria. Em tal classificação, os trabalhos de asseguração são classificados em: trabalho de asseguração razoável e trabalho de asseguração limitada.
+
+Lembre-se que o risco de auditoria corresponde ao risco de o auditor não conseguir identificar distorção relevante existente no resultado da mensuração do objeto da auditoria e, em decorrência disso, acabar expressando uma opinião inadequada.
+
+No trabalho de asseguração razoável, o auditor independente reduz o risco do trabalho para um nível aceitavelmente baixo nas circunstâncias do trabalho como base para a sua conclusão. A conclusão do auditor independente é expressa de forma que transmita a sua opinião sobre o resultado da mensuração ou avaliação de determinado objeto de acordo com os critérios aplicáveis.
+
+No trabalho de asseguração limitada, por outro lado, o auditor independente reduz o risco do trabalho para um nível que é aceitável nas circunstâncias do trabalho, mas que ainda é maior do que para um trabalho de asseguração razoável. Dessa forma, sua conclusão deve transmitir se, com base nos procedimentos realizados e evidências obtidas, algum assunto chegou ao seu conhecimento de forma a levá-lo a acreditar que a informação do objeto está relevantemente distorcida.
+
+A natureza, a época e a extensão dos procedimentos executados no trabalho de asseguração limitada são restritos (menos extensos), quando comparados com os que são necessários no trabalho de asseguração razoável, mas são planejados para obter um nível de segurança que seja, no julgamento profissional do auditor independente, significativo. Para que seja significativo, o nível de segurança obtido pelo auditor deve ser capaz de aumentar a confiança dos usuários previstos sobre a informação do objeto em nível que seja mais do que irrelevante.
+
+Em toda a gama de trabalhos de asseguração limitada, o sentido de segurança significativa pode variar de um nível que é logo acima de asseguração que seja capaz de aumentar a confiança dos usuários previstos sobre a informação do objeto, em nível que seja claramente maior do que irrelevante, até um nível que é logo abaixo da segurança razoável. O que é significativo em trabalho específico é o julgamento dentro desse intervalo que depende das circunstâncias do trabalho, incluindo as necessidades de informação pelos usuários previstos como grupo, critérios utilizados e o objeto do trabalho. Em alguns casos, as consequências para os usuários previstos ao receberem um tipo de asseguração inapropriada podem ser tão graves que o trabalho de asseguração razoável seja necessário para que o auditor independente obtenha a segurança que é significativa nas circunstâncias.
+
+No quadro infra, são sintetizadas as principais diferenças entre os trabalhos de asseguração:
+
+[[[tabela]]]
+
+Ademais, a figura infra sintetiza o anteriormente exposto, no que toca aos trabalhos realizados pelo auditor independente e as modalidades dos trabalhos de asseguração: 
+
+[[[]]]
+
+brangência da estrutura conceitual
+Nem todos os trabalhos realizados por auditores independentes são trabalhos de asseguração. Outros trabalhos frequentemente realizados que não são de asseguração não são abrangidos pela NBC TA – Estrutura Conceitual. Esses outros trabalhos incluem:
+
+ Trabalhos abrangidos pelas Normas de Serviços Correlatos (NBC TSC, tais como procedimentos previamente acordados e trabalhos de compilação);
+
+  Elaboração de declarações de imposto de renda em que nenhuma conclusão de asseguração é expressa;
+
+   Trabalhos de consultoria (ou assessoria), tais como gerenciamento e consultorias tributárias.
+
+Nos trabalhos de consultoria, o profissional aplica suas habilidades, seu conhecimento obtido em treinamentos, observações, experiências e conhecimentos técnicos sobre o processo de consultoria. Trabalhos de consultoria envolvem um processo analítico que tipicamente inclui alguma combinação das atividades relacionadas com a definição de objetivos, a descoberta de fatos, as definições dos problemas ou das oportunidades, a avaliação de alternativas, o desenvolvimento ou as recomendações, incluindo ações, comunicação de resultados e, em alguns casos, a implementação do que foi recomendado e o seu acompanhamento. Os relatórios (caso emitidos) geralmente são escritos em estilo narrativo (ou “formato longo”). Geralmente o trabalho realizado é apenas para uso e benefício do cliente. A natureza e o alcance do trabalho são determinados mediante acordo entre o profissional e o cliente. Qualquer serviço que atenda às definições de trabalho de asseguração não é trabalho de consultoria, mas, sim, trabalho de asseguração.
+
+O trabalho de asseguração pode ser parte de um trabalho maior, por exemplo, quando o trabalho de consultoria para a aquisição de negócios inclui requerimento para obter asseguração acerca da informação financeira histórica ou prospectiva. Em tais circunstâncias, a NBC TA – Estrutura Conceitual é aplicável apenas na parte do trabalho relacionada à asseguração.
+
+Os trabalhos mencionados abaixo também não são considerados trabalhos de asseguração, no que toca à aplicação da NBC TA – Estrutura Conceitual:
+
+(a) trabalhos para prestar declarações em processos judiciais sobre contabilidade, auditoria, tributação ou outros assuntos; e
+
+(b) trabalhos que incluem opiniões, pontos de vista ou declarações profissionais dos quais o usuário pode extrair alguma segurança, se todos os seguintes itens forem aplicáveis:
+
+(i) essas opiniões, pontos de vistas ou declarações são meramente fortuitos para o trabalho como um todo;
+
+(ii) qualquer relatório por escrito deve ser emitido com uso expressamente restrito aos usuários previstos especificados no relatório;
+
+(iii) mediante acordo formal com os usuários previstos especificados, não se pretendendo que seja trabalho de asseguração; e
+
+(iv) o trabalho não seja relatado como trabalho de asseguração no relatório do auditor independente.
+
+ O auditor independente ao reportar sobre trabalho, que não é de asseguração no âmbito da NBC TA – Estrutura Conceitual, deve claramente distinguir esse relatório de relatório de asseguração. Para não confundir os usuários, o relatório que não é de asseguração evita, por exemplo:
+
+  mencionar adequação com esta estrutura ou norma de asseguração;
+
+ usar inapropriadamente as palavras “asseguração,” “auditoria” ou “revisão”;
+
+ incluir declaração que possa ser confundida com conclusão com base em evidências apropriadas e suficientes que tenham sido desenvolvidas para aumentar o nível de confiança dos usuários previstos sobre o resultado da mensuração ou avaliação do objeto de acordo com os critérios aplicáveis.
+
+O auditor independente e a parte responsável pelo objeto (ex.: a administração da empresa, no que toca às demonstrações contábeis) podem concordar sobre a aplicação dos princípios da NBC TA – Estrutura Conceitual para o trabalho que não seja de asseguração quando não existirem outros usuários previstos além da parte responsável e desde que todos os outros requisitos aplicáveis das normas de asseguração sejam atendidos. Em tais casos, o relatório do auditor independente deve incluir declaração restringindo o uso do relatório à parte responsável.
+
+Precondições para trabalho de asseguração
+A NBC TA – Estrutura Conceitual arrola as seguintes precondições para aceitação e continuidade de trabalhos de asseguração:
+
+(a) as funções e as responsabilidades das partes apropriadas (ou seja, parte responsável, mensurador ou avaliador e contratante, conforme apropriado) são adequadas às circunstâncias; e
+
+(b) o trabalho apresenta todas as seguintes características:
+
+(i) o objeto é apropriado;
+
+(ii) os critérios que o auditor independente espera que sejam aplicados na elaboração da informação do objeto são apropriados às circunstâncias do trabalho.
+
+Os critérios a serem aplicados na elaboração da informação do objeto podem ser divisados em:
+
+- Definidos em lei ou ato normativo (são critérios adequados por conta de definição legal ou normativa cogente, ou seja, obrigatória);
+
+- Escolhidos pelas partes envolvidas na auditoria, inclusive pelo auditor.
+
+Quando o critério é escolhido pelas partes envolvidas na auditoria, tal critério somente será adequado se detiver as seguintes características:
+
+(a) Relevância: Critérios relevantes resultam na informação do objeto que auxilia a tomada de decisões dos usuários previstos.
+
+(b) Integralidade: Critérios são plenos quando a informação do objeto preparada de acordo com eles não omite fatores relevantes que poderiam se esperar, razoavelmente, que afetem decisões dos usuários previstos feitas com base nessa informação. Critérios plenos incluem, quando relevantes, referências para apresentação e divulgação.
+
+(c) Confiabilidade: Critérios confiáveis permitem a mensuração ou avaliação consistente de determinado objeto, incluindo, se relevante, apresentação e divulgação, quando usadas em circunstâncias similares por auditores independentes diferentes.
+
+(d) Neutralidade: Critérios neutros resultam em informação do objeto que está livre de tendências como apropriado nas circunstâncias do trabalho.
+
+(e) Compreensibilidade: Critérios compreensíveis resultam em informação do objeto que pode ser compreendida pelos usuários previstos.
+
+(iii) os critérios que o auditor independente espera que sejam aplicados na elaboração da informação do objeto estarão disponíveis aos usuários previstos;
+
+(iv) o auditor independente espera ser capaz de obter a evidência necessária para fundamentar a sua conclusão;
+
+(v) a conclusão do auditor independente, na forma apropriada tanto para o trabalho de asseguração razoável quanto para o trabalho de asseguração limitada, será incluída no relatório; e
+
+(vi) um propósito racional incluindo, no caso de trabalho de asseguração limitada, que o auditor independente espera ser capaz de obter nível apropriado de segurança.
+
+Os objetos de diferentes tipos de trabalhos de asseguração podem variar muito. Alguns objetos podem requerer conhecimentos e habilidades especializados, além daqueles que o auditor independente normalmente possui. É importante, contudo, que o auditor esteja convencido que a equipe que irá realizar o trabalho possua capacidade e competências apropriadas.
+
+O trabalho não deve ser aceito se o conhecimento preliminar sobre as circunstâncias do trabalho indicar que os requisitos éticos referentes à competência não serão cumpridos. Em alguns casos, esses requisitos podem ser cumpridos pelo auditor independente ao utilizar o trabalho de especialista.
+
+Quando um trabalho em potencial não pode ser aceito como trabalho de asseguração, a parte contratante pode ser capaz de identificar um trabalho diferente que irá atender às necessidades dos usuários previstos. Por exemplo:
+
+(a) se os critérios que o auditor independente espera aplicar não são adequados, mas o trabalho de asseguração atende às demais precondições estabelecidas, tal trabalho ainda pode ser realizado se:
+
+(i) o auditor independente puder identificar um ou mais aspectos do objeto para o qual esses critérios são adequados. Nesses casos, o auditor pode realizar o trabalho de asseguração em relação a esse aspecto específico do objeto, e o relatório de asseguração deve esclarecer que o relatório não diz respeito ao objeto original em sua totalidade; ou
+
+(ii) critérios alternativos que são apropriados para o objeto podem ser selecionados ou desenvolvidos;
+
+(b) a parte contratante pode requisitar um trabalho que não é de asseguração, tal como trabalho de consultoria ou procedimentos previamente acordados.
+
+Tendo sido aceito, não é apropriado alterar o trabalho de asseguração para um que não seja de asseguração, ou o trabalho de asseguração razoável para um de asseguração limitada, sem a justificativa razoável. Uma alteração nas circunstâncias que afetam os requerimentos dos usuários previstos, ou um mal-entendido sobre a natureza do trabalho, pode justificar a solicitação de alteração no trabalho.
+
+Se a alteração mencionada no parágrafo supra for feita, as evidências que foram obtidas previamente não devem ser descartadas. A impossibilidade de obter evidências apropriadas e suficientes para formar uma conclusão de asseguração razoável não é razão aceitável para se alterar o trabalho de asseguração razoável para um trabalho de asseguração limitada.
+
+No esquema infra, sintetizamos o quanto exposto em relação às providências a serem adotadas pelo auditor quando ausentes as precondições para a realização de trabalhos de asseguração:
+
+[[[]]]
+
+Elementos do trabalho de asseguração
+A NBC T A- Estrutura Conceitual estabelece os seguintes elementos dos trabalhos de asseguração:
+
+(a) relação de três partes envolvendo o auditor independente, a parte responsável e os usuários previstos;
+
+(b) objeto apropriado;
+
+(c) critérios aplicáveis;
+
+(d) evidências apropriadas e suficientes; e
+
+(e) relatório de asseguração escrito no formato apropriado ao trabalho de asseguração razoável ou de asseguração limitada.
+
+Relacionamento entre três partes
+Todos os trabalhos de asseguração possuem pelo menos três partes: o auditor independente, a parte responsável e os usuários previstos. Dependendo das circunstâncias do trabalho, pode haver também a função separada de mensurador ou avaliador, ou a parte contratante.
+
+Na figura infra, há uma relevante representação gráfica das partes envolvidas nos trabalhos de asseguração:
+
+[[[]]]
+
+A figura acima ilustra como as seguintes funções se relacionam ao trabalho de asseguração:
+
+(a) a parte responsável é responsável pelo objeto;
+
+(b) o mensurador ou o avaliador usa os critérios para mensurar ou avaliar o objeto, resultando na informação do objeto;
+
+(c) a parte contratante contrata os termos do trabalho com o auditor independente;
+
+(d) o auditor independente obtém evidências apropriadas e suficientes de forma a poder expressar uma conclusão desenvolvida para aumentar o grau de confiança dos usuários previstos, que não se referem à parte responsável, sobre a informação do objeto;
+
+(e) os usuários previstos tomam decisões com base na informação do objeto. Os usuários previstos são indivíduos, organizações ou grupo de indivíduos e organizações que o auditor espera que utilizem o relatório de asseguração.
+
+A parte responsável, o mensurador ou o avaliador e os usuários previstos podem ser de entidades diferentes ou da mesma entidade. Como exemplo do último caso, em entidade com estrutura de administração de dois níveis, o conselho de administração pode querer obter asseguração sobre uma informação fornecida pela diretoria executiva dessa entidade. A relação entre a parte responsável, o mensurador ou o avaliador e os usuários previstos precisam ser observados dentro do contexto de cada trabalho específico e podem diferir das linhas tradicionalmente definidas de responsabilidade. Por exemplo, a alta administração da entidade (usuário previsto) pode contratar o auditor independente para executar trabalho de asseguração sobre um aspecto específico das atividades da entidade que é de responsabilidade do nível imediatamente inferior de administração (parte responsável) em relação à alta administração, todavia, em última instância, a alta administração, que é a usuária prevista, é, também, a responsável final pela informação.
+
+No trabalho de atestação, a parte responsável ou outra pessoa, que não seja o auditor independente, pode ser o mensurador ou o avaliador. Ademais, a parte contratante que não seja também uma parte responsável pode ser o usuário previsto.
+
+Destaque-se que, em muitos trabalhos de atestação, a parte responsável pode ser também o mensurador ou avaliador e a parte contratante. Por exemplo, a entidade contrata o auditor independente para executar trabalho de asseguração sobre o relatório que foi preparado para suas próprias práticas sustentáveis. Por outro lado, existem situações em que a parte responsável é diferente do mensurador ou avaliador. Nesse caso, por exemplo, o auditor é contratado para executar trabalho de asseguração sobre o relatório preparado por organização governamental sobre as práticas de sustentabilidade da companhia.
+
+Auditor Independente
+
+O “auditor independente” (pessoa física ou jurídica), por sua vez, é aquele que conduz o trabalho (geralmente o sócio responsável pelo trabalho ou outros membros da equipe, ou, conforme adequado, a firma), aplicando habilidades e técnicas de asseguração para obter segurança razoável ou limitada, conforme adequado, sobre se a informação do objeto está livre de distorções relevantes.
+
+É importante destacar que o auditor independente não pode ser a parte responsável pelo objeto, a contratante do trabalho de auditoria ou um usuário previsto.
+
+No trabalho direto, o auditor tanto mensura quanto avalia o objeto de acordo com os critérios e aplica as habilidades e técnicas de asseguração para obter segurança razoável ou limitada, conforme adequado, sobre se o resultado dessa mensuração ou avaliação está livre de distorções relevantes.
+
+A NBC TA – Estrutura Conceitual pode também ser utilizada por outros profissionais que não sejam auditores independentes, todavia esses profissionais devem reconhecer que essas normas incluem requerimentos que refletem as premissas nas normas profissionais e na NBC PA 01, ou outros requerimentos profissionais, ou requerimentos em lei ou regulamento, que sejam, pelo menos, tão exigentes.
+
+O trabalho não deve ser aceito se o conhecimento preliminar sobre as circunstâncias do trabalho indicar que os requisitos éticos referentes à competência não serão cumpridos. Em alguns casos, esses requisitos podem ser cumpridos pelo auditor independente ao utilizar o trabalho de especialista.
+
+Adicionalmente, o auditor independente precisa se envolver de forma suficiente no trabalho do especialista e de outros auditores para aceitar a responsabilidade pela conclusão da asseguração sobre a informação do objeto e para obter a evidência necessária para concluir se o trabalho desse especialista ou do outro auditor é apropriado para seus propósitos.
+
+O auditor independente é o único responsável pela conclusão de asseguração emitida, e essa responsabilidade não é reduzida pelo uso que ele faça de seu especialista ou de outros auditores. No entanto, se o auditor independente, ao usar o trabalho de especialista, tendo seguido as normas aplicáveis, concluir que o seu trabalho é adequado para os propósitos do auditor, este pode aceitar as constatações ou conclusões do especialista como evidências adequadas.
+
+Parte responsável
+
+Parte responsável é a parte responsável pelo objeto. No trabalho de atestação, a parte responsável geralmente também é o mensurador ou avaliador. A parte responsável pode ser, ou não, a parte que contrata o auditor independente para realizar o trabalho de asseguração (parte contratante).
+
+Usuários previstos
+
+Os usuários previstos são os indivíduos, organizações ou grupos que o auditor independente espera que utilizem o relatório de asseguração. A parte responsável pode ser um dos usuários previstos, mas não o único.
+
+Em alguns casos, pode haver usuários previstos além daqueles para quem o relatório de asseguração é destinado. O auditor independente pode não ser capaz de identificar todos aqueles que lerão o relatório de asseguração, especialmente se grande número de pessoas tiver acesso a ele. Em tais casos, especialmente em que os possíveis usuários são propensos a possuir vasta gama de interesses no objeto, os usuários previstos podem ser limitados aos principais interessados com interesses relevantes e comuns. Os usuários previstos podem ser identificados de diferentes formas, por exemplo, mediante acordo entre o auditor independente e a parte responsável ou a parte contratante, ou por lei ou regulamento.
+
+Usuários previstos ou seus representantes podem estar diretamente envolvidos com o auditor independente e a parte responsável (e a parte contratante, caso seja diferente) em determinar os requisitos do trabalho. Independente do envolvimento de outros, e diferentemente de trabalhos de procedimentos previamente acordados (que envolve relatar fatos identificados com base nos procedimentos acordados com a parte contratante e outra parte apropriada, em vez de uma conclusão):
+
+(a) o auditor independente é responsável pela determinação da natureza, época e extensão dos procedimentos; e
+
+(b) o auditor independente pode precisar realizar procedimentos adicionais se chegarem ao seu conhecimento informações que diferem, significativamente, daquelas que foram utilizadas na determinação dos procedimentos planejados.
+
+Em alguns casos, os usuários previstos (bancos e reguladores, por exemplo) impõem requisito ou pedido às partes apropriadas para que o trabalho de asseguração seja realizado para propósito específico. Quando trabalhos usam critérios que foram desenvolvidos para um propósito específico, o relatório de asseguração inclui declaração alertando aos leitores sobre esse fato. Adicionalmente, o auditor independente pode considerar adequado indicar que o relatório de asseguração é destinado apenas para usuários específicos. Dependendo das circunstâncias do trabalho, isso pode ser alcançado ao restringir a distribuição ou uso do relatório de asseguração.
+
+Enquanto o relatório de asseguração possa ser restrito quando for destinado apenas a usuários ou propósitos específicos, a ausência dessa restrição não indica por si só que a responsabilidade legal é devida pelo auditor independente em relação àquele usuário ou propósito. Se essa responsabilidade legal é devida dependerá da circunstância de cada caso.
+
+Objeto
+O objeto do trabalho de asseguração pode ter várias formas, tais como:
+
+ histórico de desempenho ou condição financeira (por exemplo, histórico de posição financeira, desempenho financeiro e fluxos de caixa) para o qual a informação do objeto pode ser o reconhecimento, a mensuração, a apresentação e a divulgação representada nas demonstrações contábeis;
+
+condição ou desempenho financeiro futuro (por exemplo, posição financeira, desempenho financeiro e fluxos de caixa prospectivos) para o qual a informação do objeto pode ser o reconhecimento, a mensuração, a apresentação e a divulgação representada na projeção ou previsão financeira;
+
+condições ou desempenhos não financeiros (por exemplo, desempenho da entidade) para o qual as informações do objeto podem ser os indicadores principais de eficácia e eficiência;
+
+ características físicas (por exemplo, capacidade máxima de ocupação do prédio) para o qual a informação do objeto pode ser documento de especificações;
+
+sistemas e processos (por exemplo, o controle interno ou o sistema de TI da entidade) para o qual a informação do objeto deve ser declaração sobre sua efetividade;
+
+ comportamento (por exemplo, governança corporativa, conformidade com regulamentações, políticas de recursos humanos) para o qual a informação do objeto pode ser uma declaração de conformidade ou declaração de efetividade.
+
+O Apêndice 4 da NBC TA- Estrutura Conceitual estabelece alguns exemplos de possível objetos de trabalhos de asseguração. Pela relevância de tal temática, é relevante reproduzir o teor de tal apêndice na tabela infra:
+
+[[[tabela]]]
+
+Os objetos possuem diferentes características, incluindo o grau ao qual a informação sobre eles é qualitativa versus quantitativa, objetiva versus subjetiva, histórica versus prospectiva e se relacionam a uma determinada data-base ou abrangem um período. Tais características afetam:
+
+(a) a precisão na qual o objeto pode ser mensurado ou avaliado com base em critérios identificáveis; e
+
+(b) a persuasão da evidência disponível.
+
+O relatório de asseguração pode apresentar características que são de relevância específica aos usuários previstos.
+
+A adequação do objeto independe do nível de asseguração, ou seja, se o objeto não for apropriado para trabalho de asseguração razoável, ele também não é apropriado para trabalho de asseguração limitada e vice-versa. Um objeto apropriado é identificável e capaz de mensuração ou avaliação consistente com base em critérios identificados de forma que a informação do objeto resultante possa ser sujeita a procedimentos para obter evidências apropriadas e suficientes para apoiar uma conclusão de asseguração razoável ou limitada, conforme apropriado.
+
+Critérios
+Critérios são referências usadas para mensurar ou avaliar o objeto. Os critérios podem ser formais, por exemplo, na elaboração das demonstrações contábeis; e os critérios podem ser as normas internacionais de relatórios financeiros ou as normas internacionais de contabilidade do setor público.
+
+Ao emitir relatório sobre a efetividade operacional dos controles internos, por outro lado, os critérios podem ser baseados na estrutura estabelecida de controle interno ou objetivos de controles individuais, especialmente desenvolvidos para o propósito; e ao emitir o relatório sobre a conformidade, os critérios podem ser estabelecidos por leis e regulamentos ou contratos.
+
+Um exemplo de critério menos formal seria o código de conduta desenvolvido internamente ou o nível de desempenho acordado (tal como o número de vezes que se espera que um comitê específico se reúna no ano).
+
+Critérios adequados são requeridos para mensuração ou avaliação razoável consistente com o objeto dentro do contexto do julgamento profissional. Sem a estrutura de referência fornecida pelos critérios adequados, qualquer conclusão está sujeita a interpretação individual e a mal-entendidos.
+
+Critérios adequados são sensíveis ao contexto, ou seja, relevantes para as circunstâncias do trabalho. Para o mesmo objeto, podem existir critérios diferentes, que conduzirão à mensuração ou à avaliação diferente. Por exemplo, um dos critérios que um mensurador ou avaliador pode escolher para mensuração da satisfação do consumidor é o número de reclamações dos consumidores resolvidas de forma satisfatória para o consumidor, enquanto outro mensurador ou avaliador pode escolher o número de compras recorrentes nos três meses seguintes à compra inicial. Adicionalmente, os critérios podem ser adequados para um conjunto específico de circunstâncias do trabalho. Por exemplo, reportar a governos ou reguladores pode requerer o uso de um conjunto específico de critérios, mas esses critérios podem não ser adequados para um grupo mais amplo de usuários.
+
+Relembremos que a NBC TA – Estrutura Conceitual estabelece que os critérios serão qualificados como adequados quando apresentarem as seguintes características:
+
+(a) Relevância: Critérios relevantes resultam na informação do objeto que auxilia a tomada de decisões dos usuários previstos.
+
+(b) Integralidade: Critérios são plenos quando a informação do objeto preparada de acordo com eles não omite fatores relevantes que poderiam se esperar, razoavelmente, que afetem decisões dos usuários previstos feitas com base nessa informação. Critérios plenos incluem, quando relevantes, referências para apresentação e divulgação.
+
+(c) Confiabilidade: Critérios confiáveis permitem a mensuração ou avaliação consistente de determinado objeto, incluindo, se relevante, apresentação e divulgação, quando usadas em circunstâncias similares por auditores independentes diferentes.
+
+(d) Neutralidade: Critérios neutros resultam em informação do objeto que está livre de tendências como apropriado nas circunstâncias do trabalho.
+
+(e) Compreensibilidade: Critérios compreensíveis resultam em informação do objeto que pode ser compreendida pelos usuários previstos.
+
+No quadro infra, indicamos os critérios acima arrolados, com informações mais sintéticas, para facilitar a sua memorização:
+
+[[[tabela]]]
+
+Quando o critério é estabelecido em lei ou atos infralegais cogentes, tal critério é adequado para a realização do trabalho.
+
+Relevante apontar que descrições vagas de expectativas ou julgamentos das experiências de indivíduo não constituem critérios aceitáveis.
+
+A importância relativa de cada uma das características acima ao avaliar a adequação dos critérios para um trabalho específico é questão de julgamento profissional.
+
+A adequação dos critérios não é influenciada pelo nível de asseguração, ou seja, se os critérios são inadequados para um trabalho de asseguração razoável, eles também serão inadequados para um trabalho de asseguração limitada, e vice-versa.
+
+Conforme já vimos, os critérios podem ser prescritos por leis e regulamentos ou emitidos por órgãos autorizados ou reconhecidos que seguem o devido processo transparente (critério estabelecido). Outros critérios podem ser desenvolvidos especificamente para o propósito de preparar a informação do objeto nas circunstâncias específicas do trabalho. Se os critérios são estabelecidos ou desenvolvidos especificamente, o procedimento necessário para avaliar a sua adequação para um trabalho específico pode ser afetado, por exemplo, na ausência de indicações contrárias, presume-se que os critérios serão adequados se forem relevantes para as necessidades de informação dos usuários previstos.
+
+Os critérios precisam estar disponíveis para os usuários previstos para permitir que compreendam como o objeto foi mensurado ou avaliado. Os critérios podem ser disponibilizados aos usuários previstos em uma ou mais das seguintes formas:
+
+(a) publicamente (isso ocorre quando os critérios são definidos por leis, regulamentos ou outros atos normativos infralegais obrigatórios);
+
+(b) por meio da inclusão, de forma clara, na apresentação da informação do objeto;
+
+(c) por meio da inclusão, de forma clara, no relatório de asseguração;
+
+(d) por entendimento geral, por exemplo, o critério de mensurar o tempo em horas e minutos.
+
+Os critérios podem também ser disponibilizados apenas aos usuários previstos específicos, por exemplo, os termos do contrato ou os critérios emitidos por associação setorial que esteja disponível apenas aos seus membros por serem relevantes para propósitos específicos.
+
+Como parte do trabalho, o auditor independente estabelece se os critérios são adequados, quando tais critérios não são definidos por leis, regulamentos ou outros atos normativos infralegais obrigatórios.
+
+---> fazer questões
+---> fazer questões
+---> fazer questões
+---> fazer questões
+
+Noção geral sobre as evidências de auditoria
+Os trabalhos de asseguração são planejados e realizados com postura de ceticismo profissional para obter evidências apropriadas e suficientes no contexto do trabalho sobre o resultado obtido da mensuração ou avaliação do objeto de acordo com os critérios. O julgamento profissional deve ser exercido ao considerar a materialidade, o risco do trabalho, bem como a quantidade e a qualidade das evidências disponíveis ao planejar e realizar o trabalho, especialmente, ao determinar a natureza, a época e a extensão dos procedimentos.
+
+Não podemos confundir os conceitos e evidência de auditoria e achados de auditoria (a expressão “achados de auditoria” é mais utilizada em auditorias governamentais, mas seu conceito também se aplica às auditorias privadas).
+
+Evidência de auditoria são as informações obtidas pelo auditor que lhe permitem conhecer o objeto da auditoria e formar a sua convicção (ou seja, as evidências de auditoria permitem ao auditor saber as características do objeto da auditoria, ou seja, conhecê-lo). Os achados de auditoria, por outro lado, são as desconformidades encontradas pelo auditor ao confrontar os critérios aplicáveis na auditoria (como deveria ser o objeto) com as evidências de auditoria obtidas (como o objeto é).
+
+A ISSAI 3000 (norma de auditoria governamental) muito bem expressa os conceitos de critério de auditoria, evidência de auditoria e achado de auditoria, bem como a relação entre eles, em uma famosa figura, que reproduzimos a seguir:
+
+[[[]]]
+
+Ceticismo profissional
+O ceticismo profissional é a postura que inclui estar alerta a, por exemplo:
+
+(a) evidência inconsistente com outras evidências obtidas (lembre-se que as evidências de auditoria são em regra persuasivas e não conclusivas);
+
+(b) informações que geram dúvidas quanto à confiabilidade de documentos e respostas a indagações que serão usadas como evidências;
+
+(c) circunstâncias que sugerem a necessidade de procedimentos adicionais àqueles requeridos pelas normas de asseguração; e
+
+(d) condições que podem indicar distorções.
+
+Manter o ceticismo profissional durante o trabalho é necessário, por exemplo, para reduzir o risco de:
+
+negligenciar circunstâncias incomuns;
+
+generalização excessiva ao tirar conclusões a partir das observações; e
+
+ usar premissas inapropriadas ao determinar a natureza, a época e a extensão dos procedimentos e avaliar os seus resultados.
+
+O ceticismo profissional é necessário para a avaliação crítica das evidências. Isso inclui questionar as evidências inconsistentes e a confiabilidade de documentos e repostas a indagações. Também inclui a consideração da suficiência e a adequação das evidências obtidas à luz das circunstâncias.
+
+ A menos que o trabalho envolva asseguração sobre a veracidade de documentos, registros e documentos, podem ser aceitos como genuínos, a não ser que o auditor independente tenha razões para acreditar o contrário. Mesmo assim, o auditor independente considera a confiabilidade da informação a ser usada como evidência.
+
+Não se pode esperar que o auditor independente desconsidere experiências passadas sobre a honestidade e a integridade daqueles que fornecem evidências. Ainda assim, a crença de que aqueles que fornecem evidências são honestos e íntegros não diminui a necessidade de o auditor manter o ceticismo profissional.
+
+Julgamento profissional
+O julgamento profissional é essencial para a condução apropriada do trabalho de asseguração. Isso porque a interpretação de requerimentos éticos e normas de asseguração relevantes e as decisões necessárias durante o trabalho não podem ser tomadas sem a aplicação de treinamento, conhecimento e experiência necessária aos fatos e circunstâncias. O julgamento profissional é necessário, particularmente, para decisões sobre:
+
+ a materialidade e o risco do trabalho;
+
+A materialidade é relevante ao planejar e realizar o trabalho de asseguração para determinar a natureza, a época e a extensão dos procedimentos, bem como para avaliar se a informação do objeto está livre de distorções. Os julgamentos profissionais sobre materialidade são feitos à luz das circunstâncias, mas não são influenciadas pelo nível de asseguração, ou seja, para os mesmos usuários e propósitos previstos, a materialidade do trabalho de asseguração razoável é a mesma utilizada em trabalho de asseguração limitada, considerando que ela é determinada com base nas necessidades de informação dos usuários previstos.
+
+a natureza, a época e a extensão dos procedimentos usados para atender aos requerimentos das normas de asseguração relevantes e obter evidências;
+
+avaliar se foram obtidas evidências apropriadas e suficientes e se algo mais precisa ser feito para alcançar os objetivos das normas de asseguração aplicáveis. Especificamente, no caso de trabalho de asseguração limitada, o julgamento profissional é requerido ao avaliar se um nível significativo de asseguração foi obtido;
+
+no caso do trabalho direto, aplicação dos critérios ao objeto, e caso o auditor selecione ou desenvolva o critério, a sua seleção ou seu desenvolvimento. No caso de trabalho de atestação, avaliar tais julgamentos executados por terceiros;
+
+ as conclusões apropriadas com base nas evidências obtidas.
+
+A principal característica esperada do julgamento profissional do auditor independente é que ele seja exercido por auditor cujo treinamento, conhecimento e experiência auxiliaram no desenvolvimento das competências necessárias para alcançar julgamentos razoáveis.
+
+O exercício do julgamento profissional, em qualquer caso particular, é com base nos fatos e circunstâncias que são conhecidos pelo auditor independente. A consulta em questões difíceis ou controversas durante o curso do trabalho, quer dentro da equipe de trabalho, quer entre a equipe de trabalho e outros com nível apropriado, dentro ou fora da firma, auxiliam o auditor independente a exercer julgamentos razoáveis.
+
+O julgamento profissional pode ser avaliado com base se o julgamento alcançado reflete a aplicação competente da asseguração e princípios de mensuração ou avaliação e se é adequado à luz dos, e consistente com, fatos e circunstâncias que eram conhecidos pelo auditor independente até a data do relatório do auditor.
+
+O julgamento profissional deve ser exercido durante todo o trabalho. O julgamento profissional não deve ser usado como justificativa para decisões que não são, de outra forma, suportadas pelos fatos e circunstâncias do trabalho ou por evidências apropriadas e suficientes.
+
+Evidência suficiente e apropriada
+A evidência suficiente e apropriada está correlacionada. A suficiência é a mensuração da quantidade de evidências. A quantidade de evidência necessária é influenciada pelos riscos de a informação do objeto ser distorcida de forma relevante (quanto maior forem os riscos, mais evidência será necessária) e também pela qualidade dessas evidências (quanto melhor a qualidade, menos será necessária). Obter mais evidências, contudo, pode não compensar a sua baixa qualidade.
+
+Adequação é a mensuração da qualidade da evidência, ou seja, sua relevância e confiabilidade em fornecer fundamentação para a conclusão do auditor independente.
+
+A confiabilidade da evidência é influenciada por sua fonte e sua natureza e depende das circunstâncias particulares sob as quais são obtidas. Generalizações sobre a confiabilidade de vários tipos de evidências podem ser feitas; contudo, tais generalizações estão sujeitas a exceções importantes. Mesmo quando a evidência é obtida de fontes externas, podem existir circunstâncias que poderiam afetar sua confiabilidade. Por exemplo, evidência obtida de fonte externa pode não ser confiável se a fonte não for conhecida ou objetiva. Enquanto se reconhece que possam existir exceções, as seguintes generalizações sobre a confiabilidade da evidência podem ser úteis:
+
+a evidência é mais confiável quando é obtida de fontes externas às partes apropriadas;
+
+ a evidência que é gerada internamente é mais confiável quando os controles relacionados são efetivos;
+
+ a evidência obtida diretamente pelo auditor independente (por exemplo, na observação da efetividade de controle) é mais confiável do que a evidência obtida indiretamente ou por dedução (por exemplo, indagação sobre a efetividade do controle);
+
+ a evidência formal é mais confiável, seja em papel, de forma eletrônica ou outra mídia (por exemplo, a ata de reunião geralmente é mais confiável do que a representação verbal do que foi discutido).
+
+Segurança maior é geralmente obtida de evidências consistentes de fontes ou de natureza diferentes do que evidências consideradas individualmente (tal afirmação decorre de as evidências de auditoria serem, em regra, persuasivas e não conclusivas). Adicionalmente, obter evidências de fontes ou de natureza diferente pode tanto corroborar outras evidências quanto indicar que um item particular da evidência não é confiável. Quando a evidência obtida de uma fonte é inconsistente com aquela obtida de outra, será necessário determinar quais procedimentos adicionais devem ser executados para eliminar a inconsistência.
+
+A obtenção da evidência apropriada e suficiente é geralmente mais difícil na asseguração sobre a informação do objeto, cobrindo um período de tempo, do que do objeto na data base. Adicionalmente, as conclusões fornecidas sobre processos geralmente são limitadas ao período coberto pelo trabalho; o auditor independente não fornece conclusão sobre se o processo irá continuar a funcionar no futuro de modo especificado.
+
+É uma questão de julgamento profissional se evidências apropriadas e suficientes foram obtidas para suportar a conclusão do auditor independente, o que envolve considerar a relação entre o custo e o benefício da obtenção das evidências. O auditor utiliza o julgamento e exerce o ceticismo profissional ao avaliar a quantidade e a qualidade das evidências e, portanto, sua suficiência e adequação para suportar o relatório de asseguração.
+
+---> fazer questões
+---> fazer questões
+---> fazer questões
+---> fazer questões
+
+Materialidade
+Conforme já vimos, a materialidade é relevante ao planejar e realizar o trabalho de asseguração para determinar a natureza, a época e a extensão dos procedimentos, bem como para avaliar se a informação do objeto está livre de distorções.
+
+Os julgamentos profissionais sobre materialidade devem ser feitos à luz das circunstâncias, mas não são influenciadas pelo nível de asseguração, ou seja, para os mesmos usuários e propósitos previstos, a materialidade do trabalho de asseguração razoável é a mesma utilizada em trabalho de asseguração limitada, considerando que ela é determinada com base nas necessidades de informação dos usuários previstos.
+
+Distorções, incluindo omissões, são consideradas relevantes se elas, individualmente ou em conjunto, puderem, razoavelmente, influenciar as decisões relevantes dos usuários previstos tomadas com base na informação do objeto.
+
+A consideração do auditor independente sobre a materialidade é um assunto de julgamento profissional, e é influenciada pela percepção que o auditor possui sobre as necessidades comuns de informação dos usuários previstos como um grupo. A menos que o trabalho tenha sido desenvolvido para atender às necessidades de informações de usuários específicos, os possíveis efeitos das distorções para os usuários específicos, cuja necessidade de informação possa variar amplamente, não são geralmente considerados.
+
+A materialidade é considerada no contexto dos fatores qualitativos e, quando aplicável, a fatores quantitativos. Ao considerar a materialidade em trabalho específico, a importância relativa de fatores quantitativos e qualitativos é assunto de julgamento profissional.
+
+A materialidade se refere à informação coberta pelo relatório de asseguração do auditor independente. Portanto, quando o trabalho cobrir alguns, mas não todos, os aspectos da informação do objeto, a materialidade é considerada em relação apenas àquela parte da informação que é coberta pelo trabalho.
+
+Esquematicamente, podemos sintetizar a relevância da materialidade em cada uma das fases da auditoria:
+
+[[[]]]
+
+Risco do trabalho
+
+
+A informação do objeto pode não se relacionar adequadamente no contexto do objeto e dos critérios, e pode, portanto, ser potencialmente distorcida de forma relevante. Isso ocorre quando a informação não reflete apropriadamente a aplicação dos critérios para mensurar ou avaliar o objeto.
+
+Risco do trabalho é o risco de o auditor independente expressar uma conclusão inadequada quando a informação do objeto estiver distorcida de forma relevante. O risco do trabalho não se refere nem inclui os riscos de negócio do auditor independente, tais como perdas em litígios, publicidade adversa, ou outros eventos que surjam em conexão com a informação específica do objeto.
+
+Eliminar totalmente o risco do trabalho é raramente alcançável ou possui um custo altíssimo em relação ao benefício. Portanto, a “asseguração razoável” é menor do que asseguração absoluta, como resultado de fatores, tais como:
+
+uso de testes seletivos;
+
+limitações inerentes ao controle interno;
+
+fato de que muitas das evidências disponíveis ao auditor independente são persuasivas, ao invés de conclusivas;
+
+ uso de julgamento profissional ao obter e avaliar as evidências e formar as conclusões com base nessas evidências;
+
+em alguns casos, as características do objeto quando avaliadas ou mensuradas pelos critérios.
+
+Os riscos envolvidos no trabalho do auditor podem ser identificados em dois níveis: nível geral das demonstrações contábeis e nível das afirmações.
+
+Os riscos no nível geral da demonstração contábil referem-se às demonstrações contábeis como um todo e que afetam potencialmente muitas afirmações. Os riscos de distorção relevante no nível da afirmação, por sua vez, consistem em dois componentes (risco inerente e risco de controle), que estudaremos na sequência.
+
+No quadro a seguir, sintetizamos os dois níveis de riscos envolvidos no trabalho do auditor:
+
+[[[tabela]]]
+
+No geral, os riscos do trabalho do auditor podem estar representados pelos seguintes componentes, apesar de que nem todos esses componentes estarão necessariamente presentes ou serão significativos para todos os trabalhos de asseguração:
+
+(a) riscos, que não dependem diretamente do auditor independente, consistem em:
+
+(i) risco inerente – a suscetibilidade da informação do objeto conter distorção relevante antes da consideração de quaisquer controles aplicados pelas partes apropriadas; e
+
+(ii) risco de controle – o risco de ocorrer distorção relevante na informação do objeto não seja evitado por controle preventivo ou, detectado e corrigido, em tempo hábil, pelo controle interno implementado pelas partes apropriadas; e
+
+(b) riscos, que o auditor independente influencia diretamente, consistem em:
+
+(i) risco de detecção – o risco de os procedimentos realizados pelo auditor independente não detectarem distorção relevante; e
+
+(ii) risco de mensuração ou avaliação – no caso de trabalho direto, o risco associado com a mensuração ou avaliação que o auditor independente fizer do objeto pelos critérios.
+
+O nível pelo qual cada um desses componentes é relevante para o trabalho é influenciado pelas circunstâncias do trabalho, em particular. A consideração de riscos é assunto de julgamento profissional, em vez de ser passível de mensuração precisa. As circunstâncias podem estar relacionadas com:
+
+ A natureza do objeto e a sua informação. Por exemplo, o conceito de controle de risco pode ser mais útil quando a informação do objeto for relativa à preparação da informação sobre o desempenho da entidade quando ele for relativo à informação sobre a eficácia de controle ou a existência de condição física.
+
+O tipo de trabalho de asseguração (razoável ou limitada) que está sendo executado. Por exemplo, em trabalhos de asseguração limitada, o auditor independente pode, frequentemente, decidir obter evidência por outros meios que não sejam testes de controle. Neste caso, a consideração do risco de controle pode ser menos relevante do que em trabalhos de asseguração razoável sobre a mesma informação do objeto.
+
+Se for trabalho direto ou trabalho de atestação. Enquanto o conceito de risco de controle é relevante ao trabalho de atestação, o conceito mais amplo de risco de mensuração ou avaliação é mais relevante para trabalho direto.
+
+Nos quadros infra, sintetizamos os riscos de distorção relevante (com seus elementos determinantes: risco inerente e risco de controle) e o riso de detecção / mensuração (lembrando que o risco de auditoria é mensurado em função dos riscos de distorção relevante e de detecção / mensuração:
+
+[[[tabela]]]
+
+Natureza, época e extensão dos procedimentos
+A combinação de procedimentos é tipicamente utilizada para obter tanto a asseguração razoável como a asseguração limitada. Os procedimentos podem incluir:
+
+ inspeção;
+
+observação;
+
+confirmação;
+
+ recálculo;
+
+ reexecução;
+
+ procedimentos analíticos; e
+
+indagação.
+
+A exata natureza, a época e a extensão dos procedimentos variam de um trabalho para outro. Em teoria, para muitos trabalhos de asseguração, são possíveis variações infinitas dos procedimentos. Na prática, contudo, elas são difíceis de comunicar de forma clara e inequívoca.
+
+Os procedimentos de auditoria, que são realizados na fase de sua execução, têm a finalidade de o auditor obter evidências de auditoria apropriadas e suficientes que lhe permitam formar sua convicção acerca da mensuração do objeto da auditoria. Graficamente, podemos sintetizar a relação entre os procedimentos de auditoria e a obtenção de evidências na forma da figura infra:
+
+[[[]]]
+
+Para a compreensão do objeto e de outras circunstâncias, tanto os trabalhos de asseguração razoável como de asseguração limitada requerem a aplicação de habilidades e técnicas, bem como a obtenção de evidências apropriadas e suficientes como parte do processo de trabalho iterativo e sistemático.
+
+Segundo a NBC TA – Estrutura conceitual, o trabalho de asseguração razoável (aquele que tem o menor risco de auditoria) deve considerar:
+
+(a) identificar e avaliar o risco de distorção relevante na informação do objeto, com base na compreensão da informação do objeto e de outras circunstâncias do trabalho;
+
+(b) desenvolver e realizar procedimentos para responder aos ricos avaliados e obter asseguração razoável para suportar a conclusão do auditor independente; e
+
+(c) avaliar a suficiência e a adequação das evidências obtidas no contexto do trabalho e, se necessário nas circunstâncias, tentar obter evidências adicionais.
+
+A natureza, a época e a extensão dos procedimentos, para obterem evidências apropriadas e suficientes em trabalho de asseguração limitada, são, por definição, limitadas se comparados com os necessários para o trabalho de asseguração razoável.
+
+Uma norma de asseguração específica para um objeto pode estabelecer que, por exemplo, as evidências apropriadas e suficientes para um tipo específico de trabalho de asseguração limitada são obtidas primariamente por meio de procedimentos analíticos e indagações. Na ausência de normas de asseguração para objetos específicos para outros tipos de asseguração limitada, os procedimentos analíticos e indagações podem variar com as circunstâncias do trabalho, em particular, com o objeto e a necessidade de informações dos usuários previstos e da contratante, incluindo restrições relevantes de tempo e custo. A determinação da natureza, da época e da extensão dos procedimentos depende de julgamento profissional e varia de um trabalho para outro.
+
+O trabalho de asseguração limitada (aquele que tem um maior risco de auditoria) deve considerar:
+
+(a) identificar as áreas em que uma distorção relevante da informação do objeto é capaz de surgir, com base na compreensão do objeto e outras circunstâncias do trabalho;
+
+(b) desenvolver e realizar procedimentos para abordar essas áreas e obter a asseguração limitada para suportar a conclusão do auditor independente; e
+
+(c) desenvolver e executar procedimentos adicionais para obter evidências, se o auditor independente tomar conhecimento de assuntos que o levem a acreditar que a informação do objeto possa estar distorcida de forma relevante.
+
+Quantidade e qualidade das evidências disponíveis
+Normalmente, a evidência disponível é persuasiva em vez de conclusiva. A quantidade ou a qualidade das evidências disponíveis são influenciadas por:
+
+(a) características do objeto ou da informação. Por exemplo, evidências menos objetivas podem ser esperadas quando a informação for prospectiva ao invés de histórica (ver o item 40); e
+
+(b) outras circunstâncias, como quando as evidências que possam ser razoavelmente esperadas não estiverem disponíveis devido, por exemplo, à data de nomeação do auditor independente, à política de retenção de documentos da entidade, a sistemas de informação inadequados, ou à restrição imposta pela parte responsável.
+
+No quadro infra, sintetizamos as informações relativas às evidências conclusivas e persuasivas:
+
+[[[tabela]]]
+
+
+Uma conclusão não modificada (aquele em que o auditor aponta não haver distorção relevante na mensuração do objeto) não é apropriada tanto para o trabalho de asseguração razoável como para o trabalho de asseguração limitada quando:
+
+(a) as circunstâncias impedem que o auditor independente obtenha as evidências necessárias para reduzir os riscos de trabalho ao nível apropriado; ou
+
+(b) uma das partes envolvidas com o trabalho impõe uma restrição que impede o auditor independente de obter as evidências necessárias para reduzir o risco de trabalho ao nível apropriado.
+
+Após estudarmos as temáticas afetas á materialidade, risco de auditoria, procedimentos de auditoria e evidência de auditoria, é relevante apresentamos uma representação gráfica da relação entre tais temas:
+
+[[[]]]
+
+Veja que:
+
+- A materialidade definida pelo auditor afeta diretamente o risco de auditoria (quanto maior a materialidade, maior o risco de auditoria, pois o auditor concentrará suas preocupações apenas em questões com importes mais elevados; quanto menor a materialidade, maior a preocupação do auditor com distorções (potenciais ou efetivas) de pequena monta;
+
+- O risco de auditoria suportado pelo auditor impacta os procedimentos de auditoria planejados e posteriormente executados. Quanto maior o risco de auditoria aceito pelo auditor, menos procedimentos de auditoria serão realizados e a profundidade de tais procedimentos será menor; por outro lado, quando menor o risco de auditoria aceito pelo auditor, há uma tendência de serem realizados mais procedimentos de auditoria e com maior profundidade;
+
+- Por fim, os procedimentos de auditoria são a principal fonte de obtenção de evidências pelo auditor.
+
+Relatório de asseguração
+O auditor independente forma sua conclusão com base nas evidências obtidas e emite o relatório escrito contendo uma expressão clara dessa conclusão de asseguração. As normas de asseguração estabelecem elementos básicos para os relatórios de asseguração.
+
+No trabalho de asseguração razoável, a conclusão do auditor independente é expressa na forma positiva para transmitir a sua opinião sobre o resultado da mensuração ou avaliação do objeto.
+
+Exemplos de conclusões emitidas de forma apropriada em trabalhos de asseguração razoável incluem:
+
+quando expressas nos termos de determinado assunto e das normas, leis ou regulamentos aplicáveis, “Em nossa opinião, a entidade cumpriu, em todos os aspectos relevantes, a lei XYZ”;
+
+ quando expressas nos termos da informação do objeto e dos critérios aplicáveis “Em nossa opinião, as demonstrações contábeis apresentam adequadamente, em todos os aspectos relevantes, a posição patrimonial e financeira da entidade em [data], o desempenho de suas operações e seus fluxos de caixa para o exercício findo naquela data de acordo com a estrutura XYZ”; ou
+
+quando expressa nos termos de uma declaração feita pela parte responsável, “Em nossa opinião, a declaração da [parte responsável] de que a entidade cumpriu com a lei XYZ está, em todos os aspectos relevantes, adequadamente apresentada” ou “Em nossa opinião, a declaração da [parte responsável] de que os principais indicadores de desempenho estão apresentados de acordo com os critérios XYZ está, em todos os aspectos relevantes, adequadamente apresentada.” Por outro lado, no trabalho direto, a conclusão do auditor independente é escrita nos termos de determinado objeto e critérios.
+
+No trabalho de asseguração limitada, a conclusão do auditor independente é expressa de forma a transmitir se, com base no trabalho realizado, algum fato chegou ao seu conhecimento que o levasse a acreditar que a informação do objeto esteja distorcida de forma relevante, como por exemplo, “Com base nos procedimentos realizados e nas evidências obtidas, não temos conhecimento de nenhum fato que nos leve a acreditar que a entidade não tenha cumprido, em todos os aspectos relevantes, com a lei XYZ.”.
+
+Vamos a duas figuras relativas aos relatórios exarados em trabalhos de asseguração razoável e limitada:
+
+[[[]]]
+
+O auditor independente pode escolher o modelo de relatório de “forma curta” ou de “forma longa” para facilitar a efetividade da comunicação com os usuários previstos. Relatórios de “forma curta” geralmente incluem apenas os elementos básicos. Os relatórios de “forma longa” incluem outras informações e explicações que não afetam a conclusão do auditor independente.
+
+Os relatórios em forma longa podem descrever com detalhe os termos do trabalho, os critérios usados, as constatações relativas aos aspectos específicos do trabalho, os detalhes sobre as qualificações e a experiência do auditor independente e de outros envolvidos com o trabalho, a divulgação dos níveis de materialidade e, em alguns casos, as recomendações. A inclusão de qualquer dessas informações depende da sua relevância para os usuários previstos.
+
+No quadro infra, sintetizamos os modelos de relatórios de asseguração:
+
+[[[]]]
+
+A conclusão do auditor independente é claramente separada das outras informações ou explicações que não pretendem afetar a sua conclusão, incluindo quaisquer Ênfases, Outros Assuntos, constatações relativas a aspectos específicos do trabalho, recomendações ou informações adicionais incluídas no relatório de asseguração. A redação utilizada deixa bem claro que uma Ênfase, Outros Assuntos, constatações, recomendações ou informações adicionais não pretendem afetar a conclusão do auditor.
+
+A NBC TA 700 estabelece a estrutura do relatório do auditor independente, quando a mensuração do objeto da auditoria são as demonstrações contábeis da empresa. Vamos relembrar tal estrutura, com destaque para a seção em que é expressa a opinião do auditor:
+
+[[[]]]
+
+O auditor deve expressar uma opinião modificada nas seguintes circunstâncias:
+
+(a) quando, no julgamento profissional do auditor independente, existe uma limitação de escopo, cujo efeito do assunto pode ser relevante. Em tais casos, o auditor independente expressa uma conclusão com ressalva, ou se abstém de uma conclusão. Em alguns casos, o auditor pode considerar se retirar do trabalho;
+
+(b) quando, no julgamento profissional do auditor independente, a informação do objeto está relevantemente distorcida. Em tais casos, o auditor expressa uma conclusão com ressalva ou adversa. No caso de trabalho direto em que a informação do objeto é a conclusão do auditor independente, se ele concluir que parte, ou todos os objetos, não está de acordo, em todos os aspectos relevantes, com os critérios, tal conclusão também deve ser expressa com ressalvas (ou adversa, conforme o caso).
+
+A conclusão com ressalvas é expressa quando os efeitos, ou possíveis efeitos, de um assunto das distorções, individualmente ou em conjunto, são relevantes, mas não generalizados a ponto de requerer uma conclusão adversa ou a abstenção de conclusão.
+
+As figuras infra bem ilustram as modalidades de opinião do auditor independente, inclusive no que toca ao cabimento de cada qual:
+
+[[[]]]
+
+---> fazer questões
+---> fazer questões
+---> fazer questões
+---> fazer questões
+
+Outras partes
+Outras responsabilidades de comunicação
+O auditor considera, nos termos do trabalho e de outras circunstâncias do trabalho, se algum assunto que chegou ao seu conhecimento deve ser comunicado à parte responsável, ao mensurador ou avaliador, à parte contratante, aos responsáveis pela governança ou a outros.
+
+Documentação
+A documentação do trabalho fornece o registro da base para o relatório de asseguração quando preparada em tempo hábil e for apropriada e suficiente para permitir que um auditor independente experiente, sem conexão prévia com o trabalho, compreenda:
+
+(a) a natureza, a época e a extensão dos procedimentos realizados para cumprir com as normas de asseguração relevantes e requerimentos de leis e regulamentos;
+
+(b) o resultado dos procedimentos realizados e as evidências obtidas; e
+
+(c) os assuntos relevantes que surgirem durante o trabalho, as conclusões alcançadas e os julgamentos profissionais significativos exercidos para se chegar a tais conclusões.
+
+A documentação do trabalho inclui como o auditor endereçou qualquer inconsistência entre as informações por ele identificadas e a sua conclusão final relacionada com um assunto relevante.
+
+Uso inapropriado do nome do auditor independente
+O auditor independente está associado com o objeto ou com a informação do objeto relacionada, quando o auditor reporta informações sobre o objeto ou consente com o uso de seu nome em conexão profissional com esse objeto ou com a informação do objeto relacionada. Se o auditor não estiver associado dessa maneira, terceiros não podem assumir a responsabilidade do auditor. Se o auditor independente descobrir que uma parte está usando o seu nome indevidamente em associação com o objeto ou com a informação do objeto relacionada, ele deve exigir que essa parte cesse essa ação. O auditor também deve considerar quais outras ações podem ser necessárias, como informar quaisquer terceiros conhecidos do uso inapropriado do seu nome ou procurar assistência legal.
+
+----------------
+
+questões comentadas

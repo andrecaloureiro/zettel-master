@@ -1,0 +1,23 @@
+- Ti..
+    - http://www.mpf.mp.br/conheca-o-mpf/gestao-estrategica-e-modernizacao-do-mpf/escritorio-de-processos/modelagem-de-processos-de-negocio
+    - Na Modelagem Multidimensional existem  _ 6 Tipos de Fatos _  :
+        - 1)  _ Fato Transacional _ 
+        - 2) **** _** Fato Snapshot  **_  _ Periódico _ 
+        - 3) **** _** Fato de Snapshot  **_ **** _** Acumulado **_ : Também é uma fotografia entretanto em **** __** mais de um momento **__ . As tabelas de snapshots acumulado descreve a atividade de um processo de negócios que possui  _ início _  e **** _** fim **_ **.** Esse tipo de tabela de fato possui **** _** várias colunas de data **_  para representar marcos no processo. A medida em que as etapas do processo forem sendo concluídas o registro correspondente na tabela de fato é atualizado. Ou seja, quando se trata de fatos acumulados, os modelos multidimensionais **** _** admitem atualizações de suas métricas **_ . ---> Gabarito da questão.
+        - 4)  _ Fato Agregada _ 
+        - 5)  _ Fato Consolidada _ 
+        - 6)  _ Fato Sem Fato (Factless Fact Table) _ 
+        - Quem quiser entender mais sobre cada uma, segue link de artigo bem didático: [https://rafaelpiton.com.br/blog/data-warehouse-tipos-fatos/](https://rafaelpiton.com.br/blog/data-warehouse-tipos-fatos/)
+        - ![](https://remnote-user-data.s3.amazonaws.com/NmQftEynP_qwnLfrjPLVpWQGzpeo8zm9Ncyy7DBaIuHGrfFNsIm7EGV16eoYgSx2mi_yvOOgenl_okJ5jKUKmHYNblknYMDWwzxxPveajDYXtZduCax5oViiCLgD7jTb.png)
+    - BPM CBOK v3,
+        - indicador é "uma representação de forma simples ou intuitiva de uma métrica ou medida para facilitar sua interpretação quando comparada a uma referência ou alvo.
+            - Indicadores direcionadores (drivers): Avaliam a causa antes do efeito e caracterizam-se pela possibilidade de alterar o curso para o alcance de um resultado
+            - Indicadores de resultados (outcome):  Monitoram o efeito e não permitem mais alterar um dado resultado
+            - Os indicadores direcionadores são semelhantes ao KPI (Key Performance Indicators), e os de resultado com o KGI (Key Goal Indicators), de outros frameworks.
+        - os arquitetos de Negócio criam modelos de negócio, mas esses modelos estão em alto nível de abstração e lidam com capacidades de negócio —> O QUE
+        - arquitetura de processos lidam com o COMO do negócio e definem como um entregável, produto ou serviço é construído e entregue
+        - AS-IS é a situação atual dos processos de negócio.
+        - TO-BE representa melhorias nos processos de negócio. Visa produzir alternativas para a situação atual. Os modelos TO-BE incorporam boas práticas, redesenho e/ou inovação.
+        - Handoffs é qualquer ponto em um processo onde trabalho ou informação passa de um sistema, pessoa ou grupo para outro (transferência de controle)
+    - [1]Princípios de sistemas de informação; Ralph Stair; George Reynolds; 3a edição Brasileira.
+    - O local onde são armazenados ou agrupados todos os objetos, programas e dados é denominado esquema.

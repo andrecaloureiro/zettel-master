@@ -1,0 +1,289 @@
+---
+videos 
+caderno de questoes 
+pdf-teoria ok 
+pdf- exercicios
+
+bibliografia
+▶ Arvate, Paulo; Biderman, Ciro. Economia do setor público no Brasil. GEN Atlas. Edição do Kindle.
+▶ Giambiagi, Fabio; Alem, Ana; Pinto, Sol Garson Braule. Finanças Públicas. GEN Atlas. Edição do Kindle. 
+▶ Krugman, Paul; Wells, Robin. Microeconomia 3ª Edição . Edição do Kindle. 
+▶ Musgrave, Richard - Public Finance In Theory and Practice (Inglês) 5th edition. 
+▶ Pindyck, Robert; Rubinfeld, Daniel. Microeconomia (p. 619). Edição do Kindle. 
+▶ Riani, Flávio. Economia do Setor Público - Uma Abordagem Introdutória. LTC. Edição do Kindle. 
+▶ Varian, Hal. Microeconomia . Elsevier Editora Ltda.. Edição do Kindle.
+---
+-
+- ECONOMIA  do setor público
+	- qual o papel do setor público na economia?
+
+- Eficiencia
+	- economia: recursos escassos - como tirar o melhor possível ?
+	- eficiencia - o que é a melhor forma possível?
+	- falhas de mercado: situações que afastam eficiência
+	- setor público: algo ou alguém que impede falhas de mercado e ineficiencia
+	![[Pasted image 20230329225114.png]]
+
+- conceito de eficiencia
+	- competencia , produtividade, melhor resultado com custo minimo
+	- EFICIENCIA/ OTIMO DE PARETO - livro do Varian
+		- se não existir forma de melhorar situação de alguem --> sem piorar de outra pessoa
+
+- eficiencia x Justiça social
+	- situação eficiente não significa justiça social
+	![[Pasted image 20230329225825.png]]
+	- essa situação é eficiente --ja´que nao da pra melhorar situação do mais pobre sem tirar de alguem... mas nao é justa, necessariamente
+
+vid1 ok
+
+- mercados têm efeitos entre si
+	- alguns são mais correlacionados do que outros
+	- ex: mercado de combustiveis 
+		- tem alta correlacao com o de transporte, 
+		- mas baixa com o de educação
+	- efeito de feedback --> o que ocorre em um mercado afeta outros
+		- bens substitutos
+	- analise de equilibrio parcial
+		- superestima variação de bens complementares
+		- subestima variação de bens substitutos
+
+- economia do bem estar
+	- 1o teorema do bem estar
+		- todo equilibrio competitivo sera eficiente no sentido de pareto
+		- equilibrio se dá quando não é masi possível melhorar situação de um indivíduo sem piorar a de outro indivíduo
+		- esgotamento de ganhos de troca --> alocação eficiente de bens
+		- não significa que há justiça social
+		- não considera que existem externalidades
+			- efeitos dos consumos dos demais
+	- 2o teorema do bem estar
+		- toda alocação pareto eficiente é um equilíbrio e pode ser sustentada?
+			- depende: é considerada a escassez refletida nos preços?
+
+- Finanças públicas --> economia do setor público
+	- bancas consideram tb: AFO, contab pública e finanças privadas
+	- definição
+		- area que estuda:
+			- pagamento e custeio das atividades publicas (coletivas ou governamentais)
+			- administração e desempenho dessas atividades
+		- núcleo obtenção e aplicação de recursos publicos
+			- para atender necessidades da sociedade
+	- abrangência - AFE - Atividade Financeira do Estado
+		- origem (receita pública)
+		- aplicação (despesas)
+		- resultado - dívida pública
+		- ferramentas usadas:
+			- orçamento público
+			- crédito público
+		- políticas econômicas
+			- fiscal
+				- Gastos gov
+					- despesas
+					- transferencias
+				- arrecadação de tributos
+				- expansionista (G+,T-) ou contracionista(G-, T+)
+			- monetária
+				- CMN, Bacen
+				- trata da oferta de moeda na sociedade
+				- objetivo:
+					- Classico: manter estabilidade do poder de compra - adotado no Brasil
+					- Keynesiano: influenciar atividade e renda
+				- instrumentos
+					- depositos compulsorios
+						- compulsorias -exigencia
+						- voluntarias - atratividade de remuneração
+					- taxas de redesconto - linha de credito
+						- emprestimos de liquidez
+					- operações no mercado aberto
+					- outros:
+						- reservas internacionais
+						- política e regulação de crédito
+						- emissaõ de moeda
+						- Juros
+			- cambial
+				- taxa de cambio: fixa, flutuante , suja
+				- convençãodo certo ou incerto( essa é adotada no Brasil)
+				- se o cambio eleva, moeda nacional sofreu desvalorização
+			- comercial
+				- relações com outros países
+				- trade
+				- instrumentos
+					- barreiras tarifárias - impostos
+					- barreiras não tarifarias -  sanitarias , ambientais, tecnicas
+
+- Objetivos da ordem economica
+	- CF99 - art 170
+	- O objetivo da Economia do Setor Público é compreender e corrigir falhas de mercado.
+		- fornecer bens públicos
+		- reduzir externalidades negativas
+		- reduzir assimetrias de info
+	- metas a perseguir
+		- objetivos quantificados: SMART
+
+- falhas de mercado
+	- bens públicos
+		- conceito de bem: aquilo que possui utilidade para o consumidor -->  capaz de satisfazer desejos ou necessidades
+		- bem privado tem rivalidade e exclusividade
+			- rivalidade: impede que dois tenham uma unidade do bem. ex: 1o lugar no podio de uma disputa
+			- exclusividade: só para quem tem as condições de adquirir. ex: ferrari é so para quem tem alto \$$
+		- bens públicos devem ser não rivais e não exclusivos
+			- ex: rodovia interestadual -->
+				- n-exc --> todos usam independente de pagar
+				- n-riv --> o fato de um usar não impede outro usar
+			- n-exc e o carona/ free rider:
+				- ex: todos pagam pela saúde pública--> estrangeiro não cidadão vem e usa serviço publico de saúde
+			- exemplos de bens publicos: 
+				- limpeza de ruas, dos rios e do ar; 
+				- a segurança nacional (forças armadas, Polícia Federal e inteligência); 
+				- os museus; os parques; 
+				- a solidez e eficiência do sistema financeiro; 
+				- o poder de compra da moeda.
+		- oferta de bens públicos
+			- n-exc: todos desfrutam; n-riv: não se divide --> custo marginal é nulo
+			- bens públicos são falhas de mercado pq não há como medir equilíbrio de mercado com base em preço
+				- empresas não se interessam em fornecer
+				- papel do gov do Estado oferecer e financiar por meio de impostos
+		- bens semipúblicos --> meritórios
+			- n-rivais , porém exclusivos
+				- ex: vagas em universidade publica, emprego publico
+				- são bens privatizaveis.. areas de ensino e saúde
+				- bens de importância social --> ha externalidade positiva se uma comunidade tem pessoas bem instruídas e com boa saúde;
+			- n-exclusivos, porém rivais
+				- ex: recursos naturais como peixes no mar, espaço em praça pública, rodovias muito cheias --> quem pega, diminui o estoque 
+		- Teorias dos bens públicos
+			- provimento
+			- Modelo de Musgrave
+				- bem social - consumo por um nao impede consumo por outro (n-riv)+ não exlcui quem não paga (n-exc)
+				- parte da irrealista premissa de que agentes são transparentes nas suas preferencias e preços pagos 
+				- consumidores
+					- bens privados - tomam preço
+					- bens sociais - tomam quantidade -- qual o preço em função do valor que recebem
+			- modelo de Lindhal
+				- bens n-riv
+				- trocas e cooperação --> custeio individual proporcional ao benefício obtido
+			- Modelo de Samuelson
+				- bens coletivos - n-riv.. consumo nao diminui disponibilidade
+				- Cmg = Beneficio marginal usufruido pela sociadade
+				- TxMgSubst do bem social pelo privado = TxMgTransf de possibilidades de trasnformação dos 2 bens
+					- iguala distribuição de produção privada e publica do bem à taxa de disposiçãodos índividuos de trocar bem social por privado
+			- Modelo de Tiebout
+				- mais frequente
+				- free rider e falta de transparencia de preferencia individual por bens coletivos
+				- propõe que cada subgoverno proponha diferentes cestas de bens, serviços e impostos --> cidadãomigrariam para o melhor local
+					- votar com os pés
+				- concorrencia entre subgovernos revelaria as preferencias individuais
+				- descentralizações fiscais
+				- estimulos a ganhos de eficiencia e inovacoes tecnologicas e administrativas
+				- ideias inerentes:
+					- mobilidade dos individuosa
+					- competição horizontal, com ganhos de eficiencia
+				- barreiras à idéia:
+					- mobilidade não é tão simples , por fatores como: morádia, família, emprego, etc
+	- externalidades ( positivas  ou negativas)
+		- ações individuais sobre a coletividade
+			- ex negativa: poluição gerada por fabricas
+			- ex. positiva: limpeza residencial e eliminação de mosquito da dengue
+		- mercados incompletos
+			- há demanda e viabilidade economica
+			- porém não há oferta --> externalidades positivas ou riscos q empresario nao quer assumir
+		- externalidades costumam ser ambientais
+		- quando compramos custos e benefíocios de algo, não costumamos considerar os EFEITOS SOBRE OS OUTROS
+			- ex: comprar uma SUV completa implica em poluição de queima de combustivel, poluição sonora, risco de acidente com ciclistas e pedestres
+		- externalidade torna o equilibrio de mercado ineficiente
+		- beneficios e custos
+			- sociais e privados
+			- custos sociais > custos privados --> externalidade negativa
+			- beneficios sociais > privados --> externalidade positiva
+		- causas de externalidades:
+			- custos de transação - teorema de Coase
+				- Ronald Coase, 1960
+				- qnd não há custos de transação, os agentes envolvidos podem negociar entre si compensações que anulem externalidades
+				- quando as negociações tem custos elevados , governo prevcisa intervir. 
+					- Exemplo: braskem e comunidade do pinheiro
+			- tragedia dos comuns - ausencia de direitos de propriedade
+				- pessoas se preocupam mais com suas posses do que com coisas publicas
+				- se não tem dono, usam de qualquer jeito
+				- falhas na utilização ótima do produto
+				- Na inglaterra, pastos públicos foram destruídos pór uso desenfreado de pecuaristas
+		- correção de externalidades
+			- exemplo: correção de uma firma poluente
+			- possibilidades:
+				- fixar limite de emissão -EUA
+					- multas por ultrapassar
+					- melhor para informações incompletas do agente publico
+				- impor taxas sobre emissão - Alemanha
+					- imposto de Pigou
+						- impostos são inefcientes economicamente
+						- porem o de Pigou é eficiente, pois visa corrigir falha de mercado
+						- há tb possibilidade de subsídio de pigot para o caso de extrernalidades positivas
+					- depende de controle e seus custos
+					- bom se agentes publicos têm informação
+					- custo de cobrança
+				- emitir licenças negociáveis
+					- governo distribui/vende licenças
+					- licenças são negociáveis
+					- pode haver mercado competitivo de licenças e eficiência na correção da falha
+				- 
+	- info assimetrica
+		- uma parte detem info q a outra nao tem
+		- exemplo principal: contratos
+		- 2 modalidades
+			- risco moral
+				- ex: alguém é prudente no trânsito--> compra um seguro e se torna imprudente
+				- verifica-se quando ação do agente não é controlável ou verificável
+				- problema agente-principal
+					- agente age em nome do principal
+					- agente age em beneficio proprio em detrimento dos interesses do principal
+			- seleção adversa
+				- escolha acidental do contrario do que se pretendia
+				- ex: bancos colocam taxas de juros iguais para bons  e mal pagadores , atraindo apenas mal pagadores
+		- informação privilegiada - verificada no mercado de ações e fusões e aquisições
+
+- Funções do Estado
+	- visão classica
+		- Adam Smith
+		- mão invisivel, laissez fairez
+		- Estado deve se preocupar com
+			- Defesa nacional
+			- Justiça
+		- alguns autores citam também
+			- defesa de soberania
+			- oferta de bens publicos como saude e educação
+	- evolução das funções
+		- fim de 1890.. concentração de oferta em monopolios e carteis
+		- mao invisivel na o estava funcionando e preços eram altos demais
+		- Gov Eua passa proibir monopolios e carteis
+		- grande depressão de 1930
+		- Keynes aparece em 1936
+			- propoe intervenção gov na economia
+			- correçãode falhas que o mercado nao consegue, sozinho corrigir
+			- intervenções/funções
+				- alocativa
+					- complementar ação do mercado
+					- quais bens ofertar?
+					- quem vai pagar por eles?
+						- free rider / carona
+						- não exclusividade de externalidades positivas
+					- tirar recursos de um lugar para colocar em outro
+						- ex: transpoisção de um rio
+					- papéis do Estado:
+						- produtor
+							- ex: petrobras , vale do rio doce
+						- financiador 
+							- ex: linhas do BNDES, CEF, BB
+						- regulador - normatiza e fiscaliza
+							- Estado é titular e privados executam
+							- agencias reguladoras
+							- reduçãode abusos de poder economico ( ex: CADE)
+							- privatizações - venda definitiva de emp publica ou SEM
+							- concessões -direito temporario de exploração de atividade
+								- ex: rodovias e pedagios
+						- 
+				- distributiva
+					- financiada pela sociedade como um todo
+					- transferencias
+					- impostos/tributação
+					- subsídios
+					- redisitributiva: financiada pelos mais ricos em beneficio dos mais pobres
+				- estabilizadora
+					- atenuação de ciclos por meio de políticas fiscal, monetaria e cambial
+				- 

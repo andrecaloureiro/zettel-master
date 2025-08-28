@@ -1,0 +1,862 @@
+Dr-RFB25-DirConst
+
+20.1 PROCESSO LEGISLATIVO
+(1) Recado Inicial
+Lembre-se de duas coisas importante, caro aluno:
+
+(i) Como o conteúdo de Direito Constitucional é o que mais se altera no mundo jurídico (em razão das constantes mudanças legislativas e, em especial, das incessantes novas decisões do STF), não desperdice seu tempo ou arrisque sua aprovação estudando um material desatualizado. Busque sempre a versão oficial da aula no site do nosso curso!
+
+(ii) Estamos diante de um tema bastante relevante para a sua preparação. Estudar o processo legislativo envolve conhecer os dispositivos constitucionais que tratam do assunto, os aspectos doutrinários e, ainda, algumas decisões do STF sobre o tema. Note que seu estudo terá que avançar pelas três camadas do Direito Constitucional: leitura da CF/88, investigação da doutrina, análise de decisões do STF. Mas já lhe adianto que dessas três camadas, a mais exigida em provas de concursos públicos é a 1ª, referente à literalidade da Constituição. Por isso, dê bastante atenção àquilo que nosso texto constitucional determina: grande parte das questões de prova que futuramente você enfrentará serão extraídas dali.
+
+No mais, lhe desejo muito ânimo nesse momento de estudo, muita atenção na leitura desse material, e muita paz interior, na certeza de que o futuro lhe reserva algo absolutamente harmônico e compatível com seus atos e atitudes do presente. Sua dedicação e seu esforço serão recompensados. Creia-me.
+
+(A) Primeiras palavras sobre o tema
+Vou começar este item lhe perguntando: você sabe o que essa expressão “Processo legislativo” significa?
+
+Ela designa um conjunto de atos pré-ordenados que devem ser praticados (na ordem determinada pela Constituição) para que possamos elaborar as espécies normativas primárias. Tais espécies normativas são aquelas que retiram seu fundamento de validade diretamente da Constituição e que podem inovar o ordenamento jurídico; elas estão descritas no art. 59, CF/88.
+
+A atividade de legislar, regulada pelo poder constituinte originário em seção especial (Tít. IV, Cap. I, Seção VIII, que engloba os artigos 59 a 69, CF/88), é exercida com primazia, mas não com exclusividade, pelo Poder Legislativo. Já que este último Poder não exerce essa atribuição de forma isolada e exclusiva, poderemos identificar em nosso ordenamento jurídico situações nas quais outro Poder exercerá, de modo atípico ou secundário, função de natureza legislativa: pensemos, por exemplo, na atribuição presidencial de editar medida provisória ou lei delegada. Ambas são espécies primárias (estão listadas pelo art. 59, CF/88) e não são confeccionadas pelo Legislativo, mas, sim, pelo Poder Executivo. 
+
+Outro detalhe introdutório importante é o seguinte: como a disciplina jurídica do processo de formação das leis tem matriz essencialmente constitucional – pois os princípios que regem o procedimento de elaboração das espécies normativas estão no texto da Constituição –, vale registrar que as linhas básicas do modelo constitucional federal referente ao processo legislativo são de absorção compulsória pelas Constituições Estaduais e Leis Orgânicas, conforme entendimento do Supremo Tribunal Federal[1]. Vou ilustrar: em âmbito federal o Presidente da República pode editar Medidas provisórias, certo? Bom, se uma Constituição estadual resolver prever essa possibilidade para o Governador, deverá observar as regras que estão na CF/88 regendo a edição/produção de efeitos dessa espécie normativa. Desta forma, assim como a MP editada em âmbito federal, a editada pelo Governador só poderá produzir efeitos por 60 dias, prorrogáveis (uma única vez) por mais 60. Não poderia o documento constitucional estadual determinar que naquela entidade federativa a MP produziria efeitos por mais tempo.
+
+Para exemplificar, lembremos da decisão proferida pelo STF em fevereiro de 2022, na ADI 6453/RO[2], no sentido da inconstitucionalidade de dispositivo da Constituição do Estado de Rondônia que estabeleceu que a aprovação de emendas à Constituição estadual dependeria do voto de 2/3 dos Deputados Estaduais. Ora, como a Constituição Federal (no art. 60, § 2º) determina que a maioria necessária para a aprovação de uma emenda constitucional é de 3/5 dos Deputados Federais e dos Senadores, nota-se logo que a CE/RO não seguiu o modelo previsto na Constituição Federal! E, como já dito, as regras básicas do processo legislativo previstas na Constituição Federal são de observância obrigatória pelos Estados-membros, por força do princípio da simetria (art. 25 da CF/88 e art. 11 do ADCT). 
+
+Da mesma forma, também em homenagem ao princípio da simetria, as matérias nas quais a iniciativa pertencer de forma reservada ao Presidente da República (art. 61, § 1°, CF/88) deverão ser atribuídas aos Governadores e Prefeitos, no que couber[3]. Deste modo, como só o Presidente apresenta (na esfera federal) projetos de lei sobre temas que estão elencados no art. 61, § 1°, somente os governadores apresentarão projetos de lei sobre esses mesmos temas em âmbito estadual.
+
+No mais, considero importante já lhe lembrar que eventuais desobediências às regras constitucionais de processo legislativo vão gerar a inconstitucionalidade formal da lei ou do ato normativo elaborado. Essa inconstitucionalidade, fruto de um processo legislativo ilegítimo, poderá ser:
+
+(i) evitada no controle de constitucionalidade político preventivo, desenvolvido externamente ao Poder Judiciário, pelo Poder Legislativo (através da atuação das Comissões de Constituição e Justiça – que podem impedir que um projeto de lei inconstitucional seja levado à votação[4]) e pelo Poder Executivo, por meio do veto jurídico presidencial – no qual o Presidente veta um projeto de lei ao argumento de que ele é inconstitucional[5];
+
+(ii) refreada pelo Poder Judiciário, por meio do excepcional controle de constitucionalidade jurisdicional preventivo, no qual os parlamentares defendem seu direito público subjetivo à correta e estrita observância do devido processo legislativo, o que os permite manejar o mandado de segurança individual (impetrado pelos parlamentares federais perante o Supremo Tribunal Federal) em todas as oportunidades em que forem desrespeitadas as normas constitucionais referentes à elaboração das espécies normativas[6]. Conforme posicionamento estável do STF, o “parlamentar tem legitimidade ativa para impetrar mandado de segurança com a finalidade de coibir atos praticados no processo de aprovação de leis e emendas constitucionais que não se compatibilizam com o processo legislativo constitucional”[7].
+
+Não custa destacar que o STF[8] tem reafirmado esse entendimento, ao considerar que o sistema constitucional pátrio não autoriza que o controle de constitucionalidade judicial prévio seja utilizado como regra. A jurisprudência da Corte está consolidada no sentido de, ordinariamente, não serem admitidas as demandas judiciais com essa finalidade.
+
+O STF, portanto, segue reconhecendo somente duas exceções a essa regra: (1) proposta de emenda à Constituição manifestamente ofensiva a cláusula pétrea; e (2) projeto de lei ou de emenda em cuja tramitação se verifique evidente afronta a cláusula constitucional que disciplina o correspondente processo legislativo. Percebe-se que, em ambos os casos, o vício de inconstitucionalidade está diretamente relacionado aos aspectos formais e procedimentais da atuação legislativa. Nessas circunstâncias, a impetração de segurança é admissível porque busca corrigir vício efetivamente concretizado, antes e independentemente da final aprovação da norma.
+
+(iii) Ademais, se o controle preventivo não funcionar e for aprovada uma lei possuidora de algum vício, ainda existe a possibilidade de a inconstitucionalidade ser reconhecida pelo Poder Judiciário no exercício do controle repressivo de constitucionalidade – enquanto o controle preventivo atinge a espécie normativa no momento em que ela está sendo confeccionada, isto é, no curso do processo legislativo, o controle repressivo é aquele que alcança a norma que já está pronta e acabada (produzindo, ou apta a produzir, seus efeitos essenciais).
+
+Por fim, é importante destacar que o controle jurisdicional da interpretação do sentido e do alcance das normas regimentais das Casas Legislativas somente pode ser feito se ficar demonstrado o desrespeito às regras constitucionais atinentes ao processo legislativo. Em junho de 2021, no julgamento do Recurso Extraordinário (RE) nº 1.297.884, o STF confirmou esse entendimento e fixou a seguinte tese: “Em respeito ao princípio da separação dos Poderes, previsto no artigo 2º da Constituição Federal, quando não caracterizado o desrespeito às normas constitucionais pertinentes ao processo legislativo, é defeso ao Poder Judiciário exercer o controle jurisdicional em relação à interpretação do sentido e do alcance de normas meramente regimentais das Casas Legislativas, por se tratar de matéria interna corporis”.
+
+Para auxiliar na fixação, visualize o esquema[9] posto abaixo: 
+
+[[grafico]]
+
+
+Bom, informações introdutórias já apresentadas, vamos iniciar nossa específica análise das normas que regem o processo legislativo no Brasil.
+
+================
+
+20.2 - Processo legislativo
+
+Processo Legislativo: Espécies
+Existem diversas classificações possíveis para o processo legislativo. Uma muito importante e constante em prova, prezado aluno, é aquele referente às suas fases e ritos procedimentais. Nesse contexto, o processo legislativo pode ser classificado de três formas. Vejamos:
+
+(i) Ordinário: utilizado para a elaboração de lei ordinária. É o procedimento básico previsto na Constituição da República e caracteriza-se pela total ausência de prazos para a realização dos atos de deliberação e votação;
+
+(ii) Sumário ou abreviado: assemelha-se ao ordinário, pois possui as mesmas fases e os mesmos atos, mas distingue-se deste por possuir prazo para a deliberação e votação. Sua utilização fica na dependência da vontade do Presidente da República, a quem a Constituição confere, com exclusividade, legitimidade para solicitar a tramitação dos projetos de sua iniciativa no regime de urgência constitucional;
+
+(iii) Especial: utilizado para a feitura das demais espécies normativas, a saber, emenda constitucional, lei complementar, lei delegada, medida provisória, decreto legislativo, resolução e as Leis Financeiras (PPA – Plano Plurianual, LDO – Lei de Diretrizes Orçamentárias, LOA – Lei Orçamentária Anual). Os procedimentos especiais baseiam-se em ritos diferenciados, que se afastam (ao menos em algum aspecto) da normativa geral estabelecida para a elaboração das leis ordinárias.
+
+Esquematicamente[1]:
+
+[[grafico]]
+
+Um detalhe importante: em se tratando do procedimento de elaboração das leis complementares, é certo afirmar que, em termos constitucionais[2], seguem o mesmo processo de formação das leis ordinárias, só havendo uma única diferença constitucionalmente estabelecida: a maioria para a aprovação – afinal, para a validação dos projetos de leis complementares é exigida manifestação favorável de maioria absoluta (art. 69, CF/88), enquanto a aprovação das leis ordinárias exige, tão somente, a manifestação favorável de maioria simples (art. 47, CF/88). Por isso, já se discutiu se o procedimento de feitura de leis complementares segue o procedimento ordinário, em razão da semelhança, ou se o procedimento é especial, em virtude da distinção constitucional referente à maioria de aprovação. Somos partidários da segunda corrente: o procedimento é especial, porque específico em face daquele previsto para a lei ordinária. 
+
+Observe o esquema abaixo[3]:
+
+[[grafico]]
+
+Outra coisa que deve ser dita é a seguinte: em que pese a circunstância de a lei complementar ser aprovada por uma maioria mais difícil de ser alcançada que a maioria de aprovação da lei ordinária, não há hierarquia entre elas. Ambas são espécies normativas primárias, que se situam abaixo da Constituição Federal (são normas infraconstitucionais).
+
+Ademais, lembremos que uma outra distinção que a Constituição Federal de 1988 estabelece entre essas duas espécies normativas é referente ao aspecto material. Enquanto LC tem matéria taxativa (a CF/88 determina expressamente que certos assuntos deverão ser regulamentados via LC), LO tem matéria residual (será utilizada naquelas hipóteses em que a CF/88 não pediu expressamente nenhuma outra espécie normativa: não pediu LC, nem Resolução, nem Decreto-legislativo).
+
+Em conclusão, em nossa Constituição, há uma diferença formal entre LO e LC (maioria de aprovação), e uma material (LC tem matéria taxativa e LO tem matéria residual). Vale destacar, por fim, que nos regimentos internos das Casas Legislativas existem outras distinções formais/procedimentais entre LO e LC. 
+
+(C) Espécies normativas
+(C.1) Introdução
+Temos sete espécies normativas primárias, a saber: (1) emendas constitucionais; (2) leis complementares; (3) leis ordinárias; (4) leis delegadas; (5) medidas provisórias; (6) decretos legislativos; e (7) resoluções.
+
+Prezado aluno, uma vez que o procedimento das emendas constitucionais é estudado em aula pertinente (referente à reforma e revisão constitucional), iniciaremos nosso estudo com a análise do procedimento de elaboração das leis ordinárias.
+
+(C.2) Leis ordinárias – processo legislativo ordinário
+Parece uma informação básica demais, todavia, não custa começar o tópico lhe lembrando que o processo legislativo ordinário é aquele que deve ser observado na elaboração das leis ordinárias.
+
+Trata-se do procedimento mais básico e completo. Caracteriza-se pela ausência de prazos para a realização dos atos de deliberação e votação. Apesar de mais demorado, este procedimento comporta uma maior oportunidade para o exame, o estudo e a discussão do projeto. Divide-se em três fases, a saber:
+
+(1) introdutória;
+
+(2) constitutiva; e
+
+(3) complementar.
+
+A cada uma das fases corresponde a prática de certos atos. Na fase introdutória um único ato é praticado, qual seja, a iniciativa. Já na fase constitutiva temos a realização de três atos, a deliberação, a votação e a sanção ou veto (deliberação executiva). Por fim, na fase complementar, também denominada “fase de integração de eficácia”, realizam-se a promulgação e a publicação.
+
+Esquematicamente[4] podemos resumir o processo legislativo ordinário da seguinte forma:
+
+[[grafico]]
+
+Vejamos algumas questões que já cobraram essas informações iniciais referentes ao processo legislativo:
+
+
+---> fazer questões
+---> fazer questões
+---> fazer questões
+---> fazer questões
+
+(1) Fase introdutória
+(1.1) Primeiras palavras
+A fase introdutória é a que inaugura o processo de elaboração das leis ordinárias, por meio do ato “iniciativa” – termo que pode ser conceituado como sendo a capacidade de deflagrar o processo legislativo, isto é, de iniciá-lo.
+
+Nossa Constituição Federal estabelece um rol amplo daqueles que são legitimados a estrear o processo legislativo ordinário, afinal a prerrogativa foi atribuída a qualquer membro ou Comissão da Câmara dos Deputados, do Senado Federal ou do Congresso Nacional, ao Presidente da República, ao Supremo Tribunal Federal, aos Tribunais Superiores, ao Procurador-Geral da República e aos cidadãos (art. 61, caput, CF/88).
+
+Essa capacidade de apresentar um projeto de lei, dando início ao processo legislativo, pode ser classificada em diferentes tipologias, para melhor ser compreendida:
+
+(i) Iniciativa parlamentar: presente na nossa Constituição Federal, é extraída da concessão da prerrogativa para apresentação de projetos de lei aos membros e comissões do Poder Legislativo. Assim, a iniciativa pode ser, por exemplo, de um Deputado Federal, de um Senador da República, das Mesas Diretoras, das Comissões internas, da Presidência das Casas.
+
+(ii) Iniciativa extraparlamentar: quando a iniciativa pode ser exercida por autoridades ou instituições que não integram o Poder Legislativo. No nosso texto constitucional, podemos visualizar essa hipótese quando a iniciativa é concedida ao Presidente da República, ao Supremo Tribunal Federal, aos Tribunais Superiores, ao Procurador-Geral da República e, ainda, aos cidadãos.
+
+(iii) Iniciativa concorrente ou plúrima: é a que pertence simultaneamente a mais de um legitimado. Exemplo no atual texto constitucional: a iniciativa de lei sobre a organização do Ministério Público da União é da competência concorrente entre o Presidente da República e o Procurador-Geral da República (art. 61, § 1º, II, “d” c/c art. 128, § 5º, ambos da CF/88).
+
+(iv) Iniciativa vinculada: absolutamente excepcional e dependente de previsão constitucional expressa, envolve as situações nas quais o legitimado é obrigado a dar início ao processo legislativo, na forma e nos prazos estabelecidos pela Constituição. Exemplo: são vinculadas as iniciativas para apresentação dos projetos das leis orçamentárias (Lei do Plano Plurianual – PPA, Lei de Diretrizes Orçamentárias – LDO, Lei do Orçamento Anual – LOA), que devem ser apresentados ao Legislativo, privativamente pelo chefe do Executivo, nos prazos estabelecidos pela Constituição[5].
+
+Nos dizeres do STF, a teoria geral do processo legislativo, ao versar sobre a questão da iniciativa vinculada das leis,
+
+adverte que esta somente se legitima – considerada a qualificação eminentemente constitucional do poder de agir em sede legislativa – se houver, no texto da própria Constituição, dispositivo que, de modo expresso, a preveja. Em consequência desse modelo constitucional, nenhuma lei, no sistema de direito positivo vigente no Brasil, dispõe de autoridade suficiente para impor, ao chefe do Executivo, o exercício compulsório do poder de iniciativa legislativa.[6]
+
+(v) Iniciativa geral: é a regra geral no processo legislativo. Outorgada a certos legitimados para apresentação de projeto de lei sobre matérias variadas, indeterminadas, isto é, para apresentação de projetos que tragam direito novo sobre diversas matérias, com exceção daquelas que estão reservadas a alguma autoridade ou órgão. No nosso atual diploma constitucional, os legitimados possuidores de iniciativa geral são os membros ou comissões da Câmara dos Deputados, do Senado Federal ou do Congresso Nacional e, ainda, o Presidente da República e os cidadãos.
+
+Mas saiba, estimado aluno, que possuir iniciativa geral não significa possuir competência irrestrita para apresentar projetos de lei sobre qualquer matéria, qualquer assunto. Em verdade, quem tem iniciativa geral detém a prerrogativa de apresentar projetos de lei sobre diversas matérias, ressalvadas as hipóteses de iniciativa reservada. Por exemplo: como nossa Constituição reservou ao Supremo Tribunal Federal a iniciativa para apresentar o projeto de lei complementar que disporá sobre o Estatuto da Magistratura (art. 93, CF/88), nenhum outro legitimado, mesmo os que tenham iniciativa geral, poderão apresentar projeto de lei relativamente a este assunto. Do contrário, se o fizerem, estarão violando uma regra da Constituição e, consequentemente, estarão construindo um projeto inconstitucional.
+
+(vi) Iniciativa privativa (exclusiva ou reservada): ocorre quando o processo legislativo só pode ser deflagrado por determinadas autoridades ou órgãos, sob pena de se configurar um vício formal de iniciativa, caracterizador da inconstitucionalidade do ato normativo. A iniciativa privativa do Presidente da República para os temas elencados no art. 61, § 1º, CF/88 é um clássico exemplo de iniciativa reservada, afinal, ou o projeto é apresentado pelo Presidente ou então, se apresentado por qualquer outra autoridade ou entidade, será inconstitucional. Outros exemplos: a iniciativa da Câmara dos Deputados (art. 51, IV, CF/88) e do Senado Federal (art. 52, XIII, CF/88) para apresentar o projeto de lei fixando a remuneração de seus servidores Vale lembrar que a competência para fixar o subsídio para os Deputados Federais e os Senadores da República é do Congresso Nacional, nos termos do art. 49, VII, CF/88).
+
+(1.2) Iniciativa privativa do Presidente da República
+Nossa Constituição Federal (em seu art. 61, § 1º) reservou algumas matérias à iniciativa privativa do Presidente da República, de modo a colocar a regulamentação dos assuntos na sua dependência única e exclusivamente, não podendo haver, em nenhuma hipótese, regulamentação destas matérias por iniciativa de outras autoridades ou órgãos.
+
+Em homenagem ao princípio da simetria, o dispositivo que agrega as matérias que são de iniciativa privada do Presidente da República é de repetição obrigatória para os demais entes federados. Estes, ao regulamentarem o processo legislativo nos seus documentos fundamentais (Constituições estaduais e Leis Orgânicas municipais e distrital), devem observar rigorosamente a previsão expressa da Constituição Federal e reservar, ao chefe do Poder Executivo respectivo, a possibilidade de deflagrar o processo legislativo.
+
+Vou exemplificar este cenário com a iniciativa de projeto de lei que cria cargos, funções ou empregos públicos na administração federal direta e autárquica ou promove o aumento de sua remuneração (art. 61, § 1°, II, ‘a’, CF/88). Como em âmbito federal a iniciativa é presidencial, o poder decorrente deverá, necessariamente, reservar essa mesma iniciativa em âmbito estadual ao Governador do Estado-membro.
+
+(1.3) Iniciativa dos chefes do Ministério Público (Procurador-Geral da República e Procuradores-Gerais de Justiça)
+O Ministério Público, órgão autônomo e independente, possui a prerrogativa de deflagrar o processo legislativo por meio da apresentação do projeto de lei complementar que regulamentará sua organização.
+
+Na esfera federal, a iniciativa será concorrente entre o Procurador-Geral da República e o Presidente da República (art. 61, § 1º, II, “d”, c/c art. 128, § 5º, todos da CF/88). Segundo o STF: “Na esfera federal, parece claro que a intenção do constituinte foi atribuir ao Presidente da República e ao Procurador-Geral da República iniciativa concorrente para editar lei complementar dispondo sobre a organização, as atribuições e o estatuto do Ministério Público da União – atual Lei Complementar n. 75/1993” (ADI 400-ES, julgamento em junho de 2022).
+
+Ora, se as regras básicas de processo legislativo federal são de observância obrigatória para os estados-membros, também nessa seara deveria ser observada a iniciativa concorrente (entre o governador e o PGJ). Todavia, a partir do julgamento da ADI 5700, de setembro de 2019, houve uma mudança de entendimento no que se refere à iniciativa em âmbito estadual. Segundo o voto do Min. Alexandre de Moraes, “A atribuição do Chefe do Poder Executivo não se estenderia aos Estados-Membros no que diz respeito à iniciativa das leis voltadas a regulamentar a organização, as atribuições e o estatuto dos Ministérios Públicos dos entes federados, a qual seria exclusiva do Procurador-Geral de Justiça, por aplicação direta do art. 128, § 5º, da Constituição Federal”. Ele argumentou que “No tocante à União, por tratar-se de prerrogativa institucional, foi excepcional a previsão constitucional de hipótese de iniciativa legislativa concorrente para apresentação de projeto de lei complementar federal que disporá sobre a organização do Ministério Público da União, do Distrito Federal e dos Territórios (CF, art. 61, § 1º, II, d, e art. 128, § 5º). Assim, apesar de o art. 61 prever as hipóteses de iniciativa privativa do Presidente da República, o próprio texto constitucional ressalvou, no § 5º do art. 128, a possibilidade de concorrência do Procurador-Geral da República”. Ademais, disse o Min., “Em relação aos Ministérios Públicos estaduais, porém, essa dicotomia não existe, pois o texto constitucional, com exclusividade, reservou aos respectivos Procuradores-Gerais de Justiça de cada Estado-Membro a iniciativa para lei complementar que estabelecerá a organização, as atribuições e o estatuto de cada Ministério Público (CF, art. 128, § 5º).
+
+Atualmente, portanto, nossa Corte Suprema entende que no contexto dos Estados e do Distrito Federal, coexistem dois regimes: (1) o da Lei Orgânica Nacional do Ministério Público – Lei n. 8.625/1993 –, editada com base no art. 61, § 1º, II, “d”, do Diploma Maior, a qual contém norma geral de organização do Ministério Público da União, dos Estados, do Distrito Federal e dos Territórios, com o objetivo de garantir a uniformidade entre os Ministérios Públicos das unidades federadas e, assim, coibir disparidades institucionais; e (2) o da Lei Orgânica do Estado, com natureza de lei complementar, de iniciativa do Procurador-Geral de Justiça, a versar, em caráter suplementar e levando em conta o interesse local, sobre a organização e o estatuto do Ministério Público do ente federado.
+
+Obs.: Em junho de 2022, na ADI 400-ES, o STF confirmou que é inconstitucional a atribuição de iniciativa privativa a governador de estado para leis que disponham sobre a organização do Ministério Público estadual – por violação do art. 128, § 5º, CF/88, que faculta ao Procurador-Geral de Justiça a iniciativa para o projeto de lei que trate sobre a organização do MP. Assim, as leis complementares estaduais que tratem desses temas, vale dizer, que estabeleçam a organização, as atribuições e o estatuto dos respectivos Ministérios Públicos, são de iniciativa do PGJ do Estado. Tais leis estaduais, evidentemente, deverão respeitar todo o regramento posto pela Constituição Federal, bem como pela Lei Orgânica Nacional do Ministério Público (Lei nº 8.625/1993). Destarte, no âmbito dos Ministérios Públicos estaduais existem dois regimes de organização: (1) a Lei Orgânica Nacional, que fixa as normas gerais da carreira – e é norma de iniciativa privativa do Presidente da República (art. 61, § 1º, II, “d”, da CF/88); (2) a Lei Orgânica do respectivo Estado-membro, de iniciativa do Procurador-Geral de Justiça, por meio do qual são definidas regras específicas.
+
+Em relação aos Ministérios Públicos que atuam em conjunto com os Tribunais de Contas, destaca-se que a iniciativa será do respectivo Tribunal de Contas devido à vinculação que aqueles (MPs) têm com estes.
+
+Por fim, será de iniciativa privativa do Ministério Público (do Procurador-Geral da República e dos Procuradores-Gerais de Justiça) a lei que regulamente a criação e extinção de seus cargos e serviços auxiliares, a política remuneratória e os planos de carreira (art. 127, § 2º, CF/88). 
+
+(1.4) Iniciativa de lei do Poder Judiciário
+Vejamos os casos em que o processo legislativo somente poderá ser exercido por iniciativa dos órgãos integrantes do Poder Judiciário:
+
+(i) a Constituição reservou aos Tribunais em geral a proposta de criação de novas varas (art. 96, I, “d”, CF/88);
+
+(ii) separou, somente para o Supremo Tribunal Federal, a iniciativa para apresentar o projeto de lei complementar que disporá sobre o Estatuto da Magistratura (art. 93, CF/88);
+
+(ii) ressalvou, para o STF, Tribunais Superiores e Tribunais de Justiça (art. 96, II, CF/88):
+
+– a alteração do número de membros dos Tribunais inferiores;
+
+– a criação e a extinção de cargos e a remuneração dos seus serviços auxiliares e dos juízos que lhes forem vinculados, bem como a fixação do subsídio de seus membros e dos juízes, inclusive dos Tribunais inferiores, onde houver;
+
+– a criação ou extinção dos Tribunais inferiores;
+
+– a alteração da organização e da divisão judiciárias;
+
+(iv) por fim, a Constituição outorgou aos Tribunais de Justiça a iniciativa de elaboração de lei que regulamenta a organização judiciária em âmbito estadual (art. 125, § 1º, CF/88). 
+
+(1.5) Iniciativa popular
+Vou começar lhe informando que em nosso ordenamento o rigor excessivo das exigências constitucionais postas no art. 61, § 2° dificulta muito a apresentação, na Câmara dos Deputados, de projetos de lei (ordinária ou complementar) de iniciativa popular. Alguns autores, por isso mesmo, afirmam tratar-se a iniciativa popular de um “instituto decorativo”[7] em nossa Constituição.
+
+Exatamente por causa disso, são poucas as leis resultantes desse mecanismo de deflagração. Spor enquanto, somente a Lei nº 11.124/2005 (que dispõe sobre o Sistema Nacional de Habitação de Interesse Social e cria o Fundo Nacional de Habitação de Interesse Social) e a Lei Complementar nº 135/2010 (conhecida como “Lei da ficha limpa”) foram frutos dessa específica modalidade de iniciativa.
+
+Pois bem. Vejamos agora quais são esses tais requisitos: de acordo com a Constituição, o projeto de lei de iniciativa popular deve ser subscrito por pelo menos um por cento do eleitorado nacional (só cidadãos podem assinar), distribuídos em pelo menos cinco Estados-membros sendo que, em cada um dos Estados-membros participantes, não se pode reunir menos que três décimos por cento do número total de eleitores de cada um deles (art. 61, § 2º, CF/88). Para lhe ajudar a gravar esses detalhes, sugiro a memorização do número “1503”[8]:
+
+[[grafico]]
+
+Obs.: O Regimento Interno da Câmara dos Deputados também trata do tema (em seu art. 252), prevendo requisitos adicionais para o exercício da iniciativa popular de leis, dentre os quais destacamos: a assinatura de cada eleitor deve ser acompanhada de seu nome completo e legível, endereço e dados identificadores de seu título eleitoral; as listas de assinaturas devem ser organizadas por Município e por Estado, Território e Distrito Federal, em formulário padronizado pela Mesa da Câmara; o projeto será protocolizado na Secretaria-Geral da Mesa da Câmara, que verificará se foram cumpridas as exigências constitucionais para sua apresentação.
+
+No mais, saiba que por aplicação do princípio da simetria, o poder derivado decorrente, ao elaborar as Constituições estaduais, deve prever a iniciativa popular de lei em âmbito estadual (art. 27, § 4º, CF/88). E, pelo mesmo princípio, existe também iniciativa popular em âmbito municipal, com a apresentação de projetos de lei de interesse específico do Município, da cidade ou de bairros, através de manifestação de, pelo menos, cinco por cento do eleitorado, conforme art. 29, XIII, CF/88.
+
+Observe o esquema[9] abaixo:  
+
+[[[]]]
+
+(1.6) Considerações finais sobre iniciativa
+Em finalização ao estudo do ato “iniciativa”, uma última questão precisa ser examinada. Saiba que o vício de iniciativa é um vício de forma, que mostra que houve uma clara violação ao trâmite legislativo constitucionalmente previsto e ocasiona a inconstitucionalidade total da lei produzida. Assim, quando a iniciativa for conferida de forma privativa a alguém, só temos dois caminhos: (1) ou a exclusividade para a propositura é respeitada ou (2) a lei resultante do projeto será inconstitucional. Não há meio termo. Tal inconstitucionalidade, decorrente do vício de inciativa, pode ser classificada como ‘inconstitucionalidade formal propriamente dita subjetiva’.
+
+Apesar das considerações acima feitas, a doutrina discute o efeito da sanção presidencial em relação a projetos viciados por usurpação de iniciativa reservada: seria essa manifestação de concordância presidencial dada a um projeto de lei capaz de sanar o vício de iniciativa? O que você acha?
+
+Veja bem: quando a iniciativa violada é aquela conferida de forma reservada aos Tribunais ou ao PGR creio que não haja qualquer discussão digna de destaque. A sanção não pode convalidar o projeto simplesmente porque ela é resultado de um ato praticado pelo Presidente da República e este não pode, com sua concordância manifestada na sanção, suprir a necessária manifestação da entidade/autoridade a quem a Constituição conferiu a possibilidade de deflagração do processo legislativo.
+
+O problema, no entanto, ganha contornos distintos quando a iniciativa está reservada ao Presidente da República, é usurpada e, posteriormente, ele mesmo sanciona (expressa ou tacitamente) o projeto de lei.
+
+Será que neste último caso, teria a sanção presidencial força normativa para corrigir o projeto de lei apresentado por quem não estava constitucionalmente autorizado para tanto? Em outras palavras: a iniciativa do Presidente foi usurpada, mas ele depois concordou com o projeto (tanto que o sancionou). Essa concordância dada posteriormente não resolve o problema?
+
+Segundo a doutrina majoritária não. A sanção não acarreta a convalidação do projeto de lei. O argumento, que me parece irrefutável, é a supremacia da Constituição, que torna nula (e não simplesmente anulável) qualquer lei adversa ao documento constitucional. E como todo ato nulo, essa lei terá por característica fundamental a impossibilidade de ser convalidada.
+
+Em conclusão, e exemplificando, quando um projeto de lei que trata de tema para o qual a Constituição reservou iniciativa exclusiva para o Presidente da República é apresentado por um parlamentar, a inconstitucionalidade já contaminou a espécie normativa. De nada adianta que o projeto seja discutido e aprovado pelas duas Casas Legislativas e, posteriormente, remetido à deliberação executiva, pois nem mesmo a posterior concordância do Presidente da República, por meio da sanção, será capaz de corrigir o vício formal de iniciativa. Afinal, este defeito, tal qual um “pecado original”, vai contaminar de nulidade incorrigível toda a formação da lei, nunca podendo ser convalidado, corrigido, sequer através da sanção presidencial.
+
+Para reforçar essa nossa posição, saiba que é esse o entendimento do Supremo Tribunal Federal:
+
+A sanção do projeto de lei não convalida o vício de inconstitucionalidade resultante da usurpação do poder de iniciativa. A ulterior aquiescência do chefe do Poder Executivo, mediante sanção do projeto de lei, ainda quando dele seja a prerrogativa usurpada, não tem o condão de sanar o vício radical da inconstitucionalidade. Insubsistência da Súmula nº 5, STF[10].
+
+---> fazer questões
+---> fazer questões
+---> fazer questões
+---> fazer questões
+
+======================
+
+20.3 Processo Legislativo
+
+Fase constitutiva (atos de deliberação legislativa, votação e deliberação executiva – sanção ou veto presidencial)
+(2.1) A Casa iniciadora
+Em virtude do bicameralismo federativo, no processo legislativo desenvolvido em âmbito federal teremos a apreciação do projeto de lei por duas Casas Legislativas, a Câmara dos Deputados e o Senado Federal. Uma delas funcionará como Casa iniciadora e será responsável pela deliberação principal. A outra será, por conseguinte, a Casa revisora e fará a deliberação revisional.
+
+O caput do art. 64, CF/88 nos indica que, em regra, a Câmara dos Deputados é a Casa iniciadora e o Senado a revisora, afinal aquela será a primeira a examinar os projetos de lei de iniciativa do Presidente da República, do Supremo Tribunal Federal e dos Tribunais Superiores.
+
+No mesmo sentido temos o art. 61, § 2º, CF/88, que determina que os projetos de lei de iniciativa popular serão apresentados à Câmara dos Deputados. A esta Casa é também encaminhado o projeto de lei apresentado pelo Procurador-Geral da República, conforme entendimento doutrinário[1].
+
+Em conclusão, o Senado Federal funcionará, ordinariamente, como Câmara legislativa revisora, só sendo a primeira Casa a apreciar o projeto de lei quando este for apresentado por um membro seu (um Senador da República) ou por uma comissão sua. Nestes dois casos a Câmara dos Deputados fará a análise revisional do projeto de lei.
+
+Para auxiliar na fixação, visualize o esquema[2] posto abaixo: 
+
+[[[]]]
+
+
+(2.2) Deliberação
+
+A deliberação nada mais é do que a submissão do projeto de lei à discussão.
+
+Deliberar é, portanto, discutir. Como o projeto de lei ordinária federal será sempre apreciado por ambas as Casas do Congresso Nacional, em cada uma delas, antes da votação, será feita uma análise prévia do projeto pelas comissões.
+
+Em termos procedimentais, pode-se dizer que ambas as Casas (iniciadora e revisora) – cada qual no momento em que o projeto chegar à sua apreciação – submeterão a proposição normativa a um exame temático, no qual o mérito da proposta poderá ser verificado (nas comissões temáticas), bem como a um exame de constitucionalidade (na respectiva Comissão de Constituição e Justiça).
+
+Sabe quem define, caro aluno, em quais comissões o projeto de lei irá tramitar? É o Presidente da Casa Legislativa. No entanto, independentemente das escolhas por ele feitas, o projeto necessariamente deverá ser submetido à análise da respectiva Comissão de Constituição e Justiça (CCJ), que avalia, além da constitucionalidade do projeto, também sua legalidade, sua regimentalidade, sua juridicidade e a técnica legislativa das proposições.
+
+Importante destacar que a CCJ oferta parecer terminativo ao projeto de lei se o considera inconstitucional, rejeitando e arquivando definitivamente a proposição, por despacho do Presidente da Casa. No entanto, se não for unânime o parecer, caberá recurso (por um décimo dos membros da Casa). Tratando-se de inconstitucionalidade parcial, a Comissão poderá oferecer emenda corrigindo o vício[3].
+
+Nesse cuidadoso exame formal feito pela CCJ, caso a comissão impeça a votação do projeto ao argumento de que ele é inconstitucional, realizará controle político preventivo de constitucionalidade. Diz-se “político” porque está sendo feito por órgão que está fora do Poder Judiciário; “preventivo” porque o controle recai sobre projeto de lei, ou seja, espécie normativa ainda em fase de elaboração. Mais informações sobre esta hipótese de controle de constitucionalidade podem ser encontradas no capítulo referente ao tema.
+
+O projeto passará, portanto, pelas comissões temáticas (que farão uma análise da proposição quanto à matéria – ressalte-se que a deliberação destas comissões é meramente opinativa, não vinculando a deliberação plenária) e, após, pela CCJ. O ato de deliberação realiza-se, pois, por meio da análise das comissões. Após ele, se não há empecilhos (pareceres terminativos), o projeto é posto em votação no plenário.
+
+Atenção, todavia, meu caro aluno, a uma importante possibilidade constitucional, decorrente da previsão do art. 58, § 2º, I, CF/88!
+
+Este artigo autoriza que o projeto de lei, a depender do tema tratado, seja não só discutido mas, também, votado no âmbito interno de uma comissão temática, caracterizando o que se denomina de delegação interna corporis.
+
+Neste caso, por autorização do regimento interno da Casa Legislativa, o projeto seria não só discutido pela comissão temática, mas também por ela votado, salvo se houver recurso de um décimo dos membros contrários à delegação.
+
+Enfim, realizada a deliberação pelas comissões, e não sendo o caso de delegação interna, o projeto é enviado para a deliberação plenária da Casa respectiva, onde será discutido e votado.
+
+E antes de falarmos da votação, vamos resolver juntos algumas questões! 
+
+---> fazer questões
+---> fazer questões
+---> fazer questões
+---> fazer questões
+
+(2.3) Votação Plenária
+No plenário, para início da votação, deve ser observado o quórum de instalação da sessão, qual seja, a maioria absoluta (que na Câmara dos Deputados equivale a 257 membros e no Senado Federal a 41 Senadores). Uma vez instalada a sessão, há que se observar a maioria de aprovação que, em se tratando de lei ordinária, será a maioria simples (art. 47, CF/88) e, em se tratando de lei complementar, será a maioria absoluta (art. 69, CF/88).
+
+Na votação em plenário, duas coisas podem acontecer na Casa iniciadora: ela poderá rejeitar ou aprovar o projeto (com ou sem alterações ao seu texto inicial).
+
+(i) Havendo aprovação (com ou sem emendas), o projeto deve ser encaminhado à Casa revisora que irá realizar a deliberação e a votação.
+
+(ii) Com a rejeição, o projeto será encaminhado ao arquivo, aplicando-se a ele o princípio da irrepetibilidade, ou seja, não poderá ser novamente apresentado na mesma sessão legislativa, salvo mediante proposta da maioria absoluta dos membros de qualquer das Casas do Congresso Nacional – conforme dispõe o art. 67, CF/88.
+
+Veja então, estimado aluno, que a matéria constante de um projeto de lei rejeitado numa sessão legislativa poderá, excepcionalmente, ser reapreciada na mesma sessão legislativa, mediante o cumprimento da seguinte condição: requerimento apresentado pela maioria absoluta dos membros de qualquer das Casas do Congresso Nacional (conforme o art. 67, CF/88).
+
+Relativamente a este princípio da irrepetibilidade, lembre-se de ficar atento para a circunstância de ele ter sido reproduzido, não sem sensíveis modificações, em dois outros dispositivos no texto constitucional:
+
+(i) no processo de conversão em lei das medidas provisórias (art. 62, § 10, CF/88), quando há a determinação de que a medida provisória rejeitada (expressa ou tacitamente) em uma sessão legislativa não poderá ser reeditada numa mesma sessão legislativa, só a partir de uma próxima; e
+
+(ii) no processo de elaboração de emendas constitucionais, quando há a previsão de que a proposta de emenda havida por prejudicada ou rejeitada numa sessão legislativa somente poderá constituir objeto de nova proposta numa próxima sessão, conforme art. 60, § 5º, CF/88.
+
+Em conclusão, note que a matéria constante de um projeto de lei rejeitado em uma sessão legislativa poderá ser objeto de nova discussão na mesma sessão legislativa, bastando, para tanto, que haja uma solicitação da maioria absoluta dos membros ou da Câmara dos Deputados ou do Senado Federal. Por outro lado, a matéria constante de proposta de emenda constitucional (PEC) rejeitada ou havida por prejudicada numa sessão legislativa não poderá ser objeto de nova proposta na mesma sessão legislativa, só a partir de uma próxima sessão, jamais na mesma. No mesmo sentido, as medidas provisórias (MPs) rejeitadas expressamente (ou que tenham perdido eficácia por decurso de prazo, isto é, tenham sido rejeitadas tacitamente) só podem ser reeditadas em uma sessão legislativa futura, nunca na mesma.
+
+O quadro[4] abaixo resume o que foi dito no parágrafo anterior:
+
+[[[]]]
+
+Vou encerrar nossa análise sobre o princípio da irrepetibilidade registrando duas últimas observações:
+
+(1) a restrição para a reapreciação da proposta de emenda constitucional e reedição da medida provisória só existe na mesma sessão legislativa e não na mesma legislatura. Como “legislatura” é o período de quatro anos que comporta quatro sessões legislativas, pode-se afirmar que uma PEC rejeitada pode ser reapreciada na mesma legislatura, desde que em sessão legislativa distinta; do mesmo modo, uma MP rejeitada pode ser reeditada numa mesma legislatura, desde que em sessão legislativa diferente;
+
+(2) se um projeto de lei for rejeitado numa sessão legislativa e novamente reapreciado na mesma sessão (em razão da retirada dele do arquivo por requerimento da maioria absoluta dos membros de qualquer das Casas do Congresso Nacional) e for, outra vez, rejeitado, isso não impedirá a utilização, mais uma vez, da regra do art. 67, CF/88. Isso significa que não há um limite de vezes para a reapresentação do projeto de lei rejeitado através do acionamento do art. 67, CF/88.
+
+Em continuidade à tramitação do projeto de lei, vale informar que na Casa Legislativa revisora repete-se o mesmo procedimento da Casa iniciadora: o projeto de lei é apreciado e objeto de parecer elaborado pelas comissões (tanto pela Comissão de Constituição e Justiça quanto pelas comissões temáticas pertinentes à discussão). Durante esse período, o relator do projeto de lei em cada comissão receberá as emendas parlamentares, ou seja, as modificações ao texto do projeto apresentadas pelos integrantes da Casa Legislativa.
+
+Sobre as emendas, preciso registrar que nem todos os titulares de iniciativa (isto é, aqueles que podem apresentar o projeto de lei) possuem a titularidade para apresentação de emendas. O poder de emendar é exclusivo dos parlamentares, enquanto a iniciativa para a apresentação de projetos de lei alcança o chefe do Executivo, os Tribunais, o Procurador-Geral da República e os cidadãos.
+
+Quanto ao alcance das emendas, elas podem ser apresentadas a quaisquer projetos de lei, inclusive os de iniciativa reservada.
+
+Nossa Constituição permite as emendas parlamentares, mas não de forma ilimitada. Ficam proibidas as emendas que aumentem despesas nos projetos de iniciativa reservada do Presidente da República (salvo quando, em matéria orçamentária, conforme art. 166, §§ 3º e 4º, CF/88, forem compatíveis com o plano plurianual e com a lei de diretrizes orçamentárias e indicarem os recursos necessários) e nos relativos à organização dos serviços administrativos da Câmara dos Deputados, do Senado Federal, dos Tribunais federais e do Ministério Público. Ressalte-se, ainda, que as emendas feitas aos projetos de lei de iniciativa reservada devem possuir pertinência temática com o tema ali apresentado, sob pena de evidente desrespeito à regra da iniciativa.
+
+Assim, é perfeitamente possível que seja apresentada emenda parlamentar em projeto de lei de iniciativa reservada ao Chefe do Poder Executivo, desde que sejam observados dois requisitos:
+
+(i) haja pertinência temática (a emenda não pode tratar de assunto distinto daquele estruturado no projeto original); 
+
+(ii) a emenda não pode, via de regra, ocasionar aumento das despesas originalmente previstas (art. 63, I, da CF/88 c/c art. 166, §§ 3° e 4°, CF/88). Já disse o STF: “A iniciativa de competência privativa do Poder Executivo não impede a apresentação de emendas parlamentares, presente a identidade de matéria e acompanhada da estimativa de despesa e respectiva fonte de custeio”[5].
+
+Frise-se, contudo, que as emendas produzidas pela Casa revisora não serão avaliadas pela Casa iniciadora quando simplesmente promoverem correções redacionais do projeto ou se elas não modificarem o sentido e alcance da proposição jurídica. De acordo com o STF: “não precisa ser reapreciada pela Câmara dos Deputados expressão suprimida pelo Senado Federal em texto de projeto que, na redação remanescente, aprovada de ambas as Casas do Congresso, não perdeu sentido normativo”.[6] Nesse mesmo sentido, está o art. 135, do RICN: “A retificação de incorreções de linguagem, feita pela Câmara revisora, desde que não altere o sentido da proposição, não constitui emenda que exija sua volta à Câmara iniciadora”.
+
+Na sequência do trâmite legislativo, após a análise feita pelas comissões, a depender do tema do projeto de lei, este poderá ser votado no âmbito interno de uma comissão temática, caracterizando o que mais cedo foi denominado de delegação interna corporis (art. 58, § 2º, I, CF/88). Caso contrário, o projeto segue para a votação em plenário.
+
+Assim como determinado para a Casa iniciadora, na Casa revisora deverá ser observado o quórum de instauração, qual seja, a maioria absoluta para o início da votação. Uma vez instalada a sessão de votação, há que se observar a maioria de aprovação – para lei ordinária, maioria simples (art. 47, CF/88), para lei complementar, a absoluta (art. 69, CF/88).
+
+Aí três coisas poderão acontecer na Casa revisora:
+
+(1) Se o projeto for aprovado sem emendas, será encaminhado ao chefe do Executivo, para sanção ou veto (deliberação executiva).
+
+(2) Caso seja rejeitado, será sepultado no arquivo, de onde pode ser retirado para nova apreciação, na mesma sessão legislativa, desde que haja o requerimento da maioria absoluta dos membros. Sem o respeito a essa formalidade, a reapresentação do projeto de lei só pode se dar numa próxima sessão legislativa.
+
+(3) Uma vez aprovado o projeto com modificações (emendas elaboradas pela Casa revisora), visualiza-se uma situação na qual o texto aprovado pela Casa revisora não foi o mesmo aprovado pela Casa iniciadora. Como a transformação em lei exige que o projeto seja integralmente aprovado por ambas as Casas, deverão as emendas (e tão somente estas) retornar à Casa que primeiro se manifestou sobre o projeto.
+
+A Casa iniciadora irá se manifestar acerca da alteração produzida pela Casa revisora, mas tão somente sobre ela e não sobre o projeto como um todo novamente (conforme art. 65, parágrafo único, CF/88). A deliberação das emendas será feita, em regra, em bloco, vale dizer, todas as emendas serão apreciadas em conjunto, rejeitadas ou aprovadas globalmente.
+
+Na apreciação das emendas pela Casa iniciadora, na qual é vedada a apresentação de subemendas (emendas feitas às emendas), dois são os resultados possíveis:
+
+(1) se a Casa iniciadora acatar as modificações sugeridas pela Casa revisora, o projeto (com as emendas, agora aprovadas pelas duas Casas) seguirá para apreciação executiva;
+
+(2) se a Casa iniciadora recusar as modificações sugeridas pela Casa revisora, o projeto, com sua redação original, sem as emendas, seguirá para o exame do Poder Executivo.
+
+Percebe-se que as Casas Legislativas estão, no processo legislativo, em situação de desigualdade. Isso porque a vontade da Casa iniciadora, responsável pela deliberação principal, prevalece, já que se impõe até mesmo frente às emendas produzidas pela Casa revisora. Segundo a doutrina, isso “repercute uma certa inferiorização do Senado, que é necessariamente a Câmara revisora em todos os projetos de iniciativa presidencial, hoje a maioria e os mais importantes”[7].
+
+Para sintetizar as informações ensinadas, segue o esquema[8]: 
+
+[[[]]]
+
+Por último, insta destacar que tão logo haja a aprovação do projeto de lei (com ou sem emendas) pelas duas Casas Legislativas, ele seguirá para o autógrafo. Este é o documento formal que traduz todo o trâmite legislativo e explicita, com rigor e exatidão, o teor final do projeto de lei, tal qual aprovado pelo Congresso Nacional, antes de ele ser encaminhado ao Presidente da República para sanção ou veto.
+
+Questões para fixar
+
+---> fazer questões
+---> fazer questões
+---> fazer questões
+---> fazer questões
+
+=============
+
+20.4 PROCESSO LEGISLATIVO
+
+Deliberação executiva (sanção ou veto presidencial)
+(2.4.1) Primeiras palavras
+Para finalizar a fase constitutiva do processo legislativo, o projeto de lei que tenha sido discutido/votado/aprovado pelas duas Casas Legislativas deve ser encaminhado ao Presidente da República para sua apreciação. Isso porque, no sistema constitucional pátrio, a elaboração normativa é ato complexo, resultante da vontade de mais de um órgão autônomo.
+
+O chefe do Poder Executivo terá o prazo máximo de quinze dias úteis, contados da data do recebimento do projeto de lei, para analisar a proposição normativa e ofertar uma resposta, em concordância ao texto (sanção) ou em recusa ao mesmo (veto). Vamos falar de cada uma dessas modalidades de manifestação presidencial.
+
+(2.4.2) Sanção
+A sanção é a manifestação de concordância e assentimento presidencial ao texto do projeto, convertendo-o em lei, numa fusão de vontades (ente os Poderes Legislativo e Executivo) que quis o constituinte originário resultasse na lei ordinária. Poderá ser de dois tipos:
+
+(1) expressa, quando o Presidente opinar explícita e formalmente a favor do projeto de lei, durante os quinze dias úteis destinados à sua manifestação;
+
+(2) tácita, quando o Presidente da República se mantiver em silêncio durante o período destinado a sua manifestação (o prazo é de quinze dias úteis – apesar da equivocada ausência da palavra “úteis” no § 3º do art. 66, CF/88).
+
+Observe as duas situações no esquema[1] abaixo: 
+
+[[[]]]
+
+Neste último caso, em que o chefe do Poder Executivo deixa passar o prazo sem apresentar nenhuma conclusão, considera-se o projeto de lei aprovado pelo Presidente.
+
+Segundo a doutrina[2], a modalidade tácita de sanção foi instituída no país para impedir que os projetos de lei fossem “engavetados” e, consequentemente, recusados em silêncio pelo Presidente que, na sua mudez, evitava o desgaste de uma recusa explícita ao trabalho do Congresso Nacional e qualquer posterior hostilidade dos legisladores. No entanto, acabou por se transformar em “um instrumento de covardia política, em modo de querer fingindo não querer”, servindo para concordar com aquilo que não se pode expressamente vetar, “mas que não se tem a coragem de aprovar publicamente, por temor à impopularidade”[3].
+
+Ainda sobre a sanção, vale lembrar que ela pode ser total, quando o Presidente da República concorda com a integralidade do texto do projeto de lei, ou parcial, quando sua aquiescência é dada apenas à parte do texto e, portanto, terá ele sancionado parcialmente e vetado parcialmente o projeto submetido à sua apreciação.
+
+A sanção tácita é sempre total; a sanção expressa pode ser total (quando o Presidente da República concorda com o projeto de lei na sua integralidade) ou parcial (quando apenas alguns artigos são objeto de sua aquiescência). 
+
+(2.4.3) Veto
+O veto representa a discordância total ou parcial do Poder Executivo sobre o projeto de lei aprovado no Poder Legislativo, sendo, pois, a antítese da sanção.
+
+O Presidente da República pode manifestar seu veto ao projeto de lei através da formalização de sua discordância no prazo fatal de quinze dias úteis, impedindo sua transformação em lei (art. 66, § 1º, CF/88).
+
+Sobre o prazo, vale citar uma decisão proferida pelo STF (em junho de 2022, na ADPF 893/DF). Na ocasião, a Corte teve que pronunciar o óbvio: a prerrogativa do poder de veto presidencial somente pode ser exercida dentro do prazo expressamente previsto na Constituição, não sendo possível exercê-la após a expiração dos 15 dias úteis. No caso concreto que ensejou o debate jurídico, foi apenas no 16° dia a contar do recebimento do veto que a Presidência da República providenciou a publicação de edição extra do Diário Oficial da União para divulgar o veto a um dispositivo que havia sido anteriormente sancionado. Ora, é claro que esse tipo de conduta não encontra respaldo na Constituição Federal! Vencido o prazo de 15 dais úteis, diante de eventual silêncio presidencial, o texto do projeto de lei é, necessariamente, sancionado (sanção tácita –art. 66, § 3º) e o poder de veto não mais pode ser exercido. De nada adianta, aliás, o Congresso Nacional deliberar sobre esse veto apresentado fora do prazo e mantê-lo: em sendo tal veto extemporâneo, ele é inconstitucional, e a votação do Poder Legislativo que o mantém não é capaz de sanar (de corrigir) esse vício.
+
+A recusa presidencial ao projeto deve ser, no entanto, fundamentada, podendo o veto justificar-se pela inconstitucionalidade do projeto de lei ou pela contrariedade ao interesse público. No primeiro caso, a razão do veto é jurídica, situando o Presidente da República na posição de guardião da Constituição. Assim, ao vetar juridicamente o projeto de lei, o Presidente realizará controle (político preventivo) de constitucionalidade.
+
+Em contrapartida, quando rejeita o projeto por inconveniência ao interesse público, o veto será intitulado “veto político”. Segundo a doutrina, “Trata-se, nesse último caso, do poder de o Chefe do Poder Executivo – detentor da maioria absoluta dos votos – colocar as políticas de governo como anteparo às iniciativas legislativas com ela colidentes. Trata-se de uma apreciação de âmbito material acerca da conveniência da iniciativa legislativa”[4].
+
+Esquematicamente[5]:
+
+[[[]]]
+
+Quanto ao alcance do veto, lembre-se, caro aluno, que são duas as modalidades possíveis: o veto total e o veto parcial. O primeiro é utilizado quando a discordância presidencial atinge todo o projeto de lei; já o segundo, decorre da divergência presidencial apenas sobre parte do projeto de lei, só podendo atingir o texto integral de artigo, inciso, parágrafo, alínea ou item, não alcançando palavras ou expressões isoladas (art. 66, § 2º, CF/88). Assim, não pode o Presidente vetar trechos isolados ou palavras soltas do projeto: na dicção da Constituição Federal, o veto parcial deverá abranger o texto integral do artigo, do parágrafo, do inciso ou da alínea.
+
+Em sendo total ou parcial, uma coisa é certa: o veto será sempre expresso, pois do silêncio, você já sabe, resulta a sanção tácita.
+
+Também podemos considerar o veto supressivo, afinal é impossível que o Presidente dele se utilize para acrescentar algum termo (ou um novo inciso, alínea ou artigo) ao projeto de lei. Exatamente essa regra é que impede o uso do veto pelo Presidente da República com o intuito de legislar.
+
+Deverá ser também motivado, afinal precisam ser explicitadas as razões que conduziram à discordância. Por isso, determina a Constituição (no art. 66, § 1º), que o veto (com suas razões) seja comunicado ao Presidente do Senado Federal no prazo de quarenta e oito horas.
+
+Segundo a doutrina, o veto tem natureza de ato composto, pois forma-se pela “manifestação de vontade negativa mais a comunicação fundamentada dessa discordância”[6]. Nesse sentido, o veto desmotivado não se aperfeiçoa, gerando a sanção tácita do projeto.
+
+Outra importante característica do veto que deve ser lembrada é sua irretratabilidade, vale dizer, o Presidente da República não pode vetar o projeto de lei e posteriormente mudar de ideia, pretendendo sancioná-lo.
+
+Quanto ao controle que recai sob o veto, a princípio ele é insuscetível de apreciação judicial, sendo examinado, tão somente, pelo Poder Legislativo. O veto, portanto, não importa o arquivamento definitivo do projeto de lei, pois sua reapreciação pelo Poder Legislativo é possível. Nesse sentido, o veto será apreciado em sessão conjunta, dentro de trinta dias a contar de seu recebimento, só podendo ser rejeitado (isto é, derrubado) pelo voto da maioria absoluta dos Deputados Federais e Senadores (art. 66, § 4º, CF/88). Vale frisar que até 2013 o escrutínio era secreto, mas com a edição da EC nº 76 de 28 de novembro de 2013, foi abolida a sessão secreta para apreciação do veto, sendo atualmente a votação feita em sessão aberta.
+
+Caso o veto não seja apreciado em até 30 dias, a pauta da sessão conjunta de Deputados Federais e Senadores ficará obstruída (isto é, “trancada”, com todas as demais deliberações de proposições normativas suspensas) até a análise do mesmo. Sendo derrubado o veto, pelo voto da maioria absoluta dos Deputados e dos Senadores, o projeto estará definitivamente aprovado e será encaminhado ao Presidente da República para promulgação; não se reunindo esta maioria absoluta de cada Casa contra o veto, estará ele mantido e, por conseguinte, será o projeto enviado para o arquivo.
+
+Acerca da suspensão das proposições legislativas da sessão conjunta após o prazo de trinta dias sem a análise do veto, deve-se informar que o Congresso Nacional o ignora ao valer-se de um artifício, por óbvio inconstitucional, previsto em seu regimento interno. De acordo com o previsto no art. 104, § 1º (do RICN) o prazo de trinta dias só é contado a partir da sessão convocada para o conhecimento da matéria, de modo que fique ao crivo do Presidente do Senado Federal (que preside o Congresso Nacional) definir quando e qual veto deverá ser reapreciado.
+
+Corroborando esta ideia, o Plenário do Supremo Tribunal Federal, na discussão envolvendo novas regras de distribuição entre as entidades federadas de royalties e participações especiais devidos em virtude da exploração de petróleo, gás natural e outros hidrocarbonetos fluidos, decidiu que não existe critério cronológico para a análise do Congresso Nacional dos vetos apresentados pelo Presidente da República. Nesse sentido, pode o Poder Legislativo apreciar vetos presidenciais recentes antes de deliberar acerca de vetos mais antigos.
+
+Por fim, as características já enunciadas do veto serão estruturadas abaixo, para permitir que você tenha uma visão abrangente dos conceitos trabalhados neste item[7]:
+
+[[[]]]
+
+---> fazer questões
+---> fazer questões
+---> fazer questões
+---> fazer questões
+
+(3) Fase Complementar (ou de integração de eficácia)
+(3.1) Promulgação
+A promulgação é o ato que atesta formalmente a existência da lei, sendo, pois, a certificação categórica de que o diploma legislativo existe, é executável e potencialmente obrigatório.
+
+Incide sobre um ato já perfeito e acabado, ou seja, sobre a própria lei – o que podemos extrair facilmente da leitura do art. 66, § 7º, CF/88, que menciona como ‘lei’ o ato que será promulgado.
+
+É por isso que se pode concluir que o “projeto de lei” se torna “lei” antes da promulgação, precisamente no momento em que se efetiva a sanção presidencial, (ou, se o Presidente da República tiver vetado, no momento em que o mesmo é derrubado pelo Congresso Nacional). Não por outra razão se diz que o processo legislativo de formação do diploma legislativo se encerra antes de se promulgar a lei.
+
+
+[[[]]]
+
+[8]
+
+Ressalte-se, todavia, que mesmo a lei já existindo antes da promulgação, a praxe no direito brasileiro é que sua data seja a da respectiva promulgação (e não da sanção ou da derrubada do veto).
+
+A promulgação é ato que compete, em princípio, ao Presidente da República que, nos termos do art. 66, § 7º, CF/88, deve promulgar a lei em até quarenta e oito horas, contadas da sanção (expressa ou tácita) ou da comunicação da rejeição do veto. Se não o fizer dentro deste prazo, caberá ao Presidente do Senado Federal fazê-lo, em igual prazo. Se este último também não promulgar a lei no prazo constitucionalmente estipulado, o Vice-Presidente do Senado deverá promulgá-la, imediatamente. 
+
+O esquema[9] posto abaixo, vai lhe ajudar a organizar mentalmente as informações:
+
+[[[]]]
+
+Em desfecho ao tópico, três últimas informações precisam ser apontadas:
+
+(i) a não previsão de prazo constitucional para a atuação do Vice-Presidente do Senado significa, para a maioria da doutrina, a obrigatoriedade de promulgação imediata, sob pena de responsabilização (crime de responsabilidade);
+
+(ii) nas 48 horas que o Presidente do Senado Federal possui para promulgar a lei, o Presidente da República mantém intacta sua prerrogativa de também fazê-lo. Isso porque o intuito da Constituição Federal foi o de evitar que a promulgação não se efetivasse, de forma que sua permissão para que o Presidente do Senado promulgue a lei afigura-se como uma ampliação (e não como uma substituição) do rol de autoridades competentes para a prática do ato[10].
+
+(iii) Não é comum termos promulgação de lei realizada pelo Vice-presidente do Senado Federal. Para ilustrar que essa possibilidade constitucional por vezes se efetiva, temos a Lei nº 13.981[11], promulgada em 23.03.2020. Veja a notícia divulgada pela Agência Senado[12]:
+
+Está publicada na edição desta terça-feira (24) do Diário Oficial da União (DOU) a Lei 13.981, que aumenta o limite da renda familiar mensal per capita para idosos e pessoas com deficiência terem acesso ao Benefício de Prestação Continuada (BPC). Com a norma, promulgada pelo vice-presidente do Senado, Antonio Anastasia (PSD-MG) nesta segunda-feira (23), o valor máximo passou de um quarto de salário-mínimo (R$ 261,25 em valores atuais) por membro da família para meio salário-mínimo (R$ 522,50).
+
+Fonte: Agência Senado
+
+(3.2) Publicação
+À promulgação segue-se, no direito pátrio, a publicação. Regida pela Lei de Introdução às Normas do Direito Brasileiro (Dec. Lei nº 4.657/1942, alterado pela Lei nº 12.376/2010), é a publicação que propicia aos destinatários da lei a aquisição do conhecimento de sua existência e de seu conteúdo. Como o ato é uma condição de eficácia para a lei, é requisito necessário para que o diploma legislativo passe a gozar de obrigatoriedade. Isso porque vigora no direito pátrio a ficção jurídica de que, com a publicação, todos adquirem consciência da lei, de modo a tornar impossível que alguém alegue o desconhecimento para se escusar do seu cumprimento[13].
+
+Muito embora não haja nenhuma previsão constitucional, entende-se que a publicação compete à autoridade que efetivou a promulgação. Aliás, mencione-se que configura crime de responsabilidade a circunstância de o chefe do Executivo omitir ou retardar dolosamente a publicação das leis, conforme previsão do art. 9º, nº 1, Lei nº 1.079/1950 e art. 4º, IV, do Decreto-Lei nº 201/1967).
+
+Pois bem, caro aluno. Vamos encerrar nosso estudo do processo legislativo ordinário resolvendo algumas questões?
+
+---> fazer questões
+---> fazer questões
+---> fazer questões
+---> fazer questões
+
+---------------------
+
+20.5 Processo Legislativo
+
+Procedimento legislativo sumário ou regime de urgência constitucional (art. 64, §§ 1º a 4º, CF/88)
+O procedimento legislativo sumário se parece muito com o processo legislativo ordinário, pois se desenvolve a partir das mesmas fases e da realização dos mesmos atos, porém com prazo delimitado para que os atos de deliberação e votação sejam realizados.
+
+E essa previsão de prazo, caro aluno, tem um motivo óbvio: tornar o trâmite do projeto de lei bem mais rápido e célere!
+
+O regime denominado “urgência constitucional[1]”somente é cabível quando se tratar de projeto de lei de iniciativa do Presidente da República e, ainda, quando este expressamente solicitar ao Congresso Nacional urgência na apreciação, sendo estes os dois pressupostos para a sua realização (art. 64, § 1º, CF/88). Observe o esquema[2] abaixo: 
+
+[[[]]]
+
+Aliás, é bom destacar que, em razão de a iniciativa ser necessariamente do Presidente da República, a Casa Legislativa iniciadora será, obrigatoriamente, a Câmara dos Deputados e a Casa revisora, o Senado Federal. Terão, cada qual, sucessivamente, o prazo de quarenta e cinco dias para deliberarem e votarem o projeto encaminhado pelo Presidente da República.
+
+Para melhor compreensão veja o esquema[3] abaixo:
+
+[[[]]]
+
+Finalizado o prazo de quarenta e cinco dias sem qualquer manifestação conclusiva da Casa Legislativa – pela aprovação do projeto, ou pela rejeição – a pauta da Casa na qual o prazo se esgotou será trancada e todas as demais deliberações ficarão suspensas, com exceção das que tiverem prazo constitucional determinado (como, por exemplo, as medidas provisórias) até que se conclua a votação do projeto de lei que tramita no procedimento sumário (art. 64, § 2º, CF/88).
+
+Em razão de os prazos transcorrerem em separado, o trancamento da pauta em uma das Casas não leva automaticamente ao trancamento da pauta da outra Casa. Como os prazos são sucessivos e, portanto, contados em separado, cada uma das Casas é responsável por acarretar a obstrução de sua própria pauta.
+
+Importante assinalar que se a Casa Legislativa revisora (necessariamente o Senado Federal) criar emendas que tragam modificações efetivas ao projeto de lei, referidas alterações serão apreciadas pela Câmara dos Deputados no prazo de dez dias, observado, quanto ao mais, o disposto no § 2º, do mesmo artigo (art. 64, § 3º, CF/88).
+
+Por último, vale informar que os prazos estipulados para reger o procedimento sumário ficam suspensos nos períodos de recesso do Congresso Nacional (ou seja, de 18 a 31 de julho; de 23 de dezembro a 01 de fevereiro), não se aplicam aos projetos de código (art. 64, § 4º, CF/88), mas se aplicam aos atos de outorga e concessão de emissoras de rádio e TV (nos termos do art. 223, § 1º, CF/88). 
+
+(C.4) Leis complementares
+O procedimento legislativo para a feitura de lei complementar não foi anunciado expressamente na Constituição, que somente se preocupou em mencionar o quórum de aprovação, qual seja, de maioria absoluta (art. 69, CF/88).
+
+Por essa razão nós podemos entender, prezado aluno, que implicitamente ficou definido que quanto às demais regras temos que aplicar o procedimento comum, por nós já estudado, que é válido para as leis ordinárias.
+
+Destarte, mais importante do que reprisar cada fase e cada ato, é apontarmos detalhadamente as distinções entre as duas espécies normativas – que se distanciam tanto no aspecto material quanto no formal.
+
+No aspecto formal, a diferença essencial posta pela Constituição é a maioria para aprovação na Casa Legislativa. As leis complementares são aprovadas mediante o voto favorável da maioria absoluta da Casa, de modo que o número de parlamentares favoráveis à proposição legislativa deve corresponder ao primeiro número inteiro após a metade do número total de membros da Casa Legislativa. Essa maioria qualificada é sinal da maior ponderação que o poder constituinte originário quis ver associada à aprovação da espécie normativa, que sua formação seja mera consequência de uma maioria ocasional ou fortuita.
+
+Assim, para ilustrar, uma lei complementar só será aprovada na Câmara dos Deputados (que possui 513 membros) se aprovada por, ao menos, 257 Deputados Federais. Já no Senado Federal, que possui 81 membros, a lei complementar só será aprovada se, ao menos, 41 Senadores forem favoráveis.
+
+Por seu turno, a aprovação de lei ordinária exige o voto favorável da maioria simples (ou relativa) da Casa Legislativa (ou comissão) onde a proposição esteja sendo discutida. Isso significa que a aprovação de lei ordinária requer que o número de parlamentares favoráveis à proposição seja o primeiro número inteiro após a metade do número total dos participantes da votação (art. 47, CF/88). Deve-se ressaltar, todavia, que qualquer votação só se inicia se houver quórum de deliberação, isto é, somente se mais da metade do número total de membros estiver presente à sessão de votação.
+
+Em resumo, assim podemos estruturar os conceitos de maioria[4]: 
+
+[[[]]]
+
+Quanto ao aspecto material, as espécies normativas se diferenciam fundamentalmente na taxatividade das matérias a serem tratadas por lei complementar e no caráter residual dos assuntos a serem disciplinados por leis ordinárias.
+
+Assim, há assuntos para os quais a Constituição Federal determinou, de maneira expressa e taxativa, a obrigatoriedade de regulação por lei complementar.
+
+Noutro giro, as leis ordinárias regulam todas as demais outras matérias para as quais não tenha sido exigida lei complementar (ou mesmo decreto legislativo ou resolução), não sendo indispensável que o texto constitucional explicite a necessidade dessa espécie normativa, vez que ela possui um caráter geral e residual.
+
+Podemos concluir, estimado aluno, que enquanto o campo material das leis complementares é taxativo e previamente determinado pela Constituição, o da legislação ordinária é o remanescente, pois ela somente será utilizada naquelas hipóteses em que a Carta Constitucional não tenha exigido nem lei complementar, nem decreto legislativo, tampouco resolução.
+
+Outro ponto merecedor de destaque sobre as duas espécies normativas, refere-se à hierarquia. De acordo com posicionamento doutrinário majoritário e entendimento consolidado no STF[5], não há hierarquia entre lei ordinária e lei complementar, estando ambas no mesmo patamar normativo, afinal, as duas são espécies primárias, logo, possuidoras do mesmo status hierárquico-normativo: o de normas infraconstitucionais.
+
+Por isso, se uma lei ordinária dispuser sobre matéria para a qual a Constituição impôs o regramento mediante lei complementar, padecerá de vício de inconstitucionalidade, por óbvia e direta ofensa ao disposto no texto constitucional, mas não por antinomia hierárquica. 
+
+[[[]]]
+[6] 
+
+O contrário, no entanto, não é verdadeiro. Assim, se porventura a lei complementar versar sobre matéria para a qual a Constituição não predeterminou sua utilização, invadindo o campo temático de atuação da legislação ordinária, será, mesmo assim, considerada constitucional. A justificativa é de que seria um formalismo exagerado declará-la inconstitucional se o procedimento de feitura de ambas é semelhante, excetuando-se o aspecto referente à maioria de aprovação que, para lei complementar, é mais rígida, mais qualificada. E, a despeito de sua roupagem jurídica de lei complementar, seu conteúdo é de lei ordinária, logo, materialmente se assemelha à legislação ordinária. Nesse sentido, pode ser modificada (ou mesmo revogada) por lei ordinária posterior, desconsiderando-se, aqui, sua forma (rito de aprovação) de lei complementar.
+
+Para terminar este item e passarmos ao estudo das leis delegadas, vejamos juntos a conclusão da nossa Suprema Corte: “se porventura a matéria disciplinada por lei cujo processo legislativo observado tenha sido o da lei complementar, não seja daquelas para que a Carta Magna exige essa modalidade legislativa, os dispositivos que tratam dela se têm como dispositivos de lei ordinária”[7]. Vamos analisar juntos o esquema[8] abaixo?
+
+---> fazer questões
+---> fazer questões
+---> fazer questões
+---> fazer questões
+
+------------------
+
+20.6 Processo legislativo
+
+Leis delegadas
+As leis delegadas possuem um procedimento muito peculiar de elaboração, pois são o produto de uma delegação externa corporis do Poder Legislativo para que o Poder Executivo possa fazer uso de sua atribuição atípica legiferante.
+
+Fala-se em delegação externa justamente para contrapô-la à interna, que é aquela na qual o Poder Legislativo faculta às suas comissões permanentes tarefas inerentes ao plenário da Casa Legislativa respectiva, dando origem, nos termos do art. 58, § 2º, I, CF/88, ao procedimento legislativo abreviado (já tratamos deste tema nessa aula). Vê-se, pois, que o Poder Legislativo está habilitado a delegar o poder de editar normas jurídicas novas a uma comissão (delegação interna) e também ao chefe do Poder Executivo (delegação externa, que origina as leis delegadas).
+
+Em termos formais, as leis delegadas são elaboradas pelo Presidente da República, que primeiro deverá apresentar solicitação ao Congresso Nacional (iniciativa solicitadora). Este irá avaliá-la e, se acatá-la, externará sua aceitação por meio de uma resolução, na qual deverá constar (de forma específica e explícita) o conteúdo e os termos de exercício da delegação.
+
+Isso porque a delegação feita pelo Congresso Nacional ao Presidente da República não pode ser genérica, precisa ser restrita e bem delineada, conforme exigência do art. 68, § 2º, CF/88. Não existe “delegação em branco”.
+
+Ademais, segundo o Supremo Tribunal Federal, a delegação legislativa externa só pode ser veiculada mediante resolução – saiba que seu examinador, para lhe confundir, vai trocar essa espécie normativa e colocar alguma outra, normalmente lei ordinária.
+
+Na própria resolução constará a necessidade, ou não, de o Poder Legislativo apreciar o projeto eventualmente elaborado pelo Poder Executivo, conforme art. 68, § 3º, CF/88. Isso quer dizer que ao elaborar a resolução autorizando o Presidente a editar a lei delegada, o Poder Legislativo estará determinando qual das duas modalidades de delegação será adotada, a de trâmite típico ou atípico. Vejamos cada uma delas:
+
+(1) Delegação típica (ou própria): é a que se presume, por ser a mais básica. Neste caso, o Congresso Nacional concede a autorização ao Presidente da República e este, atuando de acordo com o tema delimitado na resolução (que deve respeitar os limites materiais à edição de lei delegada – art. 68, § 1°, CF/88) a elabora, promulga e publica, sem que haja nenhum outro momento de participação do Poder Legislativo. Efetivada a delegação pelo Poder Legislativo, todo o processo de elaboração da lei delegada típica se esgota no âmbito do Poder Executivo, sem que tenhamos nova participação do Congresso.
+
+(2) Delegação atípica (ou imprópria): o Congresso Nacional autoriza o Presidente da República a editar a lei delegada, mas determina que, antes, ele elabore um projeto (de lei delegada) e o submeta à apreciação do próprio Congresso, que o avaliará em votação única, sendo vedada a apresentação de qualquer emenda – o Congresso Nacional somente poderá aprovar ou rejeitar o texto em sua totalidade[1]. Se aprovado o projeto da lei delegada, ela será encaminhada ao Presidente da República para que ele a promulgue e publique. Caso seja rejeitado o projeto da lei delegada, ele será arquivado (todavia, pode vir a ser reapresentado, na mesma sessão legislativa, desde que haja requerimento da maioria absoluta dos membros de qualquer uma das Casas do Congresso Nacional, conforme o art. 67, CF/88 – princípio da irrepetibilidade).
+
+Em resumo, e com outras palavras:
+
+- na lei delegada típica, o Presidente já pode editar a lei delegada, logo após a autorização do Congresso Nacional ser formalizada na resolução. Isso porque na resolução o Poder Legislativo não terá exigido que o Presidente da República edite, antes da lei delegada, um projeto;
+
+- já na lei delegada atípica, o Presidente obterá do Congresso Nacional a autorização para editar primeiro um projeto de lei delegada, que por ele será apreciado (em votação única, na qual é vedada a inserção de emendas). Caso o Congresso aprove o projeto, o Presidente poderá promulgar e publicar a lei delegada, caso o Congresso rejeite o projeto, o mesmo será enviado para o arquivo.
+
+No mais, é vedada a delegação de matéria de competência exclusiva do Congresso Nacional, de competência privativa da Câmara dos Deputados ou do Senado Federal, matéria reservada à lei complementar; a legislação sobre a organização do Poder Judiciário e do Ministério Público, a carreira e a garantia de seus membros; a nacionalidade, cidadania, direitos individuais, políticos e eleitorais; e os planos plurianuais, diretrizes orçamentárias e orçamentos (o art. 68, § 1º, CF/88, enuncia esses limites materiais à edição de lei delegada).
+
+Para fixar melhor esse ponto, te convido para analisar o esquema[2] posto abaixo:
+
+[[[]]]
+
+É isso aí meu caro aluno. Estamos quase encerrando esse tópico. Mas, antes, farei alguns últimos registros importantes para sua prova:
+
+(i) Diante da iniciativa solicitadora do Presidente da República, é o Congresso Nacional que decide, discricionariamente, se é cabível a delegação ou não. Em conclusão, não há direito público subjetivo para o Presidente da República em obter a autorização para a edição das leis delegadas, de forma que seu pedido pode ser validamente denegado.
+
+(ii) A permissão dada pelo Congresso Nacional, por resolução, ao Presidente da República para que este edite uma lei delegada sobre tema específico, não importa abandono de sua função legiferante. Exatamente por essa razão o Congresso poderá sustar a delegação a qualquer momento, se entender conveniente, bem como editar lei sobre o mesmo assunto objeto da delegação, mesmo durante o período em que esteja vigorando a autorização;
+
+(iii) O Presidente da República, ao receber a autorização congressual, devidamente formalizada em uma resolução, obtém uma faculdade para legislar sobre certo assunto por meio da lei delegada, não estando obrigado a editá-la. Pode, então, não editar a lei.
+
+(iv) Se por acaso o chefe do Poder Executivo extrapolar os limites da delegação legislativa, a parte da lei delegada em que ele se excedeu poderá ser suspensa pelo Poder Legislativo, conforme art. 49, V, CF/88, através de um decreto legislativo. Tal possibilidade demonstra que aquele que estabeleceu os limites (o Congresso Nacional) é o primeiro interessado em fiscalizar seu cumprimento, devendo possuir um instrumental capaz de corrigir eventuais desrespeitos. Ressalte-se que esta hipótese exemplifica uma excepcional modalidade de controle de constitucionalidade: o político-repressivo (‘político’ porque o controle de constitucionalidade estará sendo realizado por órgão externo ao Poder Judiciário; ´repressivo’ porque atingirá espécie normativa já pronta e acabada, que está produzindo seus efeitos);
+
+Agora sim, para terminarmos nosso estudo das leis delegadas, quero lhe lembrar, caro aluno, que essa espécie normativa quase não tem utilidade no atual ordenamento jurídico, estando o Presidente da República absolutamente desinteressado em utilizá-la, por já possuir um canal de comunicação aberto com a atividade legiferante mais sedutor, porque independente de autorização do Poder Legislativo: a possibilidade de editar medidas provisórias. Falaremos delas no próximo item. Mas fique com essa ideia em sua mente: quase não temos leis delegadas em âmbito federal em razão de o Presidente preferir, claro, usar um caminho mais fácil, que é o da edição de medidas provisórias.
+
+---> fazer questões
+---> fazer questões
+---> fazer questões
+---> fazer questões
+
+-----------------
+
+20.7 Processo Legislativo
+
+Medidas Provisórias
+(C.6.1) Aspectos introdutórios
+A medida provisória (MP) foi introduzida na Constituição de 1988 em substituição ao antigo decreto-lei e está consagrada no texto constitucional enquanto espécie normativa primária e geral, com força de lei, desde a promulgação da Constituição em 1988. Passou por uma significativa reforma, feita pela EC nº 32/2001, que alterou seu regime de forma substancial, instituindo modificações que vigoram ainda hoje.
+
+(C.6.2) Legitimidade para a edição
+As medidas provisórias serão editadas pelo Presidente da República e, conforme apontam doutrina e a jurisprudência consolidada do STF[1], se houver previsão expressa na Constituição do Estado (e desde que respeitada a simetria, isto é, desde que observada toda a sistemática constitucional) Governadores também poderão editar medidas provisórias, válidas na esfera estadual. Algumas Constituições estaduais, como, por exemplo, a do Acre[2], a de Santa Catarina[3] e a do Tocantins[4], trouxeram em seus textos autorização para o Governador se valer desse instrumento normativo excepcional.
+
+O que justifica essa possibilidade para os Estados, além do argumento da simetria, é a redação do art. 25, § 2º, CF/88, quando indica uma competência estadual (para explorar diretamente, ou mediante concessão, os serviços locais de gás canalizado) e determina o cumprimento por meio da edição de lei, jamais de medida provisória. Ora, caro aluno, não seria lógico impor essa restrição para o Presidente da República, pois se trata de atribuição estadual, tampouco impô-la aos Estados se o manuseio do instrumento a eles fosse completamente vedado. É exatamente dessa preocupação do poder constituinte originário em afastar a utilização da MP na específica hipótese, que extraímos o indicativo constitucional de cabimento dessa espécie normativa também na esfera estadual.
+
+Do mesmo modo, e também pelo ideal de simetria, compreende-se possível a edição de MP na esfera municipal. Neste caso, além da necessária obediência ao regramento básico imposto pela Constituição Federal, é preciso que haja previsão expressa do cabimento da espécie normativa na respectiva Constituição estadual e também na Lei Orgânica Municipal, para que os Prefeitos Municipais possam fazer uso das medidas. Aí você me questiona: mas por que tem que haver previsão também na Constituição do Estado? Isso ocorre em razão da necessidade de a Lei Orgânica observar os princípios estabelecidos tanto na Constituição Federal, quanto no documento estadual (art. 11, parágrafo único, ADCT). Deste modo, se neste último não há qualquer menção à possibilidade de edição de MP por parte do Governador, as Leis Orgânicas dos Municípios que compõem aquele Estado estarão proibidas de permitir aos Prefeitos a utilização do instrumento normativo, sob pena de desrespeitarem a previsão constitucional estadual.
+
+Te convido para analisar o esquema[5] posto abaixo:
+
+[[[]]]
+
+ (C.6.3) Pressupostos constitucionais legitimadores
+A edição constitucionalmente adequada da MP depende da obediência simultânea a dois pressupostos legitimadores: a relevância e a urgência.
+
+Isso porque a função legiferante é típica de outro Poder. Então, nossa Constituição só autoriza que o Presidente edite uma MP diante de uma situação urgente, que inviabilize a espera até mesmo do trâmite legislativo sumário, havendo necessidade imediata de regulamentação de um tema essencial para o Estado ou para a sociedade. Em conclusão, a urgência está ligada à necessária pressa para a regulamentação, ao passo que a relevância se materializa na essencialidade do tema.
+
+Ainda quanto aos pressupostos, importante deixar assente que o STF estabilizou o entendimento[6] de que é viável o controle jurisdicional dos mesmos. Todavia, de modo absolutamente excepcional. Isso porque o controle da obediência aos dois pressupostos, que configuram conceitos revestidos de altíssima subjetividade, é feito primeiro pelo próprio Presidente da República, de maneira discricionária. Depois, pelas Casas Legislativas, conforme art. 62, § 5º, CF/88, que emitirão juízo prévio sobre o atendimento (ou não) dos dois requisitos. A interferência jurisdicional, portanto, ficará limitada àquelas circunstâncias em que tenha havido flagrante abuso de poder ou evidente inocorrência dos pressupostos. Nos termos utilizados pela Corte:
+
+Os pressupostos da urgência e da relevância, embora conceitos jurídicos relativamente indeterminados e fluidos, mesmo expondo-se, inicialmente, à avaliação discricionária do Presidente da República, estão sujeitos, ainda que excepcionalmente, ao controle do Poder Judiciário, porque compõem a própria estrutura constitucional que disciplina as medidas provisórias, qualificando-se como requisitos legitimadores e juridicamente condicionantes do exercício, pelo chefe do Poder Executivo, da competência normativa primária que lhe foi outorgada, extraordinariamente, pela CR. (...) A possibilidade de controle jurisdicional, mesmo sendo excepcional, apoia-se na necessidade de impedir que o Presidente da República, ao editar medidas provisórias, incida em excesso de poder ou em situação de manifesto abuso institucional, pois o sistema de limitação de poderes não permite que práticas governamentais abusivas venham a prevalecer sobre os postulados constitucionais que informam a concepção democrática de Poder e de Estado, especialmente naquelas hipóteses em que se registrar o exercício anômalo e arbitrário das funções estatais.[7]
+
+---> fazer questões
+---> fazer questões
+---> fazer questões
+---> fazer questões
+
+(C.6.4) Limites materiais à edição
+A válida edição de MP exige, além da observância estrita dos pressupostos constitucionais, que a espécie normativa não trate de temas que estão constitucionalmente vedados, por constituírem limites materiais à sua incidência.
+
+Referidos limites não estavam presentes no texto originário da Constituição, pois só foram introduzidos pela EC nº 32/2001 no art. 62, § 1º, CF/88. Determinam os assuntos que não podem ser regulados por medida provisória. Vamos relembrar quais são?
+
+– nacionalidade, cidadania, direitos políticos, partidos políticos, direito eleitoral;
+
+– direito penal, direito processual penal, direito processual civil;
+
+– organização do Judiciário e do Ministério Público, a carreira e as garantias dos seus membros;
+
+– planos plurianuais, diretrizes orçamentárias, orçamento e créditos adicionais e suplementares, ressalvado o previsto no art. 167, § 3º, CF/88, que dispõe sobre a abertura de crédito extraordinário para o atendimento das despesas imprevisíveis e urgentes, como as decorrentes de guerra, comoção interna ou calamidade pública;
+
+Obs.: Para relembrarmos exemplos de Medidas Provisórias que foram validamente editadas para a abertura de crédito extraordinário, pensemos nas MPs 921 e 924, ambas de março de 2020, que abriram créditos extraordinário para atender a despesas urgentes e imprevisíveis diante do cenário de calamidade pública (formalmente reconhecido pelo Congresso Nacional) que acometeu o país durante a pandemia do Coronavírus.
+
+– detenção ou sequestro de bens, de poupança popular ou qualquer outro ativo financeiro;
+
+– matéria reservada à lei complementar;
+
+– matéria já disciplinada em projeto de lei aprovado pelo Congresso Nacional e pendente de sanção ou veto do Presidente da República.
+
+Quanto à matéria tributária, pode-se dizer que, em geral, não representa uma vedação material à edição de medida provisória. O STF entende ser perfeitamente possível a regulamentação de matéria tributária através de MP – exceto nas hipóteses em que a própria Constituição exigiu a edição de lei complementar para regular o tema (ex: art. 146, CF/88) –, devendo, contudo, ser observado o princípio da anterioridade tributária (nos casos em que ele se aplica). E, em respeito a este princípio constitucional[8], um imposto instituído ou majorado através de MP só poderá ser cobrado a partir do próximo exercício financeiro. Entenda-se como “próximo exercício financeiro” o seguinte àquele em que tenha havido a conversão da medida provisória em lei, e não aquele posterior ao que tenha havido a edição da medida. Para exemplificar: MP1 editada em 2017 e convertida em lei no ano de 2018: cobrança possível a partir do exercício financeiro de 2019.
+
+Exceções a este regramento são aquelas ocasionadas pela edição de MP que majora ou institui impostos que não se submetem à anterioridade tributária, nos termos do art. 150, § 1°, CF/88 (Imposto de Importação – II; Imposto de Exportação – IE; Imposto sobre Produtos Industrializados – IPI; Imposto sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários – IOF; e Imposto Extraordinário de Guerra – IEG).
+
+Outros limites materiais expressos à edição de medida provisória estão espalhados no texto constitucional, são eles:
+
+– art. 25, § 2º, CF/88: impossibilidade de uma MP estadual regulamentar a exploração, direta ou mediante concessão, os serviços locais de gás canalizado;
+
+– art. 246, CF/88: vedação para regulamentar artigos da Constituição cuja redação tenha sido alterada por meio de emenda promulgada entre 1º de janeiro de 1995 até a promulgação da EC nº 32/2001, inclusive).
+
+Temos também limites implícitos, a saber, os artigos 49, 51 e 52, todos da CF/88, que veiculam as matérias que são de competência exclusiva do Congresso e competência privativa das Casas Legislativas. Isso porque são vedadas MPs que disciplinem matérias para as quais a iniciativa tenha sido reservada a órgãos ou autoridades específicas, pois nestes casos a apresentação do projeto depende de os titulares da iniciativa entenderem-na conveniente.
+
+Outro limite implícito à edição de MP foi confirmado pelo STF na ADI 4717, em abril de 2018, e refere-se à matéria ambiental. Em que pese não haver restrição expressa no art. 62, § 1°, CF/88, nossa Corte Suprema informou que a MP pode veicular normas referentes ao tema, mas desde que sejam favoráveis ao meio ambiente. Destarte, normas que importem em diminuição da proteção ao meio ambiente equilibrado só podem ser editadas por meio de lei formal, com amplo debate parlamentar e participação da sociedade civil e dos órgãos e instituições de proteção ambiental, no intuito de assegurar o direito de todos ao meio ambiente ecologicamente equilibrado. Em conclusão, e nas palavras do STF: “a proteção ao meio ambiente é um limite material implícito à edição de medida provisória”.
+
+Por fim, estimado aluno, seguem duas últimas considerações importantes para nosso estudo:
+
+(i) Como a medida provisória é um ato normativo primário (que extrai seu fundamento de validade diretamente do texto da Constituição), esses limites materiais poderão ter sua constitucionalidade discutida no controle (difuso e concentrado) realizado pelo Poder Judiciário, bem como no excepcional controle repressivo realizado pelo Poder Legislativo, que pode não converter a MP em lei, ao argumento de que ela é inconstitucional.
+
+(ii) Ainda sobre os limites materiais, veja a tabela abaixo, estimado aluno, que nos permite comparar os temas que expressamente não podem ser reguladas por MP e os que não podem ser objeto de lei delegada[9]:
+
+[[[]]]
+
+---> fazer questões
+---> fazer questões
+---> fazer questões
+---> fazer questões
+
+(C.6.5) Produção de efeitos (eficácia da medida)
+Sabia, prezado aluno, que tão logo é editada, a medida provisória já começa, imediatamente, a produzir seus efeitos? Isso acontece pois ela é um ato normativo pronto e acabado, elaborado pelo Presidente da República e que possui força de lei.
+
+Como sua produção de efeitos é imediata, a medida provisória deve, logo após sua edição, ser encaminhada para apreciação e posterior manifestação do Congresso Nacional, que pode aprová-la (e convertê-la em lei ordinária) ou rejeitá-la (quando então seu texto será encaminhado para o arquivo e não poderá constituir objeto de nova medida provisória na mesma sessão legislativa, nos termos do art. 62, § 10, CF/88).
+
+A eficácia da MP, de acordo com o § 3º, do art. 62, é de sessenta dias, prorrogáveis, nos termos do § 7º do mesmo artigo, uma única vez, por igual período (lembrando que esta prorrogação é automática, isto é, o Presidente não precisa pedir essa prorrogação). O prazo, pois, em que a MP produz efeitos é usualmente de cento e vinte dias, podendo, todavia, ser mais amplo que isso se ocorrerem as hipóteses dos §§ 4º, 11 e 12, do art. 62, CF/88.
+
+Nestes casos, estende-se o prazo de produção de efeitos da medida em razão da:
+
+(i) Recesso parlamentar (art. 62, § 4º, CF/88): durante o recesso, o funcionamento das Casas do Congresso Nacional é descontinuado e as votações suspensas, aguardando o retorno às atividades legislativas. Mas a MP continua a produzir seus efeitos. No entanto, mesmo com a eficácia intacta, a contagem do seu prazo de eficácia fica suspensa, isto é, paralisada enquanto durar o período do recesso parlamentar.
+
+(ii) Não edição do decreto legislativo a que se refere o § 3º (caso de rejeição da MP) em até sessenta dias após a rejeição ou perda de eficácia de medida provisória, uma vez que nessa situação as relações jurídicas constituídas e decorrentes de atos praticados durante a vigência da MP conservar-se-ão por ela regidas, conforme preceitua o art. 62, § 11, CF/88;
+
+(iii) Aprovação de um projeto de lei de conversão alterando o texto original da medida provisória, pois nesse caso a MP manter-se-á integralmente em vigor até que seja sancionado ou vetado o projeto, mesmo que durante esse período da deliberação executiva (que dura, no máximo, 15 dias úteis – art. 66, § 1º, CF/88) vença o prazo de eficácia (de 60 + 60 dias) da MP, por força da autorização do art. 62, § 12, CF/88.
+
+(C.6.6) Procedimento
+Por veicular matéria de lei ordinária, a medida provisória é apreciada pelo Poder Legislativo segundo os mesmos trâmites verificados na deliberação parlamentar do processo ordinário.
+
+A Casa iniciadora será sempre a Câmara dos Deputados e a Casa revisora o Senado Federal (art. 62, § 8º, CF/88), já que quem apresenta a medida ao mundo normativo é, necessariamente, o Presidente da República.
+
+Ao contrário dos projetos de lei de ordinária, para as medidas provisórias não há possibilidade de delegação interna corporis, ou seja, a MP não pode ser objeto de deliberação e votação pelas comissões internas das Casas Legislativas, devendo ir a plenário.
+
+Antes mesmo de chegar à Casa iniciadora, no entanto, a medida provisória passa pela apreciação e parecer de uma Comissão mista, composta por 12 Deputados Federais e 12 Senadores, que irá verificar o cumprimento dos pressupostos constitucionais da medida emitindo, assim, um parecer opinativo (art. 62, § 9º, CF/88).
+
+Sobre a atuação da comissão mista, vale frisar a magnitude das funções da mesma no processo de conversão de medidas provisórias. Segundo determinou o STF[10], a análise decorre
+
+da necessidade, imposta pela Constituição, de assegurar uma reflexão mais detida sobre o ato normativo primário emanado pelo Executivo, evitando que a apreciação pelo Plenário seja feita de maneira inopinada, percebendo-se, assim, que o parecer desse colegiado representa, em vez de formalidade desimportante, uma garantia de que o Legislativo fiscalize o exercício atípico da função legiferante pelo Executivo.
+
+Depois de ser dado o parecer da Comissão Mista, a medida provisória é encaminhada para análise, discussão e votação em cada Casa Legislativa (sendo a Câmara, frise-se novamente, a Casa iniciadora). A apreciação da medida será feita, pois, primeiro no plenário da Câmara dos Deputados e, posteriormente, pelo plenário do Senado Federal, exceto se a medida tiver perdido sua eficácia antes do encaminhamento ao Senado (por decurso de prazo, isto é, tacitamente) ou se já tiver sido rejeitada expressamente na análise feita pelos Deputados Federais.
+
+Sobre a possibilidade de serem feitas emendas parlamentares ao texto originário da MP: elas podem ser apresentadas mas, por óbvio, elas deverão guardar relação de pertinência temática com a MP que está sendo apreciada. O fato de a Constituição não ter expressamente disposta no art. 62 a impossibilidade de se transbordar a temática da medida provisória não significa que o poder de emendar do Congresso seja incondicionado. Destarte, é possível a apresentação de emenda parlamentar ao projeto de conversão, desde que observada a devida pertinência lógico-temática. Esse é o teor do art. 4°, da Res. nº 1/2002 do Congresso Nacional[11], que visa evitar o chamado “contrabando legislativo”, consistente na inserção, por emenda parlamentar, de assunto distinto daquele tratado na MP.
+
+A propósito, na ADI 5127-DF (julgada em outubro de 2015) o STF confirmou que o “contrabando legislativo” é vedado pela CF/88. Todavia, como essa prática sempre foi muito comum, nossa Corte Suprema determinou que referido entendimento somente valeria para as próximas MPs (ou seja, todas as leis aprovadas até 15/10/2015 são consideradas como válidas ainda que tenham sido fruto de uma conversão de MP feita com “contrabando legislativo”, isto é, com inserção no texto da MP de assuntos desconexos com o tema da medida).
+
+O STF, portanto, decidiu cientificar ao Poder Legislativo que não é compatível com a Constituição a apresentação de emendas sem relação de pertinência temática com medida provisória submetida à sua apreciação, mas o fez por meio de uma decisão dotada de efeitos ex nunc (válidos da data da decisão em diante).
+
+Ainda sobre a verificação da medida pelo Legislativo, o ideal é que a discussão e a votação nas duas Casas sejam feitas no prazo de quarenta e cinco dias, contados da data da publicação da MP, prazo este estipulado para que o processamento ocorra sem que haja o trancamento da pauta de nenhuma das duas Casas.
+
+Referido trancamento (ou obstrução da pauta) significa a paralisação das demais proposições legislativas na Casa em que a MP estiver tramitando (art. 62, § 6º, CF/88), o que importa num forte apelo para o legislador atuar, pois este se vê na difícil situação de só poder votar os demais projetos de lei se liberar a pauta da sua Casa Legislativa – o que só acontece quando há a votação da MP (ou se esta perder sua eficácia por decurso de prazo, o que libera a pauta imediatamente).
+
+Em conclusão, caso a MP não seja apreciada em até quarenta e cinco dias da data da sua publicação, passará a tramitar em regime de urgência constitucional, trancando a pauta da Casa na qual estiver tramitando, ficando sobrestadas as demais deliberações até que se ultime a sua votação.
+
+Percebe-se, pois, que a votação é feita pelas Casas Legislativas em separado, e o prazo ideal[12] para sua efetivação é conjunto e é de quarenta e cinco dias. Findo este prazo, a votação ainda poderá acontecer enquanto a MP ainda estiver produzindo efeitos (isto é, possuir eficácia). Mas se a apreciação da medida é feita depois dos 45 dias, certamente terá havido o trancamento de pauta de uma Casa Legislativa. Observe-se que a obstrução de pauta sempre ocorre em uma Casa de cada vez, nunca nas duas simultaneamente, vez que atinge a pauta da Casa onde a MP está em trâmite.
+
+Ainda no que se refere à obstrução da pauta, o texto da Constituição Federal, se interpretado em sua literalidade, parece determinar a suspensão de todas as demais deliberações legislativas da Casa em que a medida provisória estiver tramitando (a redação do § 6º, do art. 62 enuncia: ”...ficando sobrestadas, até que se ultime a votação, todas as demais deliberações legislativas da Casa em que estiver tramitando” – grifo nosso).
+
+No entanto, o STF entende que tal trancamento só atinge os projetos de lei ordinária passíveis de serem tratados por MP, nunca as demais proposições, uma vez que MP somente pode tratar de matérias reservadas à legislação ordinária, nunca à legislação complementar ou à resolução ou decreto legislativo.
+
+Assim, em junho de 2017 o MS 27.931 (que tratava da questão) foi pautado e decidido. Por maioria[13], o Plenário do Supremo Tribunal Federal decidiu que o trancamento da pauta da Câmara dos Deputados por conta de Medidas Provisórias não analisadas no prazo de 45 dias, contados de sua publicação, só alcança os projetos de lei sobre temas passíveis de serem tratados por MP.
+
+Assim, fez a Corte uma interpretação conforme ao artigo 62, parágrafo 6º, CF para assentar que o regime de urgência previsto no dispositivo que impõe o sobrestamento das deliberações legislativas às Casas do Congresso Nacional refere-se apenas às matérias que se mostrem passíveis de regramento por medida provisória, excluídas do bloqueio, em consequência, as propostas de emenda à Constituição, os projetos de lei complementar, de decreto legislativo, de resolução e até mesmo os projetos de lei ordinária que veiculem temas pré-excluídos do âmbito de incidência das medidas provisórias.
+
+Como consequência desse entendimento, se houver uma Medida Provisória trancando a pauta da Casa Legislativa (da Câmara dos Deputados ou do Senado Federal) em razão de não ter tido sua votação concluída no prazo de 45 dias (art. 62, § 6º), mesmo assim a Casa poderá dar seguimento ao trâmite de diversas proposições legislativas: propostas de emenda constitucional, projetos de lei complementar, projetos de resolução, projetos de decreto legislativo, bem como dos projetos de lei ordinária que tratem sobre temas enunciados no art. 62, § 1º, da CF/88 (que não podem ser regulados por MP) não serão atingidos pelo trancamento da pauta.
+
+Por último, lembremos que ao processo especial de edição das medidas provisórias também é aplicado o princípio da irrepetibilidade (art. 62, § 10, CF/88), já que é vedada a reedição de medida provisória na mesma sessão legislativa em que tenha sido rejeitada (expressamente) ou perdido sua eficácia por decurso de prazo (rejeição tácita). Nota-se, pois, que a reedição de uma MP que tenha sido rejeitada só é possível em sessão legislativa posterior, nunca na mesma. 
+
+---> fazer questões
+---> fazer questões
+---> fazer questões
+---> fazer questões
+
+(C.6.7) Rejeição e conversão da MP em lei
+A medida provisória pode ser convertida em lei, com ou sem alterações de seu texto, ou rejeitada, expressa ou tacitamente (isto é, por decurso de prazo). Observe o esquema[14] abaixo:
+
+[[[]]]
+
+Vamos tratar de cada um desses cenários:
+
+(i) A conversão da MP em lei sem alterações do texto significa que tivemos a aprovação da medida nas duas Casas Legislativas sem a incidência de nenhuma modificação engendrada na Câmara ou no Senado. Neste caso, depois de aprovado, o texto será encaminhado ao Presidente da Mesa do Congresso Nacional para que ele promova a promulgação da lei, por autorização do art. 12 da Resolução nº 1/2002-CN. Perceba que neste caso não haverá a deliberação executiva, isto é, o Presidente não será acionado para sancionar ou vetar a proposição. Isso porque podemos supor que ele concorda com o texto final dessa lei, afinal, foi ele mesmo que o editou e não tivemos nenhuma modificação no Congresso Nacional.
+
+(ii) A conversão da MP em lei com alterações do texto ocorrerá se qualquer das Casas Legislativas apresentar emendas ao texto da medida provisória, promovendo modificações no mesmo – o que é perfeitamente possível, tendo em vista a faculdade que existe para o Parlamento em ampliar ou reduzir o conteúdo do ato normativo por meio de seu poder de emendar.
+
+Neste caso, a medida provisória se tornará um projeto de lei de conversão, que seguirá o trâmite legislativo ordinário. O texto da medida, agora modificado por emendas parlamentares, será encaminhado para o Presidente da República, que terá quinze dias úteis para vetar ou sancionar o projeto de lei de conversão. Em havendo sanção presidencial ou, em caso de veto, se este for derrubado, a promulgação e a publicação da lei serão feitas pelo Presidente da República (tudo em conformidade com o que determina o art. 66 em seus parágrafos).
+
+Ainda sobre a conversão da MP em lei com alterações de seu conteúdo, vale apresentar duas considerações:
+
+(1) a regra constante do art. 62, § 12, CF/88, determina que se for aprovado o projeto de lei de conversão alterando o texto original da medida provisória, esta manter-se-á integralmente em vigor, até que seja sancionado ou vetado o projeto;
+
+(2) quanto aos trechos da MP que sofreram alteração, ou seja, que ficaram distintos daquilo que previa o texto original, pode-se dizer que terão seus efeitos regulamentados por um decreto legislativo, pois a MP perderá, no ponto em que tiver sido alterada, sua eficácia desde a edição, conforme preceitua o art. 62, § 3º, CF/88.
+
+(iii) A medida provisória também pode ser rejeitada. Expressamente quando qualquer das duas Casas do Congresso Nacional deixar de convertê-la em lei durante o prazo em que ela está produzindo seus efeitos. Tacitamente (ou em razão do decurso do prazo) quando seu prazo de eficácia (sessenta dias, prorrogável uma única vez por igual período) se esgota sem que o Legislativo a tenha convertido em lei ou rejeitado expressamente.
+
+Em ambos os casos de rejeição, a MP perderá sua eficácia desde a edição (nos termos do art. 62, § 3º, CF/88), o que nos permite concluir que seus efeitos só são válidos se ela for convertida em lei. Não havendo referida conversão, os efeitos da MP são nulos ex tunc, devendo o Congresso Nacional editar um decreto legislativo, em até sessenta dias, para regular as relações jurídicas constituídas e decorrentes de atos praticados durante a vigência da medida provisória.
+
+Se referido decreto legislativo não for editado, prevê a Constituição (art. 62, § 11, CF/88) que essas relações jurídicas (constituídas e decorrentes de atos praticados durante a vigência da medida provisória) conservar-se-ão pela MP regidas. Ou seja, a MP rejeitada (expressa ou tacitamente) vai adquirir ultraeficácia e passará a reger, definitivamente, as relações jurídicas formadas e decorrentes de atos praticados durante o tempo em que ela vigorou. O intuito dessa norma (de constitucionalidade bastante duvidosa) é indiscutível: evitar o possível vácuo normativo decorrente da não feitura do decreto legislativo, impedindo assim que as relações jurídicas constituídas e decorrentes de atos praticados durante a vigência da medida provisória fiquem sem regulamentação.
+
+No intuito de ilustrar a incidência do § 11 do art. 62, insta comentar uma interessante decisão que o STF proferiu, em março de 2018 (ADPF 216).
+
+Entenda o caso: em agosto de 2006, foi editada a MP 320, tratando da movimentação e armazenamento de mercadorias importadas ou que serão despachadas para exportação. A medida reconhecia a regra de que as movimentações e a armazenagem de mercadorias importadas ou que serão despachadas para exportação são atividades que devem ser realizadas em um local sob a supervisão da Receita Federal[15]. Estabeleceu, entretanto, a possibilidade de isso ser também feito em um recinto de estabelecimento empresarial licenciado pela Receita Federal. A este local, o art. 1°, § 3° da MP 320 deu o nome de “Centro Logístico e Industrial Aduaneiro” (CLIA).
+
+Nos artigos 6º a 12, colocados sob a rubrica “Do Licenciamento e do Alfandegamento de CLIA”, a MP estabeleceu os requisitos a serem cumpridos pela eventual empresa interessada em requerer licença da Receita Federal para explorar uma CLIA. Durante o período em que a MP 320 esteve vigente, 43 empresas apresentaram requerimento à Receita Federal para a instalação de CLIA. Destes, o Fisco examinou e acatou 5 pedidos. Eis que em dezembro de 2016, sem que a Receita tivesse concluído o exame de todos os requerimentos (38 ficaram sem resposta), o Plenário do Senado Federal rejeitou a medida e determinou o seu arquivamento, ao argumento de que os pressupostos constitucionais (de relevância e urgência) que legitimariam o uso da MP não estavam presentes.
+
+Com a rejeição determinada pela Casa Legislativa, a MP perdeu sua eficácia desde a edição. Passou-se a aguardar que o Congresso Nacional editasse, em 60 dias, o decreto legislativo de que trata o art. 62, § 3°, para disciplinar as relações jurídicas constituídas e decorrentes de atos praticados durante a vigência da medida provisória.
+
+Como o Congresso não editou o decreto legislativo, a Receita Federal simplesmente declarou que os 38 requerimentos que tinham sido feitos (mas não avaliados) estariam prejudicados e, por isso, sequer seriam avaliados. No entanto, as empresas que apresentaram os requerimentos que não foram apreciados, ingressaram com ações no Poder Judiciário, exigindo que os pedidos protocolados ainda na vigência da MP fossem analisados. O art. 62, § 11 foi utilizado como tese central: ora, se o Congresso Nacional não elaborou o decreto legislativo, as situações ocorridas durante a vigência da MP, dentre as quais se enquadram os requerimentos apresentados e pendentes de apreciação, seguem sendo regidos pela referida MP mesmo que ela tenha sido rejeitada.
+
+O fato é que algumas dessas empresas obtiveram na Justiça o direito ao processamento dos pedidos de licenciamento do “Centro Logístico Industrial Aduaneiro” (CLIA), previsto na Medida Provisória, pela Receita Federal. Foi então que entidades do setor aduaneiro ajuizaram a ADPF 216, sob o fundamento de que tais decisões judiciais configuravam uma interpretação equivocada do art. 62, CF/88[16].
+
+O STF conheceu a ADPF e entendeu que as decisões judiciais (que permitiam o processamento dos pedidos de licenciamento dos centros aduaneiros) eram ofensivas ao art. 62, §11, CF/88 e aos princípios da separação de Poderes e da segurança jurídica.
+
+Segundo a maioria dos integrantes da Corte, o mero protocolo do pedido não constitui uma “relação jurídica constituída”. A Ministra Cármen Lúcia, relatora da ADPF, disse em seu voto: “Não havia relação jurídica constituída que tornasse possível a invocação do parágrafo 11 do artigo 62 da Constituição Federal para justificar a aplicação da MP rejeitada após o prazo de sua vigência”. Para ela, uma intepretação diferente postergaria indefinidamente a vigência e a produção de efeitos da medida provisória rejeitada pelo Congresso Nacional, “o que ofenderia não apenas o artigo 11 da Constituição Federal, mas o princípio da separação de poderes e o princípio da segurança jurídica”.
+
+---> fazer questões
+---> fazer questões
+---> fazer questões
+---> fazer questões
+
+(C.6.8) Últimas observações sobre as medidas provisórias
+Neste item, trarei alguns últimos apontamentos sobre esta espécie normativa que considero de acentuada importância para sua completa preparação no que se refere ao tema:
+
+(i) Acaso seja editada uma MP ‘revogando’ lei que está sendo questionada em sede de ADI, a ação direta poderá ser processada e julgada enquanto a MP não for votada (enquanto a MP não tiver sua votação concluída, não há que se falar em perda de objeto da ação direta). Afinal, em razão do seu caráter precário, a Medida provisória não revoga a lei anterior, apenas suspende seus efeitos no ordenamento jurídico. Destarte, se a MP for aprovada pela Câmara e pelo Senado, surgirá uma nova lei, que terá força normativa para revogar a lei antecedente. No entanto, se a MP for rejeitada (expressa ou tacitamente), a lei primeira vigente no ordenamento, e que estava suspensa, voltará a ter eficácia. Consoante entendimento firmado pelo STF e noticiado no Informativo 935:
+
+(...) a edição de medida provisória posterior não tem eficácia normativa imediata de revogação da legislação anterior com ela incompatível, mas apenas de suspensão, paralisação, das leis antecedentes até o término do prazo do processo legislativo de sua conversão. Embora seja espécie normativa com força de lei, a medida provisória precisa ser confirmada e, no caso, a de 2019 ainda está em tramitação. A medida provisória é lei sob condição resolutiva. Se for aprovada, a lei de conversão resultará na revogação da norma. Dessa maneira, não se pode falar em perda de interesse – ADI 5717, 5709, 5716 e 5727, Rel. Min. Rosa Weber, julgamento em 27-03-2019.
+
+(ii) O Presidente da República não pode retirar da apreciação do Congresso Nacional uma medida provisória editada e já em vigor, afinal ele não mais tem ingerência sobre ela após a edição. Assim, tão logo a MP seja editada pelo Presidente, ela é submetida, imediatamente, à apreciação do Congresso Nacional, privando o chefe do Executivo de qualquer disposição sobre a espécie normativa;
+
+(iii) nada obstante a anotação anterior, existe uma alternativa para o Presidente paralisar a produção de efeitos de uma MP já editada, em vigor, e sob análise do Congresso Nacional. Basta que ele edite uma segunda MP (MP2) visando ab-rogar a MP anterior (MP1). Em outras palavras: o Presidente, a quem não é permitido retirar da apreciação do Congresso Nacional uma MP já editada, pode editar a MP2 que suspenderá a MP1. Como a MP2 é que está em vigor (pois a MP1 está suspensa), ela será analisada pelo Congresso Nacional, onde duas coisas podem acontecer:
+
+(1) se ela for aprovada, a MP1 é retirada do ordenamento jurídico;
+
+(2) se ela for rejeitada, a MP1 volta a produzir efeitos pelo tempo que lhe resta de eficácia, isto é, pelo período restante para a conclusão de seu prazo constitucional de eficácia, devendo agora a MP1 ser analisada pelo Poder Legislativo. Segundo o STF,
+
+Porque possui força de lei e eficácia imediata a partir de sua publicação, a medida provisória não pode ser “retirada” pelo presidente da República à apreciação do Congresso Nacional. (...). Como qualquer outro ato legislativo, a medida provisória é passível de ab-rogação mediante diploma de igual ou superior hierarquia. (...). A revogação da medida provisória por outra apenas suspende a eficácia da norma ab-rogada, que voltará a vigorar pelo tempo que lhe reste para apreciação, caso caduque ou seja rejeitada a medida provisória ab-rogante. Consequentemente, o ato revocatório não subtrai ao Congresso Nacional o exame da matéria contida na medida provisória revogada.[17]
+
+Para fixar melhor esse ponto, te convido para analisar o esquema[18] posto abaixo:
+
+[[[]]]
+
+(iv) Um inconveniente acordo político resultou na formulação do infeliz art. 2º da EC nº 32/2001, que determina que as medidas provisórias editadas em data anterior à da publicação da EC nº 32/2001 continuam em vigor até que uma medida provisória ulterior as revogue explicitamente ou até que haja deliberação definitiva do Congresso Nacional.
+
+Esse dispositivo retirou das MPs que estavam em vigor até o dia 12.11.2001 (data da publicação da EC nº 32/2001) a possibilidade de revogação tácita, por decurso de prazo, exigindo deliberação expressa do Congresso Nacional ou ato normativo posterior (de igual hierarquia e que disponha sobre a matéria em sentido contrário), para que sejam extirpadas do ordenamento jurídico.
+
+Em conclusão, as MPs que estavam em vigor até o dia 12.11.2001 continuarão produzindo efeitos, numa vergonhosa vigência indeterminada, até que:
+
+– o Congresso Nacional resolva deliberar definitivamente sobre elas, revogando-as ou convertendo-as em lei (sendo necessário observar, claro, o procedimento que vigorava a época da edição, isto é, o anterior à EC nº 32/2001, regido pela Res. nº 1/1989-CN, alterada pela Res. nº 2/1989-CN)[19];
+
+– algum ato normativo posterior, de igual hierarquia, as revogue, expressa ou tacitamente.
+
+(v) Em março de 2016, o STF, por maioria, mediante a conversão da Súmula nº 651, aprovou a edição da Súmula Vinculante nº 54, com o seguinte teor: “A medida provisória não apreciada pelo Congresso Nacional podia, até a Emenda Constitucional 32/2001, ser reeditada dentro do seu prazo de eficácia de trinta dias, mantidos os efeitos de lei desde a primeira edição”.
+
+Alguns Ministros (Ministros Marco Aurélio e Teori Zavascki) ficaram vencidos na conversão do enunciado, argumentando que (1) o verbete vinculante deve ser reservado a situações excepcionais, especialmente a fim de evitar o aumento da competência originária do Supremo mediante o uso da reclamação; e (2) o verbete novo alcança casos residuais, vez que regulamenta atos jurídicos praticados há quase quinze anos – já que, após a Emenda nº 32/2001, houve regência diversa quanto à edição e submissão, ao Congresso Nacional, das medidas provisórias.
+
+Ao meu sentir, assiste razão aos votos divergentes: a conversão era desnecessária, já que o enunciado 651 da súmula do STF já estava pacificado e, de fato, o número de casos regulados pelo verbete é pequeno. 
+
+---> fazer questões
+---> fazer questões
+---> fazer questões
+---> fazer questões
+
+ C.7. Decretos legislativos
+O decreto legislativo é a espécie normativa primária utilizada pelo Congresso Nacional no uso de suas atribuições exclusivas constantes do art. 49, CF/88, para regulamentação dos assuntos ali dispostos.
+
+Segundo a doutrina, os decretos legislativos são “atos destinados a regular matérias de competência exclusiva do Congresso Nacional (art. 49) que tenham efeitos externos a ele”.[20]
+
+Em que pese ser ato normativo inscrito no art. 59, CF/88 (primário, portanto) a disciplina de seu trâmite de elaboração é determinada no Regimento Interno do Congresso Nacional. Três pontos procedimentais, todavia, são interessantes e merecem destaque:
+
+(i) em regra, seguindo os termos do art. 47, CF/88, os decretos legislativos são aprovados por maioria simples; no entanto, é de 2/5 o quórum necessário para desautorização da renovação de concessão ou permissão de serviço de radiodifusão sonora e de sons e imagens (art. 223, § 2º, CF/88);
+
+(ii) os decretos legislativos são promulgados pelo Presidente do Senado Federal que, em sendo o Presidente do Congresso Nacional, é o responsável, também, pela publicação;
+
+(iii) inexiste sanção ou veto presidencial para a formação dessa espécie normativa, já que é um instrumento normativo que traduz competências que são exclusivas do Congresso Nacional, vale dizer, fora do campo de ingerência do Presidente da República.
+
+Por fim, e pela importância, há que se dar destaque ao decreto legislativo que:
+
+(A) trata dos efeitos de medida provisória rejeitada, expressa ou tacitamente, nos termos do art. 62, §§ 3º e 11, CF/88;
+
+(B) resolve definitivamente sobre tratados, acordos ou atos internacionais que acarretem encargos ou compromissos gravosos ao patrimônio nacional, nos termos do art. 49, I, CF/88;
+
+(C) susta os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa, num autêntico controle repressivo (e político) de constitucionalidade, conforme art. 49, V, CF/88 (ver item 4.4, do cap. 17). 
+
+---> fazer questões
+---> fazer questões
+---> fazer questões
+---> fazer questões
+
+C.8. Resoluções
+As resoluções são espécies normativas primárias, editadas pelo Poder Legislativo (em âmbito federal, tanto pelo Congresso Nacional, quanto pelas duas Casas Legislativas – Senado Federal e Câmara dos Deputados) no uso de suas atribuições fixadas pela Constituição. Em regra, possuem efeitos internos, frisando-se a existência de exceções, em que a resolução é editada com efeitos externos (como é o caso da resolução editada pelo Congresso Nacional para delegar ao Presidente da República poderes para editar leis delegadas, nos termos do art. 68, § 3º, CF/88).
+
+As resoluções, assim como os decretos legislativos, também não possuem procedimento legislativo fixado na Constituição, mas alguns aspectos da tramitação estão definidos no texto constitucional, como a aprovação (que se dá por maioria relativa, seguindo a regra genérica do art. 47, CF/88). Exige-se, no entanto, o quórum qualificado de 2/3 para aprovação:
+
+(i) da resolução da Casa Legislativa (Câmara dos Deputados ou Senado Federal) que aprova a suspensão das imunidades parlamentares no curso do estado de sítio, nos termos do art. 53, § 7º, CF/88;
+
+(ii) da resolução da Câmara dos Deputados que autoriza o processamento do Presidente da República, conforme art. 51, I, CF/88;
+
+(iii) da resolução do Senado Federal que aprova a condenação do Presidente da República (ou outras autoridades) pela prática de infração política administrativa, de acordo com o art. 52, I, II e parágrafo único, CF/88;
+
+(iv) da resolução do Senado Federal que fixa as alíquotas máximas nas operações internas com a finalidade de resolver o conflito específico que envolva interesse de Estados e do Distrito Federal (art. 155, § 2º, V, “b”, CF/88).
+
+Como as resoluções veiculam matérias privativas das Casas Legislativas e do Congresso Nacional, não há que se falar em manifestação presidencial (para sanção ou veto), assim como a promulgação e a publicação são efetivadas pela própria Casa Legislativa que expediu o ato (se a Resolução é do Congresso Nacional temos que a Mesa do Senado Federal é a responsável pela promulgação e publicação).
+
+No mais, deve-se salientar que o Senado Federal:
+
+(A) não está obrigado a atuar;
+
+(B) sequer possui prazo para tanto;
+
+(C) acaso edite a referida resolução, excepcionalmente de efeitos externos, sua decisão será irretratável;
+
+(D) deverá observar estritamente a decisão judicial, suspendendo exatamente aquilo que foi declarado inconstitucional pelo STF (nem indo além, para alcançar outros dispositivos, nem ficando aquém, deixando de suspender artigos que a Corte tenha declarado inconstitucional); e,
+
+(E) nada obstante à divergência doutrinária, para a corrente majoritária a suspensão da norma pelo Senado opera efeitos ex nunc, ou seja, dali em diante (exceto na situação prevista no Decreto nº 2.346/1997, aplicável à Administração Federal, em que o efeito será ex tunc). 

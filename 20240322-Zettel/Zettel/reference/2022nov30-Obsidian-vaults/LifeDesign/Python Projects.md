@@ -1,0 +1,5 @@
+- 
+- [[Udemy-Python3-completo-A-a-Z]]
+- 
+- Create a billing system
+	- https://twitter.com/PythonPr/status/1581528918921650181?s=20&t=gVatmD_MeIRmInYE4KrLww

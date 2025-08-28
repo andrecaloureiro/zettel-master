@@ -1,0 +1,95 @@
+ - material da sefaz-me 2023
+
+- PMBOK 6 - Gestão de Projetos 4
+	- Conceitos Básicos
+		- ñ é metodologia --> conjunto de boas práticas
+		- 10 areas de gerenciamento de prjetos + 5 grupos de processos( q nãp sao fases de projeto)
+	- Conceito e Importância do Gerenciamento de Projetos
+		- aplicação de conhecimentos, habilidades, ferramentas e técnicas às atividades do projeto a fim de cumprir os seus requisitos
+	- Projetos, Programas, Portfólios e Operações
+	- Definição de Programa
+	- Definições de Portfólio
+	- Gerenciamento de operações
+	- Componentes do guia
+	- Ciclos de Vida do Projeto e do Desenvolvimento
+	- Estruturas Organizacionais
+	- Escritório de Gerenciamento de Projetos (EGP/PMO)
+	- Gerente de Projetos
+- PMBOK 6 - Grupos de Processo 34
+	- intro
+	- Grupo de processos de Iniciação
+	- Grupo de processos de Planejamento
+	- Grupo de processos de Execução
+	- Grupo de processos de Monitoramento e Controle
+	- Grupo de processos de Encerramento
+- PMBOK 6 - Áreas de Conhecimento 49
+- PMBOK 6 - Gerenciamento de Integração 53
+	- intro
+	- Desenolver TAP
+	- desenvolver PGP
+	- Orientar e Gerenciar o Trabalho do Projeto
+	- Gerenciar o Conhecimento do Projeto
+	- Monitorar e Controlar o trabalho do Projeto
+	- Realizar o Controle Integrado de Mudanças
+	- Encerrar o Projeto ou Fase
+- PMBOK 6 - Gerenciamento do Escopo do Projeto 70
+	- intro
+	- Planejar o Gerenciamento do Escopo
+	- Coletar os Requisitos
+	- Definir o escopo
+	- Criar a Estrutura Analítica do Projeto (EAP)
+	- Validar o Escopo
+	- Controlar o Escopo
+- PMBOK 6 - Gerenciamento do Cronograma do Projeto 84
+	- intro
+	- Planejar o Gerenciamento do Cronograma
+	- Definir as Atividades
+	- Sequenciar as Atividades
+	- Estimar as Durações das Atividades
+	- Desenvolver o Cronograma
+	- Controlar o Cronograma
+- PMBOK 6 - Gerenciamento dos Custos do Projeto 100
+	- intro
+	- Planejar o Gerenciamento dos Custos
+	- Estimar os Custos
+	- Determinar o Orçamento
+	- Controlar os Custos
+- PMBOK 6 - Gerenciamento da Qualidade do Projeto 111
+	- Planejar o Gerenciamento da Qualidade
+	- Gerenciar a Qualidade
+	- Controlar a Qualidade
+- PMBOK 6 - Gerenciamento dos Recursos do Projeto 118
+	- Planejar o Gerenciamento dos Recursos
+	- Estimar os os Recursos das Atividades
+	- Adquirir Recursos
+	- Desenvolver a Equipe
+	- Gerenciar a Equipe
+	- Controlar os Recursos
+- PMBOK 6 - Gerenciamento das Comunicações do Projeto 126
+	- Planejar o Gerenciamento das Comunicações
+	- Gerenciar as Comunicações
+	- Monitorar as comunicações
+- **PMBOK 6 - Gerenciamento dos Riscos do Projeto 131**
+	- Planejar o Gerenciamento dos RISCOS
+	- Identificar os Riscos
+	- Realizar a Análise Qualitativa dos Riscos
+	- Realizar a análise quantitativa dos riscos
+	- Planejar as Respostas aos Riscos
+	- Implementar Respostas a Riscos
+	- Monitorar os Riscos
+- PMBOK 6 - Gerenciamento das Aquisições do Projeto 152
+	- Planejar o Gerenciamento das Aquisições
+	- Conduzir as Aquisições
+	- Controlar as Aquisições
+- PMBOK 6 - Gerenciamento de Partes Interessadas 158
+	- Identificar as Partes Interessadas
+	- Planejar o Engajamento das Partes Interessadas
+	- Gerenciar o Engajamento das Partes Interessadas
+	- Monitorar o Engajamento das Partes Interessadas
+- PMBOK 6 - Novidades 164
+	- Gerenciar o conhecimento do projeto 
+	- Controlar os recursos 
+	- Implementar respostas aos riscos
+- PMBOK 6 - Referências 166
+- PMBOK 6 - Resumo 167
+

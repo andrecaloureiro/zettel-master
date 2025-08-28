@@ -1,0 +1,31 @@
+
+- Método Fraco 1 Gerar-e-Testar.
+- A estratégia mais básica observada por Simon e Newell nos participantes era simplesmente tentar algo e ver se funcionava.
+- Se eu esqueci minha senha de um computador antigo, posso tentar meia dúzia de senhas que já usei no passado.
+- Com sorte, uma delas estará correta e eu não precisarei passar por uma tentativa mais extensa de resolver o problema para redefinir a senha.
+- Da mesma forma, se eu não conseguir encontrar minhas chaves, posso adivinhar aleatoriamente alguns lugares prováveis antes de tentar refazer meus passos.
+- Ao escrever um ensaio, posso superar o bloqueio do escritor simplesmente escrevendo qualquer coisa e depois editando.
+- É provável que uma expressão aleatória não seja uma boa prosa, mas o primeiro pensamento gerado pela memória pode não ser tão ruim, desde que eu já tenha muita experiência com o tópico.
+- A desvantagem óbvia de gerar-e-testar é que é desastroso quando o espaço do problema se torna grande.
+- Gerar-e-testar só funciona quando o problema já está limitado ou é familiar o suficiente para que adivinhar seja provável de produzir respostas razoáveis.
+- Método Fraco #2: Análise de Meios-Fins.
+- Outra estratégia quase universal observada na resolução de problemas é a análise de meios-fins.
+- Esta é uma estratégia de raciocínio de ida e volta que começa identificando lacunas e depois encontrando movimentos que reduzirão essas lacunas no espaço do problema.
+- Considere este exemplo apresentado por Simon e Newell:
+- Quero levar meu filho à escola. Qual é a diferença entre o que tenho e o que quero? Uma de distância. O que muda a distância? Meu carro. Meu carro não funciona. O que é necessário para fazê-lo funcionar? Uma nova bateria. Onde há baterias novas? Em uma oficina mecânica. Quero que a oficina coloque uma nova bateria; mas a oficina não sabe que eu preciso de uma. Qual é a dificuldade? Uma de comunicação. O que permite a comunicação? Um telefone... e assim por diante.
+- A análise de meios-fins funciona alternando entre um objetivo, observando uma diferença entre o estado atual e o estado desejado, e então encontrando um método adequado para fechar a distância.
+- Isso pode se repetir de forma recursiva, como a história de Simon e Newell ilustra.
+- Método Fraco #3: Planejamento.
+- Outra ferramenta geral que as pessoas usam para resolver problemas é o planejamento.
+- Planejar pode ser visto como reformular um problema em um espaço de problema mais simples, resolvê-lo no espaço mais simples e, em seguida, tentar generalizar essa abordagem para o espaço de problema real.
+- Por exemplo, ao escrever um ensaio, posso começar com um esboço, que é uma espécie de versão simplificada do ensaio, incluindo apenas os pontos principais que quero abordar e ignorando todos os detalhes.
+- Uma vez que estou satisfeito por ter resolvido o problema no espaço de planejamento, posso usar isso para guiar minha busca no espaço maior de escrever o ensaio inteiro.
+- Método Fraco #4: Escalada de Colina.
+- Suponha que você esteja em uma grande paisagem, envolta em névoa, e queira encontrar o ponto mais alto possível.
+- Uma estratégia seria simplesmente caminhar na direção que é mais íngreme.
+- Escalada de colina aplica essa noção à resolução de problemas.
+- Comece com uma solução provisória para o problema, por mais ruim que seja, e depois faça pequenos ajustes na direção que mais melhora seu ponto de partida.
+- Em certas classes de problemas, simplesmente seguir a direção da melhor melhoria é suficiente para eventualmente alcançar o ponto ideal.
+- Editar um ensaio é frequentemente um processo de escalada de colina, enquanto você faz ajustes sucessivos no texto da maneira que melhor melhora a qualidade da escrita como um todo.
+- Da mesma forma, aplicar a escalada de colina para resolver um cubo mágico pode envolver tentar aumentar o número de cores segregadas em cada lado com cada movimento.
+- Esta abordagem falha com cubos mágicos, mas o fato de as pessoas frequentemente tentarem mostra nossa heurística inata de escalada de colina em ação.

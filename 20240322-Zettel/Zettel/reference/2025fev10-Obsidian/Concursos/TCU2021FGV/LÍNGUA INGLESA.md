@@ -1,0 +1,3 @@
+### LÍNGUA INGLESA: 
+1 Estratégias de leitura em língua inglesa: compreensão de tipos textuais diversos; reconhecimento de informações específicas; capacidade de análise e síntese; inferência e predição; reconhecimento de organização semântica e discursiva; uso de palavras mais frequentes, sinonímia e antonímia; coerência e coesão; funções retóricas; percepção de metáfora e metonímia. 
+2 Aspectos sintáticogramaticais relevantes à compreensão de texto: artigos definidos e indefinidos; tempos e modos verbais; uso de preposições, conjunções e pronomes e modais; comparação; concordância nominal e verbal; formação e classe de palavras; expressões idiomáticas; relações de subordinação e coordenação; voz passiva, discurso direto e indireto.

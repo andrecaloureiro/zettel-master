@@ -1,0 +1,2 @@
+- [ ] fazer programa de estudos
+- [ ] verificar pagamento nao processado

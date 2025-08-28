@@ -1,0 +1,56 @@
+a19 - ISS jaboatão guararapes - pos edital 2024
+prof celso Natale
+
+
+- [x] Federalismo e Federalismo Fiscal  
+	- Federalismo: tecnica administrativa para exercer poder em grandes territorios
+		- democracia
+		- atribuições definidas 
+			- estado , municiio uniao, etc
+			- Brasil: a22-25 CF88
+	- Federalismo Fiscal: gastar e arrecadar
+
+- [x] Motivos para o Federalismo Fiscal 5  
+	- autnomia de entes
+	- correta e justa distribuição de recursos recebidos
+	- melhor execução de politicas publicas
+	- 3 abordagens pró federalismo fiscal
+		- a) preferencia de cidadãos e concorrencia entre governos
+			- o carona/free rider
+			- Charles Tiebout 
+				- mobilidade das pessoas - votar com os pés - preferencias  individuais reveladas de acordo com pacotes dos governos
+				- competição horizontal, entre entes 
+		- b) cooperação entre entes para maior eficiencia do serviço publico
+			- Wallace Oates -equilibrio entre centralizar e descentralizar
+				- descentrlizar:
+					- con: dificuldades com politicas macro (ex: moeda unica) 
+					- con: dificuldades em executar projetos com grandes orçamentos ( hospitais, universidades, etc)
+					- pro: maior participação e fiscalizaçõ de deciões locais
+				- centralizado:
+					- con: insensivel a demandas pontuais locais
+					- con: menor fiscalização cidadã - podem surgir free riders?
+					- pro: oferta de bem publico de impacto geral: segurança nacional, sistema judiciário, etc)
+				- Para oates - federalismo é capaz de pegar o melhor dos 2
+					- preferencias individuais - governo local entende seu publico
+					- estrutura vertical de cooperação
+		- c) externalidades explicitadas
+			- Roger Gordon -contra descentralizar
+				- comunidades podem tomar deciões que prejudiquem outras comus:
+				- 8 externalidades:
+					- exportação de tributos ( ex: icms para UF consumidora final)
+					- controle de Externalidades positivas ( uma cidade tem a nascente do rio q passa em outra cidade)
+					- free rider ( governo local compra ambulancia para levar para hospital de outro governo)
+					- construções negativas ( presidio, usina nuclear, deposito de lixo)
+					- impactos nos efeitos redistributivos de renda ( uniao quer diminuir ICMS sobre cesta bascia... mas estado produtor nao quer perder receita com produção)
+					- tribut regressiva - para atrair ricos e afugentar pobres
+					- politica fiscal de um ente afetando custos de outro ente -- um gov pode aumentar seus tributos e impactar nos serviços adquiridos por outro
+					-  guerra fiscal : beneficios e concessoes para empresas
+	- federalismo ótimo: quem tributa oq? quem prove o q?
+		- maximizar beneficios da concorrencia ( Tiebout)
+		- maximizar div tarefas ( Oates)
+		- diminuir externalidade negativa ( Gordon)
+- [ ] Distribuição de receitas e encargos 14  
+- [ ] Distribuição de responsabilidades de gastos 18  6
+- [ ] Análise alocativa do Federalismo Fiscal 22  
+- [ ] Conclusões sobre a teoria do Federalismo Fiscal 24  
+- [ ] Federalismo Fiscal do Brasil 25

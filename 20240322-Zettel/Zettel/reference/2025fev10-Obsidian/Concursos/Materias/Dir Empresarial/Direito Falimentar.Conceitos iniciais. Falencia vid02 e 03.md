@@ -1,0 +1,74 @@
+- Falencia --> processo judicial --> etapas conduzidas por juiz
+	- execução coletiva em concurso de credores
+		- execução individual dá lugar à execução coletiva
+		- critério de celeridade: natureza de crédito
+	- contra devedor em crise caracterizada como insolvencia juridica
+	- havendo liquidação forçada do patrimonio -> satisfazendo maior quantidade de credores
+	- empresário é afastado das atividades
+	- bens compoem massa falida
+		- administrada por admin judicial
+		- com supervisao do juiz
+
+- insolvenciua juridica --> caracterizada por lei 11101
+	- fundamenta pedido de falencia
+	- decretada a falencia:
+		- admin arrecada os bens do falido --> massa falida
+			- a75 l14112 --> maximizar o valor dos bens
+			- liquidação celere das irrecuperaveis --> realocação eficiente dos rescursos à economia
+			- fomentar empreendedorismo --> viabilizar retorono rapido do falido à atividade economica
+		- liquidação forçada 
+
+- Historico
+	- incialmente: morte ou escravidao para o devedor ( criminioso)
+	- 2o momento --> satisfazer credores
+	- 3o momento --> manter e preservar a empresa
+
+- fases processuais da falência
+	- pre-falimentar - pedido de falencia ate sentenbça declaratoria de falencia
+	- falimentar - decreto da falencia até  sentença de encerramento ( fim do processo) ( nao extingue as obrigações do devedor)
+	- reabilitação - encerramento do processo até extinbção das obrigações decorrentes
+		- APÓS EXTINÇÃO Das obrigações, ao falido fica reabilitado para exercer qualquer atividade empresarial
+
+  - pressupostos que ensejam pedido de falencia
+	  - definidas em lei
+	  - (a94) 3 hipoteses:
+		  - impontualidade injustificada
+			  - hipoteses:
+				  - nao paga no vencimento
+				  - sem relevante razao de direito
+				  - obg liquida
+				  - materializada em titulo executivo
+				  - titulo ja protestado
+					  - titulo  + inastrumento de protesto --> instruem o processo falimentar
+				  - valor ultrapssa **40 Salarios minimos**
+					  - credores podem unir-se em litisconsorcio para chegar nesse valor 
+				  - (a96) não decretada se devedor provar:
+					  - falsidade/prescrição do titulo
+					  - nulidade / pagamento/ vicio/ fatos q nao legitimem cobrança
+					  - aprensetação de pedido de RJ no prazo da contestação ( observar requisitos a51)
+					  - cessação ativ empresariais + de 2anos antes do pedido de falencia
+						  - compravada por documento habil do Reg publico de Empresas --> nao prevalece se houver prova deexercicio posterior ao ato registrado
+						- $1 Soc Anon nao tem falencia decretada apos liq e partilhado seu ativo... nem do espolio apos 1 ano da morte do devedor
+		  - execução frustrada
+			  - existe ação de execução, apos sentença do juiz
+				  - divida torna-se liquida e certa
+			  - independe do valor
+			  - triplice omissao pelo devedor executado em outro processo
+				  - nao paga
+				  - nao deposita
+				  - nao nomeia  à penhora bens **suficientes** no prozo legal
+			- pedido instruído com certidão expedida por juízoem  q se procesa a execução
+		  - atos de falencia - rol taxativo - sinais de presunção
+			  - descrição dos fatos que caracterizam + provas( o que foi p´roduzido ou a produzir)
+			  - **salvo se fizer parte do plano de RJ**
+			  - fatos:
+				  - liquidação precipatada  e pagtos por meio fraudulento ou ruinoso
+				  - negocio simulado e alienação de ativos
+				  - trespasse irregular
+				  - simulação de mudança de local do estabelecimento
+				  - nova garantia a divida anterior
+				  - abandono de estabelecimento --> sumiu
+				  - nao cumprimento do plano de RJ
+
+
+vid03 --> exercicios

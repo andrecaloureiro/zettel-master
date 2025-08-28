@@ -1,0 +1,1673 @@
+- SFZAL21a Dir COnst
+    - [Direito Constitucional](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+        - 993 (97.07%)
+            - [Eficácia das Normas Constitucionais](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                - 30 (2.93%)
+                - 
+            - [Dos Princípios Fundamentais da Constituição (arts. 1º a 4º da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                - 29 (2.83%)
+                - 
+            - [Dos Direitos e Garantias Fundamentais (arts. 5º a 17 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                - 254 (24.83%)
+                    - [Características (Direitos Fundamentais)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 20 (1.96%)
+                        - 
+                    - [Gerações de Direitos Fundamentais](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 7 (0.68%)
+                        - 
+                    - [Dos Direitos e Deveres Individuais e Coletivos (art. 5º da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 80 (7.82%)
+                        - 
+                    - [Remédios Constitucionais (art. 5º, LXVIII a LXXIII e LXXVII da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 50 (4.89%)
+                            - [Habeas Corpus](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 6 (0.59%)
+                                - 
+                            - [Mandado de Segurança](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 21 (2.05%)
+                                - 
+                            - [Mandado de Injunção](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 9 (0.88%)
+                                - 
+                            - [Habeas Data](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 8 (0.78%)
+                                - 
+                            - [Ação Popular](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 6 (0.59%)
+                                - 
+                    - [Dos Direitos Sociais (arts. 6º a 11 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 24 (2.35%)
+                            - [Direitos Sociais e dos Trabalhadores (arts. 6º e 7º)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 17 (1.66%)
+                                - 
+                            - [Direitos Coletivos dos Trabalhadores (arts. 8º a 11 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 7 (0.68%)
+                                - 
+                    - [Da Nacionalidade (arts. 12 e 13 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 33 (3.23%)
+                            - [Espécies de nacionalidade (brasileiros natos e naturalizados)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 9 (0.88%)
+                                - 
+                            - [Distinções constitucionais entre brasileiros natos e naturalizados](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 10 (0.98%)
+                                - 
+                            - [Perda da nacionalidade](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 4 (0.39%)
+                                - 
+                            - [Extradição, deportação, expulsão e banimento (da nacionalidade)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 8 (0.78%)
+                                - 
+                            - [Dos Símbolos e Idioma da República (art. 13 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 2 (0.20%)
+                                - 
+                    - [Direitos Políticos (arts. 14 a 16 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 30 (2.93%)
+                            - [Soberania Popular (voto, plebiscito, referendo, iniciativa popular), Alistamento e Elegibilidade](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 15 (1.47%)
+                                - 
+                            - [Inelegibilidades (Direitos Políticos)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 9 (0.88%)
+                                - 
+                            - [Perda e suspensão dos direitos políticos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 6 (0.59%)
+                                - 
+                    - [Partidos Políticos (art. 17 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 10 (0.98%)
+                        - 
+            - [Da Organização do Estado (arts. 18 a 43 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                - 115 (11.24%)
+                    - [Da Organização Político-administrativa (arts. 18 e 19 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 10 (0.98%)
+                        - 
+                    - [União: bens e competências exclusivas, privativas, comuns e concorrentes (arts. 20 a 24 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 15 (1.47%)
+                        - 
+                    - [Estados Federados - organização, competências, bens (arts. 25 a 28 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 12 (1.17%)
+                        - 
+                    - [Municípios - organização e competências (arts. 29 a 31 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 15 (1.47%)
+                        - 
+                    - [Do Distrito Federal e dos Territórios (arts. 32 e 33 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 8 (0.78%)
+                        - 
+                    - [Administração Pública (arts. 37 a 43 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 55 (5.38%)
+                            - [Disposições Gerais (Administração Pública - arts. 37 e 38 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 35 (3.42%)
+                                - 
+                            - [Dos Servidores Públicos (arts. 39 a 41 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 20 (1.96%)
+                                - 
+            - [Da Organização dos Poderes (arts. 44 a 135 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                - 422 (41.25%)
+                    - [Do Poder Legislativo (arts. 44 a 75 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 186 (18.18%)
+                            - [Do Congresso Nacional (arts. 44 a 47 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 8 (0.78%)
+                                - 
+                            - [Das Atribuições do Congresso Nacional (arts. 48 a 50 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 20 (1.96%)
+                                - 
+                            - [Da Câmara dos Deputados (art. 51 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 8 (0.78%)
+                                - 
+                            - [Do Senado Federal (art. 52 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 11 (1.08%)
+                                - 
+                            - [Dos Deputados e Senadores (arts. 53 a 56 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 18 (1.76%)
+                                - 
+                            - [Das Reuniões (art. 57 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 4 (0.39%)
+                                - 
+                            - [Das Comissões Parlamentares - permanentes e temporárias (art. 58 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 20 (1.96%)
+                                - 
+                            - [Processo Legislativo (arts. 59 a 69 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 64 (6.26%)
+                                    - [Disposição geral (processo legislativo, art. 59 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 5 (0.49%)
+                                        - 
+                                    - [Da Emenda à Constituição (art. 60 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 15 (1.47%)
+                                        - 
+                                    - [Leis Ordinárias e Complementares](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 7 (0.68%)
+                                        - 
+                                    - [Medidas Provisórias](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 10 (0.98%)
+                                        - 
+                                    - [Leis Delegadas](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 2 (0.20%)
+                                        - 
+                                    - [Resoluções e Decretos Legislativos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 3 (0.29%)
+                                        - 
+                                    - [Fases do processo legislativo (iniciativa, discussão, voto, veto, sanção, promulgação e publicação)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 21 (2.05%)
+                                        - 
+                                    - [Questões Mescladas de Processo Legislativo (arts. 59 a 69 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 1 (0.10%)
+                                        - 
+                            - [Da fiscalização contábil, financeira e orçamentária (arts. 70 a 75 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 33 (3.23%)
+                                    - [Competências para Fiscalização e Tribunal de Contas da União (arts. 70 a 73 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 18 (1.76%)
+                                        - 
+                                    - [Sistema de controle interno (art. 74 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 5 (0.49%)
+                                        - 
+                                    - [Tribunais de Contas estaduais, distrital e municipais](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 10 (0.98%)
+                                        - 
+                    - [Do Poder Executivo (arts. 76 a 91 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 37 (3.62%)
+                            - [Das atribuições do Presidente da República (art. 84 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 25 (2.44%)
+                                - 
+                            - [Da responsabilidade do Presidente da República (arts. 85 e 86 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 12 (1.17%)
+                                - 
+                    - [Do Poder Judiciário (arts. 92 a 126 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 122 (11.93%)
+                            - [Das disposições gerais (poder judiciário, arts. 92 a 100 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 58 (5.67%)
+                                    - [Órgãos do Poder Judiciário (art. 92 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 6 (0.59%)
+                                        - 
+                                    - [Do Estatuto da Magistratura (art. 93 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 8 (0.78%)
+                                        - 
+                                    - [Do quinto constitucional (art. 94 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 5 (0.49%)
+                                        - 
+                                    - [Das garantias e vedações (poder judiciário, art. 95 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 9 (0.88%)
+                                        - 
+                                    - [Competências privativas (poder judiciário, art. 96 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 5 (0.49%)
+                                        - 
+                                    - [Reserva de Plenário (poder judiciário, art. 97 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 8 (0.78%)
+                                        - 
+                                    - [Juizados Especiais e Justiça de Paz (art. 98 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 4 (0.39%)
+                                        - 
+                                    - [Autonomia Administrativa e Financeira (poder judiciário, art. 99 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 4 (0.39%)
+                                        - 
+                                    - [Dos Precatórios (art. 100 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 9 (0.88%)
+                                        - 
+                            - [Do Supremo Tribunal Federal - STF (arts. 101 a 103 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 8 (0.78%)
+                                - 
+                            - [Das Súmulas Vinculantes (art. 103-A da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 4 (0.39%)
+                                - 
+                            - [Do Conselho Nacional de Justiça - CNJ (art. 103-B da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 15 (1.47%)
+                                - 
+                            - [Do Superior Tribunal de Justiça - STJ (arts. 104 e 105 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 13 (1.27%)
+                                - 
+                            - [Dos Tribunais Regionais Federais e Juízes Federais (arts. 106 a 110 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 8 (0.78%)
+                                - 
+                            - [Dos Tribunais e Juízes do Trabalho (arts. 111 a 117 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 5 (0.49%)
+                                - 
+                            - [Dos Tribunais e Juízes Eleitorais (arts. 118 a 121 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 3 (0.29%)
+                                - 
+                            - [Dos Tribunais e Juízes Militares (arts. 122 a 124 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 2 (0.20%)
+                                - 
+                            - [Dos Tribunais e Juízes dos Estados (arts. 125 e 126 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 5 (0.49%)
+                                - 
+                            - [Questões Mescladas de Poder Judiciário (arts. 92 a 126 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 1 (0.10%)
+                                - 
+                    - [Funções Essenciais à Justiça (arts. 127 a 135 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 77 (7.53%)
+                            - [Ministério Público (arts. 127 a 130 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 39 (3.81%)
+                                    - [Princípios institucionais (Ministério Público)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 7 (0.68%)
+                                        - 
+                                    - [Funções institucionais (Ministério Público)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 10 (0.98%)
+                                        - 
+                                    - [Composição do Ministério Público](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 4 (0.39%)
+                                        - 
+                                    - [Garantias e vedações (Ministério Público)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 8 (0.78%)
+                                        - 
+                                    - [Ministério Público junto aos Tribunais de Contas](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 5 (0.49%)
+                                        - 
+                                    - [Conselho Nacional do Ministério Público - CNMP](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 3 (0.29%)
+                                        - 
+                                    - [Ministério Público dos Estados e Distrito Federal e Territórios](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 2 (0.20%)
+                                        - 
+                            - [Da Advocacia Pública (arts. 131 e 132 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 16 (1.56%)
+                                - 
+                            - [Advocacia Privada e Defensoria Pública (arts. 133 a 135 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 20 (1.96%)
+                                - 
+                            - [Questões Mescladas de Funções Essenciais à Justiça (arts. 127 a 135 da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 2 (0.20%)
+                                - 
+            - [Controle de Constitucionalidade](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                - 85 (8.31%)
+                    - [Introdução, Pressupostos e Tipos de Inconstitucionalidade](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 8 (0.78%)
+                        - 
+                    - [Controle de Constitucionalidade no Mundo e Histórico do Controle de Constitucionalidade no Brasil](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 4 (0.39%)
+                        - 
+                    - [Formas de Controle de Constitucionalidade](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 56 (5.47%)
+                            - [Formas de Controle: Sistemas, Momentos, Modelos e Vias de Controle](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 10 (0.98%)
+                                - 
+                            - [Controle Difuso (incidental ou incidenter tantum)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 6 (0.59%)
+                                - 
+                            - [Ações de Controle Concentrado de Constitucionalidade](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 40 (3.91%)
+                                    - [Ação Direta de Inconstitucionalidade (ADI)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 16 (1.56%)
+                                        - 
+                                    - [Ação Direta de Inconstitucionalidade por omissão (ADI por Omissão)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 7 (0.68%)
+                                        - 
+                                    - [Ação Declaratória de Constitucionalidade (ADC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 8 (0.78%)
+                                        - 
+                                    - [Arguição de descumprimento de preceito fundamental (ADPF)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                        - 9 (0.88%)
+                                        - 
+                    - [Controle de Constitucionalidade pelos Tribunais de Justiça dos Estados](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 8 (0.78%)
+                        - 
+                    - [Questões Mescladas de Controle de Constitucionalidade](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 9 (0.88%)
+                        - 
+            - [Constituições dos Estados da Federação](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                - 58 (5.67%)
+                    - [Demais Constituições Estaduais](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                        - 58 (5.67%)
+                            - [Constituição do Estado do Alagoas](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580232/)
+                                - 58 (5.67%)
+                                - 
+- SFZAL21b Dir Admin
+    - [Origem, Conceito e Fontes do Direito Administrativo](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+        - 20 (1.78%)
+        - 
+    - [Regime Jurídico Administrativo](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+        - 39 (3.48%)
+            - [Regime Jurídico da Administração e Regime Jurídico Administrativo](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 5 (0.45%)
+                - 
+            - [Princípios expressos, explícitos ou constitucionais](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 14 (1.25%)
+                - 
+            - [Princípios implícitos, reconhecidos e infraconstitucionais](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 20 (1.78%)
+                - 
+    - [Atos administrativos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+        - 86 (7.67%)
+            - [Conceito de atos administrativos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 6 (0.54%)
+                - 
+            - [Mérito Administrativo](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 4 (0.36%)
+                - 
+            - [Elementos, requisitos e pressupostos (atos administrativos)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 11 (0.98%)
+                - 
+            - [Atributos ou características dos atos administrativos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 8 (0.71%)
+                - 
+            - [Atos administrativos: espécies, classificação, fases de constituição](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 18 (1.61%)
+                - 
+            - [Desfazimento do ato administrativo (Anulação, Revogação, Cassação, Caducidade, Contraposição)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 23 (2.05%)
+                - 
+            - [Convalidação e Conversão dos atos administrativos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 11 (0.98%)
+                - 
+            - [Teoria dos Motivos Determinantes](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 4 (0.36%)
+                - 
+            - [Tópicos Mesclados de Atos Administrativos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 1 (0.09%)
+                - 
+    - [Poderes e Deveres da Administração](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+        - 56 (5.00%)
+            - [Poder Vinculado e Discricionário](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 3 (0.27%)
+                - 
+            - [Poder Regulamentar](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 7 (0.62%)
+                - 
+            - [Poder Hierárquico](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 8 (0.71%)
+                - 
+            - [Poder Disciplinar](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 5 (0.45%)
+                - 
+            - [Poder de Polícia](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 19 (1.69%)
+                - 
+            - [Abuso de Poder: Excesso de Poder e Desvio de Finalidade (poderes da Administração)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 13 (1.16%)
+                - 
+            - [Deveres da Administração](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 1 (0.09%)
+                - 
+    - [Organização Administrativa](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+        - 75 (6.69%)
+            - [Organização Administrativa da União](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 75 (6.69%)
+                    - [Administração Direta (órgãos públicos)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 7 (0.62%)
+                        - 
+                    - [Administração Indireta](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 29 (2.59%)
+                        - 
+                    - [Conselhos Profissionais](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 2 (0.18%)
+                        - 
+                    - [Desconcentração e Descentralização](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 14 (1.25%)
+                        - 
+                    - [Agências Reguladoras e Executivas](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 6 (0.54%)
+                        - 
+                    - [Terceiro Setor (OSs, OSCIPs, Sistema S e Fundações de Apoio)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 17 (1.52%)
+                        - 
+    - [Responsabilidade Civil do Estado](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+        - 40 (3.57%)
+        - 
+    - [Serviços Públicos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+        - 47 (4.19%)
+            - [Conceitos (Serviços Públicos, Lei 8.987)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 5 (0.45%)
+                - 
+            - [Classificação de Serviços Públicos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 6 (0.54%)
+                - 
+            - [Princípios (Serviços Públicos, Lei 8.987)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 4 (0.36%)
+                - 
+            - [Repartição de competências (serviços públicos)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 3 (0.27%)
+                - 
+            - [Concessões (Serviços Públicos, Lei 8.987)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 29 (2.59%)
+                    - [Concessões - Deveres e direitos (usuários, concedente, concessionária, licitações, lei 8.987)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 5 (0.45%)
+                        - 
+                    - [Autorização, permissão e concessão (Serviços Públicos)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 15 (1.34%)
+                        - 
+                    - [Formas de extinção (Serviços Públicos, Lei 8.987)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 5 (0.45%)
+                        - 
+                    - [Intervenção (Serviços Públicos, Lei 8.987)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 2 (0.18%)
+                        - 
+                    - [Subconcessão (Serviços Públicos, Lei 8.987)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 2 (0.18%)
+                        - 
+    - [Controle da Administração](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+        - 50 (4.46%)
+            - [Controle da Administração: conceitos, princípios, abrangência e classificações](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 7 (0.62%)
+                - 
+            - [Controle Administrativo (Direito Administrativo)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 11 (0.98%)
+                - 
+            - [Controle Legislativo ou Parlamentar](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 20 (1.78%)
+                    - [Parlamentar direto (Controle Político)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 8 (0.71%)
+                        - 
+                    - [Parlamentar indireto (Tribunais de Contas, Controle técnico-financeiro)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 12 (1.07%)
+                        - 
+            - [Controle Jurisdicional](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 12 (1.07%)
+                - 
+    - [Agentes Públicos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+        - 124 (11.06%)
+            - [Conceito para agentes públicos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 3 (0.27%)
+                - 
+            - [Classificação dos agentes públicos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 7 (0.62%)
+                - 
+            - [Funções, cargos e empregos públicos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 6 (0.54%)
+                - 
+            - [Criação, transformação e extinção de cargos públicos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 2 (0.18%)
+                - 
+            - [Aspectos Constitucionais pertinentes aos Servidores Públicos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 40 (3.57%)
+                    - [Concurso Público](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 4 (0.36%)
+                        - 
+                    - [Acessibilidade aos cargos e empregos públicos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 3 (0.27%)
+                        - 
+                    - [Acumulação de cargos e empregos públicos e funções](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 10 (0.89%)
+                        - 
+                    - [Estabilidade e estágio probatório](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 5 (0.45%)
+                        - 
+                    - [Associação sindical e direito de greve](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 6 (0.54%)
+                        - 
+                    - [Direitos sociais dos servidores públicos (art. 7º da CF)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 2 (0.18%)
+                        - 
+                    - [Remuneração (componentes, subsídio, teto, equipração, vinculação, irredutibilidade etc)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 5 (0.45%)
+                        - 
+                    - [Mandato Eletivo (art. 38 da CF)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 2 (0.18%)
+                        - 
+                    - [Regime Previdenciário (Aposentadoria, Pensão, RPPS)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 3 (0.27%)
+                        - 
+            - [Estatutos dos Servidores Estaduais e Municipais](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 66 (5.89%)
+                    - [Disposições Gerais (Servidores Estaduais e Municipais)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 8 (0.71%)
+                        - 
+                    - [Formas de Provimento (Servidores Estaduais e Municipais)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 12 (1.07%)
+                        - 
+                    - [Vacância (Servidores Estaduais e Municipais)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 2 (0.18%)
+                        - 
+                    - [Estabilidade e Estágio Probatório (Servidores Estaduais e Municipais)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 5 (0.45%)
+                        - 
+                    - [Direitos e Vantagens (Servidores Estaduais e Municipais)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 6 (0.54%)
+                        - 
+                    - [Licenças, Afastamentos e Concessões (Servidores Estaduais e Municipais)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 12 (1.07%)
+                        - 
+                    - [Direito de Petição (Servidores Estaduais e Municipais)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 1 (0.09%)
+                        - 
+                    - [Regime Disciplinar (Servidores Estaduais e Municipais)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 10 (0.89%)
+                        - 
+                    - [Processo Disciplinar (Servidores Estaduais e Municipais)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 6 (0.54%)
+                        - 
+                    - [Tópicos Mesclados de Estatuto de Servidores Estaduais e Municipais](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 4 (0.36%)
+                        - 
+    - [Improbidade Administrativa - Lei nº 8.429/1992](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+        - 82 (7.31%)
+            - [Sujeitos Ativo e Passivo (arts. 1º a 8º da Lei nº 8.429)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 15 (1.34%)
+                - 
+            - [Dos Atos de Improbidade (arts. 9º a 11 da Lei nº 8.429/1992)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 25 (2.23%)
+                - 
+            - [Das Penas (art. 12 da Lei nº 8.429/1992)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 14 (1.25%)
+                - 
+            - [Da Declaração de Bens (art. 13 da Lei nº 8.429/1992)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 4 (0.36%)
+                - 
+            - [Do Processo Administrativo e Judicial (arts. 14 a 18 da Lei nº 8.429/1992)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 8 (0.71%)
+                - 
+            - [Das Disposições Penais (arts. 19 a 22 da Lei nº 8.429/1992)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 4 (0.36%)
+                - 
+            - [Da Prescrição (art. 23 da Lei nº 8.429/1992)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 4 (0.36%)
+                - 
+            - [Tópicos Mesclados de Improbidade Administrativa (Lei nº 8.429/1992)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 8 (0.71%)
+                - 
+    - [Processo Administrativo](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+        - 56 (5.00%)
+            - [Processo Administrativo Federal (Lei 9.784/1999)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 56 (5.00%)
+                    - [Disposições Gerais, Direitos e Deveres do Administrado (arts. 1º a 4º da Lei nº 9.784/1999)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 5 (0.45%)
+                        - 
+                    - [Trâmite do Processo (arts. 5º a 10 e 29 a 50 da Lei nº 9.784/1999)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 4 (0.36%)
+                        - 
+                    - [Da Competência (arts. 11 a 17 da Lei nº 9.784/1999)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 10 (0.89%)
+                        - 
+                    - [Dos Impedimentos e da Suspeição (arts. 18 a 21 da Lei nº 9.784/1999)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 4 (0.36%)
+                        - 
+                    - [Forma, Tempo e Lugar dos Atos do Processo (arts. 22 a 25 da Lei nº 9.784/1999)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 4 (0.36%)
+                        - 
+                    - [Da Comunicação dos Atos (arts. 26 a 28 da Lei nº 9.784/1999)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 4 (0.36%)
+                        - 
+                    - [Da Desistência e Outros Casos de Extinção do Processo (arts. 51 e 52 da Lei nº 9.784/1999)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 3 (0.27%)
+                        - 
+                    - [Da Anulação, Revogação e Convalidação (arts. 53 a 55 da Lei nº 9.784/1999)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 3 (0.27%)
+                        - 
+                    - [Do Recurso Administrativo e da Revisão (arts. 56 a 65 da Lei nº 9.784/1999)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 11 (0.98%)
+                        - 
+                    - [Dos Prazos e das Sanções (arts. 66 a 68 da Lei nº 9.784/1999)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 2 (0.18%)
+                        - 
+                    - [Das Disposições Finais (arts. 69 e 70 da Lei nº 9.784/1999)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 2 (0.18%)
+                        - 
+                    - [Tópicos Mesclados da Lei nº 9.784/1999](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 4 (0.36%)
+                        - 
+    - [Licitações e Contratos - Lei nº 8.666/1993](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+        - 235 (20.96%)
+            - [Licitações (arts. 1º a 53 da Lei nº 8.666/1993)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 131 (11.69%)
+                    - [Dos Princípios (arts. 1º a 5º, e art. 50 Lei 8.666)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 20 (1.78%)
+                        - 
+                    - [Definições, obras e serviços, compras (arts. 6 a 16, Lei 8.666)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 25 (2.23%)
+                        - 
+                    - [Alienação de bens móveis e imóveis. Licitação dispensada (arts. 17 a 19, Lei 8.666)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 6 (0.54%)
+                        - 
+                    - [Contratação Direta (dispensa e inexigibilidade - arts. 24 a 26, Lei 8.666)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 25 (2.23%)
+                        - 
+                    - [Modalidades de licitação. Local de realização. Publicação do edital (arts. 20 a 23, 52 e 53)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 20 (1.78%)
+                        - 
+                    - [Fases e tipos de licitação (arts. 27 a 48 da Lei nº 8.666/1993)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 20 (1.78%)
+                        - 
+                    - [Impugnação ao edital (art. 41, §§ 1º a 3º, Lei 8.666)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 5 (0.45%)
+                        - 
+                    - [Revogação e anulação da licitação (art. 49, Lei 8666)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 4 (0.36%)
+                        - 
+                    - [Comissão de Licitação (art. 51, Lei 8666)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 2 (0.18%)
+                        - 
+                    - [Tópicos mesclados sobre Licitações (Lei nº 8.666/1993)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 4 (0.36%)
+                        - 
+            - [Contratos Administrativos (Lei 8.666/1993)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 104 (9.28%)
+                    - [Conceito de Contratos Administrativos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 2 (0.18%)
+                        - 
+                    - [Classificação e espécies de contratos administrativos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 2 (0.18%)
+                        - 
+                    - [Características dos Contratos Administrativos (art. 54 da Lei nº 8.666/1993)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 3 (0.27%)
+                        - 
+                    - [Cláusulas necessárias nos contratos administrativos (art. 55 da Lei 8.666/1993)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 4 (0.36%)
+                        - 
+                    - [Duração dos contratos administrativos (art. 57, Lei 8666)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 15 (1.34%)
+                        - 
+                    - [Da formalização dos contratos (arts. 60 a 64 da Lei 8.666/1993)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 3 (0.27%)
+                        - 
+                    - [Execução dos contratos (arts. 66 a 76 da Lei 8.666/1993)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 15 (1.34%)
+                        - 
+                    - [Recebimento do objeto (definitivo e provisório)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 5 (0.45%)
+                        - 
+                    - [Cláusulas Exorbitantes, Alteração e Extinção Contratual](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 39 (3.48%)
+                            - [Conceito de cláusula exorbitante](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                                - 2 (0.18%)
+                                - 
+                            - [Exigência de Garantia (art. 56, lei 8666)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                                - 4 (0.36%)
+                                - 
+                            - [Alteração contratual (art. 58, inciso I e §§1º e 2º, e art. 65, lei 8666)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                                - 18 (1.61%)
+                                - 
+                            - [Extinção dos contratos (conclusão, anulação, rescisão - arts. 58, II, 59, 77 a 80, Lei 8666)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                                - 5 (0.45%)
+                                - 
+                            - [Poder de Fiscalização (arts. 58, inciso III, 67 e 68, lei 8666)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                                - 5 (0.45%)
+                                - 
+                            - [Inoponibilidade da Execução do Contrato Não Cumprido (art. 78, inciso XV, lei 8666)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                                - 1 (0.09%)
+                                - 
+                            - [Ocupação Provisória (cláusulas exorbitantes, art. 58, V)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                                - 2 (0.18%)
+                                - 
+                            - [Questões mescladas de cláusulas exorbitantes](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                                - 2 (0.18%)
+                                - 
+                    - [Sanções (arts. 86 a 88, lei 8666)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 4 (0.36%)
+                        - 
+                    - [Teoria da Imprevisão (contratos administrativos)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 5 (0.45%)
+                        - 
+                    - [Controle pelo Tribunal de Contas (art. 113, Lei 8666)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 2 (0.18%)
+                        - 
+                    - [Recursos Administrativos, Representação e Reconsideração (art. 109, lei 8666)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 2 (0.18%)
+                        - 
+                    - [Tópicos mesclados sobre Contratos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 3 (0.27%)
+                        - 
+    - [Licitações e Contratos Administrativos - Lei nº 14.133/2021](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+        - 84 (7.49%)
+            - [Do Âmbito de Aplicação, Definições e Agentes Públicos (arts. 1º a 4º, 6º a 10 da Lei nº 14.133/21)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 20 (1.78%)
+                - 
+            - [Princípios (art. 5º da Lei nº 14.133/2021)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 1 (0.09%)
+                - 
+            - [Licitações (arts. 11 a 88 da Lei nº 14.133/2021)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 63 (5.62%)
+                    - [Objetivos, Fases e Formalidades (arts. 11 a 17 da Lei nº 14.133/2021)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 10 (0.89%)
+                        - 
+                    - [Instrução do Processo Licitatório (arts. 18 a 27 da Lei nº 14.133/2021)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 15 (1.34%)
+                        - 
+                    - [Modalidades de Licitação (arts. 28 a 32 da Lei nº 14.133/2021)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 8 (0.71%)
+                        - 
+                    - [Critérios de Julgamento (arts. 33 a 39 da Lei nº 14.133/2021)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 8 (0.71%)
+                        - 
+                    - [Disposições Setoriais, Compras, Serviços (arts. 40 a 52 da Lei nº 14.133/2021)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 12 (1.07%)
+                        - 
+                    - [Divulgação do Edital de Licitação (arts. 53 a 54 da Lei nº 14.133/2021)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 4 (0.36%)
+                        - 
+                    - [Fases da Licitação - Julgamento, Habilitação e Encerramento (arts. 55 a 71 da Lei nº 14.133/2021)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                        - 6 (0.54%)
+                        - 
+    - [Pregão](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+        - 66 (5.89%)
+            - [Lei nº 10.520/2002 - Modalidade de licitação Pregão](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 40 (3.57%)
+                - 
+            - [Decreto nº 10.024/2019 - Pregão Eletrônico](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 20 (1.78%)
+                - 
+            - [Decreto nº 3.555/2000 - Pregão](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 6 (0.54%)
+                - 
+    - [Outros Normativos Sobre Licitações](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+        - 61 (5.44%)
+            - [Lei nº 12.462/2011 - Regime Diferenciado de Contratações Públicas (RDC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+                - 36 (3.21%)
+                - 
+            - [Sistema de Registro de Preços (SRP) - Decreto nº 7.892/2013](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580230/)
+    - 
+    - 
+- SFZAL21C Dir Civ
+    - [Das Pessoas (arts. 1º a 78)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+        - 216 (21.62%)
+            - [Das Pessoas Naturais (arts. 1º a 39)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                - 65 (6.51%)
+                    - [Da personalidade e da capacidade (arts. 1º a 10)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 40 (4.00%)
+                        - 
+                    - [Dos Direitos da personalidade (arts. 11 a 21)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 25 (2.50%)
+                        - 
+            - [Das Pessoas Jurídicas (arts. 40 a 69)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                - 112 (11.21%)
+                    - [Disposições gerais - Pessoas Jurídicas (arts. 40 a 52)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 35 (3.50%)
+                        - 
+                    - [Das Associações (arts. 53 a 61)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 19 (1.90%)
+                        - 
+                    - [Das Fundações (arts. 62 a 69)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 18 (1.80%)
+                        - 
+                    - [Desconsideração da personalidade jurídica](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 40 (4.00%)
+                        - 
+            - [Domicílio das Pessoas Naturais e Jurídicas (arts. 70 a 78)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                - 39 (3.90%)
+                - 
+    - [Dos Bens (arts. 79 a 103)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+        - 64 (6.41%)
+            - [Princípios Gerais dos Bens](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                - 4 (0.40%)
+                - 
+            - [Classificação dos Bens (art. 79 a 97)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                - 40 (4.00%)
+                - 
+            - [Bens públicos (arts. 98 a 103)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                - 20 (2.00%)
+                - 
+    - [Dos fatos jurídicos (arts. 104 a 232)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+        - 213 (21.32%)
+            - [Fatos jurídicos: conceito, classificação e princípios gerais](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                - 10 (1.00%)
+                - 
+            - [Negócio Jurídico (arts. 104 a 184)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                - 139 (13.91%)
+                    - [Negócio Jurídico. Classificações. Disposições Gerais (arts. 104 a 114)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 30 (3.00%)
+                        - 
+                    - [Da Representação (arts. 115 a 120)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 6 (0.60%)
+                        - 
+                    - [Da condição, termo e encargo (arts. 121 a 137) - Elementos Acidentais](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 23 (2.30%)
+                        - 
+                    - [Defeitos ou vícios do negócio jurídico (arts. 138 a 165)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 40 (4.00%)
+                        - 
+                    - [Invalidade do negócio jurídico (arts. 166 a 184)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 40 (4.00%)
+                        - 
+            - [Dos atos ilícitos (arts. 186 a 188)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                - 24 (2.40%)
+                - 
+            - [Prescrição e Decadência (arts. 189 a 211)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                - 40 (4.00%)
+                - 
+    - [Do Direito das Obrigações (arts. 233 a 420)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+        - 164 (16.42%)
+            - [Princípios Gerais das Obrigações (conceito e fontes)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                - 18 (1.80%)
+                - 
+            - [Das Modalidades das Obrigações (arts. 233 a 285)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                - 49 (4.90%)
+                    - [Das Obrigações de Dar (arts. 233 a 246)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 10 (1.00%)
+                        - 
+                    - [Das Obrigações de Fazer (arts. 247 a 249)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 6 (0.60%)
+                        - 
+                    - [Das Obrigações de Não Fazer (arts. 250 a 251)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 5 (0.50%)
+                        - 
+                    - [Das Obrigações Alternativas (arts. 252 a 256)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 9 (0.90%)
+                        - 
+                    - [Das Obrigações Divisíveis e Indivisíveis (arts. 257 a 263)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 4 (0.40%)
+                        - 
+                    - [Das Obrigações Solidárias (arts. 264 a 285)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 15 (1.50%)
+                        - 
+            - [Do Adimplemento e Extinção das Obrigações (arts. 304 a 388)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                - 69 (6.91%)
+                    - [Do Pagamento (arts. 304 a 333)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 17 (1.70%)
+                        - 
+                    - [Do Pagamento em Consignação (arts. 334 a 345)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 9 (0.90%)
+                        - 
+                    - [Do Pagamento com Sub-Rogação (arts. 346 a 351)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 9 (0.90%)
+                        - 
+                    - [Da Imputação do Pagamento (arts. 352 a 355)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 5 (0.50%)
+                        - 
+                    - [Da Dação em Pagamento (arts. 356 a 359)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 6 (0.60%)
+                        - 
+                    - [Da Novação (arts. 360 a 367)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 8 (0.80%)
+                        - 
+                    - [Da Compensação (arts. 368 a 380)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 4 (0.40%)
+                        - 
+                    - [Da Confusão, comissão e adjunção (arts. 381 a 384)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 5 (0.50%)
+                        - 
+                    - [Da Remissão das Dívidas (arts. 385 a 388)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 6 (0.60%)
+                        - 
+            - [Do Inadimplemento das Obrigações (arts. 389 a 420)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                - 28 (2.80%)
+                    - [Disposições Gerais do Inadimplemento das Obrigações (arts. 389 a 393)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 8 (0.80%)
+                        - 
+                    - [Da Mora (arts. 394 a 401)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 20 (2.00%)
+                        - 
+    - [Dos Contratos em Geral (arts. 421 a 480)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+        - 132 (13.21%)
+            - [Princípios contratuais no Código Civil](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                - 22 (2.20%)
+                - 
+            - [Classificação dos contratos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                - 9 (0.90%)
+                - 
+            - [Disposições Gerais dos contratos (arts. 421 a 471)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                - 61 (6.11%)
+                    - [Preliminares e da Formação dos Contratos (arts. 421 a 435)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 10 (1.00%)
+                        - 
+                    - [Estipulação em favor de terceiro (art. 436 a 438)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 6 (0.60%)
+                        - 
+                    - [Da Promessa de Fato de Terceiro (arts. 439 e 440)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 6 (0.60%)
+                        - 
+                    - [Dos Vícios Redibitórios (arts. 441 a 446)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 7 (0.70%)
+                        - 
+                    - [Da Evicção (arts. 447 a 457)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 12 (1.20%)
+                        - 
+                    - [Dos Contratos Aleatórios (arts. 458 a 461)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 8 (0.80%)
+                        - 
+                    - [Contrato Preliminar (arts. 462 a 466)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 7 (0.70%)
+                        - 
+                    - [Do Contrato com Pessoa a Declarar (arts. 467 a 471)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 5 (0.50%)
+                        - 
+            - [Da Extinção do Contrato (arts. 472 a 480)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                - 38 (3.80%)
+                    - [Do Distrato e da Cláusula Resolutiva (arts. 472 a 475)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 12 (1.20%)
+                        - 
+                    - [Exceção do contrato não cumprido (arts. 476 e 477)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 9 (0.90%)
+                        - 
+                    - [Da Resolução por Onerosidade Excessiva (arts. 478 a 480)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                        - 17 (1.70%)
+                        - 
+            - [Questões Mescladas dos Contratos em Geral (arts. 421 a 480)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+                - 2 (0.20%)
+                - 
+    - [Da Responsabilidade Civil (arts. 927 a 954)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580231/)
+- SFZAL21d Dir Emp
+    - [Direito Empresarial: conceito, autonomia, fontes, princípios, histórico](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+        - 15 (1.77%)
+        - 
+    - [Direito de Empresa](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+        - 282 (33.33%)
+            - [Do Empresário (arts. 966 a 980 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                - 88 (10.40%)
+                    - [Do Empresário: da caracterização e da inscrição (arts. 966 a 971 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 56 (6.62%)
+                        - 
+                    - [Do Empresário: da capacidade (arts. 972 a 980 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 32 (3.78%)
+                        - 
+            - [Da Empresa Individual de Responsabilidade Limitada (art. 980-A do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                - 13 (1.54%)
+                - 
+            - [Do Estabelecimento (arts. 1142 a 1149 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                - 52 (6.15%)
+                - 
+            - [Dos Institutos Complementares (arts. 1150 a 1195 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                - 129 (15.25%)
+                    - [Do Registro (arts. 1150 a 1154 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 42 (4.96%)
+                        - 
+                    - [Do Nome Empresarial (arts. 1155 a 1168 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 50 (5.91%)
+                        - 
+                    - [Dos Prepostos (arts. 1169 a 1178 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 15 (1.77%)
+                        - 
+                    - [Da Escrituração (arts. 1179 a 1195 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 22 (2.60%)
+                        - 
+    - [Da Sociedade](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+        - 508 (60.05%)
+            - [Sociedade: conceito, classificação e disposições gerais (arts. 981 a 985 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                - 30 (3.55%)
+                - 
+            - [Sociedades não personificadas](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                - 46 (5.44%)
+                    - [Sociedade em Comum (arts. 986 a 990 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 28 (3.31%)
+                        - 
+                    - [Sociedade em Conta de Participação (arts. 991 a 996 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 18 (2.13%)
+                        - 
+            - [Sociedade Personificada (arts. 997 a 1.141 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                - 200 (23.64%)
+                    - [Sociedade Simples (arts. 997 a 1.027 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 33 (3.90%)
+                        - 
+                    - [Sociedade em Nome Coletivo (arts. 1.039 a 1.044 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 11 (1.30%)
+                        - 
+                    - [Sociedade em Comandita Simples (arts. 1.045 a 1.051 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 11 (1.30%)
+                        - 
+                    - [Sociedade Limitada (arts. 1.052 a 1.087 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 87 (10.28%)
+                        - 
+                    - [Sociedade em Comandita por Ações (arts. 1.090 a 1.092 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 12 (1.42%)
+                        - 
+                    - [Sociedade Cooperativa (arts. 1.093 a 1.096 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 20 (2.36%)
+                        - 
+                    - [Dissolução, liquidação e extinção das sociedades (arts. 1.028 a 1.038, 1.102 a 1.112 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 11 (1.30%)
+                        - 
+                    - [Da Sociedade Dependente de Autorização - Nacional e Estrangeira (arts. 1.123 a 1.141 do CC)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 15 (1.77%)
+                        - 
+            - [Sociedade Anônima](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                - 192 (22.70%)
+                    - [Características e Natureza da Companhia ou Sociedade Anônima (arts. 1º a 4º da Lei nº 6.404/1976)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 18 (2.13%)
+                        - 
+                    - [Constituição da Companhia (arts. 80 a 99 da Lei nº 6.404/1976)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 14 (1.65%)
+                        - 
+                    - [Capital Social e Modificação do Capital Social (arts. 5º a 10 e 166 a 174 da Lei nº 6.404/1976)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 12 (1.42%)
+                        - 
+                    - [Acionistas (arts. 106 a 120 da Lei nº 6.404/1976)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 22 (2.60%)
+                        - 
+                    - [Ações, Partes Beneficiárias, Debêntures, Bônus de Subscrição (arts. 11 a 79 da Lei nº 6.404/1976)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 53 (6.26%)
+                        - 
+                    - [Assembleia Geral, Conselhos, Diretoria (arts. 121 a 165-A da Lei nº 6.404/1976)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 39 (4.61%)
+                        - 
+                    - [Dissolução, Liquidação e Extinção das SA (arts. 206 a 219 da Lei nº 6.404/1976)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 5 (0.59%)
+                        - 
+                    - [Outros temas de Sociedade Anônima](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                        - 29 (3.43%)
+                        - 
+            - [Operações societárias (arts. 1.113 a 1.122 do CC, arts. 220 a 234 da Lei nº 6.404/1976)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                - 31 (3.66%)
+                - 
+            - [Sociedades Coligadas, Controladas, Filiadas (arts. 1.097 a 1.101 do CC e 243 da Lei nº 6.404/1976)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                - 9 (1.06%)
+                - 
+    - [Legislação Tributária Federal](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+        - 41 (4.85%)
+            - [Leis Complementares Federais Tributárias](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+                - 41 (4.85%)
+                    - [Lei Complementar nº 123/2006 - Simples Nacional](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580233/)
+    - 
+    - 
+- SFZAL21e Dir Penal
+    - [Princípios de Direito Penal](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+        - 20 (2.01%)
+            - [Princípio da Legalidade Penal, da Anterioridade Penal e Demais Princípios Decorrentes](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                - 20 (2.01%)
+                - 
+    - [Lei Penal](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+        - 119 (11.94%)
+            - [Aplicação da Lei Penal](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                - 119 (11.94%)
+                    - [Aplicação da Lei Penal no Tempo](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 71 (7.12%)
+                            - [Conflitos de Leis Penais no Tempo](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                                - 35 (3.51%)
+                                - 
+                            - [Lei Excepcional ou Temporária](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                                - 10 (1.00%)
+                                - 
+                            - [Tempo do Crime](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                                - 19 (1.91%)
+                                - 
+                            - [Da Contagem dos Prazos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                                - 2 (0.20%)
+                                - 
+                            - [Conflito Aparente de Normas Penais](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                                - 5 (0.50%)
+                                - 
+                    - [Aplicação da Lei Penal no Espaço](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 48 (4.81%)
+                            - [Lugar do Crime](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                                - 9 (0.90%)
+                                - 
+                            - [Princípio da Territorialidade](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                                - 16 (1.60%)
+                                - 
+                            - [Princípio da Extraterritorialidade](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                                - 16 (1.60%)
+                                - 
+                            - [Pena Cumprida no Estrangeiro](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                                - 5 (0.50%)
+                                - 
+                            - [Eficácia de Sentença Penal Estrangeira](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                                - 2 (0.20%)
+                                - 
+    - [Teoria do Crime](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+        - 355 (35.61%)
+            - [Conceito de Crime](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                - 8 (0.80%)
+                - 
+            - [Fato Típico](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                - 98 (9.83%)
+                    - [Elementos do Fato Típico](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 6 (0.60%)
+                        - 
+                    - [Conduta](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 67 (6.72%)
+                            - [Ação e Omissão](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                                - 7 (0.70%)
+                                - 
+                            - [Dolo, Culpa e Preterdolo](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                                - 40 (4.01%)
+                                - 
+                            - [Erro de Tipo](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                                - 20 (2.01%)
+                                - 
+                    - [Tipicidade e Resultado](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 7 (0.70%)
+                        - 
+                    - [Nexo de Causalidade](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 18 (1.81%)
+                            - [Nexo de Causalidade: Teorias](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                                - 8 (0.80%)
+                                - 
+                            - [Nexo de Causalidade: Concausas](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                                - 10 (1.00%)
+                                - 
+            - [Iter Criminis](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                - 86 (8.63%)
+                    - [Fases do Delito](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 4 (0.40%)
+                        - 
+                    - [Crime Impossível](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 18 (1.81%)
+                        - 
+                    - [Desistência Voluntária](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 9 (0.90%)
+                        - 
+                    - [Arrependimento Eficaz](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 11 (1.10%)
+                        - 
+                    - [Tentativa (crime)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 20 (2.01%)
+                        - 
+                    - [Consumação](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 7 (0.70%)
+                        - 
+                    - [Arrependimento Posterior](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 17 (1.71%)
+                        - 
+            - [Ilicitude e suas Excludentes](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                - 74 (7.42%)
+                    - [Considerações Gerais sobre a Ilicitude e suas Excludentes](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 19 (1.91%)
+                        - 
+                    - [Estado de Necessidade](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 17 (1.71%)
+                        - 
+                    - [Legítima Defesa](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 20 (2.01%)
+                        - 
+                    - [Estrito Cumprimento do Dever Legal](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 10 (1.00%)
+                        - 
+                    - [Exercício Regular de Direito](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 8 (0.80%)
+                        - 
+            - [Culpabilidade](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                - 89 (8.93%)
+                    - [Conceitos Gerais da Culpabilidade](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 19 (1.91%)
+                        - 
+                    - [Imputabilidade Penal](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 30 (3.01%)
+                        - 
+                    - [Potencial Consciência da ilicitude (Erro de proibição e Descriminantes Putativas)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 20 (2.01%)
+                        - 
+                    - [Exigibilidade de Conduta Diversa](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 20 (2.01%)
+                        - 
+    - [Dos Crimes contra a Fé Pública (arts. 289 a 311-A do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+        - 112 (11.23%)
+            - [Da Falsidade de Títulos e Outros Papéis Públicos (arts. 293 a 295 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                - 13 (1.30%)
+                    - [Falsificação de Papéis Públicos (art. 293 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 9 (0.90%)
+                        - 
+                    - [Petrechos de Falsificação (arts. 294 a 295 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 4 (0.40%)
+                        - 
+            - [Da Falsidade Documental (arts. 296 a 305 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                - 90 (9.03%)
+                    - [Falsificação do Selo ou Sinal Público (art. 296 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 5 (0.50%)
+                        - 
+                    - [Falsificação de Documento Público (art. 297 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 16 (1.60%)
+                        - 
+                    - [Falsificação de Documento Particular (art. 298 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 9 (0.90%)
+                        - 
+                    - [Falsidade Ideológica (art. 299 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 19 (1.91%)
+                        - 
+                    - [Falso Reconhecimento de Firma ou Letra (art. 300 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 6 (0.60%)
+                        - 
+                    - [Certidão/Atestado Ideologicamente Falso e Falsidade Material de Atestado/Certidão (art. 301 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 9 (0.90%)
+                        - 
+                    - [Falsidade de Atestado Médico (art. 302 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 7 (0.70%)
+                        - 
+                    - [Reprodução ou Adulteração de Selo ou Peça Filatélica (art. 303 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 3 (0.30%)
+                        - 
+                    - [Uso de Documento Falso (art. 304 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 9 (0.90%)
+                        - 
+                    - [Supressão de Documento (art. 305 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 7 (0.70%)
+                        - 
+            - [De Outras Falsidades e das Fraudes em Certame de Interesse Público (arts. 306 a 311-A do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                - 9 (0.90%)
+                    - [Fraudes em certames de interesse público (art. 311-A do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 9 (0.90%)
+                        - 
+    - [Dos Crimes contra a Administração Pública (arts. 312 a 359-H do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+        - 295 (29.59%)
+            - [Dos Crimes Praticados por Funcionário Público Contra a Administração em Geral](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                - 205 (20.56%)
+                    - [Funcionário Público para Fins Penais (art. 327 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 12 (1.20%)
+                        - 
+                    - [Peculato (art. 312 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 30 (3.01%)
+                        - 
+                    - [Peculato Mediante Erro de Outrem (art. 313 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 4 (0.40%)
+                        - 
+                    - [Inserção de Dados Falsos em Sistema de Informações (art. 313-A do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 18 (1.81%)
+                        - 
+                    - [Modificação ou Alteração Não Autorizada de Sistema de Informações (art. 313-B do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 5 (0.50%)
+                        - 
+                    - [Extravio, Sonegação ou Inutilização de Livro ou Documento (art. 314 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 5 (0.50%)
+                        - 
+                    - [Emprego Irregular de Verbas ou Rendas Públicas (art. 315 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 6 (0.60%)
+                        - 
+                    - [Concussão e Excesso de Exação (art. 316 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 30 (3.01%)
+                        - 
+                    - [Corrupção Passiva (art. 317 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 20 (2.01%)
+                        - 
+                    - [Facilitação de Contrabando ou Descaminho (art. 318 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 11 (1.10%)
+                        - 
+                    - [Prevaricação (arts. 319 e 319-A do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 19 (1.91%)
+                        - 
+                    - [Condescendência Criminosa (art. 320 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 12 (1.20%)
+                        - 
+                    - [Advocacia Administrativa (art. 321 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 9 (0.90%)
+                        - 
+                    - [Violência Arbitrária (art. 322 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 4 (0.40%)
+                        - 
+                    - [Abandono de Função (art. 323 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 5 (0.50%)
+                        - 
+                    - [Exercício Funcional Ilegalmente Antecipado ou Prolongado (art. 324 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 3 (0.30%)
+                        - 
+                    - [Violação de Sigilo Funcional (art. 325 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 10 (1.00%)
+                        - 
+                    - [Violação do Sigilo de Proposta de Concorrência (art. 326 do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                        - 2 (0.20%)
+                        - 
+            - [Dos Crimes Praticados por Particular Contra a Administração em Geral (art. 328 a 337-A do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                - 50 (5.02%)
+                - 
+            - [Dos Crimes contra as Finanças Públicas (arts. 359-A a 359-H do CP)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+                - 40 (4.01%)
+    - [Lei nº 10.028/2000 - Infração Administrativa Contra as Leis de Finanças Públicas](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580234/)
+        - 26 (2.61%)
+- SFZAL21f Dir Tributario
+    - [Introdução ao Direito Tributário](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+        - 16 (1.47%)
+            - [Conceito de Tributo](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 4 (0.37%)
+                - 
+            - [Classificação Doutrinária dos Tributos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 8 (0.74%)
+                - 
+            - [A natureza jurídica específica dos tributos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 4 (0.37%)
+                - 
+    - [Espécies de Tributos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+        - 120 (11.04%)
+            - [Impostos (conceito e classificações)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 12 (1.10%)
+                - 
+            - [Taxas (CF/1988 e CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 34 (3.13%)
+                - 
+            - [Taxas X Preços Públicos X Pedágio](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 9 (0.83%)
+                - 
+            - [Contribuições de Melhoria (CF/1988 e CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 14 (1.29%)
+                - 
+            - [Empréstimo Compulsório (CF/1988 e CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 18 (1.66%)
+                - 
+            - [Contribuições Especiais (CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 31 (2.85%)
+                - 
+            - [Questões Mescladas de Espécies de Tributos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 2 (0.18%)
+                - 
+    - [Limitações Constitucionais ao Poder de Tributar (arts. 150 a 152 da CF)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+        - 159 (14.63%)
+            - [Princípios Tributários](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 98 (9.02%)
+                - 
+            - [Imunidades Tributárias](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 61 (5.61%)
+                - 
+    - [Competência Tributária (CF/1988 e CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+        - 68 (6.26%)
+            - [Competência para Legislar sobre Direito Tributário](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 7 (0.64%)
+                - 
+            - [Competência Tributária: conceitos e características](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 12 (1.10%)
+                - 
+            - [Repartição da Competência Tributária (privativa, comum, cumulativa, residual, extraordinária)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 45 (4.14%)
+                - 
+            - [Bitributação e bis in idem](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 4 (0.37%)
+                - 
+    - [Legislação Tributária (arts. 96 a 112 do CTN e art. 146 e 146-A da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+        - 61 (5.61%)
+            - [Disposições Gerais da Legislação (arts. 96 a 100 do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 15 (1.38%)
+                - 
+            - [Vigência e Aplicação da Legislação Tributária (arts. 101 a 106 do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 20 (1.84%)
+                - 
+            - [Interpretação e Integração da Legislação Tributária (arts. 107 a 112 do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 21 (1.93%)
+                - 
+            - [Espécies Normativas Aplicadas ao Direito Tributário (art. 146 e 146-A da CF/1988)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 5 (0.46%)
+                - 
+    - [Obrigação Tributária (arts. 113 a 138 do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+        - 181 (16.65%)
+            - [Disposições Gerais sobre Obrigação tributária (conceito, obrigação principal e acessória)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 34 (3.13%)
+                - 
+            - [Fato Gerador (arts. 114 a 118 do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 20 (1.84%)
+                - 
+            - [Sujeito: Ativo e Passivo (arts. 119 a 123 do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 22 (2.02%)
+                - 
+            - [Solidariedade (arts. 124 e 125 do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 10 (0.92%)
+                - 
+            - [Capacidade Tributária (art. 126 do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 7 (0.64%)
+                - 
+            - [Domicílio Tributário (art. 127 do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 3 (0.28%)
+                - 
+            - [Responsabilidade Tributária (arts. 128 a 138 do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 85 (7.82%)
+                - 
+    - [Crédito Tributário (arts. 139 a 193 do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+        - 232 (21.34%)
+            - [Disposições Gerais do Crédito Tributário (arts. 139 a141 do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 2 (0.18%)
+                - 
+            - [Lançamento e Constituição do Crédito Tributário (arts. 142 a 150 do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 51 (4.69%)
+                - 
+            - [Suspensão da Exigibilidade do Crédito Tributário (arts. 151 a 155-A do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 37 (3.40%)
+                - 
+            - [Extinção do Crédito Tributário (arts. 156 a 174 do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 87 (8.00%)
+                - 
+            - [Exclusão do Crédito Tributário (arts. 175 a 182 do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 24 (2.21%)
+                - 
+            - [Tópicos mesclados de extinção, exclusão e suspensão do crédito tributário](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 1 (0.09%)
+                - 
+            - [Garantias e Privilégios do Crédito Tributário (arts. 183 a 193 do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 30 (2.76%)
+                - 
+    - [Administração Tributária (arts. 194 a 208 do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+        - 53 (4.88%)
+            - [Fiscalização Tributária (arts. 194 a 200 do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 19 (1.75%)
+                - 
+            - [Dívida Ativa Tributária (arts. 201 a 204 do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 22 (2.02%)
+                - 
+            - [Certidão Negativa (arts. 205 a 208 do CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 12 (1.10%)
+                - 
+    - [Impostos Federais, Estaduais e Municipais](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+        - 152 (13.98%)
+            - [Impostos Federais](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 34 (3.13%)
+                    - [Imposto de Renda - IR (CF/1988 e CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                        - 8 (0.74%)
+                        - 
+                    - [Imposto sobre Produtos Industrializados - IPI (CF/1988 e CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                        - 5 (0.46%)
+                        - 
+                    - [Imposto sobre Operações Financeiras - IOF](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                        - 4 (0.37%)
+                        - 
+                    - [Imposto sobre Grandes Fortunas - IGF](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                        - 3 (0.28%)
+                        - 
+                    - [Imposto de Exportação - IE](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                        - 2 (0.18%)
+                        - 
+                    - [Imposto de Importação - II](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                        - 3 (0.28%)
+                        - 
+                    - [Imposto sobre a Propriedade Territorial Rural - ITR](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                        - 6 (0.55%)
+                        - 
+                    - [Questões Mescladas de Impostos Federais](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                        - 3 (0.28%)
+                        - 
+            - [Impostos Estaduais](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 77 (7.08%)
+                    - [Imposto sobre Circulação de Mercadorias e Serviços - ICMS (CF/1988 e CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                        - 58 (5.34%)
+                        - 
+                    - [Imposto sobre Propriedade de Veículos Automotores - IPVA (CF/1988 e CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                        - 8 (0.74%)
+                        - 
+                    - [Imposto de Transmissão Causa Mortis e Doação - ITCMD (CF/1988 e CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                        - 11 (1.01%)
+                        - 
+            - [Impostos Municipais](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                - 41 (3.77%)
+                    - [Imposto sobre Serviços - ISS (CF/1988 e CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                        - 22 (2.02%)
+                        - 
+                    - [Imposto Predial e Territorial Urbano - IPTU (CF/1988 e CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                        - 14 (1.29%)
+                        - 
+                    - [Imposto sobre a Transmissão de Bens Imóveis - ITBI (CF/1988 e CTN)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+                        - 5 (0.46%)
+                        - 
+    - [Repartição Constitucional de Receitas Tributárias (arts. 157 a 162 da CF)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+        - 19 (1.75%)
+        - 
+    - [Jurisprudência dos Tribunais Superiores em Matéria Tributária](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580235/)
+        - 26 (2.39%)
+- SFZAL21g Lingua Portuguesa
+    - [Ortografia](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+        - 35 (3.60%)
+            - [Ortografia - Casos Gerais e Emprego das Letras](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 4 (0.41%)
+                - 
+            - [Fatos da Língua Portuguesa (porque, por que, porquê e por quê; onde, aonde e donde; há e a, etc)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 10 (1.03%)
+                - 
+            - [Inicial maiúscula](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 5 (0.51%)
+                - 
+            - [Acentuação](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 10 (1.03%)
+                - 
+            - [Uso do Hifen](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 4 (0.41%)
+                - 
+            - [Questões Mescladas de Ortografia](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 1 (0.10%)
+                - 
+            - [Convenções de Escrita (itálico, siglas etc)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 1 (0.10%)
+                - 
+    - [Morfologia](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+        - 126 (12.96%)
+            - [Classes de palavras](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 126 (12.96%)
+                    - [Artigo](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                        - 4 (0.41%)
+                        - 
+                    - [Substantivo](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                        - 7 (0.72%)
+                        - 
+                    - [Adjetivo](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                        - 9 (0.93%)
+                        - 
+                    - [Verbo](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                        - 36 (3.70%)
+                            - [Conjugação. Reconhecimento e emprego dos modos e tempos verbais](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                                - 22 (2.26%)
+                                - 
+                            - [Correlação verbal](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                                - 5 (0.51%)
+                                - 
+                            - [Locução verbal](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                                - 4 (0.41%)
+                                - 
+                            - [Questões Variadas de Verbo](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                                - 5 (0.51%)
+                                - 
+                    - [Pronomes](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                        - 19 (1.95%)
+                            - [Pronomes pessoais](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                                - 5 (0.51%)
+                                - 
+                            - [Pronomes de tratamento](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                                - 1 (0.10%)
+                                - 
+                            - [Pronomes possessivos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                                - 1 (0.10%)
+                                - 
+                            - [Pronomes indefinidos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                                - 1 (0.10%)
+                                - 
+                            - [Pronomes interrogativos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                                - 2 (0.21%)
+                                - 
+                            - [Pronomes demonstrativos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                                - 3 (0.31%)
+                                - 
+                            - [Pronomes relativos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                                - 6 (0.62%)
+                                - 
+                    - [Advérbio](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                        - 7 (0.72%)
+                        - 
+                    - [Numeral](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                        - 2 (0.21%)
+                        - 
+                    - [Preposição](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                        - 8 (0.82%)
+                        - 
+                    - [Conjunção](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                        - 33 (3.40%)
+                        - 
+                    - [Interjeição](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                        - 1 (0.10%)
+                        - 
+    - [Colocação pronominal](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+        - 27 (2.78%)
+        - 
+    - [Semântica](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+        - 106 (10.91%)
+            - [Sinônimos e Antônimos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 33 (3.40%)
+                - 
+            - [Homônimos e Parônimos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 4 (0.41%)
+                - 
+            - [Denotação e Conotação](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 7 (0.72%)
+                - 
+            - [Polissemia](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 4 (0.41%)
+                - 
+            - [Ordenação de parágrafos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 4 (0.41%)
+                - 
+            - [Significação de vocábulo e expressões](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 21 (2.16%)
+                - 
+            - [Outras questões de semântica](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 33 (3.40%)
+                - 
+    - [Sintaxe](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+        - 109 (11.21%)
+            - [Frase, oração e período](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 5 (0.51%)
+                - 
+            - [Funções sintáticas](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 58 (5.97%)
+                    - [Termos essenciais da oração](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                        - 29 (2.98%)
+                            - [Sujeito](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                                - 24 (2.47%)
+                                - 
+                            - [Predicado](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                                - 5 (0.51%)
+                                - 
+                    - [Termos integrantes (objeto direto e indireto, complemento nominal e agente da passiva)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                        - 10 (1.03%)
+                        - 
+                    - [Termos acessórios (adjunto adnominal, adjunto adverbial e aposto). Vocativo](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                        - 13 (1.34%)
+                        - 
+                    - [Adjunto adnominal x Complemento Nominal](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                        - 6 (0.62%)
+                        - 
+            - [Orações coordenadas](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 7 (0.72%)
+                - 
+            - [Orações subordinadas substantivas](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 10 (1.03%)
+                - 
+            - [Orações subordinadas adjetivas](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 8 (0.82%)
+                - 
+            - [Orações subordinadas adverbiais](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 6 (0.62%)
+                - 
+            - [Orações reduzidas](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 5 (0.51%)
+                - 
+            - [Funções sintáticas dos pronomes relativos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 4 (0.41%)
+                - 
+            - [Função sintática dos pronomes pessoais átonos](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 5 (0.51%)
+                - 
+            - [Questões mescladas de sintaxe](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 1 (0.10%)
+                - 
+    - [Pontuação (ponto, vírgula, travessão, aspas, parênteses etc)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+        - 70 (7.20%)
+        - 
+    - [Regência](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+        - 64 (6.58%)
+            - [Regência Nominal e Verbal (casos gerais)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 26 (2.67%)
+                - 
+            - [Crase](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 38 (3.91%)
+                - 
+    - [Concordância (Verbal e Nominal)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+        - 40 (4.12%)
+        - 
+    - [Vozes (voz passiva e voz ativa)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+        - 9 (0.93%)
+        - 
+    - [Coerência. Coesão (Anáfora, Catáfora, Uso dos Conectores - Pronomes relativos, Conjunções etc)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+        - 60 (6.17%)
+        - 
+    - [Tipos de discurso (Direto, Indireto e Indireto Livre)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+        - 4 (0.41%)
+        - 
+    - [Linguagem](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+        - 7 (0.72%)
+            - [Linguagem formal e informal](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+                - 7 (0.72%)
+                - 
+    - [Partícula "se"](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+        - 13 (1.34%)
+        - 
+    - [Vocábulo "como"](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+        - 5 (0.51%)
+        - 
+    - [Vocábulo "que"](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+        - 10 (1.03%)
+        - 
+    - [Interpretação de Textos (compreensão)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+        - 180 (18.52%)
+        - 
+    - [Tipologia e Gênero Textual](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+        - 30 (3.09%)
+        - 
+    - [Reescrita de Frases. Substituição de palavras ou trechos de texto.](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+        - 60 (6.17%)
+        - 
+    - [Clareza e Correção](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+        - 7 (0.72%)
+        - 
+    - [Questões mescladas (interpretação de textos ou gramática)](https://www.tecconcursos.com.br/questoes/cadernos/experimental/24580237/)
+        - 10 (1.03%)
+- 

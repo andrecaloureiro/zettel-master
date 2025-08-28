@@ -1,0 +1,41 @@
+- Muitos psicólogos duvidam que a resolução de problemas, como uma habilidade geral, possa ser ensinada ou praticada.
+- Os métodos fracos parecem universais.
+- Em vez disso, parece que o caminho para a maestria é adquirir o conhecimento específico e os métodos dos especialistas.
+- Mesmo que não possamos nos tornar melhores solucionadores de problemas em geral, gostaria de sugerir algumas conclusões práticas sugeridas por esta teoria da resolução de problemas.
+- Conclusão #1: Comece com a Representação Correta.
+- A busca é apenas metade da dificuldade de resolver problemas.
+- A outra metade está em encontrar a maneira certa de representar o problema, para que você saiba qual é o melhor espaço de problema para trabalhar.
+- Antes do trabalho inovador de Newell e Simon, os psicólogos da Gestalt também exploraram a resolução de problemas, exceto que seu foco estava em como os sujeitos experimentais percebiam o problema e como essas percepções podiam inibir ou permitir soluções perspicazes.
+- Como exemplo, considere o famoso quebra-cabeça dos nove pontos.
+- O objetivo é desenhar quatro linhas retas sem levantar o lápis que interceptem todos os nove pontos.
+- Você consegue fazer isso?
+- Para aqueles que nunca viram antes, eles podem ver a resposta na seção de notas.
+- A percepção chave gira não em torno de como buscamos através do espaço do problema, mas como o representamos.
+- Se a resposta bem-sucedida for excluída erroneamente das possibilidades iniciais, perderemos ela mesmo em uma busca exaustiva.
+- Resolver problemas em situações reais e confusas frequentemente envolve alternar entre buscar nosso espaço de problema e tentar encontrar novas maneiras de representar o problema que podem ser mais tratáveis.
+- Comece qualquer novo projeto descobrindo como pessoas competentes pensam sobre o problema.
+- O que eles veem como o espaço do problema?
+- Quais são os principais movimentos que você pode fazer para resolvê-lo?
+- Embora saber como pensar sobre um problema não garanta uma solução, é um primeiro passo essencial.
+- Conclusão #2: Busque Problemas Promissores.
+- A realização de que muitos problemas são impossíveis de resolver sugere uma aplicação imediata: não trabalhe em problemas impossíveis.
+- Infelizmente, o problema de descobrir quais problemas são solucionáveis também é insolúvel!
+- A solução pode sempre estar ao virar da esquina, ou pode resultar em um século de esforço não recompensado.
+- Apesar de nossa incapacidade de saber exatamente quais problemas são genuinamente impossíveis, podemos, com a experiência, fazer melhores palpites.
+- Wiles só começou a trabalhar no Último Teorema de Fermat quando Gerhard Frey fez a conexão com a conjectura de Taniyama-Shimura, pois isso lhe sugeriu que o problema estava maduro.
+- Empreendedores, cientistas e inventores fazem apostas calculadas sobre quais níveis de avanços tecnológicos eles preveem no futuro próximo, mesmo que não possam saber exatamente até onde precisarão se aventurar em regiões desconhecidas do espaço do problema.
+- A melhor maneira de descobrir problemas promissores é trabalhar com pessoas que estão ativamente empurrando a fronteira.
+- A vantagem de trabalhar em empresas, laboratórios de pesquisa ou em grupos de pessoas que estão fazendo novas contribuições é que você pode obter fortes pistas sobre quais aspectos do espaço do problema estão prontos para exploração e quais são improváveis de render frutos imediatamente.
+- Conclusão #3: Explore o Espaço do Problema, Um Quarto de Cada Vez.
+- Para explicar como ele aborda a matemática, Wiles faz uma analogia instrutiva:
+- Eu poderia descrever melhor minha experiência de fazer matemática em termos de entrar em uma mansão escura.
+- Alguém entra no primeiro quarto, e está escuro, completamente escuro.
+- Você tropeça no mobiliário e, gradualmente, aprende onde cada peça está e, finalmente, depois de seis meses ou mais, encontra o interruptor de luz.
+- Você o liga e, de repente, tudo fica iluminado.
+- Você pode ver exatamente onde estava.
+- Como discutiremos mais detalhadamente no próximo capítulo, quando não temos ninguém de quem possamos aprender e precisamos encontrar nosso caminho em um espaço de problema desconhecido, ajuda primeiro explorar o espaço em vez de resolver problemas.
+- Ao abordar um ramo desconhecido da matemática, Wiles não apenas se equipou com ferramentas matemáticas descobertas por outros, mas passou um tempo considerável aplicando-as até que se tornassem uma parte familiar de seu repertório.
+- Explorar o espaço do problema pode prosseguir tentando coisas e observando o que acontece, sem tentar deliberadamente alcançar objetivos específicos.
+- O objetivo aqui não é realizar nada em particular, mas prestar atenção aos padrões que podem resultar em novos métodos fortes.
+- Um pintor experimentando diferentes técnicas para "ver o que acontece" em vez de produzir uma obra vendável acabará com muitas composições ruins.
+- Mas ocasionalmente ele pode tropeçar em uma técnica que dá ao seu trabalho uma aparência única.

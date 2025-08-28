@@ -1,0 +1,770 @@
+SystemThinking - cap 5-9 
+
+**PARTE DOIS**
+
+**O PROCESSO DE MUDANÇA EM QUATRO ETAPAS**
+
+—CAPÍTULO 5—
+
+**Visão Geral do Processo de Mudança em Quatro Etapas**
+
+No verão de 2006, Michael Goodman e eu apoiamos um grupo de líderes comunitários no Condado de Calhoun, Michigan (com uma população de cem mil habitantes), a desenvolver um plano de dez anos para acabar com a falta de moradia. Acordos firmados por autoridades governamentais nos níveis municipal, estadual e federal — juntamente com líderes empresariais, prestadores de serviços e pessoas em situação de rua — ocorreram após anos de inércia e conflito sobre o que precisava ser feito para resolver o problema. Além disso, o plano sinalizou uma mudança de paradigma na forma como a comunidade via o papel dos abrigos temporários e outros serviços de resposta emergencial. Em vez de vê-los como parte da solução para a falta de moradia, as pessoas passaram a ver esses programas como um dos principais obstáculos para acabar com o problema.
+
+O plano ganhou financiamento estadual, e uma nova organização liderada por um diretor executivo e um conselho multissetorial foi formada para conduzir a implementação. Prestadores de serviços que anteriormente trabalhavam de forma independente e competiam por fundos públicos e de fundações uniram-se para trabalhar de novas maneiras, como exemplificado por sua decisão unânime de realocar o financiamento do HUD de um programa de habitação temporária de um prestador de serviços para um programa de habitação permanente com apoio gerido por outro prestador. Jennifer Bentley, que presidiu o processo de planejamento, observou: “Eu aprendi a diferença entre mudar um sistema específico e liderar uma mudança sistêmica.” Nos primeiros seis anos de operação do plano, de 2007 a 2012, o Condado de Calhoun fez um trabalho notável ao garantir moradia permanente para as pessoas em situação de rua, especialmente diante da crise econômica de 2008–09. A falta de moradia diminuiu 14% (de 1.658 para 1.419), apesar de um aumento de 34% no desemprego e um aumento de 7% nas expulsões.
+
+Por que essa intervenção foi tão bem-sucedida quando muitas outras tentativas coletivas de melhorar a qualidade de vida das pessoas falham? As fundações locais e outros parceiros envolvidos combinaram duas intervenções significativas: um esforço proativo de desenvolvimento comunitário que envolveu líderes dos três principais setores, juntamente com as próprias pessoas em situação de rua, e uma análise sistêmica que permitiu a todos os envolvidos concordar com uma visão compartilhada de por que a falta de moradia persistia e onde estava a alavanca para resolvê-la. Em outras palavras, a abordagem combinou processos mais convencionais que facilitam a reunião de pessoas de maneira sistêmica (como trazer o sistema inteiro para a sala) com ferramentas que ajudaram os envolvidos a transcender seus interesses imediatos, pensando também de forma sistêmica.
+
+**Reunindo e Pensando Sistemicamente**
+
+A Parte 2 deste livro permite que você integre esses processos de reunir e pensar sistemicamente em um processo de mudança em quatro etapas. Michael e eu desenvolvemos a abordagem como resultado do trabalho com centenas de executivos e agentes de mudança responsáveis por liderar mudanças sistêmicas e que não sabiam como usar o poder do pensamento sistêmico para aumentar sua eficácia. A abordagem também apoia pessoas interessadas em pensamento sistêmico a integrá-lo ao mundo da ação prática e da melhoria de desempenho.
+
+Líderes de mudança social reconhecem o poder de reunir múltiplos e diversos envolvidos — incluindo representantes dos setores sem fins lucrativos, público e privado — para alcançar avanços em questões que afetam todas as partes. Nos últimos vinte e cinco anos, muitas inovações surgiram em intervenções de grandes grupos projetadas para aumentar a comunicação entre os setores, como Future Search, Open Space Technology e o World Café. Essas intervenções são frequentemente estruturadas como eventos individuais ou uma série de eventos. Além disso, novos processos como Impacto Coletivo (revisado no capítulo 2), Teoria U, Laboratórios Sociais e parcerias colaborativas para a sustentabilidade ambiental também surgiram.
+
+Michael e eu descobrimos que o pensamento sistêmico pode aprimorar muitas dessas abordagens, fornecendo o que Otto Scharmer, criador da Teoria U, chama de “mecanismo de percepção coletiva” que permite que todos os envolvidos vejam o panorama maior do qual fazem parte. Esse mecanismo também ajuda as pessoas a entenderem como elas não apenas apoiam, mas muitas vezes sem querer prejudicam o desempenho do sistema, capacitando-as a pensar e agir com mais eficácia.
+
+**O Processo de Mudança em Quatro Etapas**
+
+Construímos nosso processo de mudança em quatro etapas com base no modelo de “tensão criativa” introduzido por Peter Senge em *A Quinta Disciplina*. Este modelo propõe que a energia para a mudança é mobilizada ao se estabelecer uma discrepância entre o que as pessoas desejam e onde estão (ver figura 5.1). Se as pessoas se mantiverem fiéis à visão do que querem e forem simultaneamente claras e francas sobre onde estão, então a tensão tenderá a se resolver em favor do que desejam. Esse princípio se aplica tanto em nível individual quanto coletivo.
+
+**FIGURA 5.1 ESTABELECENDO TENSÃO CRIATIVA.** A energia para a mudança é criada pela tensão entre uma condição desejada e a condição real. Innovation Associates Organizational Learning.
+
+Traduzido para o nível coletivo, quando as pessoas têm uma aspiração comum — expressa por uma visão compartilhada, missão e conjunto de valores — e uma compreensão compartilhada não apenas de onde estão agora, mas também de por que estão nessa situação, elas estabelecem uma tensão criativa que são atraídas a resolver em favor de sua aspiração. Desenvolver uma compreensão compartilhada de por que a realidade atual existe é essencial para abordar o desafio de que os envolvidos frequentemente concordam onde estão no topo do iceberg (por exemplo, sentindo a pressão de construir outro abrigo), mas não veem a estrutura sistêmica subjacente que afeta e é afetada por todos eles (sua dependência de abrigos temporários como solução para a falta de moradia).
+
+Desenvolver uma imagem compartilhada do que as pessoas desejam, bem como da realidade em um nível profundo, permite que os envolvidos experimentem sua responsabilidade pelo sistema como um todo, em vez de apenas seu papel específico. Isso produz um estado de alinhamento onde as pessoas se comprometem livremente: “Eu farei minha parte, e garantirei que todos nós concluamos a tarefa como um todo.” Por exemplo, elas podem questionar uma decisão de investir em novos abrigos e promover um investimento adicional em moradia permanente, segura, acessível e com suporte.
+
+Portanto, expandimos o modelo de tensão criativa em um processo de mudança em quatro etapas, onde os envolvidos:
+
+1. Constroem uma base para a mudança e afirmam sua prontidão para mudar.
+
+2. Esclarecem a realidade atual em todos os níveis do iceberg e aceitam suas respectivas responsabilidades por criá-la.
+
+3. Fazem uma escolha explícita em favor da aspiração que defendem.
+
+4. Começam a fechar a lacuna, concentrando-se em intervenções de alta alavancagem, envolvendo mais envolvidos e aprendendo com a experiência.
+
+O processo é resumido na figura 5.2.
+
+**ETAPA 1**
+
+O objetivo da Etapa 1 é construir uma base para a mudança. O resultado pretendido é desenvolver a prontidão coletiva para a mudança. A Etapa 1 incorpora três passos:
+
+- Envolver as principais partes interessadas. Isso envolve identificar o conjunto de possíveis interessados e elaborar estratégias para engajá-los individual e coletivamente.
+- Estabelecer um terreno comum, criando imagens iniciais do que as pessoas querem alcançar e de onde estão agora. Neste ponto, é útil desenvolver uma visão compartilhada inicial dos resultados ideais e uma visão geral do que está e não está funcionando agora.
+- Construir a capacidade das pessoas de colaborar umas com as outras. Isso envolve desenvolver as habilidades das pessoas para pensar sistemicamente e manter conversas produtivas sobre questões difíceis, bem como sua capacidade subjacente de assumir a responsabilidade pela realidade atual.
+
+Por exemplo, o projeto do Condado de Calhoun reuniu líderes dos setores público, privado e sem fins lucrativos, juntamente com as próprias pessoas em situação de rua, para desenvolver seu plano de dez anos para acabar com a falta de moradia. Eles participaram de uma visão compartilhada e foram introduzidos a ferramentas de conversação produtiva e pensamento sistêmico desde o início do processo.
+
+**FIGURA 5.2 QUATRO ETAPAS DE LIDERANÇA DA MUDANÇA SISTÊMICA.** Este modelo de quatro etapas oferece um caminho claro para liderar a mudança sistêmica. Bridgeway Partners e Innovation Associates Organizational Learning.
+
+**ETAPA 2**
+
+O objetivo da Etapa 2 é ajudar as pessoas a enfrentar a realidade atual. Os resultados pretendidos são construir não apenas uma compreensão compartilhada do que está acontecendo e por quê, mas também a aceitação das responsabilidades das pessoas — mesmo que involuntárias — por criar essa realidade. Embora possa parecer lógico, neste ponto, desenvolver uma imagem mais clara e rica do futuro ideal, Michael e eu descobrimos que cavar mais fundo na realidade nesta etapa reflete mais precisamente o desejo de muitas pessoas de entender e serem compreendidas onde estão antes de avançar muito longe. Como Otto Scharmer observou com base em seu trabalho com Ed Schein, professor emérito de administração no MIT, o principal trabalho da liderança é “aumentar a capacidade
+
+ individual e sistêmica de ver, de prestar atenção profunda à realidade que as pessoas enfrentam e vivenciam”.
+
+As tarefas da Etapa 2 são:
+
+- Identificar as pessoas a serem entrevistadas sobre a história da situação atual e esclarecer quais perguntas fazer.
+- Organizar e começar a melhorar a qualidade das informações.
+- Desenvolver uma análise sistêmica preliminar de como diferentes fatores interagem ao longo do tempo para apoiar ou minar a realização da visão.
+- Envolver as pessoas no desenvolvimento de sua própria análise tanto quanto possível.
+- Tornar visíveis os modelos mentais que influenciam o comportamento das pessoas.
+- Criar conversas catalisadoras que estimulem conscientização, aceitação e alternativas.
+
+Por exemplo, Michael e eu entrevistamos cinquenta líderes de todos os três setores, além de pessoas em situação de rua, desenvolvemos um mapa sistêmico inicial que inicialmente verificamos com um pequeno comitê de design, refinamos e depois compartilhamos nossa análise com um comitê diretor mais amplo.
+
+**ETAPA 3**
+
+O objetivo da Etapa 3 é ajudar as pessoas a fazer uma escolha explícita a favor do que realmente desejam. O resultado pretendido é que elas se comprometam conscientemente com suas aspirações mais elevadas, com plena consciência dos custos, não apenas dos benefícios, de realizá-las. Os passos para alcançar esse resultado são ajudar os envolvidos a:
+
+- Identificar o caso para o status quo descoberto na Etapa 2 — os benefícios de curto prazo do sistema atual, como soluções rápidas que funcionam, por exemplo, e a gratificação imediata de implementá-las — e os custos de mudar, como a necessidade de fazer investimentos de longo prazo em esforço, tempo e dinheiro.
+- Comparar isso com o caso para a mudança descrito na Etapa 1 — os benefícios da mudança e os custos de não mudar.
+- Criar soluções de “tanto/quanto” que alcancem os benefícios de ambos — ou estar disposto a fazer trocas difíceis entre eles.
+- Fazer uma escolha explícita e dar vida a ela por meio de uma visão que ilumine o que as pessoas se sentem chamadas a fazer ou desejam profundamente criar.
+
+Um ponto de virada crítico no esforço de planejamento de dez anos do Condado de Calhoun ocorreu quando os envolvidos perceberam que seu sistema atual era perfeitamente projetado para ajudar as pessoas a lidar com a falta de moradia; no entanto, a forma como estavam operando realmente prejudicava seu propósito declarado de acabar com a falta de moradia.
+
+**ETAPA 4**
+
+O objetivo da Etapa 4 é ajudar as pessoas a fechar a lacuna entre o que elas desejam profundamente, o que afirmam na Etapa 3, e onde estão agora, conforme esclarecido na Etapa 2. Esta etapa final envolve identificar pontos de alavancagem e estabelecer um processo de aprendizado contínuo e engajamento ampliado. As tarefas específicas são:
+
+1. Propor e refinar intervenções de alta alavancagem com a contribuição da comunidade. Isso inclui:
+
+   a. Aumentar a conscientização das pessoas sobre como o sistema funciona agora.
+
+   b. “Reconfigurar” as relações de feedback causal.
+
+   c. Mudar modelos mentais.
+
+   d. Reforçar o propósito escolhido por meio de metas e planos atualizados, métricas, incentivos, estruturas de autoridade e financiamento.
+
+2. Estabelecer um processo de aprendizado e alcance contínuo. Isso abrange:
+
+   a. Engajar continuamente os envolvidos atuais.
+
+   b. Desenvolver um plano de implementação que incorpore projetos de demonstração como parte de um roteiro de longo prazo.
+
+   c. Refinar os dados a serem coletados com base em novas metas e métricas.
+
+   d. Avaliar e revisar o plano regularmente com a contribuição dos envolvidos atuais.
+
+   e. Ampliar o envolvimento dos interessados, aproveitando recursos adicionais e ampliando o que funciona.
+
+No caso do Condado de Calhoun, os pontos de alavancagem identificados pelas pessoas tornaram-se as metas de seu plano de dez anos, e outros se envolveram na implementação. O envolvimento mais amplo para acabar com a falta de moradia inclui engajar os envolvidos responsáveis pelo desenvolvimento econômico, habitação acessível, assistência social e o sistema de justiça criminal.
+
+Embora as quatro etapas e as tarefas de apoio estejam listadas numericamente, o processo em si nem sempre é linear, como veremos nos capítulos a seguir, que mapeiam as tarefas associadas a cada etapa. As lições da Etapa 4, por exemplo, se retroalimentam em uma nova Etapa 1 em um processo contínuo e circular. Reservar tempo suficiente para o processo é crucial: neste caso, a distância mais curta entre dois pontos é de fato um círculo.
+
+**Fechando o Ciclo**
+
+- Você pode aumentar sua capacidade de liderar mudanças sistêmicas integrando maneiras de reunir vários e diversos envolvidos com ferramentas que os ajudem a pensar sistemicamente.
+- Uma abordagem comprovada para combinar os dois é um processo de mudança em quatro etapas que aproveita explicitamente o poder do pensamento sistêmico.
+- As quatro etapas são: construir uma base para a mudança, enfrentar a realidade atual, fazer uma escolha explícita e fechar a lacuna.
+- Essas etapas serão detalhadas nos capítulos 6 a 10.
+
+**CAPÍTULO 6**
+
+**Construindo uma Base para a Mudança**
+
+Imagine engajar um grupo de interessados da comunidade para abordar uma questão social importante — como acabar com a falta de moradia, fortalecer a educação K–12 ou melhorar a saúde pública local. Você precisaria identificar quem deve reunir e como, estabelecer um terreno comum entre os participantes e apoiá-los para colaborarem entre si.
+
+Agora imagine sua primeira reunião em grupo e perceber que as pessoas chegaram com duas agendas diferentes: uma pública, para abordar a questão, e uma privada, para otimizar a parte delas no sistema. John McGah, da iniciativa contra a falta de moradia Give US Your Poor, e eu desenvolvemos a tabela 6.1 para distinguir essas duas agendas para participantes em uma reunião típica de uma coalizão de pessoas em situação de rua.
+
+Como você enfrentaria os desafios de diferentes interesses e perspectivas para construir uma base sólida para a mudança? Como garantiria que convidasse as pessoas certas desde o início, estabelecesse um terreno comum e desenvolvesse suas habilidades para trabalhar juntas?
+
+**Engajar os Principais Stakeholders**
+
+Os principais stakeholders são pessoas e organizações que afetam e são afetadas pela questão. Eles incluem qualquer pessoa que possa contribuir com o esforço ou que possa, se não estiver envolvida, prejudicá-lo. De forma ampla, os participantes podem incluir organizações sem fins lucrativos que representam os interesses da comunidade e/ou populações específicas, agências governamentais encarregadas de desenvolver ou implementar políticas sociais, órgãos de segurança, prestadores de saúde, escolas, empresas preocupadas com o impacto de uma questão no desenvolvimento econômico, a mídia e membros da população-alvo. A diversidade é fundamental, pois os sistemas dependem dela para inovar.
+
+**TABELA 6.1. A REUNIÃO DA COALIZÃO DE PESSOAS EM SITUAÇÃO DE RUA**
+
+Para engajar os principais stakeholders, uma organização convocadora ou um grupo, como uma fundação ou conselho comunitário, precisa esclarecer quem deve estar ativamente envolvido e, em seguida, desenvolver uma estratégia para fazer com que trabalhem juntos. É útil incluir os seguintes membros principais do grupo:
+
+- Patrocinadores executivos e tomadores de decisão-chave que representem os principais grupos de interesse e que tenham um interesse profundo na questão e na oportunidade.
+- Ativistas com uma paixão pessoal pelo tema.
+- Beneficiários finais que geralmente têm pouca ou nenhuma voz no sistema atual, como pacientes, estudantes, pessoas em situação de rua.
+- Um consultor ou facilitador profissional.
+
+Um mapa de stakeholders é uma ferramenta simples para orientar o processo de engajamento e expandir a participação (veja a tabela 6.2). Por exemplo, ao aplicar a ferramenta para acabar com a falta de moradia, use a coluna 1 (NOME) para identificar os grupos ou indivíduos que precisam estar envolvidos porque impactam ou são impactados pela questão. Na coluna 2 (SUPORTE ATUAL), considere o quão favorável cada stakeholder está atualmente para criar uma nova realidade, em uma escala de -3 a +3. Um -3 indica que eles estão fortemente motivados a bloquear os esforços para acabar com a falta de moradia (por qualquer motivo), um 0 indica neutralidade e um +3 indica que estão totalmente motivados a liderar o fim da falta de moradia.
+
+**TABELA 6.2. ANALISANDO OS PRINCIPAIS STAKEHOLDERS**
+
+Na coluna 3 (SUPORTE DESEJADO), anote como você, como convocador, deseja que cada stakeholder se envolva no fim da falta de moradia. Por exemplo, você pode querer mover um grupo que atualmente está em -3 (querendo bloquear o esforço), -2 (fortemente contra) ou -1 (um pouco contra) para uma posição mais neutra de 0. Ou pode querer motivar um grupo atualmente neutro a se tornar um +1 (um pouco favorável) ou +2 (fortemente favorável) colaborador. Como é útil ter apenas uma organização ou grupo, como um conselho de liderança multissetorial, em um papel formal de liderança, identifique um stakeholder que você deseja ver no papel de +3.
+
+Na coluna 4 (MOTIVAÇÃO DELES), esclareça os motivadores para cada stakeholder participar da maneira descrita na coluna 3. Alguns motivadores provavelmente serão os mesmos para muitos stakeholders, enquanto outros serão únicos para grupos específicos. Se as pessoas forem resistentes à mudança, esclareça nesta coluna a natureza de sua resistência, seja técnica, política ou cultural. Na coluna 5 (O QUE VOCÊ PODE FAZER), observe como pretende engajar cada stakeholder, dependendo de por que eles gostariam de se envolver. Alguns grupos podem ser melhor engajados inicialmente por meio de um alcance individual, enquanto outros podem ficar felizes em se envolver por meio de uma coalizão comunitária. Se as pessoas forem resistentes à mudança, reconheça que você ainda tem várias opções. Você pode legitimar e abordar suas preocupações diretamente, influenciá-las por meio de outros, engajá-las em fases críticas do processo ou contorná-las.
+
+A forma de reunião coletiva variará de acordo com a natureza da questão. Por exemplo, no caso do projeto Collaborating for Iowa’s Kids, um grupo central de líderes do Departamento de Educação do estado e das Agências de Educação da Área convocou um grupo maior de representantes de ambas as organizações e, posteriormente, convidou representantes das Agências de Educação Local (LEAs) quando ficou claro que as LEAs precisavam fazer parte do desenvolvimento de um novo processo colaborativo.
+
+Em esforços para acabar com a falta de moradia, os stakeholders provavelmente incluirão indivíduos e organizações que compõem o Continuum of Care, o corpo coordenador definido pelo Departamento de Habitação e Desenvolvimento Urbano para abordar a falta de moradia em uma região geográfica. É importante pensar nas pessoas que fornecem não apenas abrigo e habitação para pessoas em situação de rua, mas também serviços relacionados — como bem-estar infantil, justiça criminal, saúde, transporte e educação — que impactam e são impactados pelo problema. Talvez menos óbvios, mas igualmente críticos, sejam os empresários, pois eles afetam e são afetados pela saúde econômica da comunidade, que, por sua vez, impacta a falta de moradia; funcionários do setor público nos níveis municipal, condado, estadual e federal, pois influenciam os fluxos de financiamento e políticas relacionadas à falta de moradia; e as próprias pessoas em situação de rua. Também é importante considerar como envolver a mídia e moldar as opiniões dos cidadãos sobre o assunto.
+
+Estabelecer um Terreno Comum
+
+Estabelecer um terreno comum envolve desenvolver uma apreciação inicial do motivo pelo qual as pessoas estão se reunindo, um senso compartilhado de direção e um acordo sobre alguns dos principais aspectos da realidade atual.
+
+O que reuniu as pessoas no projeto Collaborating for Iowa’s Kids foi uma preocupação comum de que, apesar dos esforços de reforma implementados na última década, o desempenho dos alunos não estava aumentando em relação aos altos padrões do estado e aos ganhos relativos demonstrados por crianças em outros estados e condados. O Open Society Institute convocou o retiro da The After Prison Initiative para esclarecer por que as taxas de encarceramento e reincidência permaneceram tão altas, apesar dos extensos esforços dos participantes para reformar o sistema de justiça criminal. Líderes no Condado de Calhoun se reuniram para aproveitar uma oportunidade de receber financiamento estadual para desenvolver um plano de dez anos para acabar com a falta de moradia em sua comunidade.
+
+Uma ferramenta útil para estabelecer uma justificativa comum para se reunir é pedir às pessoas que identifiquem uma pergunta focada que queiram responder. A pergunta focada é uma maneira de ajudar as pessoas a definir os limites de uma análise sistêmica. Como tudo está, em última análise, conectado a tudo, a pergunta permite que desenvolvam uma visão rica, mas gerenciável, das causas raízes de um problema crônico e complexo. Pergunta: “Por que, muitas vezes, apesar de nossos melhores esforços, não conseguimos alcançar um determinado objetivo ou resolver um problema específico?” A pergunta “por que” é essencial, pois leva as pessoas a descobrir as causas raízes; por outro lado, perguntas “como” mobilizam as pessoas para implementar soluções para problemas que muitas vezes não entendem completamente.
+
+O uso de uma pergunta focada aponta para um paradoxo do mapeamento de sistemas: O objetivo do mapeamento de sistemas é responder a uma pergunta focada — não mapear um sistema inteiro. Responder a uma pergunta focada é um objetivo delimitado que produz insights acionáveis, enquanto mapear um sistema inteiro pode ser uma tarefa ilimitada que gera confusão e paralisia em nome da abrangência.
+
+Desenvolver Capacidade Colaborativa
+
+A última pedra angular de uma base sólida é desenvolver as habilidades das pessoas para trabalharem juntas. Introduzir essas habilidades nesta etapa é importante porque otimizar o sistema requer melhorar as relações entre suas partes, e não otimizar as partes individuais, como muitas vezes se supõe e se recompensa. Melhorar o todo também exige que as pessoas se sintam à vontade compartilhando informações que sejam oportunas, precisas e completas.
+
+Uma capacidade a ser desenvolvida é o pensamento sistêmico. Apoiar as pessoas no uso da linguagem do pensamento sistêmico aumenta sua capacidade de ver o panorama maior e falar de maneiras que levem isso em consideração. Pode ser especialmente útil nesta fase introduzir vários princípios e ferramentas abordados nos capítulos anteriores deste livro:
+
+Boas intenções não são suficientes.
+Características de soluções que falham.
+Pensamento convencional versus sistêmico.
+O iceberg.
+Feedbacks de reforço e equilíbrio.
+Atrasos no tempo.
+Arquétipos de sistemas comuns.
+Quando as pessoas entendem que estão conectadas de maneiras não óbvias e muitas vezes contraproducentes, começam a apreciar o panorama geral, e não apenas sua parte nele.
+
+Uma segunda capacidade importante é desenvolver conversas produtivas sobre questões difíceis. Como o exemplo da metáfora dos homens cegos e o elefante ilustra, pessoas que buscam trabalhar juntas frequentemente têm visões muito diferentes da realidade. Além disso, o exemplo da coalizão para pessoas em situação de rua no início deste capítulo mostra que, mesmo entre pessoas com aspirações compartilhadas, podem existir agendas secundárias bastante diferentes. Pessoas que desejam promover mudanças sociais precisam aprender a engajar e a superar essas diferenças.
+
+A habilidade central para conversas produtivas é reconhecer que o mundo é muito mais complexo do que as pessoas geralmente pensam. Nossas suposições ou modelos mentais são úteis, mas limitados, e podem se tornar mais precisos. Por exemplo, assumir que “pessoas em situação de rua preferem viver na rua” pode ser útil no sentido de reconhecer que essas pessoas podem ter dificuldades para se ajustar a uma moradia permanente. No entanto, essa suposição é limitada, já que a maioria das pessoas cronicamente sem-teto, quando tem a oportunidade de viver em uma habitação permanente com serviços de apoio, aproveita essa chance; em um caso, 96% ainda estavam vivendo na mesma habitação um ano depois. Portanto, uma suposição mais baseada em evidências e precisa é que a maioria das pessoas em situação de rua prefere viver em uma habitação permanente se ela for segura, acessível, oferecer comunidade e estiver associada a serviços de aconselhamento.
+
+A *Ladder of Inference* (Escada da Inferência) é uma excelente ferramenta para ajudar as pessoas a distinguirem o que pensam da realidade mais ampla ao seu redor. Ela mostra como as pessoas selecionam certos dados de um conjunto quase infinito de informações disponíveis, fazem suposições e tiram conclusões com base nos dados que escolhem, fazem recomendações e tomam ações com base nessas conclusões, e então buscam novos dados que reforcem suas suposições originais.
+
+Outra ferramenta útil é o que Peter Senge descreve como "equilibrar advocacia e investigação". A maioria das pessoas está mais acostumada a advogar do que a investigar, então é muitas vezes útil começar com a investigação — a arte de perguntar aos outros como eles veem o mundo e ouvir atentamente. Como meu colega Bryan Smith me disse muitos anos atrás, as pessoas precisam saber que você se importa antes que se importem com o que você sabe. Pergunte aos outros:
+
+- O que você vê (os dados observáveis)?
+- Como você se sente ao ver esses dados?
+- O que você pensa ou diz para si mesmo como resultado desses dados?
+- O que você quer?
+
+Então, realmente ouça. Otto Scharmer distingue quatro níveis de escuta: ouvir o que você já sabe, ouvir o que o surpreende, ouvir com empatia para entender a experiência do outro, e ouvir a partir de uma fonte mais profunda que parece abraçar sua verdade e a verdade do outro.
+
+Depois de estabelecer que você se importa com as visões dos outros, você pode defender sua própria visão de forma mais eficaz. Como cada um de nós vê uma parte de um mundo mais complexo, também é importante contribuir para o entendimento dos outros defendendo sua perspectiva. Para que sua defesa seja ouvida e utilizada da maneira mais eficaz, é útil aprender a defender de forma que compartilhe o que você sabe e convide os outros a comentar e potencialmente aprimorar seu conhecimento. A defesa eficaz envolve compreender e tornar transparente sua própria Escada da Inferência, para que os outros possam adicionar e melhorar os dados, o raciocínio e as conclusões que você tirou.
+
+FIGURA 6.1 A ESCADA DA INFERÊNCIA. A Escada da Inferência mostra como as pessoas inconscientemente saltam de dados para conclusões. Baseado no trabalho de Chris Argyris e Don Schon.
+
+Ao equilibrar advocacia e investigação, você cria não apenas uma imagem mais precisa do que é e de como trabalhar com isso, mas também mais apoio de outros para tomar ações eficazes.
+
+A terceira capacidade é cultivar uma perspectiva de responsabilidade. Tanto o pensamento sistêmico quanto a realização de conversas produtivas desenvolvem uma capacidade mais profunda de entender como você é responsável por uma situação como ela existe atualmente, não apenas por resolvê-la. Assumir a responsabilidade pelo problema como ele é não significa se culpar por ele. Significa se empoderar. Você vê como suas intenções, suposições e ações contribuíram involuntariamente para o problema que deseja resolver. No fim das contas, é mais fácil mudar como você pensa e age do que tentar mudar os outros no sistema.
+
+Mesmo que você não seja responsável pelo problema, pode usar essa perspectiva para perguntar como seus esforços para resolvê-lo podem, involuntariamente, estar minando sua capacidade de fazer isso. Por exemplo, se sua intenção é convencer os outros de que eles estão errados e devem ser os que precisam mudar, você pode ativar ou intensificar um relacionamento adversarial, o que é ainda mais difícil de resolver. Você cria oposição desnecessária quando, nas palavras do terapeuta mestre Terrence Real, você “oprime a partir da posição de vítima.”6 Ajuda lembrar que respeito, investigação e empatia são frequentemente as melhores chaves para abrir a porta da mudança social.
+
+Concluindo
+
+- Comece a construir sua base para a mudança identificando e envolvendo as partes interessadas importantes.
+- Reconheça que há várias maneiras de engajar pessoas que resistem à mudança — não apenas aquelas que a apoiam.
+- Estabeleça uma base comum identificando uma razão compartilhada para se unir, desenvolvendo uma direção comum e esboçando uma imagem inicial da realidade atual.
+- Desenvolva a capacidade das pessoas de colaborar, introduzindo habilidades e ferramentas para pensar sistemicamente e realizar conversas que superem diferenças.
+- Cultive uma perspectiva de responsabilidade pelo problema (quando faz sentido) e por como as pessoas escolhem resolvê-lo.
+
+----------------------
+—CAPÍTULO 7—
+
+Enfrentando a Realidade Atual: Construindo Compreensão por Meio do Mapeamento de Sistemas
+
+O psicólogo social pioneiro Kurt Lewin disse: "Se você realmente quer entender algo, tente mudá-lo." O vínculo entre o insight e a mudança social eficaz é crucial. Muitas vezes, as pessoas argumentam a favor de soluções sem uma apreciação profunda de como o sistema atual opera e, mais importante, do porquê. Frequentemente, as soluções propostas direcionam recursos limitados para estratégias que não fazem diferença no longo prazo ou até pioram a situação.
+
+O objetivo deste capítulo é aprofundar sua compreensão dos sistemas aplicando os dispositivos narrativos apresentados no capítulo 4 a seis casos. Os casos incluem exemplos já mencionados, como a reorganização de responsabilidades pela educação K-12 em nível estadual, a reforma da justiça criminal e o fim da falta de moradia, além de novos exemplos, como a melhoria da habitação rural e o redesenho de um sistema de desenvolvimento e educação infantil.
+
+A ênfase deste capítulo está nas três primeiras tarefas de enfrentar a realidade atual:
+
+1. Identificar as pessoas a serem entrevistadas sobre a história da situação atual e esclarecer as perguntas a serem feitas.
+2. Organizar e começar a melhorar a qualidade das informações.
+3. Desenvolver uma análise preliminar dos sistemas sobre como diferentes fatores interagem ao longo do tempo para apoiar ou minar o alcance da visão.
+
+Estabelecer Entrevistas de Sistemas
+
+Essa primeira tarefa será mais bem-sucedida se você identificar partes interessadas com uma ampla gama de opiniões sobre a questão. Isso permite construir uma imagem mais rica de como o sistema se comporta e por quê. Mais importante, certifique-se de aprender com as partes interessadas cujas opiniões você poderia desconsiderar. Por exemplo, os líderes de um projeto de mapeamento de sistemas frequentemente excluem as pessoas mais experientes no tema porque acreditam que são difíceis de acessar ou que já sabem o que "os de cima" pensam. Outros frequentemente excluídos são os administradores (que podem ser afetados por processos burocráticos) e os beneficiários finais do trabalho. Aprender com um grupo diverso de partes interessadas não só constrói compreensão, mas também desenvolve os relacionamentos necessários para mudar como o sistema opera.
+
+Por exemplo, no projeto do Condado de Calhoun para desenvolver um plano de dez anos para acabar com a falta de moradia, Michael Goodman e eu entrevistamos cinquenta pessoas representando uma população de cem mil habitantes. Isso incluiu:
+
+- Líderes responsáveis pela saúde social e econômica geral do condado, incluindo líderes formais e informais de opinião, representantes de governos estadual e local, e líderes dos setores empresarial e cívico.
+- Pessoas que influenciavam políticas que afetavam as causas e soluções para a falta de moradia.
+- Prestadores de serviços que interagiam com pessoas sem-teto e tentavam ajudá-las.
+- As próprias pessoas sem-teto.
+
+Entrevistas, sejam individuais ou em pequenos grupos focais, são preferíveis a pesquisas porque permitem descobrir não apenas o que as pessoas pensam, mas também o raciocínio que as leva às suas conclusões. Além disso, entrevistas constroem relacionamentos mais diretos. Se necessário, uma pesquisa baseada nas descobertas das entrevistas pode ser usada para coletar informações de uma amostra maior de partes interessadas.
+
+Ao longo do tempo, desenvolvemos uma lista de perguntas de entrevista projetadas para construir insights sistêmicos, que podem ser adaptadas para qualquer questão e ajudar a iniciar o processo:
+
+- Considere primeiro o que tem ocorrido em torno do problema que deseja explorar. Ele apresenta um padrão conhecido de comportamento ao longo do tempo?
+- Se sim, descreva esse padrão. Ele apresenta uma ou mais das seguintes variáveis-chave ao longo do tempo:
+  - Oscilações?
+  - Crescimento em forma de S?
+  - Crescimento acelerado?
+  - Linha plana, sem crescimento?
+  - Altos e baixos acentuados?
+- Defina o problema completando a frase: "Por que X tem acontecido, apesar de nossos melhores esforços para alcançar um objetivo diferente?" Perguntas de "por que" em vez de "como" garantem que suas declarações não assumam uma solução. (Por exemplo, pergunte "Por que o crime juvenil urbano oscila ao longo do tempo, em vez de declinar continuamente?" em vez de "Como podemos endurecer as sentenças para reduzir ainda mais o crime?").
+- Quais são os antecedentes mais antigos do problema? Descreva também tentativas anteriores de resolvê-lo. O que foi tentado, por quem, e com que resultado?
+- O que já está funcionando? Como as pessoas têm sucesso ou sobrevivem no sistema conforme ele funciona agora?
+- Como essa questão seria vista sob a perspectiva dos tomadores de decisão seniores? Quais fatores ou componentes eles enxergariam? Como eles pensam sobre o tema?
+- Como outros interessados, incluindo os beneficiários finais, veriam a questão? O que é importante para cada um deles? Como eles pensam sobre isso?
+- Quais outras causas afetam esse sistema? Quais outros efeitos (especialmente aqueles que são distantes ou não intencionais) o sistema produz?
+- Qual parte da questão é interna à minha organização? O que é um pedaço gerenciável relacionado à minha posição?
+- De que maneiras eu ou minha organização criamos ou contribuímos para o problema por meio do que dizemos (ou escolhemos não dizer), fazemos (ou escolhemos não fazer), ou pensamos?
+- Qual é o propósito aparente desse sistema? Ou seja, quais parecem ser os resultados dos esforços das pessoas? Como isso é diferente do que realmente desejam?
+
+Perguntas personalizadas podem ser úteis dependendo do tema específico que deseja abordar. Às vezes, as entrevistas podem não ser suficientes ou viáveis para obter uma visão inicial sobre um assunto. Nesse caso, é possível esboçar um mapa de sistemas usando relatórios de terceiros. 
+
+Organizar Informações
+
+Aqui estão quatro abordagens para usar ao organizar as informações que você reunir:
+
+• Observe o que desperta curiosidade, parece confuso ou contrário entre os entrevistados.
+
+• Distinga os dados mensuráveis de como as pessoas interpretam esses dados.
+
+• Identifique variáveis-chave, muitas vezes consideradas fatores críticos de sucesso ou indicadores principais.
+
+• Procure por narrativas ou arquétipos reconhecíveis.
+
+A primeira abordagem envolve notar o que preocupa as pessoas ou o que parece surpreendente para elas. A própria pergunta central, quando formulada como “Por que, apesar de nossos melhores esforços, não conseguimos...?”, desperta preocupação e curiosidade. Em seus esforços para acabar com a falta de moradia, os líderes do Condado de Calhoun queriam entender como pessoas sem-teto e habitações vazias podiam coexistir. No trabalho para melhorar as habitações rurais, líderes estaduais e comunitários queriam discernir por que algumas pequenas cidades pareciam ter um estoque habitacional melhor do que outras. No caso da Colaboração para as Crianças de Iowa, os dois grupos que compartilhavam o compromisso de melhorar a educação K–12 no estado estavam curiosos sobre por que era tão difícil para eles trabalharem juntos.
+
+A segunda abordagem envolve aprender não apenas o que as pessoas pensam, mas também por que pensam assim. Isso significa iluminar as suposições e conclusões que as pessoas tiram do que fazem e observam. Uma discrepância comum surge entre o que as pessoas acham que deveria acontecer como resultado de suas ações e o que realmente acontece. Por exemplo, os formuladores de políticas presumem que operações policiais contra drogas reduzem o crime, quando na verdade reduzem a oferta de drogas, aumentando assim a probabilidade de que as pessoas cometam crimes para obter as poucas e, portanto, mais caras drogas disponíveis. Diferentes pessoas também interpretam os mesmos dados de forma diferente (a analogia do elefante), e você pode ajudar a desenvolver uma imagem mais rica do sistema ao apontar como cada interpretação é válida em condições diferentes. No caso da falta de moradia, os provedores de abrigo locais viam os benefícios imediatos que ofereciam às pessoas sem-teto, enquanto aqueles em outras comunidades que entendiam as melhores práticas para acabar com a falta de moradia compreendiam os custos de longo prazo de depender de um sistema de abrigos e a necessidade de redirecionar recursos para moradias permanentes e acessíveis para resolver o problema de forma mais fundamental.
+
+A terceira abordagem ajuda a identificar fatores críticos de sucesso ou indicadores principais, e o pensamento sistêmico expande esse processo de várias maneiras. Ele procura interdependências entre esses fatores em vez de descrever uma lista difícil de priorizar. Reconhece e integra fatores quantitativos mensuráveis com fatores qualitativos, como o que as pessoas pensam e sentem. Ele também traduz fatores muitas vezes vagos que são difíceis de acompanhar ao longo do tempo. No caso da ajuda alimentar, por exemplo, ele pode traduzir o fator vago de “estratégia” em fatores que podem ser rastreados ao longo do tempo—como o nível de investimento na agricultura local, que é uma forma mensurável de estratégia para acabar com a fome.
+
+A quarta abordagem ajuda a identificar histórias reconhecíveis, com base nos arquétipos de sistemas ou na analogia da banheira, nas informações que você reunir. Distinguir essas histórias pode servir de base para uma análise abrangente de sistemas. Embora possam não explicar tudo o que está acontecendo, geralmente podem ser ampliadas e modificadas para fazer sentido de informações ricas, complexas e, às vezes, conflitantes.
+
+No entanto, não espere encontrar tudo o que precisa ou deseja nas informações que coletar. É importante reconhecer que as pessoas podem aprender muito mesmo com informações incompletas. Raramente todos os dados que você deseja estão disponíveis, e ainda assim as pessoas precisam tomar decisões e agir de qualquer forma. Este processo reconhece que lacunas de informação existem e sugere duas maneiras de lidar com elas. Primeiro, é sempre útil abordar a mudança sistêmica como um aprendiz. As pessoas formulam hipóteses, tomam ações e aprendem mais com suas ações para que possam fazer escolhas mais sábias na próxima vez. Em segundo lugar, as lacunas no conhecimento podem desencadear pesquisas valiosas. Perguntar o que não se sabe e como encontrar as respostas são perguntas poderosas que você pode responder antes ou em paralelo com a tomada de novas ações, dependendo de quanto risco e atraso no tempo você está disposto a aceitar.
+
+Desenvolva uma Análise Preliminar de Sistemas
+
+Nesta seção, você verá como pessoas trabalhando em uma variedade de questões usaram ferramentas de arquétipos de sistemas e a analogia da banheira para aprofundar sua compreensão de por que não estavam tendo sucesso, apesar de seus melhores esforços. Esses insights, por sua vez, criaram conversas catalíticas sobre a natureza de seus desafios e o que poderiam fazer para superá-los—tópicos que são o foco dos próximos três capítulos.
+
+Você aprenderá como essas ferramentas serviram como blocos de construção eficazes para evocar histórias mais abrangentes e precisas. Existem várias maneiras de enriquecer as linhas principais da narrativa com múltiplos enredos e subtramas que abrangem mais da realidade que as pessoas experimentam ao lidar com essas questões. Em particular, você explorará diferentes abordagens para equilibrar a necessidade das pessoas por insights que sejam complexos o suficiente para abranger suas muitas perspectivas diversas com a necessidade de serem simples o suficiente para serem compreendidos e colocados em prática.
+
+Esta seção destaca casos que exemplificam pelo menos um dos cinco principais arquétipos ou a analogia da banheira introduzidos no capítulo 4. Você aprenderá sobre os contextos que reuniram as pessoas e os insights que desenvolveram, tanto básicos quanto enriquecidos, que levaram a uma compreensão mais profunda.
+
+SOLUÇÕES QUE SAEM PELA CULATRA
+
+Soluções que Saem pela Culatra são histórias de consequências não intencionais. Foi um dos temas principais da Iniciativa Após a Prisão apresentada no capítulo 3. Você deve se lembrar que essa iniciativa reuniu cem líderes progressistas—ativistas, acadêmicos, pesquisadores, analistas de políticas e advogados—para um retiro de três dias com o objetivo de esclarecer o que mais poderia ser feito para ajudar as pessoas a se reintegrarem com sucesso às suas comunidades após a prisão e para corrigir as condições e políticas econômicas, sociais e políticas subjacentes que contribuem para fazer dos Estados Unidos o país com a maior população carcerária entre as nações desenvolvidas. O evento foi organizado pelo Instituto Open Society e coordenado por Joe Laur e Sara Schley da Seed Systems para ajudar a OSI a obter mais informações sobre a eficácia de seu financiamento nessa área. A maioria dos participantes do retiro eram bolsistas Soros Justice ou beneficiários da OSI que competiam por financiamento da OSI ao mesmo tempo que compartilhavam um compromisso com a reforma da justiça criminal.
+
+Os participantes reconheceram que um dos principais motores do encarceramento em massa não era o nível de crime violento em si, mas o medo dos outros (especialmente pessoas de cor), que se manifesta como racismo estrutural e negação dos direitos dessas pessoas. Embora o encarceramento em massa alivie temporariamente esse medo, conforme ilustrado no ciclo de equilíbrio 1 (B1) na figura 7.1, ele resulta, ao longo do tempo, em mais e mais pessoas sendo eventualmente libertadas da prisão (95% dos encarcerados) com desvantagens significativas causadas pela experiência prisional. Esses problemas incluem: traumas pessoais, saúde precária, rupturas na vida familiar e profissional, restrições a direitos humanos básicos (como educação, emprego, moradia e voto) e a dificuldade de outros em entender seus desafios. Essas desvantagens, por sua vez, reduzem o acesso a recursos como educação, moradia, emprego e apoio social, aumentando assim a probabilidade de que muitos cometam outro crime dentro de três anos e sejam enviados de volta à prisão. Isso é visto no ciclo de reforço 2 (R2) na figura 7.1. O Bureau of Justice Statistics dos EUA relata que "Entre os presos libertados em 2005 em 23 estados com dados disponíveis sobre reincidência, 49,7% tiveram uma violação de liberdade condicional ou uma prisão por um novo delito dentro de 3 anos que levou ao encarceramento, e 55,1% tiveram uma violação ou prisão que levou ao encarceramento dentro de 5 anos." 
+
+Além disso, o racismo estrutural gera mais medo (R3), como evidenciado em parte por um relatório mais recente do Sentencing Project, que descobriu que "americanos brancos superestimam a proporção de crimes cometidos por pessoas de cor e associam pessoas de cor à criminalidade," e que para alguns crimes a superestimação foi "de 20 a 30 por cento." O espiral do medo continua, mesmo que a taxa de criminalidade tenha, de fato, caído por mais de vinte anos.
+
+Os participantes do retiro estavam envolvidos em muitos esforços diferentes para reformar o sistema de justiça criminal—não apenas aqueles destacados na figura 7.1, que enfatiza a prestação de serviços aos prisioneiros recentemente libertados. Esses esforços incluíam o desenvolvimento de programas de serviço inovadores, a reforma das sentenças, a proibição da reincarceramento por violações técnicas de liberdade condicional e o combate ao crescente lobby prisional que favorece o encarceramento em massa para seu próprio benefício econômico.
+
+Assim, um segundo e mais complexo diagrama foi desenvolvido para representar ciclos viciosos adicionais que precisam ser interrompidos a fim de mudar a dinâmica central e descrever a defesa mais complexa necessária para transformar o sistema (veja a figura 7.2). O encarceramento em massa cria benefícios econômicos que resultam em um lobby prisional apoiando essa solução (R4 na figura 7.2). Restrições rígidas às liberdades condicionais, para reduzir o risco político de altos volumes de casos, resultam em mais violações técnicas que mandam as pessoas de volta à prisão (R5). Uma combinação de medo e reincidência aumenta a resistência política a inovações que poderiam ajudar os ex-prisioneiros a reintegrar-se mais efetivamente na sociedade e evitar tais delitos (R6).
+
+FIGURA 7.1 RACISMO E ENCARCERAMENTO EM MASSA ALIMENTAM O MEDO. Embora o encarceramento em massa seja uma solução rápida para o medo das pessoas de serem vitimadas por crimes cometidos por pessoas de cor, ele cria consequências não intencionais que aumentam ainda mais esse medo ao longo do tempo. Modificado a partir de um diagrama desenvolvido pela Seed Systems para o Open Society Institute.
+
+FIGURA 7.2 CICLOS VICIOSOS ADICIONAIS PRODUZIDOS PELO ENCARCERAMENTO EM MASSA. Quando o diagrama da figura 7.1 é enriquecido com mais variáveis, mostra que três outros ciclos viciosos—R4, R5 e R6—complicam a dinâmica das Soluções que Saem pela Culatra. Modificado a partir de um diagrama desenvolvido pela Seed Systems para o Open Society Institute.
+
+Esses dois diagramas (junto com o desenvolvimento final "Um Vício em Prisões" mostrado no apêndice C, figura C.1) forneceram aos participantes do retiro uma compreensão abrangente e compartilhada de seus respectivos esforços em enfrentar desafios comuns. Isso permitiu que alguns reconhecessem e potencialmente desenvolvessem maneiras mais colaborativas de reduzir o medo que impulsiona o encarceramento excessivo—um medo baseado no racismo estrutural, não apenas na taxa real de criminalidade. Isso também deu a outros uma forma de comunicar os custos sociais do encarceramento em massa aos formuladores de políticas, na esperança de construir um compromisso mais amplo com as condições e crenças subjacentes que o impulsionam.
+
+TRANSFERÊNCIA DE RESPONSABILIDADE
+
+Transferência de Responsabilidade é a história de dependência não intencional. É semelhante às Soluções que Saem pela Culatra no sentido de que soluções rápidas e aparentemente óbvias para um problema tendem a piorar a situação ao longo do tempo. A principal diferença é que muitas das pessoas presas em uma dinâmica de Transferência de Responsabilidade concordam sobre qual deve ser uma solução mais fundamental, mas têm dificuldade em implementá-la.
+
+Foi o caso no Condado de Calhoun, onde a comunidade tinha feito pouco progresso em acabar com a falta de moradia, apesar de muitos anos de esforço. Aqueles que forneciam serviços de emergência e abrigo para as pessoas sem-teto se reuniam regularmente há anos, mas tendiam a trabalhar de forma independente e competir por recursos de fundações e fundos públicos em vez de colaborar.
+
+A promessa de financiamento estadual e verbas de planejamento local motivou os líderes comunitários a adotar uma abordagem diferente, concordando em se unir para desenvolver um Plano de Dez Anos para Acabar com a Falta de Moradia. Eles aplicaram o pensamento sistêmico para entender por que a falta de moradia persistia no condado e por que não haviam conseguido implementar as melhores práticas usadas em outras partes do país. Essas práticas enfatizavam o conceito de "Housing First" (Moradia Primeiro), onde as comunidades investem no desenvolvimento de moradias seguras e acessíveis, incentivando as pessoas sem-teto a viverem nelas sem ter que cumprir outras condições, como estar livre de substâncias. Essas moradias têm fácil acesso a serviços de apoio para aqueles com problemas de saúde mental ou que sofrem de abuso de substâncias. Para aqueles que foram forçados a viver nas ruas por razões econômicas, outra parte da solução se concentrava na educação e no desenvolvimento econômico.
+
+O mapa inicial do sistema, representado na figura 7.3, mostra uma das realizações críticas que as pessoas tiveram: os sistemas de abrigo e resposta de emergência dos quais tanto os provedores quanto as pessoas sem-teto dependiam eram soluções rápidas e, na verdade, faziam parte do problema (B1). Embora esses apoios ajudassem os sem-teto a lidar com sua situação, eram claramente temporários. As pessoas podiam ficar nos abrigos apenas por um número limitado de noites antes de terem que voltar para as ruas. Alguns se mudavam para os bosques fora da cidade principal de Battle Creek e sobreviviam lá como podiam. Muitos adoeciam, especialmente no inverno, e acabavam no pronto-socorro; outros cometiam um delito que os levava a passar uma noite na cadeia. Alguns passavam noites dormindo no sofá de conhecidos, mas essa solução também funcionava apenas por um tempo limitado.
+
+FIGURA 7.3 A IRONIA DOS ABRIGOS TEMPORÁRIOS. Como os abrigos e apoios de emergência atenuam o problema da falta de moradia, eles também reduzem a motivação das pessoas para implementar uma solução mais fundamental que combine moradia permanente, serviços essenciais e emprego. Além disso, os ciclos viciosos criados pelas soluções rápidas enfraquecem a capacidade da comunidade de implementar as soluções fundamentais, mesmo que desejem. www.appliedsystemsthinking.com
+
+Muitas pessoas próximas ao problema reconheceram pelo menos alguns elementos das melhores práticas usadas em outras partes do país—serviços essenciais, moradia permanente e emprego (B2). No entanto, não conseguiram implementar essas práticas localmente e não entendiam por quê. A comunidade descobriu que os sistemas de emergência dos quais dependiam para
+
+ ajudar as pessoas a lidar com a falta de moradia realmente geravam consequências não intencionais negativas que enfraqueciam sua capacidade de implementar as melhores práticas necessárias para acabar com o problema.
+
+Os mecanismos de enfrentamento descritos acima diminuíam a visibilidade do problema, reduzindo assim a motivação da comunidade para investir nas melhores práticas (R3). Além disso, os provedores de abrigo e serviços de emergência eram financiados pelo trabalho que realizavam e tinham pouco incentivo para experimentar novas formas de agir, seja individualmente ou em colaboração com outros (R4). Por exemplo, os provedores de abrigo geralmente eram financiados com base na porcentagem de camas ocupadas todas as noites—mesmo que abrigos cheios sejam fundamentalmente contrários ao objetivo declarado de acabar com a falta de moradia. Doadores muitas vezes contribuíam inadvertidamente para o problema renovando o financiamento para aqueles que tinham sucesso na implementação de soluções rápidas. A perda de visibilidade do problema e o reforço das correntes de financiamento existentes dificultavam a mobilização de investimentos nas melhores práticas, o que, por sua vez, aumentava a falta de moradia e a dependência dos abrigos temporários.
+
+Essa compreensão levou as pessoas a começarem a fazer mudanças significativas nos sistemas de abrigo e resposta de emergência da comunidade. Por exemplo, em um movimento inédito em direção à colaboração, os provedores de serviço concordaram coletivamente em redirecionar a próxima rodada de financiamento do HUD de um programa de moradia transitória de um provedor para um programa de moradia permanente com apoio administrado por outro provedor. Suas percepções formaram a base para o Plano de Dez Anos que foi aceito e financiado pelo estado. Como mencionado no capítulo 5, nos primeiros seis anos de operação do plano, de 2007 a 2012, o Condado de Calhoun fez um trabalho notável ao garantir moradia permanente para as pessoas sem-teto, especialmente diante da recessão econômica de 2008–09. A falta de moradia diminuiu 14% (de 1.658 para 1.419) apesar de um aumento de 34% no desemprego e 7% nas despejos.
+
+O caso da TAPI também inclui uma dinâmica de Transferência de Responsabilidade. Muitos participantes estavam envolvidos no trabalho fundamental de reassentamento, que definiram como o fortalecimento de instituições cívicas e infraestrutura e a facilitação de colaborações interagências, além de apoiar ex-prisioneiros a levarem vidas produtivas. No entanto, era difícil implementar essas soluções, e os reformadores acharam útil desenvolver uma visão compartilhada dos obstáculos que enfrentavam: as barreiras ao reassentamento que enfraqueciam seu trabalho diretamente e ameaçavam a segurança dos residentes nos bairros pobres e minoritários para os quais a maioria dos homens e mulheres voltava após a prisão, bem como o investimento em prisões que poderia ser direcionado para o fortalecimento das instituições nessas comunidades mais pobres. Essa imagem é mostrada no apêndice C, figura C.1.
+
+Transferência de Responsabilidade é a história do vício. As histórias tanto da falta de moradia quanto do encarceramento mostram como os formuladores de políticas que querem proteger a sociedade de viciados (pessoas sem-teto que sofrem de abuso de substâncias ou viciados em drogas que cometem crimes) podem ironicamente se tornar viciados em soluções que agravam esses problemas sociais a longo prazo. Os abrigos tendem a desviar dinheiro de moradias permanentes acessíveis, e políticas rigorosas desviam dinheiro dos tipos de programas e do fortalecimento de instituições que poderiam reduzir permanentemente o crime, o medo do crime e, mais significativamente, o medo do "outro." A crescente conscientização sobre essa consequência no sistema de justiça criminal está levando até alguns funcionários públicos conservadores e seus think tanks a questionarem o valor do encarceramento em massa e de políticas públicas como a Guerra às Drogas e as sentenças mínimas obrigatórias.
+
+LIMITES AO CRESCIMENTO
+
+Em 2011, um grupo diversificado de líderes estaduais e locais se reuniu para explorar maneiras de aumentar a disponibilidade de habitação rural acessível em Dakota do Sul. A reunião foi patrocinada pelo Rural Learning Center (RLC) do estado e pela Dakota Resources, uma organização sem fins lucrativos dedicada ao desenvolvimento econômico, comunitário e de liderança. Os participantes incluíam representantes de centros de desenvolvimento econômico sem fins lucrativos; governos nos níveis federal, estadual e local; e desenvolvedores, credores e corretores do setor privado.
+
+A habitação é um fator crítico de sucesso no desenvolvimento de comunidades rurais viáveis. A habitação acessível e apropriada afeta e é afetada por outros fatores, como empregos, saúde e qualidade da educação nessas áreas. A disponibilidade dessa habitação é especialmente importante para atrair jovens profissionais a se estabelecerem e revitalizarem essas comunidades.
+
+Oferecer tal habitação era desafiador, já que os custos para desenvolver casas suficientemente atrativas muitas vezes excediam o que os credores hipotecários no ambiente regulatório atual estavam dispostos a financiar. Embora o RLC tenha feito muito trabalho para criar um guia detalhado para superar esses obstáculos, havia informações demais para as comunidades absorverem e aproveitarem. Portanto, o objetivo da reunião era obter uma visão mais clara sobre por que era tão difícil aumentar o estoque habitacional rural viável e focar em algumas ações de alto impacto que as pessoas poderiam realizar para expandi-lo.
+
+Trabalhei com os organizadores para elaborar um mapa do sistema antes da reunião que pudesse iluminar melhor o problema e as possíveis soluções. Como algumas comunidades tiveram mais sucesso nessa área do que outras, fazia sentido descrever as dinâmicas em termos de Limites ao Crescimento. Identificamos um grupo central de motores, ou bombas, que poderiam impulsionar o crescimento habitacional e econômico, mas que eram enfraquecidos por forças de equilíbrio, ou vazamentos, que reduziam a eficácia dessas bombas. Se as bombas não conseguissem produzir habitação e crescimento econômico rapidamente o suficiente, os vazamentos limitariam sua eficácia ainda mais. Portanto, era importante ativar as bombas de maneira poderosa e rápida para superar os efeitos negativos dos vazamentos.
+
+FIGURA 7.4 HABITAÇÃO RURAL: LIMITE CENTRAL AO CRESCIMENTO. Sem infraestrutura suficiente para o desenvolvimento, as comunidades têm dificuldade em atrair desenvolvedores privados para atender às necessidades habitacionais e, assim, atrair novas pessoas e empregos.
+
+A Figura 7.4 mostra a bomba central ou motor de crescimento e a principal fonte de vazamento ou limite para esse crescimento. Comunidades bem-sucedidas construíram habitação acessível que atraiu população e empregos, o que, por sua vez, aumentou a necessidade de habitação e levou a um desenvolvimento habitacional adicional (R1). Elas fizeram isso em parte criando a infraestrutura local para o desenvolvimento econômico. No entanto, comunidades menos bem-sucedidas não tinham infraestrutura suficiente para atender às suas necessidades habitacionais, o que tornava mais difícil atrair os desenvolvedores privados necessários para aumentar a habitação e crescer (B2).
+
+FIGURA 7.5 HABITAÇÃO RURAL: ATIVANDO BOMBAS ADICIONAIS. Relações adicionais de reforço entre empregos, habitação, receita tributária, educação e população impulsionam o crescimento comunitário.
+
+As comunidades identificaram outros motores de crescimento também, como ilustrado na Figura 7.5. Elas reconheceram que o desenvolvimento habitacional criaria empregos (R3 na Figura 7.5) e que os empregos aumentariam as receitas tributárias necessárias para atrair mais empregos (R4). A disponibilidade de habitação acessível também aumentaria diretamente as receitas tributárias (R5). As receitas tributárias poderiam ser usadas para fortalecer a infraestrutura comunitária para o desenvolvimento e aumentar o financiamento disponível, o que, por sua vez, reduziria os custos de desenvolvimento e aumentaria o número de compradores dispostos e capazes, aumentando assim os retornos potenciais no desenvolvimento e na própria habitação (R6). Atraindo novas pessoas para a comunidade, aumentariam as oportunidades educacionais e atrairiam mais pessoas (R7), e o aumento dos empregos teria o mesmo efeito positivo na população (R8). Por fim, a disponibilidade de habitação acessível aumentaria a propriedade de casas e envolveria os cidadãos na construção de bairros vitais, atraindo ainda mais pessoas para a comunidade (R9).
+
+FIGURA 7.6 HABITAÇÃO RURAL: VAZAMENTOS. Se as comunidades não investirem adequadamente em sua infraestrutura para o desenvolvimento, não conseguirão atrair o financiamento necessário para aumentar os retornos potenciais no desenvolvimento. Além disso, se não criarem novos empregos em um ritmo suficiente para atrair investidores adicionais, as perspectivas econômicas percebidas da comunidade diminuirão ao longo do tempo, limitando ainda mais sua capacidade de crescer.
+
+Ativar as bombas nas Figuras 7.4 e 7.5 precisava ocorrer rapidamente o suficiente para superar limites adicionais ou vazamentos. Na ausência de infraestrutura adequada para o desenvolvimento, as comunidades não conseguiriam atrair o financiamento necessário para aumentar os retornos potenciais no desenvolvimento (B10 na Figura 7.6). Se não criassem novos empregos em um ritmo suficiente para atrair novos investidores, as perspectivas econômicas percebidas da comunidade declinariam, reduzindo assim o número de compradores dispostos e capazes ao longo do tempo (B11 na Figura 7.6) e a disponibilidade de financiamento (B12). Além disso, perspectivas econômicas fracas aumentavam o risco de subavaliar o estoque habitacional, desencorajando potenciais proprietários de imóveis (B13).
+
+Em resumo, a análise sistêmica permitiu que as pessoas percebessem que comprometer-se com investimentos iniciais na construção ou fortalecimento da infraestrutura de suas comunidades para o desenvolvimento era um passo crítico para alcançar um crescimento maior.
+
+SUCESSO PARA OS BEM-SUCEDIDOS
+
+Também em 2011, o William Caspar Graustein Memorial Fund (WCGMF) organizou um processo multissetorial para criar um plano diretor para um sistema estadual de desenvolvimento infantil precoce em Connecticut, que funcionasse para todas as crianças e famílias, independentemente de raça, renda ou habilidade. A iniciativa, chamada Right from the Start (Desde o Início), foi planejada e facilitada pelo Interaction Institute for Social Change. Reuniu defensores, prestadores de serviços, funcionários de agências públicas, financiadores privados e membros da comunidade/pais para explorar e mapear o que existia na época, criar uma visão e valores subjacentes para um sistema equitativo e identificar pontos de alavancagem importantes para a mudança.
+
+Vários meses após o início do processo, fui convidado a apresentar o pensamento sistêmico aos participantes como uma forma de aprender mais sobre por que seus esforços anteriores para criar um sistema mais equitativo haviam falhado antes de propor novas legislações e estruturas. Perguntar a si mesmos por que não haviam tido sucesso até então, apesar de seus melhores esforços, motivou muitos deles a fazer perguntas mais profundas do tipo "por que" também. Como eles também eram membros comprometidos do sistema, incentivei-os a considerar como suas próprias ações bem-intencionadas poderiam contribuir para as dinâmicas existentes e o que poderiam fazer de forma diferente, além de recomendar mudanças que o governador e outros funcionários eleitos deveriam fazer.
+
+Meus incentivos para desacelerar e refletir mais profundamente antes de agir e considerar seus próprios papéis, mesmo que não intencionais, na perpetuação do sistema atual confundiram alguns membros da equipe de design que viam sua missão apenas em termos de produzir rapidamente recomendações sobre como os outros deveriam mudar. Alguns optaram por sair do projeto nesse ponto, enquanto a maioria aceitou o desafio de aprender mais antes de seguir adiante.
+
+Em uma sessão subsequente, propus um mapa do sistema para ajudá-los a responder a essas perguntas. Como a questão central que eles apresentaram estava relacionada à desigualdade—o fato de que as crianças que tinham dificuldades na escola eram, em sua maioria, de famílias negras, latinas e brancas pobres desfavorecidas—eu enquadrei a dinâmica subjacente como Sucesso para os Bem-Sucedidos. Especificamente, as oportunidades de educação e renda para pessoas com rendas mais altas e influência política tendiam a aumentar ao longo do tempo à medida que geravam com sucesso mais recursos para seus filhos, enquanto os pais em risco (seja devido a rendas mais baixas, instabilidade e/ou falta de disponibilidade de serviços) tendiam, ao longo do tempo, a ter cada vez mais dificuldades para proporcionar aos seus filhos as bases iniciais de que precisavam para ter sucesso. Além disso, os fortes laços comunitários que os mais pobres muitas vezes formam para compensar o acesso limitado a outros recursos se enfraqueciam ainda mais à medida que eles e seus filhos enfrentavam dificuldades crescentes para ter sucesso. Essas dinâmicas são resumidas pelos ciclos R1, R2 e R3 na Figura 7.7.
+
+FIGURA 7.7 PRIMEIRA INFÂNCIA: OS RICOS FICAM MAIS RICOS E OS POBRES FICAM MAIS POBRES. Os filhos de pais privilegiados têm mais chances de experimentar as oportunidades educacionais e de renda que levam ao sucesso a longo prazo, enquanto os filhos de pais em risco têm menos chances de gerar essas mesmas oportunidades ao longo do tempo.
+
+FIGURA 7.8 PRIMEIRA INFÂNCIA: A LACUNA AUMENTA. Os pais em risco têm dificuldade em gerar renda suficiente por causa de suas responsabilidades parentais e em fornecer o ambiente seguro e de apoio de que seus filhos precisam para prosperar.
+
+Os pais em risco tinham dificuldades para apoiar o sucesso de seus filhos por várias razões,
+
+ detalhadas na Figura 7.8. Eles tinham mais problemas para acessar cuidados infantis de qualidade e acessíveis, o que reduzia sua capacidade de gerar mais renda (R4 na Figura 7.8). Como eles próprios eram mais vulneráveis, também era mais difícil proporcionar os apoios físicos, emocionais e cognitivos necessários para ajudar seus filhos a crescer, especialmente em uma idade precoce, quando esses apoios são mais necessários para o desenvolvimento saudável. Como resultado, seus filhos estavam menos preparados para a escola e, ao longo do tempo, menos capazes de ter sucesso na escola e, assim, gerar o poder aquisitivo necessário para escapar de se tornarem pais em risco (R5).
+
+FIGURA 7.9 PRIMEIRA INFÂNCIA: A LACUNA AUMENTA AINDA MAIS. A natureza conservadora da riqueza, combinada com os impactos negativos da desigualdade de renda nas finanças públicas, enfraquece ainda mais as perspectivas das crianças em risco.
+
+Os impactos negativos diretos sobre os filhos de pais em risco foram exacerbados pelas tendências dos pais privilegiados de justificar e manter sua riqueza, ampliando ainda mais a lacuna entre crianças ricas e pobres. Nos Estados Unidos, aqueles na faixa de renda superior de 20% doam apenas 1,3% de sua renda, enquanto os que estão na faixa inferior de 20% doam 3,2%. Dacher Keltner, professor de psicologia na Universidade da Califórnia-Berkeley e fundador do Greater Good Science Center, descobriu que, assim como atos generosos tendem a inspirar maior generosidade, os efeitos conservadores da riqueza aumentada parecem conter o instinto de ajudar. Além disso, o menor consumo e os níveis educacionais mais baixos criados pela crescente desigualdade de renda reduziram a disponibilidade de fundos que podem ser investidos em serviços sociais e infraestrutura local. Esse próximo nível de questões inter-relacionadas é mapeado na Figura 7.9.
+
+À medida que a disposição e a capacidade coletivas de apoiar esses recursos sociais diminuíram, menos dinheiro se tornou disponível para intervenções precoces que ajudariam as crianças em risco, o que reduz sua prontidão escolar e, ao longo do tempo, a competitividade da força de trabalho dos EUA, colocando mais pressão sobre os recursos totais do país e reduzindo ainda mais a capacidade de financiar publicamente investimentos sociais (R6 na Figura 7.9). A menor prontidão escolar também leva a um menor poder aquisitivo ao longo do tempo, maiores custos sociais e um dreno ainda maior nos recursos públicos (R7). Além disso, quando os investimentos em serviços sociais e infraestrutura local são cortados, as comunidades pobres sofrem ainda mais, levando a uma maior desigualdade de oportunidades (R8).
+
+Os participantes também investigaram mais profundamente as crenças e suposições subjacentes que mantinham essas dinâmicas em vigor. Eles perceberam que o problema do racismo estrutural, pelo qual os brancos ricos são vistos e tratados de maneira mais favorável do que as minorias pobres, se estendia a suposições sobre como corrigir esse desequilíbrio. Em particular, soluções alternativas tendiam a favorecer as opiniões daqueles no poder que:
+
+• Estruturas formais (como novas leis ou instituições) devem ser enfatizadas em vez de estruturas informais (como redes sociais em comunidades pobres).
+
+• O controle estadual sobre o novo sistema é mais crucial do que o controle local.
+
+• Medidas quantitativas são mais importantes do que as qualitativas na avaliação do que funciona.
+
+Um insight profundo para aqueles que queriam redesenhar o sistema foi que eles próprios tendiam a aderir a essas suposições, muitas vezes contra o que consideravam mais sensato.
+
+Os participantes então usaram sua análise para identificar quatro pontos de alavancagem, compromissos fundamentais que continuam a sustentar o trabalho de todos os envolvidos e os inspiram a se engajar no trabalho de longo prazo de mudança sistêmica. Estes foram:
+
+• Abordar as desigualdades e conscientemente capacitar os desfavorecidos.
+
+• Apoiar a ação comunitária local—reconhecendo como diferentes prestadores de serviços e famílias já estão conectados e como devem ser conectados.
+
+• Prestar atenção à criança como um todo, o que inclui prestar atenção à família como um todo.
+
+• Começar a intervir com as crianças o mais cedo possível.
+
+As recomendações de alto nível e de apoio do Right from the Start foram incorporadas aos princípios orientadores do Office of Early Childhood do estado, uma agência que não existia quando o grupo começou seu trabalho. Eles são reforçados por uma campanha de comunicação que inclui vídeos com temas para discussões de diálogo cívico.
+
+David Nee, diretor executivo da WCGMF na época, observou que o trabalho “permitiu que nossos beneficiários colaborassem de forma mais eficaz e direcionassem mudanças onde podemos ter o maior impacto coletivo. Ajudou todos nós a distinguir sintomas da doença, a apreciar o valor de melhorar as relações entre as partes do sistema mais do que melhorar subsistemas, e a entender que todos nós fazemos parte do sistema e não há ninguém fora dele.” Como resultado dessa compreensão, o fundo fortaleceu sua própria vontade de lidar diretamente com o racismo como um problema subjacente.
+
+ADVERSÁRIOS ACIDENTAIS
+
+Os desafios enfrentados pelo Departamento de Educação de Iowa (IDE) e pelas Agências Educacionais de Área do estado (AEAs) são típicos de organizações que desejam trabalhar juntas de forma mais eficaz, mas acham isso difícil de realizar. O arquétipo dos Adversários Acidentais proporcionou uma maneira para as duas partes superarem suas diferenças, em parte porque deu a elas a oportunidade de esclarecer como uma parceria mais forte poderia contribuir para ambas. Também permitiu que percebessem que os problemas que experimentavam com a outra parte não eram intencionalmente causados pelo outro lado. Finalmente, mostrou-lhes como poderiam aproveitar os benefícios da parceria sem, involuntariamente, se prejudicarem mutuamente.
+
+Como os Adversários Acidentais frequentemente falham em reconhecer o valor de sua parceria no início, eles se beneficiam ao aprender a articular isso claramente. Neste caso, ambos os lados reconheceram que os objetivos do IDE eram fornecer orientação e governança para o sistema educacional em todo o estado. Eles também concordaram que os objetivos das AEAs eram garantir educadores de qualidade em sistemas escolares de qualidade para suas respectivas áreas geográficas. Depois de afirmarem os objetivos uns dos outros, determinaram que um IDE bem-sucedido contribuiria com clareza na direção estadual e nos resultados para alunos e educadores das AEAs, e que AEAs bem-sucedidas apoiariam o IDE desenvolvendo um sistema coerente e equitativo em todo o estado. As perspectivas da parceria IDE–AEA são mostradas como um ciclo virtuoso (R1) na figura 7.10.
+
+FIGURA 7.10 RELAÇÕES IDE–AEA (SISTEMA): PERSPECTIVAS DE PARCERIA. Ambos os grupos podem se beneficiar da clareza direcional proporcionada pelo IDE e da coerência e equidade garantidas pelas AEAs.
+
+Após definir o valor de sua parceria potencial, descobriram como as ações de cada parte para melhorar seu próprio desempenho, sem querer, minavam a eficácia da outra—como descrito na figura 7.11. Quando o IDE sentia que não conseguia fornecer uma direção adequada para o sistema educacional estadual, projetava e implementava novos programas para as AEAs (B2). Embora a existência desses novos programas parecesse progresso para o IDE, essas iniciativas dificultavam a alocação de recursos limitados das AEAs em relação às iniciativas de área que já estavam em vigor. Para seguir com suas próprias iniciativas, cada AEA personalizava os programas do IDE para se encaixar nos esforços atuais da AEA ou se desconectava do lançamento estadual (B3). As respostas independentes das AEAs aumentavam as dificuldades do IDE em lidar com soluções inconsistentes, de baixa qualidade e desconectadas no nível estadual—reduzindo o sucesso do IDE e levando-o a introduzir novos programas novamente. As ações combinadas das duas partes resultaram no ciclo vicioso dos Adversários Acidentais R4.
+
+FIGURA 7.11 RELAÇÕES DE SISTEMA IDE–AEA: ADVERSÁRIOS ACIDENTAIS. Novos programas criados pelo IDE, e os esforços das AEAs para personalizar ou se desconectar desses programas, reduzem a eficácia de ambos os grupos.
+
+A história IDE–AEA representa uma tensão comum entre a sede e as unidades de campo em qualquer sistema. A sede tenta alcançar seus objetivos centralizados implementando novas iniciativas no campo, e as organizações de campo personalizam ou se desconectam dessas iniciativas para se concentrar melhor nos esforços existentes para atender seus próprios clientes. Neste caso, o IDE e as AEAs aplicaram seus novos insights para criar soluções que beneficiavam ambos, enquanto, no final, serviam melhor o beneficiário em comum—as crianças de Iowa.
+
+A ANALOGIA DA BANHEIRA
+
+Como apresentado no capítulo 4, a Analogia da Banheira é útil quando é necessário prestar atenção aos fluxos de fatores, assim como aos seus níveis. Também é útil quando uma questão se desenrola em etapas ao longo do tempo. Michael Goodman e eu usamos a analogia como complemento à diagramação de loops causais no caso do fim da falta de moradia, e ele também a usou recentemente para complementar o caso de habitação rural descrito na história Limites ao Crescimento mencionada anteriormente neste capítulo.
+
+No caso da falta de moradia, notamos que o problema se desenvolvia em estágios. Primeiro, de toda a população do Condado de Calhoun, certas pessoas estavam mais em risco de se tornarem desabrigadas do que outras—seja por causa da pobreza, desemprego, violência doméstica, abuso de substâncias ou uma combinação desses fatores. Enquanto serviços de apoio emergencial eram fornecidos para pessoas em risco, um certo número de pessoas desse grupo se tornava desabrigado. Pessoas sem-teto também entravam na comunidade após serem liberadas de um hospital da Administração de Veteranos e de uma prisão próxima. Elas se mudavam para moradias temporárias e frequentemente circulavam ao longo do tempo por diferentes locais provisórios: um abrigo, debaixo da ponte ou na floresta, ficando na casa de outras pessoas, na sala de emergência ou na cadeia local. Poucas dessas pessoas em moradias temporárias conseguiam sair desse ciclo e se mudar para uma moradia permanente, segura, acessível e com apoio. Geramos o diagrama da Banheira mostrado na figura 7.12 para ajudá-los a visualizar a questão. O insight que a equipe de planejamento obteve desse diagrama é que a comunidade precisava reduzir as entradas na situação de falta de moradia e acelerar as saídas dela para resolver o problema de forma sustentável.
+
+Uma das comunidades que participaram da reunião em Dakota do Sul para aumentar a habitação rural acessível foi Faulkton. Como muitas organizações e comunidades comprometidas com a gestão de uma mudança complexa, o grupo comunitário de Faulkton encomendou um estudo que propôs uma longa lista de recomendações para atender suas próprias necessidades de habitação saudável e vibrante—dezessete, neste caso. Embora as recomendações estivessem categorizadas em vários grupos, pareciam pesadas considerando os recursos limitados da comunidade.
+
+FIGURA 7.12 FIM DA FALTA DE MORADIA NO CONDADO DE CALHOUN. Para diminuir a falta de moradia, é importante reduzir o fluxo de pessoas em risco que se tornam desabrigadas e aumentar o fluxo de pessoas se mudando para moradias permanentes. www.appliedsystemsthinking.com
+
+Michael Goodman revisou as descobertas do relatório (como parte de um piloto de Engajamento Regional de Sistemas da Dakota Resources financiado pela Fundação Bush) e ajudou as pessoas a focarem em algumas estratégias que poderiam ter o maior impacto. Ele usou a Analogia da Banheira para mostrar a disponibilidade de quatro tipos de habitação (veja a figura 7.13):
+
+• Habitação nova e em boas condições que, com o tempo, desenvolvia pequenos problemas e se tornava habitação precisando de pequenos reparos.
+
+• Habitação precisando de pequenos reparos que, se deixada sem cuidados, desenvolvia grandes problemas e necessitava de grandes reparos.
+
+• Habitação necessitando de grandes reparos que, se deixada sem cuidados, se tornava habitação dilapidada que precisava ser reabilitada.
+
+• Habitação dilapidada que precisava ser removida para dar lugar a novas construções.
+
+FIGURA 7.13 MELHORANDO A QUALIDADE HABITACIONAL EM FAULKTON, SD. Para melhorar a qualidade habitacional local, é importante acelerar os fluxos de estoque habitacional novo e demolições, enquanto se reduz a deterioração habitacional por meio de reparos e reabilitação. Innovation Associates Organizational Learning
+
+A cidade percebeu que 28% de seu estoque habitacional precisava de grandes reparos ou reabilitação. Eles também determinaram, através de alguns simples experimentos de simulação usando os estoques e fluxos habitacionais, que esse número provavelmente cresceria para 38% em vinte anos se as tendências atuais continuassem. Como resultado, as dezessete recomendações da comunidade evoluíram para apenas duas estratégias principais para atender suas necessidades habitacionais:
+
+• Diminuir ou retardar a saída de boas moradias reparando habitações com problemas pequenos e grandes, e reabilitando habitações dilapidadas onde fosse viável.
+
+• Aumentar as entradas no estoque habitacional construindo novas moradias e removendo habitações dilapidadas irrecuperáveis para novos desenvolvimentos.
+
+Tanto o Condado de Calhoun quanto o grupo comunitário de Faulkton se beneficiaram do uso da Analogia da Banheira como complemento à diagramação de loops causais e outras formas de análise. No caso do Condado de Calhoun, o arquétipo Shifting the Burden (Mudança de Responsabilidade) apontou que a dependência não intencional da comunidade em abrigos temporários como forma de ajudar as pessoas a lidar com a falta de moradia realmente minava sua capacidade de acabar com a falta de moradia. No caso de Faulkton, o insight que emergiu do arquétipo Limites ao Crescimento na reunião do Rural Learning Center–Dakota Resources sobre a necessidade de infraestrutura comunitária suficiente para o desenvolvimento evoluiu para um foco em duas estratégias principais que as comunidades poderiam implementar para desenvolver ainda mais seu estoque habitacional.
+
+Como Equilibrar Simplicidade e Complexidade
+
+Um dos desafios na elaboração de uma análise sistêmica é que ela deve ser simples o suficiente para ser compreendida pelas pessoas, mas complexa o suficiente para capturar a riqueza de suas diversas perspectivas e experiências. Nesta seção final, veremos várias maneiras de alcançar esse equilíbrio:
+
+• Um arquétipo—sem loops adicionais.
+
+• Um arquétipo
+
+—loops adicionais que enriquecem a mesma história.
+
+• Múltiplos arquétipos—frequentemente usando mais de um diagrama.
+
+• Banheira—sozinha ou em combinação com um ou mais arquétipos.
+
+• Mapeamento de interdependência.
+
+• Modelagem e simulação por computador.
+
+Das seis situações descritas acima, a história dos Adversários Acidentais que contribuiu para a Colaboração para as Crianças de Iowa, nas figuras 7.10 e 7.11, é o melhor exemplo da tremenda alavancagem que pode ser alcançada usando apenas um arquétipo sem loops adicionais. Mesmo aqui, foi útil desenvolver a história em duas etapas (Perspectivas de Parceria e Adversários Acidentais), já que o arquétipo incorpora quatro loops: um ciclo virtuoso, dois Fixes That Backfire (Consertos que Recuam) sobrepostos e um ciclo vicioso resultante da sobreposição.
+
+A análise habitacional acessível para Dakota do Sul e o sistema de desenvolvimento e educação da primeira infância para Connecticut são exemplos de um arquétipo com vários loops que amplificam e enriquecem o tema central. No caso da habitação acessível (figuras 7.4 a 7.6), existem vários motores de crescimento tentando bombear (os loops R) que são minados por vários limites (os loops B)—mas os loops combinados contam essencialmente a mesma história de Limites ao Crescimento. No caso da primeira infância, existem vários ciclos viciosos nas figuras 7.7 a 7.9 que agravam a dinâmica de Success to the Successful (Sucesso ao Bem-Sucedido).
+
+A Iniciativa Pós-Prisão usa dois arquétipos para explicar os desafios de reintegração enfrentados por pessoas anteriormente encarceradas: Fixes That Backfire (figuras 7.1 e 7.2) e Shifting the Burden (figura C.1 no apêndice).
+
+Para os leitores interessados em resolver conflitos baseados em identidade, como a questão israelo-palestina, você pode revisar três diagramas no apêndice C (figuras C.2, C.3 e C.4) que explicam como tais conflitos se desenrolam a partir de uma combinação de três dinâmicas: Shifting the Burden, Metas em Conflito e Escalada.
+
+A Analogia da Banheira representa outra maneira, e às vezes mais acessível, de entender a complexidade. No exemplo de habitação saudável e vibrante apresentado à comunidade de Faulkton (figura 7.13), essa analogia foi extremamente útil por si só. No caso do fim da falta de moradia no Condado de Calhoun (figura 7.12), a Banheira foi usada para complementar a história Shifting the Burden descrita na figura 7.3.
+
+Para aqueles que querem uma forma mais simples de contar histórias, o mapeamento de interdependência oferece outra maneira de conectar vários fatores e as organizações associadas a eles. Uma variação simples pede que as pessoas listem primeiro os muitos fatores que afetam uma questão e depois desenhem conexões relevantes entre os fatores. A figura 7.14 representa um exemplo relacionado ao fim da falta de moradia.
+
+FIGURA 7.14 MAPA SIMPLES DE INTERDEPENDÊNCIA RELACIONADO À FALTA DE MORADIA. Mapas de interdependência são uma maneira fácil de aumentar a consciência de diversos interessados de que seu trabalho está conectado.
+
+Alternativamente, as pessoas podem esclarecer suas interdependências desenhando um diagrama linear de entrada–saída ou uma figura da Banheira, como a da figura 7.12. Depois que as pessoas desenham esse mapa, podem colocar suas respectivas organizações nele, localizando os fatores ou etapas que seu trabalho mais aborda. Interessados que se veem no mapa podem então olhar para o panorama maior e refletir sobre as seguintes perguntas:
+
+• O trabalho de quem neste sistema nós apoiamos?
+
+• O trabalho de quem neste sistema apoia o nosso?
+
+• Quais relacionamentos atuais seria útil para nós melhorarmos?
+
+• Quais novos relacionamentos seria útil para nós desenvolvermos?
+
+Como um sistema melhora fortalecendo as relações entre suas partes, este exercício simples pode ser muito eficaz para iniciar o processo.
+
+Por outro lado, a modelagem e simulação por computador são úteis quando os objetivos são capturar mais complexidade, validar que o mapa sistêmico modela o comportamento conhecido, testar rapidamente diferentes alternativas de política, pintar diferentes cenários e quantificar os resultados. Esses modelos incorporam tanto dinâmicas de estoque e fluxo quanto loops de feedback não lineares e com atrasos no tempo. Uma interface de usuário ou simulador pode ser desenvolvida para permitir que os interessados explorem facilmente e discutam as implicações de várias opções.
+
+Usando alguma forma de mapeamento sistêmico para mostrar o panorama geral, e engajando os interessados para construir ou refinar o mapa o máximo possível, as pessoas aprendem a estimular conversas mais produtivas sobre o tema. As novas conversas aumentam a colaboração porque iluminam fatores críticos, como responsabilidade pessoal, interdependência, atraso de tempo e a diferença entre impactos de curto e longo prazo, consequências não intencionais e otimização local versus sistêmica. Projetar e facilitar essas conversas para construir apoio a uma análise sistêmica é o tema do próximo capítulo.
+
+Fechando o Ciclo
+
+• Aprender com um grupo diversificado de interessados não só constrói compreensão, mas também desenvolve os relacionamentos necessários para mudar como o sistema opera.
+
+• Organize as informações ouvindo o que é curioso, distinguindo dados mensuráveis de como as pessoas interpretam esses dados, identificando variáveis-chave e procurando por histórias ou arquétipos reconhecíveis.
+
+• Interessados podem usar arquétipos sistêmicos e a Analogia da Banheira para começar a ganhar insights sobre por que seus problemas crônicos e complexos existem.
+
+• Existem pelo menos seis maneiras de desenvolver uma análise sistêmica que seja simples o suficiente para ser compreendida por muitas pessoas e complexa o suficiente para capturar a riqueza de suas diversas perspectivas e experiências.
+
+-------------
+
+—CAPÍTULO 8— 
+
+Enfrentando a Realidade Atual: Construindo Apoio ao Trazer o Sistema à Vida
+
+Embora os mapas de sistemas possam gerar compreensão, as pessoas nem sempre aceitam os insights que eles oferecem. Por exemplo, alguns participantes do retiro da Iniciativa Pós-Prisão questionaram o valor do mapa, já que aqueles que, em sua opinião, realmente precisavam mudar—neste caso, os formuladores de políticas que apoiam a encarceramento em massa—não estavam presentes. No projeto Right from the Start e em outras situações, as pessoas perguntam como os insights podem ser comunicados, já que são apresentados em uma linguagem visual que é estranha para aqueles que não estão familiarizados com ela.
+
+Os insights gerados por mapas de sistemas podem ser difíceis de aceitar e comunicar. Uma razão é que os mapas são uma forma visual de narrativa, mas nem todas as pessoas são pensadores visuais. Fora do contexto de uma discussão sobre o que eles revelam, os mapas também podem parecer abstratos e impessoais, quando na verdade as histórias que pretendem comunicar são profundamente humanas. Além disso, a maioria dos mapas desafia as pessoas a assumirem mais responsabilidade pelo sistema atual do que acreditam ser necessário. Finalmente, mesmo que as pessoas compreendam e aceitem as implicações dos mapas para si mesmas, muitas vezes não sabem como transmitir essa "linguagem estrangeira" para os interessados que não foram inicialmente expostos a ela.
+
+Você pode enfrentar esses desafios:
+
+• Engajando as pessoas a desenvolver sua própria análise o máximo possível.
+• Trazendo à tona os modelos mentais que influenciam como as pessoas se comportam.
+• Criando conversas catalisadoras que estimulem a consciência, aceitação e alternativas.
+
+Engaje as Pessoas no Desenvolvimento de sua Própria Análise
+
+Envolver as pessoas no desenvolvimento de sua própria análise gera comprometimento com o trabalho e aumenta sua precisão. Se você estiver liderando um esforço de mapeamento, é importante seguir com esse objetivo de engajamento em mente. Ao usar diagramas de loops causais, comece elaborando sua própria análise inicial com base em entrevistas, grupos focais e observações escritas anteriores sobre o assunto. (Os mapas no capítulo 7 representam os tipos de análises que você pode desenvolver por conta própria ou com a ajuda de um mentor.) Em seguida, convide um pequeno grupo de partes interessadas representativas, como um comitê de coordenação ou design, para comentar como o mapa preliminar aumenta sua compreensão e como pode ser melhorado.
+
+Em vez de apresentar suas descobertas desde o início, considere como esse grupo poderia chegar a insights semelhantes por conta própria. Você poderia mostrar-lhes o modelo de um arquétipo de sistema que parece particularmente relevante para sua situação (como Shifting the Burden, Accidental Adversaries ou outro dos introduzidos no capítulo 4) e pedir-lhes que preencham o modelo para iluminar sua história. Ou você poderia escrever algumas das variáveis-chave em notas adesivas e pedir-lhes que desenhem as relações de causa e efeito mais importantes entre as variáveis. Depois de desenvolverem seus próprios insights, as pessoas podem interpretar, internalizar e melhorar seu rascunho com mais facilidade. Se você estiver consultando um projeto e não puder trabalhar com um grupo pequeno primeiro, é útil pedir a uma ou mais pessoas envolvidas no projeto que comentem sobre o mapa inicial e o aprimorem antes de envolver um público maior.
+
+Apresentar efetivamente a um grupo maior começa com ancorar a análise com uma história. Por exemplo, uma história no Condado de Calhoun girava em torno de um homem que havia passado anos circulando continuamente pelas várias formas de abrigo temporário da comunidade: abrigos oficiais, as ruas ou florestas, salas de emergência, prisões e os sofás de conhecidos. As pessoas queriam ajudar esse homem a se estabilizar e encontrar uma moradia mais permanente, mas pareciam incapazes de fazê-lo, apesar de sua preocupação e esforços. Por que era difícil para a comunidade quebrar o ciclo de abrigos temporários e vulnerabilidade contínua? O que poderiam fazer de forma diferente para criar uma solução mais permanente e satisfatória?
+
+Antes de oferecer um mapa que possa ajudar a responder às perguntas das pessoas, é importante posicionar esse diagrama como um catalisador para conversa e aprendizado—não como uma resposta definitiva. Lembre as pessoas de que elas serão convidadas a comentar sobre qualquer mapa apresentado para garantir que ele reflita sua experiência. Em seguida, após a apresentação, convide-as a oferecer seu feedback e sugestões, que considero mais fácil registrar em flip charts no momento e depois incorporar ao mapa offline.
+
+Ao preparar e apresentar seu mapa, pratique a tradução reversa—convertendo a linguagem de sistemas usada para desenvolver o mapa de volta para o inglês. Para tornar o mapa acessível a pessoas não familiarizadas com a linguagem de sistemas, é útil:
+
+• Refinar o mapa primeiro para remover todo o jargão e comunicar os loops em termos cotidianos, como solução rápida, ciclo vicioso e motor de crescimento. No caso de habitação rural acessível, os loops de reforço foram descritos como “bombas” e os loops de equilíbrio ou limitação como “vazamentos” para evocar uma metáfora agrícola.
+• Introduzir arquétipos relevantes como histórias comuns à experiência humana—não apenas às pessoas nesta situação específica. Isso ajuda as pessoas a reconhecer a história e aliviar qualquer vergonha associada a estar envolvido nela.
+• Honrar as melhores intenções das pessoas, reconhecendo o que querem alcançar com suas ações. Por exemplo, querem reduzir a fome e acreditam que enviar alimentos é a forma humana e correta de fazer isso, ou querem crescer sua comunidade e acreditam que construir novas habitações é a chave para atrair novas pessoas e empregos.
+• Mostrar como essas ações bem-intencionadas falham por causa de fatores e consequências, muitas vezes de longo prazo, que não foram levados em consideração. Como aprendemos anteriormente, por exemplo, aqueles que priorizam a ajuda alimentar ao tentar acabar com a fome involuntariamente minam o desenvolvimento agrícola local ao reduzir os preços dos alimentos. Eles também criam um aumento no crescimento populacional anos depois, à medida que jovens salvos pela ajuda alimentar atingem a idade reprodutiva, muitas vezes levando a uma maior fome devido ao sistema alimentar local comprometido.
+• Introduzir o diagrama em etapas usando “construções”. Por exemplo, no capítulo 7 vimos várias histórias se desenrolarem em etapas—including uma história de Adversários Acidentais que primeiro mostrou as perspectivas de parceria e depois como os parceiros em potencial se tornaram adversários acidentalmente. Cada diagrama tem seu próprio tema reconhecível à medida que a história se expande e aprofunda.
+
+Uma pergunta persistente que você pode ter neste ponto é “como sabemos se o mapa é preciso?” Uma maneira de estabelecer precisão é envolver as pessoas no desenvolvimento dele, usando as diretrizes desta seção. Outra é garantir que o mapa responda à pergunta focada feita no início do processo e explique por que as variáveis-chave têm mostrado tendências ao longo do tempo como têm. Um terceiro teste é mais visceral: um mapa útil muitas vezes evoca um silêncio palpável por parte dos participantes. O silêncio comunica muitos sentimentos em rápida sucessão:
+
+• Humildade que vem com o reconhecimento de que, nas palavras de Walt Kelly em “Pogo”, “Encontramos o inimigo, e ele somos nós.”
+• Desespero ao reconhecer que não podemos continuar fazendo o que temos feito e esperar um resultado diferente.
+• Esperança de que possamos encontrar uma maneira mais eficaz de seguir em frente pensando e agindo de forma diferente.
+
+Os mapas podem evoluir não apenas para enriquecer e expandir a compreensão das pessoas, mas também às vezes para mudá-la profundamente. Por exemplo, um insight inovador para os participantes da TAPI foi que o medo de ser vítima de um crime pode impulsionar o comportamento no sistema de justiça criminal mais do que o próprio nível de criminalidade. Em uma situação muito diferente—a tentativa de reconstruir a sociedade civil no Burundi após a guerra civil de 1990–94—ONGs que desenvolveram uma análise sistêmica do conflito determinaram que o fator impulsionador da guerra não era qual tribo, Tutsis ou Hutus, estava no poder, mas a capacidade de uma elite de qualquer tribo de dominar a maioria através da manipulação étnica.
+
+Trazendo à Tona Modelos Mentais
+
+A comediante Lily Tomlin uma vez observou: "A realidade é nada mais do que uma suspeita coletiva." Um propósito do pensamento sistêmico é tornar nossas suspeitas explícitas para que possamos questioná-las e modificá-las para alcançar melhor o que realmente valorizamos. De fato, meu colega Michael Goodman diz: “O pensamento sistêmico são modelos mentais tornados explícitos.” Eu o vejo como uma forma de meditação coletiva: desacelerando nosso pensamento o suficiente para refletir se ele nos serve.
+
+Nossas suposições e crenças impulsionam muitas das relações de causa e efeito que experimentamos. Por exemplo, considere se a redução de pessoal em uma organização diminui ou aumenta o moral dos funcionários restantes. A resposta óbvia é que cortar pessoal diminui o moral porque os outros funcionários se perguntam: "Quando a outra pedra vai cair; serei o próximo a ser demitido?" ou "Minha carga de trabalho aumentou ainda mais como resultado, e não consigo dar conta de tudo." Alternativamente, o moral dos funcionários restantes pode aumentar porque eles pensam: "Finalmente removemos os funcionários problemáticos" e "Sou considerado importante aqui e agora tenho a oportunidade de mostrar ainda mais o que posso fazer." Diferentes suposições determinam se a relação entre downsizing e moral é prejudicial ou construtiva.
+
+Ess
+
+as percepções são o próximo nível mais profundo do iceberg que explica a realidade atual (veja a figura 3.2). Você pode esclarecê-las pedindo aos participantes que olhem para o diagrama de loop causal e respondam à pergunta: "Quais são as principais suposições que mantêm essa dinâmica em funcionamento?" Ajuda começar identificando suposições que as pessoas têm sobre por que soluções atuais ou formas de fazer as coisas devem funcionar: "Esta solução rápida deve resolver o problema porque..." ou "Este motor de sucesso deve garantir o crescimento contínuo porque..."
+
+Incentive as pessoas a localizar cada modelo mental em um link específico de causa e efeito, se possível, e identificar quais interessados mantêm essa crença particular. Colocar modelos mentais diretamente no diagrama dá vida aos mapas de sistemas. Por exemplo, a figura 8.1 mostra os modelos mentais que vários interessados tinham no Condado de Calhoun que contribuíam para perpetuar a falta de moradia. Você pode ver que todos tinham suposições razoáveis que inesperadamente contribuíram para o próprio problema que queriam resolver.
+
+Às vezes, as suposições das pessoas estão tão profundamente enraizadas na dinâmica geral que é mais fácil listá-las separadamente. Por exemplo, os participantes comprometidos com a reformulação do sistema de desenvolvimento e educação infantil em Connecticut descobriram modelos mentais que restringiam como pensavam sobre soluções potenciais para o problema—mesmo que sua própria experiência muitas vezes contradissesse as suposições que tinham. Eles reconheceram que suas crenças refletiam as de seus patrocinadores políticos, que pensavam que:
+
+• Estruturas formais (como novas leis ou instituições) devem ser enfatizadas em vez de estruturas informais (como redes sociais em comunidades pobres).
+
+• O controle estatal sobre o novo sistema é mais crucial do que o controle local.
+
+• Medidas quantitativas são mais importantes do que qualitativas na avaliação do que funciona.
+
+Outras vezes, pode ser esclarecedor ir além das limitações espaciais de balões de pensamento e descrever como diferentes interessados veem o problema em mais detalhes. Um exemplo marcante disso foi fornecido por Jon Walz, médico e ex-bolsista do Instituto de Liderança em Saúde Pública de Kentucky. Dr. Walz distinguiu as visões respectivas de pacientes, profissionais de saúde e políticos que enfrentaram o desafio de como acabar com o tabagismo. Acho seu trabalho especialmente esclarecedor porque ele descreve seis lentes ou paradigmas diferentes que resumem as diversas visões das pessoas: desafio, medo, direito, desespero, ignorância ou analfabetismo funcional e reconhecimento (veja a tabela 8.1 abaixo). Suspeito que esses paradigmas permeiam as visões das pessoas sobre outras questões também, embora apenas uma delas—a lente do reconhecimento—proporcione uma solução construtiva.
+
+**FIGURA 8.1 MODELOS MENTAIS NO CONDADO DE CALHOUN.** Adicionar modelos mentais a um mapa de sistemas não apenas dá vida ao mapa, mas também ajuda a explicar por que certas dinâmicas persistem. *Bridgeway Partners e Innovation Associates Organizational Learning*
+
+### Criando Conversas Catalisadoras
+
+O objetivo do mapa de sistemas e da investigação dos modelos mentais subjacentes é ajudar os stakeholders a criarem conversas catalisadoras. Em vez de repetir discussões familiares sobre recursos limitados, quem é o culpado e quem mais precisa mudar, essas novas conversas são projetadas para aprofundar a conscientização, cultivar a aceitação e desenvolver novas alternativas. As pessoas aprendem a ver o sistema de forma mais abrangente e útil, aceitar sua responsabilidade pelo problema e expandir suas visões sobre o que podem fazer de forma diferente.
+
+### TABELA 8.1. MODELOS MENTAIS EM TORNO DA CESSAÇÃO DO TABAGISMO
+
+---
+
+### APROFUNDANDO A CONSCIÊNCIA
+
+O mapa de sistemas aprofunda a conscientização ao ajudar os stakeholders a entenderem as interdependências muitas vezes não óbvias e as consequências de longo prazo que minam suas melhores intenções. Adicionar modelos mentais ao diagrama ou à conversa traz à tona suposições não questionadas que as pessoas agora podem testar. As seguintes perguntas promovem conversas catalisadoras com base nesses elementos:
+
+- Que novos insights surgiram sobre por que o problema persiste apesar de nossos melhores esforços para resolvê-lo? Como vemos as coisas de forma diferente?
+- O que é surpreendente?
+- Como nosso grupo é, em parte, responsável, ainda que involuntariamente, pelo problema?
+- Que desafios essas dinâmicas apresentam?
+- Que novas oportunidades elas oferecem?
+
+Você também pode desenvolver perguntas mais específicas que promovam a investigação de certas dinâmicas. Por exemplo, um distrito escolar que viu "Success to the Successful" como a causa raiz de seu desafio de reduzir a lacuna de desempenho entre alunos ricos e pobres encontrou grande valor ao considerar duas perguntas:
+
+- Por que alguns alunos de famílias privilegiadas têm um desempenho ruim na escola?
+- Por que alguns alunos de famílias com recursos limitados têm um bom desempenho na escola?
+
+Essas perguntas levaram o distrito a perceber que existem certos fatores críticos de sucesso que permitem que todos os alunos tenham sucesso—independentemente de suas origens. Estes incluem: modelos/mentores que acreditam neles, estruturas de apoio familiar e comunitário, resiliência e autorregulação, e o respeito pelas diferenças individuais de aprendizado.
+
+### CULTIVANDO A ACEITAÇÃO
+
+Com o aumento da conscientização surgem novos desafios. Compreender por que um sistema opera da maneira que opera, apesar dos melhores esforços das pessoas para melhorá-lo, exige que elas passem da culpa para a responsabilidade, da independência para a interdependência e do pensamento de curto prazo para o de longo prazo. Aceitar a responsabilidade por sua contribuição para as dinâmicas atuais é o primeiro passo, pois apoia a interdependência e o pensamento de longo prazo. É um ato de autoconfiança—pois, como Churchill observou: “O preço do poder é a responsabilidade.”
+
+Duas posturas aparentemente opostas ajudam as pessoas a desenvolver essa aceitação: compaixão e confronto. Você precisa de compaixão para reconhecer que muitos problemas são autoinduzidos, embora de forma não intencional. A maioria das pessoas não quer aumentar a fome, perpetuar a falta de moradia ou destruir o meio ambiente. É útil assumir que todos estão fazendo o melhor que podem com o que sabem no momento. Por outro lado, é igualmente importante reconhecer que, em algum nível, as pessoas não sabem o que fazem e podem ser seus próprios piores inimigos. Elas implementam soluções rápidas e assumem que as melhorias de curto prazo vão durar, ou constroem motores de sucesso e acreditam que esse sucesso se sustentará indefinidamente. Tentam otimizar sua parte do sistema sob a suposição de que essa é a melhor forma de otimizar o sistema como um todo.
+
+Aumentar a consciência e a aceitação não se destina a substituir a culpa nos outros por culpa em si mesmo. Em vez disso, tem o objetivo de permitir que as pessoas alcancem mais do que realmente valorizam—porque, no final das contas, é mais fácil mudar a si mesmo do que mudar os outros (por mais tentadora que essa ideia possa ser). Sabemos pela experiência que tanto a compaixão quanto o confronto são elementos vitais da mudança—como quando falamos sobre a necessidade de “amor severo” ou “compaixão implacável.”
+
+Como facilitador ou mediador da mudança sistêmica, também é importante promover o confronto sem desprezo. O confronto significa aumentar a consciência das pessoas sobre suas ações para ajudá-las a alcançar o que realmente importa para elas e para você. O confronto é fundamentado na compaixão. Em contraste, o desprezo busca envergonhar os outros para que tomem ações que sirvam a você, independentemente do que é importante para eles. O desprezo geralmente se manifesta em relação às pessoas no poder, e tende a provocar uma postura defensiva em vez de uma disposição para mudar.
+
+Um grupo frequentemente visto com desprezo são os políticos eleitos publicamente. Suas ações frequentemente parecem ser motivadas unicamente pelo desejo de serem reeleitos, e eles fazem isso apelando aos medos do público e aos interesses de curto prazo em vez dos melhores interesses de seus eleitores. Levantei essa preocupação certa vez com um ex-congressista que serviu com sucesso seu distrito geralmente conservador por vinte anos, e depois presidiu a associação de gestão sem fins lucrativos de seu estado. Perguntei-lhe como ele navegou a tensão entre ser reeleito e seu valor mais alto de servir ao bem maior. Ele me disse que via a reeleição como uma condição básica, uma condição necessária para servir sua comunidade, mas não como um fim em si mesmo. Da mesma forma, como apontou o famoso teórico de gestão Peter Drucker, o lucro é uma condição necessária para o sucesso dos negócios, mas não seu propósito, assim como precisamos de oxigênio para respirar, mas respirar não é nosso propósito. Acredito que muitos funcionários poderiam ser influenciados com base em apelar para seus valores mais elevados e pensar em como ajudá-los a conseguir votos nesse contexto, em vez de assumir que são motivados apenas por interesses imediatos e menosprezar suas opiniões.
+
+Para que isso não soe ingênuo, pense em líderes como Martin Luther King Jr. e Nelson Mandela, que confrontaram a estrutura de poder enquanto, ao mesmo tempo, demonstravam empatia por ela. Eles apelaram para a dignidade humana e as aspirações mais elevadas daqueles no poder e procuraram formar parcerias com eles com base nisso. Quando a colaboração falhou como estratégia inicial, estavam dispostos a "combater o fogo com fogo", mas depois voltavam à colaboração quando seus adversários demonstravam maior disposição para agir como parceiros.
+
+### DESENVOLVENDO NOVAS ALTERNATIVAS
+
+A disposição e a capacidade das pessoas de desenvolver soluções alternativas são baseadas na conscientização e na aceitação. Quando as pessoas se conscientizam do porquê suas soluções anteriores falharam, e aceitam sua responsabilidade por essas falhas, então elas estão genuinamente abertas a considerar novas maneiras de pensar e agir.
+
+Quando você segue os passos anteriores neste capítulo, as pessoas naturalmente começam a pensar em novas soluções. É bom encorajar o pensamento inovador neste ponto. Ao mesmo tempo, há outro fator que elas precisam considerar antes de se comprometerem com ações alternativas. O outro obstáculo potencial para seguir em frente são as intenções subjacentes das pessoas. A maioria de nós tem compromissos múltiplos—por exemplo, o desejo de atender aos nossos próprios interesses imediatos e o desejo de realizar nossas aspirações mais elevadas. Quando esses compromissos competem, tentamos avançar apenas para sermos puxados em outra direção e, em seguida, sentimos que somos arrastados para frente e para trás entre os dois.
+
+O próximo capítulo ajuda as pessoas a examinarem mais de perto essas forças opostas e a resolver esses conflitos. Apoiar as pessoas a alinhar suas ações com suas aspirações mais elevadas, com consciência de como também abordar seus interesses de curto prazo, é vital para liberar suas energias plenas a serviço de uma mudança duradoura.
+
+### Fechando o Ciclo
+
+- Embora o mapeamento de sistemas possa aumentar a compreensão das pessoas sobre por que não tiveram sucesso, apesar de seus melhores esforços, nem sempre é fácil motivar as pessoas a agir com base nesses insights.
+- Para ajudar as pessoas a aproveitar o poder do pensamento sistêmico, é importante envolvê-las o máximo possível no desenvolvimento da análise.
+- Existem várias maneiras de tornar os insights sistêmicos acessíveis a aqueles que não estão familiarizados com esse modo de pensar.
+- Identificar os modelos mentais que moldam as dinâmicas do sistema não apenas dá vida a uma análise, mas também fornece uma fonte de alavancagem para mudar essas dinâmicas.
+- O objetivo final do mapeamento de sistemas é catalisar novas conversas.
+- Essas conversas são mais produtivas quando aprofundam a conscientização, cultivam a aceitação e desenvolvem novas alternativas.
+
+-----------------
+
+**CAPÍTULO 9: Fazendo uma Escolha Explícita**
+
+O trabalho em equipe necessário para resolver problemas sociais complexos exige, como vimos, alinhar diversos interessados com um propósito público comum—mesmo que cada um possa ter diferentes agendas privadas. No capítulo 6, por exemplo, vimos os conflitos que quase sempre surgem em coalizões que tentam acabar com a falta de moradia. Cada um tem preocupações principais diferentes: os funcionários eleitos se preocupam em conter os custos para manter o apoio dos eleitores; os empresários do centro se preocupam em manter as pessoas sem-teto longe de suas lojas; e os provedores de abrigos se preocupam em encher as camas para manter seu financiamento. A abordagem recomendada no capítulo 6 para alinhar esses diferentes interesses é estabelecer um terreno comum, esclarecendo a aspiração compartilhada das pessoas e sua imagem inicial da realidade atual. Mas o trabalho não para por aí.
+
+Embora desenvolver um terreno comum seja vital, pode perder o desafio ainda mais profundo de alinhar as pessoas consigo mesmas. A diversidade de preocupações mantidas por diferentes interessados torna difícil não apenas alinhar as pessoas umas com as outras, mas também alinhar a mais alta aspiração de cada parte interessada com seus próprios interesses imediatos.
+
+A maioria das pessoas se sente dividida entre alcançar o que mais profundamente importa para elas e atender a metas de curto prazo. Queremos realizar nossa natureza divina ao mesmo tempo que garantimos que atendemos a necessidades mais básicas, como segurança econômica, pertencimento e reconhecimento. Até mesmo nosso desejo de ajudar outras pessoas a aliviar seu sofrimento imediato pode entrar em conflito com ajudar essas mesmas pessoas a se tornarem seguras e realizadas de forma independente ao longo do tempo. A questão subsequente para aqueles que desejam a mudança social é como apoiar as pessoas a realizarem suas aspirações mais elevadas, especialmente quando estas divergem de suas preocupações mais imediatas. Como ajudamos as pessoas a fazer uma escolha explícita em favor do que mais profundamente desejam?
+
+A resposta é conectar as pessoas ainda mais de perto tanto com suas aspirações quanto com a realidade atual, revelando o fundo do iceberg—o propósito que as inspira e, muitas vezes por contraste, o propósito que molda suas ações cotidianas. Tornando-se mais conscientes de ambos os propósitos, as pessoas podem se comprometer de forma mais consciente com suas aspirações mais elevadas, cientes tanto dos custos potenciais quanto dos benefícios de realizá-las. Para alinhar os interessados de forma mais poderosa com seu propósito declarado, é importante ajudá-los a fazer uma escolha informada para se comprometer com esse propósito, plenamente cientes do que pode ser necessário para chegar lá. Fazer essa escolha é crucial para alinhar as energias das pessoas a serviço de uma mudança significativa.
+
+Você pode aprender a criar esse alinhamento apoiando as pessoas a darem quatro passos:
+
+1. Compreender que há benefícios no sistema atual—um caso para o status quo.
+2. Comparar o caso do status quo com o caso da mudança.
+3. Criar soluções que atendam tanto a seus interesses de longo prazo quanto de curto prazo—ou fazer um compromisso com o reconhecimento de que uma mudança significativa frequentemente exige abrir mão de algo.
+4. Fazer uma escolha explícita em favor de seu propósito mais elevado, enfraquecendo o caso para o status quo e fortalecendo o caso para a mudança.
+
+**Compreender os Benefícios do Sistema Atual**
+
+Os sistemas são perfeitamente projetados para alcançar os resultados que estão alcançando agora. À primeira vista, quando olhamos para como os sistemas existentes podem ser disfuncionais, essa premissa parece absurda. Por exemplo, por que as pessoas projetariam um sistema que perpetua a falta de moradia, aumenta a fome ou prejudica a capacidade das crianças de aprender? A resposta que emerge de uma análise de sistemas é que as pessoas estão conseguindo algo que desejam agora, algo diferente do que dizem querer. Elas estão recebendo benefícios ou vantagens do status quo e estão evitando os custos da mudança.
+
+Os benefícios de um sistema existente incluem soluções rápidas que funcionam a curto prazo para reduzir os sintomas do problema e a gratificação imediata que vem de implementá-las. Em sistemas que perpetuam involuntariamente a falta de moradia, alguns dos benefícios das formas de trabalho existentes são a redução da visibilidade do problema devido a abrigos temporários que mantêm as pessoas fora das ruas ou da vista do público, a redução da gravidade do problema porque existem algumas formas de abrigo, sentimentos positivos por parte dos provedores de abrigos e financiadores que acreditam estar ajudando pessoas necessitadas, e o financiamento contínuo para o sistema de abrigos.
+
+Os custos da mudança que as pessoas preferem evitar incluem investimento financeiro, o desconforto de aprender novas habilidades e criar um trabalho diferente, ter que agir de forma interdependente em vez de independente e ter paciência enquanto espera que os investimentos demonstrem retornos ao longo do tempo. No caso de acabar com a falta de moradia, alguns dos custos que as pessoas evitam são investir em habitação segura, permanente, acessível e com suporte; fechar abrigos ou mudar significativamente sua missão e trabalho; enfrentar medos por parte dos cidadãos de que possam ter ex-sem-teto como vizinhos; e enfrentar os medos das pessoas sem-teto de que possam não se adaptar à habitação permanente.
+
+Os benefícios do sistema de abrigos existente e os custos de mudá-lo se combinam para gerar um caso para o status quo de ajudar as pessoas a lidar com a falta de moradia. No entanto, esse caso para o status quo na verdade prejudica os esforços para realizar o propósito declarado de acabar com a falta de moradia.
+
+**Comparar o Caso da Mudança com o Caso do Status Quo**
+
+O caso da mudança inclui os benefícios de mudar e os custos de não mudar. Estes são frequentemente mais fáceis para as pessoas esclarecerem do que os benefícios de não mudar e os custos da mudança. As pessoas já estão pensando sobre sua visão de um futuro desejado, e também podem imaginar um futuro negativo onde os problemas que as preocupam não são resolvidos.
+
+Para construir o caso da mudança, você pode perguntar às pessoas que benefícios seriam derivados da realização de sua visão—benefícios para seus constituintes e a sociedade como um todo, para seus parceiros e outros interessados, e para elas mesmas. Aqueles envolvidos em tentar acabar (em vez de lidar) com a falta de moradia podem responder:
+
+- Custos reduzidos para o sistema de resposta de emergência e serviços sociais associados à falta de moradia crônica, incluindo abrigos, contas hospitalares e tratamento de abuso de substâncias.
+- Custos de desemprego reduzidos para pessoas que experimentam falta de moradia episódica porque perderam seus empregos e a capacidade de pagar por moradia.
+- Capacidade de receber fundos estaduais e federais por atender aos requisitos de melhores práticas para reduzir a falta de moradia.
+- Sentimentos positivos associados a fornecer habitação permanente para as pessoas.
+
+Então, para ajudar as pessoas a entender os custos de não mudar, você pode pedir que pintem seu cenário de pesadelo—descrevam o pior que poderia acontecer se não fizerem nada de diferente agora. Para essas mesmas pessoas trabalhando para acabar com a falta de moradia, os custos de não mudar incluem:
+
+- Todos os custos mencionados acima continuam a aumentar.
+- Financiamento perdido por não atender aos requisitos governamentais de implementação de melhores práticas.
+- Menor qualidade de vida nas ruas levando ao declínio econômico.
+
+Para ajudar as pessoas a comparar o caso da mudança com o caso do status quo, é útil completar uma matriz de custos-benefícios, como mostrado na tabela 9.1.
+
+A matriz de custos-benefícios ajuda as pessoas a entenderem em um nível ainda mais profundo por que a mudança não está ocorrendo apesar de seus melhores esforços. Ela retrata o caso muitas vezes oculto para o status quo—um que atualmente é forte o suficiente para anular o caso da mudança e perpetuar as coisas como estão.
+
+**Criar Soluções “Ambas/E” ou Fazer um Compromisso**
+
+Idealmente, as pessoas querem ter o bolo e comê-lo também: Gostariam de manter os benefícios do status quo enquanto também realizam os benefícios da mudança. De fato, soluções “ambas/e” são preferíveis onde podem ser encontradas, e existem vários métodos, como o Gerenciamento de Polaridade, para criar essas soluções. No esforço de acabar com a falta de moradia, existem centenas de continuums de cuidado baseados na comunidade em todo o país, fornecendo habitação e serviços para pessoas sem-teto. Os componentes podem incluir: atendimento de rua, abrigos de emergência (menos permanentes), habitação transitória (apoiando pessoas cronicamente sem-teto a se prepararem para viver em habitação permanente), reassentamento rápido (ajudando as pessoas sem-teto a se mudarem rapidamente para habitação permanente, geralmente no mercado privado), habitação permanente com suporte (habitação segura, acessível e permanente combinada com serviços de apoio para pessoas cronicamente sem-teto) e apenas serviços. Pode haver lugar para todas essas alternativas, desde que o sistema como um todo seja incentivado a fornecer habitação permanente para as pessoas o mais rápido possível.
+
+**TABELA 9.1. MATRIZ DE CUSTOS E BENEFÍCIOS PARA ACABAR COM A FALTA DE MORADIA**
+
+No entanto, na maioria das vezes, as pessoas precisam fazer concessões. Elas têm que decidir se o que aspiram vale a pena abrir mão de pelo menos uma parte do que têm. Por mais que preferíssemos não abrir mão de nada para ter ainda mais, também entendemos que "sem dor, não há ganho", "não existe almoço grátis" e "investir agora para o futuro". Não apenas os sistemas exibem uma tendência de comportamento melhor-antes-de-pior (por exemplo, por meio de soluções rápidas que minam a eficácia a longo prazo), mas o oposto também é verdadeiro. As coisas frequentemente precisam piorar (ou se tornar mais difíceis) antes de melhorarem. Precisamos abrir mão de algo, como conforto, segurança e independência, para ter o que desejamos ainda mais. Em contraste, a relutância em abrir mão de tais benefícios do status quo é o maior obstáculo à mudança.
+
+Lyndia Downie, presidente e diretora executiva da Pine Street Inn, um dos abrigos mais respeitados do país, percebeu que a instituição precisava transformar completamente sua missão para realmente enfrentar a falta de moradia. Ela descobriu que 5% das pessoas sem-teto em seus abrigos ocupavam mais da metade das camas em qualquer noite e que essas eram as pessoas cronicamente sem-teto que mais precisavam de moradia permanente. Comprometida com a abordagem “Housing First” (Moradia Primeiro), que se concentra em fornecer moradia permanente rapidamente e, em seguida, oferecer serviços conforme necessário, ela convenceu o conselho a transformar a missão da Pine Street Inn de provedora de abrigos de emergência para desenvolvedora imobiliária e locadora. Ela descreve a decisão "difícil de engolir" tanto para o conselho quanto para a equipe, que envolveu o fechamento de alguns abrigos e a realocação desses recursos para comprar casas.
+
+A diretora de operações de uma organização sem fins lucrativos dedicada a fornecer assistência médica para pessoas sem-teto em uma grande cidade participou com todos os stakeholders que trabalhavam com a população sem-teto em sua área de um exercício para desenvolver um mapa de sistemas. Depois de revisar o mapa e o lugar de sua organização no sistema mais amplo, ela desafiou seu presidente e conselho em uma reunião no mesmo dia: “Do que talvez precisemos abrir mão como organização para que o todo tenha sucesso?” Nunca tinha ouvido essa pergunta ser feita de forma tão ousada e percebi que ela faz uma afirmação extremamente poderosa.
+
+Assim como no caso da Pine Street Inn, às vezes o maior desafio começa com abrir mão de uma autoimagem e substituí-la por outra:
+
+• As Agências de Educação da Área e os distritos escolares locais em Iowa perceberam que precisavam abrir mão de suas identidades de serem os únicos responsáveis pelos alunos em suas respectivas regiões. Para melhorar os resultados educacionais em todo o estado, eles precisavam acessar o poder da interdependência e abrir mão de um pouco de independência em relação uns aos outros e ao Departamento de Educação do estado.
+
+• O regulador de segurança alimentar em uma grande cidade aprendeu que era mais eficaz quando mudava seu papel com os donos de restaurantes de ser um fiscalizador para ser um fornecedor de informações e educador.
+
+• Um departamento de saúde pública de um condado aumentou sua capacidade de melhorar a saúde de uma comunidade pobre ao mudar seu papel de especialista distante para facilitador de um processo impulsionado pela comunidade.
+
+**Fazer uma Escolha Explícita**
+
+Você pode ajudar as pessoas a abrir mão mais facilmente primeiro enfraquecendo o caso para o status quo e, em seguida, fortalecendo o caso para a mudança.
+
+Um mapa de sistemas naturalmente ajuda a enfraquecer o caso para o status quo ao mostrar como o pensamento e as ações atuais das pessoas tendem a afastá-las de alcançar o propósito a que aspiram. Por exemplo, o sistema de resposta de emergência para lidar com a falta de moradia, involuntariamente, desvia a atenção e os recursos de acabar com o problema. Otimizar separadamente partes da educação K-12 em Iowa prejudica a capacidade do estado de melhorar os resultados educacionais para todas as suas crianças. Depender da fiscalização como forma de motivar os donos de restaurantes a aumentar a segurança alimentar torna mais difícil alcançar a cooperação necessária.
+
+Fortalecer o caso para a mudança envolve dois passos que aprofundam a conexão das pessoas com suas aspirações mais elevadas. O primeiro é mais receptivo por natureza e apoia as pessoas a pararem e ouvirem o que as chama mais autenticamente. Otto Scharmer descreve isso como “presencing” em seu livro pioneiro *Theory U: Leading from the Future as It Emerges*. Ele afirma:
+
+*Presencing—uma mistura de percepção e presença, significa conectar-se com a Fonte da mais alta possibilidade futura e trazê-la para o presente. Quando nos movemos para o estado de presencing, a percepção começa a acontecer a partir de uma possibilidade futura que depende de nós para se tornar realidade. Nesse estado, entramos em nosso verdadeiro ser, quem realmente somos, nosso eu autêntico.*
+
+Presencing evoca uma conexão profunda descrita por diferentes nomes em várias tradições de sabedoria. Scharmer descreve isso como uma visão eco-centrada, capturada pelo famoso filósofo Martin Buber quando incentivava as pessoas a "Ouvir o curso do ser no mundo... e trazê-lo à realidade como ele deseja." Perguntar “O que está sendo solicitado de nós?” pode levar as pessoas em uma direção significativamente diferente da baseada na pergunta “O que queremos criar?”—o que corre o risco de focá-las em um lugar mais centrado no ego.
+
+O segundo passo para aprofundar a conexão das pessoas com o caso para a mudança é mais ativo por natureza. Apoia as pessoas a imaginarem o futuro ideal que as chama profundamente. As seguintes diretrizes para a visualização são baseadas em princípios desenvolvidos por Robert Fritz, um mestre do processo criativo:
+
+• Separe o que você quer do que acha possível.
+
+• Foque no que você quer em vez do que não quer.
+
+• Concentre-se nos resultados em vez do processo.
+
+• Inclua as consequências que deseja.
+
+• Veja/experimente a visão no presente.
+
+Depois, pergunto às pessoas várias questões para descrever um momento ideal no futuro quando a visão foi realizada:
+
+• Como as pessoas que você quer servir estão sendo atendidas? O que estão fazendo, vendo, sentindo, ouvindo e dizendo?
+
+• Como servir essas pessoas contribui para outros stakeholders e para a sociedade como um todo?
+
+• O que seu grupo está fazendo de forma diferente? O que estão vendo, sentindo, pensando e ouvindo?
+
+• O que eu estou fazendo pessoalmente de forma diferente? Como realizar essa visão serve meu eu mais elevado?
+
+Enfraquecer o caso para o status quo e conectar as pessoas mais de perto ao caso para a mudança por meio de escuta profunda e visualização ajuda as pessoas a fazerem uma escolha explícita em favor de suas aspirações mais elevadas.
+
+**O Que Fazer Quando as Pessoas Ainda Não Estão Alinhadas?**
+
+Embora os quatro passos acima estimulem o alinhamento entre diversos interessados, eles não o garantem. Um possível resultado é que você ainda não consiga encontrar um terreno comum onde as pessoas queiram construir algo juntas. Nesse caso, é útil lembrar as alternativas propostas no capítulo 6:
+
+• Colaborar indiretamente, legitimando e abordando as preocupações dos outros, e depois buscar influenciá-los por meio de terceiros mutuamente respeitados e/ou engajá-los em fases críticas do processo.
+
+• Trabalhar ao redor das pessoas com as quais não se pode trabalhar.
+
+• Trabalhar contra elas por meio de canais como advocacia, políticas legislativas e resistência não violenta.
+
+Também é importante reconhecer que nem todos precisam concordar ao mesmo tempo com um novo curso de ação para que a mudança ocorra. O famoso estudo de Everett Rogers sobre a difusão de inovações concluiu que as atitudes mudam progressivamente em uma população, e que os 15% que compreendem os inovadores e primeiros adotantes podem gerar impulso suficiente para que os outros sigam.
+
+Outro cenário possível é que as pessoas olhem claramente para o caso do status quo e para o caso da mudança—e deliberadamente decidam manter o status quo com plena apreciação do futuro que estão abrindo mão. Esta é certamente uma escolha válida, e eu apenas encorajo as pessoas nesses casos a fazerem as pazes com o que têm—já que agora estão conscientemente escolhendo isso. Isso significa aceitar toda a realidade atual, incluindo seus aspectos indesejáveis, já que nada disso é provável que mude se elas mesmas não mudarem.
+
+**Fechando o Ciclo**
+
+• É difícil estabelecer um terreno comum quando as ações cotidianas das pessoas não estão alinhadas com suas aspirações mais elevadas.
+
+• Ajudar as pessoas a fazerem uma escolha explícita em favor do que mais profundamente desejam é uma etapa crucial no processo de mudança.
+
+• Você pode capacitar as pessoas a alinhar seu comportamento atual com seu propósito declarado, apoiando-as a dar quatro passos:
+
+1. Compreender que há benefícios no sistema atual.
+
+2. Comparar o caso do status quo com o caso da mudança.
+
+3. Criar soluções “ambas/e” ou fazer um compromisso.
+
+4. Fazer uma escolha explícita em favor de seu propósito mais elevado.
+
+• Você ainda tem alternativas disponíveis quando os interessados não se alinham em torno de uma aspiração mais elevada mesmo após esses passos.

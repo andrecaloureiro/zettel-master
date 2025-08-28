@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"text","text":"testar criar com chatGPT\n","id":"27c9774f5d85a809","x":-920,"y":-580,"width":300,"height":60},
+		{"id":"ea4607b2b138510a","x":-620,"y":-580,"width":400,"height":42,"type":"file","file":"Recording 20230424174708.webm"},
+		{"type":"file","file":"Current situation.md","id":"f381263926dd2090","x":-500,"y":-520,"width":400,"height":400},
+		{"type":"file","file":"Book w cGPT/00 - a genese da pergunta.md","id":"117cda4eeb28029a","x":-900,"y":-520,"width":400,"height":400}
+	],
+	"edges":[]
+}

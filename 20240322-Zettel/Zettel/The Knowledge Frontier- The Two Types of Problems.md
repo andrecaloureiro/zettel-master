@@ -1,0 +1,4 @@
+- dificultyy of learning 
+	- hard to do things that are easy to others)
+- exploração de novas fronteiras nunca antes exploradas
+	- resolução do ultimo teorema de fermat

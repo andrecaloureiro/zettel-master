@@ -1,0 +1,78 @@
+aulas sefaz - MT 2023
+
+--> games de ti:  https://gamesdeti.herokuapp.com/
+
+- ITIL 4 - Teoria 3
+	- Itil é um guia/ framework de gerencimaneto de SERVIÇOS DE TI
+		- Modelo Quatro Dimensões, 
+			- • Organizações e Pessoas; 
+			- • Informação e Tecnologia; 
+			- • Parceiros e Fornecedores; 
+			- • Fluxos de Valor e Processos
+			decorar --> ![[Pasted image 20230516204657.png]]
+		- Sistema de Valor de Serviços (SVS), 
+			- modo como todos os componentes e atividades de uma organização funcionam em conjunto para facilitar a criação de valor
+			- UTILIDADE - oferece funcionalidade
+				- suporte ao desempenho do consumidor
+				- remover restrições do consumidor
+			- GARANTIA - atende aos requisitos
+			decorar --> ![[Pasted image 20230516205644.png]]
+			- Princípios Orientadores e 
+				- Foque no valor
+				- Comece onde você está
+				- Progrida iterativamente com feedback
+				- Colabore e promova a visibilidade
+				- Pense e trabalhe de forma holística
+				- Mantenha a simplicidade e praticidade
+				- Otimize e automatize
+			- Governança
+			- Cadeia de Valor de Serviços
+				- Engajar,
+				- Planejar, 
+				- Projeto e Transição, 
+				- Obter/Construir, 
+				- Entregar e Suportar
+				![[Pasted image 20230516211923.png]]
+			- Práticas de Gerenciamento
+				- Práticas de Gerenciamento Geral -14
+					- Gerenciamento de Estratégia
+					- Gerenciamento de Portfolio
+					- Gerenciamento de Fornecedores
+					- Gerenciamento de Mudança Organizacional
+					- Gerenciamento de Projetos
+					- Gerenciamento Financeiro
+					- Gerenciamento de Riscos
+					- Gerenciamento de Conhecimento
+					- Gerenciamento de Força de Trabalho e Talentos
+					- Gerenciamento da Arquitetura
+					- Gerenciamento da Segurança da Informação
+					- Gerenciamento de relacionamento
+					- Medição e Relatórios
+					- Melhoria Contínua
+				- Práticas de Gerenciamento de Serviços -17
+					- Análise de Negócio
+					- Projeto/desenho de Serviço
+					- Gerenciamento de Nível de Serviço
+					- Controle de mudanças
+					- Gerenciamento de Capacidade e Desempenho
+					- Gerenciamento de Disponibilidade
+					- Gerenciamento da Continuidade do Serviço
+					- Gerenciamento de Ativos de TI
+					- Gerenciamento de Liberações
+					- Gerenciamento de Incidentes
+					- Gerenciamento de Problemas
+					- Gerenciamento de eventos e monitoramento
+					- Gerenciamento de Requisições de Serviço
+					- Gerenciamento de catálogo de serviços
+					- Gerenciamento de configuração de serviço
+					- Central de Serviços
+					- Validação e Testes de Serviço
+				- Práticas de Gerenciamento de Técnico -3
+					- Desenvolvimento e Gerenciamento de Softwares
+					- Gerenciamento de Infraestrutura e Plataformas
+					- Gerenciamento de Implantação
+		- 34 Práticas de Gerenciamento.
+- ITIL 4 - Modelo de Quatro Dimensões 9
+- ITIL 4 - Sistemas de Valor de Serviços 13
+- ITIL 4 - Referências 50
+- ITIL 4 - Resumo 51

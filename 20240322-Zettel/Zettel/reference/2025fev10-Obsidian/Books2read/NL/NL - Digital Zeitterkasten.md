@@ -1,0 +1,77 @@
+- 
+- Notas do livro digital zettelkasten
+- 
+- Cap1
+    - Ari Meisel.. external brain
+- 
+- Cap2
+    - Nyr eyal ---- book: indistractable
+    - Atenção humana defeituosa…. Pequenos bits de informação (PBI) …. É no que você deve transformar um elefante
+        - Pbi é felicidade
+    - Qual é o livro de referência comum na matéria do Zéttelkasten oferecido por Ryan Holiday?
+- 
+- Cap5
+    - Para que serve o Zettelkasten?
+    - Produção de escrita
+    - Outro livro do autor se chama "gerenciamento da mente ao invés de gerenciamento do tempo"
+- Cap8
+    - Quais apps?
+        - Melhor usar texto simples
+    - Usar formato usando linguagem markdown .md
+    - Wiki links …. Freelinks
+    - Qual o fluxo do processo?
+        - ![](https://remnote-user-data.s3.amazonaws.com/0HkUowwdTMXUsRuTvNAZ0F8pmkOK4pNaaTZXTSSSMYtfuNx_maglKNAEXBsREIiiQdXUNNw5SmkTjNXZ17nzTon5XETsO4YwPb7wIwZ60EO6jQKho7zkVj6r6uatZ5nq.png)
+        - Qual a ideia das notas permanentes?
+            - Explicação de uma única ideia
+            - Metadados: assunto, links e fontes. Seus pensamentos como autor
+            - Revisitar reescrever cada nota permanente a cada 90 dias
+    - 
+- 
+- O que não vale a pena ser lido?
+    - Coisas que você conhece de cor
+    - Ele cita Marshall mcluhan
+- 
+- Cap10
+    - Como ler?
+    - Frisar o texto... Exportar para o formato .md
+    - Fazer anotações de margem ou no livro separado
+    - E se for um livro físico?
+        - Frizar o que já tá frizado.
+            - Tiago forte chama isso de sumarização progressiva
+        - Escrever em suas próprias palavras usando a linguagem .MD
+- 
+    - Razões para ficar sem saco
+        - Não tem relevância
+        - Não é interessante
+        - Você já sabe sobre
+    - Ideias para nomear
+        - Sumariza a ideia principal
+        - Atribuir uma identidade única… usar um timestamp
+        - Folge zettel… como fazia niklas luhan
+        - Mixed
+- Escolha as tags e as keywords
+    - Para fazer um banco de dados não hierárquico
+    - Keywords específicas e únicas
+    - Ele cita o livro story de Robert Mckee
+    - Incita o princípio do iceberg que criou a partir de um livro de hemmingway
+- 
+- Cap 13
+    - Rituais confortáveis
+    - Estrutur e contextos de trabalho
+    - Ambientes
+    - Limites para produtividade
+    - Usa o tempo no computador para: linkar, colocar tags e organizar
+    - Tente se utilizar do seu estado mental para a atividade adequada
+- 
+- 14
+    - Transformando suas notas em um trabalho completo
+    - Tente construir um índice a partir de suas tags
+    - Escreva a medida que as referências vão aparecendo
+- Cap 15
+    - Metadados
+    - Precisam ser leves
+    - Topicos possíveis: título, autor, website, data de criação, data de edição, tags
+- 16 inicie
+    - Ferramentas:
+    - Kdv.co/zet
+- 

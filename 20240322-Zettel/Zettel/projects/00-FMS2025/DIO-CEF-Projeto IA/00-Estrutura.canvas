@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"708126e2958ae89c","type":"text","text":"DIO- Projeto\nataques de engenharia social (ES) em bancos.\n\n[[DIO-IA-estrutura]]\n\n[[e-book-v1]]\n\n[[Engenharia Social - O Elo Humano na Segurança Bancária]]","x":-152,"y":-116,"width":250,"height":306},
+		{"id":"fce6a3d763ddfdb1","type":"text","text":"[[00-intro]]\n ","x":55,"y":-272,"width":250,"height":60},
+		{"id":"828d043e0f3cdcbd","type":"text","text":"[[o que é ES]]","x":240,"y":-167,"width":250,"height":60},
+		{"id":"c5558169893fa500","type":"text","text":"[[Métodos de ES]]","x":141,"y":-10,"width":250,"height":60},
+		{"id":"276154db89be9c95","type":"text","text":"Criminosos","x":240,"y":160,"width":250,"height":60},
+		{"id":"dbf2dc6d4424e7f9","type":"text","text":"[[Vulnerabilidades]]","x":-70,"y":300,"width":250,"height":60},
+		{"id":"ccfd3dcaf5d635a8","type":"text","text":"[[Analise de casos reais]]","x":-442,"y":150,"width":250,"height":60},
+		{"id":"40351e77e807a977","type":"text","text":"Possívei s soluções e [[medidas preventivas]]","x":-584,"y":-70,"width":250,"height":60}
+	],
+	"edges":[]
+}

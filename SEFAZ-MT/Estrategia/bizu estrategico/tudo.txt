@@ -1,0 +1,28 @@
+ O volume na unidade C ‚ Windows
+ O N£mero de S‚rie do Volume ‚ C07B-DFF9
+
+ Pasta de C:\Users\AndreL\Desktop\Misc\ObsidianVault\SEFAZ-MT\Estrategia\bizu estrategico
+
+05/09/2023  06:36 PM    <DIR>          .
+05/09/2023  05:01 PM    <DIR>          ..
+05/02/2023  10:33 PM         3,321,294 Audit.pdf
+05/02/2023  10:33 PM         1,215,453 ContabCustos.pdf
+05/02/2023  10:33 PM         1,905,425 ContabGeral.pdf
+05/02/2023  10:31 PM         3,022,892 dir-admin.pdf
+05/02/2023  10:32 PM         1,567,170 DiR-empresarial.pdf
+05/02/2023  10:32 PM         1,185,793 DirCivil.pdf
+05/02/2023  10:34 PM         1,650,942 DirConst.pdf
+05/02/2023  10:32 PM         1,308,553 dirPenal.pdf
+05/02/2023  10:32 PM         1,432,008 economia.pdf
+05/02/2023  10:34 PM         1,588,333 Estatistica.pdf
+05/02/2023  10:31 PM         1,576,945 etica.pdf
+05/02/2023  10:31 PM         1,206,388 historia e geog.pdf
+05/02/2023  10:31 PM         1,286,027 lte-2.pdf
+05/02/2023  10:34 PM         1,100,325 Portuguesd.pdf
+05/02/2023  10:33 PM         2,450,453 Ti - Sistemas de Info.pdf
+05/02/2023  10:32 PM         2,833,549 TI-Ciencia de dados.pdf
+05/02/2023  10:33 PM         2,163,248 TI-Fundamentos BD.pdf
+05/02/2023  10:33 PM         1,870,560 Ti-GestaoProjetos.pdf
+05/09/2023  06:36 PM                 0 tudo.txt
+              19 arquivo(s)     32,685,358 bytes
+               2 pasta(s)   419,404,677,120 bytes dispon¡veis

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"48f6c98011992a86","x":-119,"y":-580,"width":149,"height":60,"type":"text","text":"AdaTech"},
+		{"id":"5fe99d2162118585","x":-345,"y":-500,"width":165,"height":50,"type":"text","text":"Teia.CAIXA"},
+		{"id":"f2b4d36a9578f2fa","type":"text","text":"Coursera","x":-140,"y":-450,"width":149,"height":60},
+		{"id":"90f7403d2bf07182","x":-294,"y":-280,"width":250,"height":60,"type":"text","text":"Universidade CAIXA"},
+		{"id":"fc4668c6d1d23841","type":"text","text":"Linkedin content\n","x":200,"y":-90,"width":250,"height":60},
+		{"id":"3885cfcc44881217","type":"file","file":"projects/00a - life plan/00-comeceAqui- 28ago2024 1738.canvas","x":381,"y":-487,"width":138,"height":74},
+		{"id":"dc1a618bfcc4c751","type":"text","text":"Checar as 4 metricas do Linkedin\n\n","x":540,"y":40,"width":250,"height":60},
+		{"id":"0c07c06114f5df05","type":"text","text":"BBanker - ToDo tasks","x":-116,"y":100,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"28cf848c4d992770","fromNode":"fc4668c6d1d23841","fromSide":"right","toNode":"dc1a618bfcc4c751","toSide":"left"},
+		{"id":"1a33fa2e0ff58644","fromNode":"0c07c06114f5df05","fromSide":"right","toNode":"fc4668c6d1d23841","toSide":"left"},
+		{"id":"241b06a7df482995","fromNode":"fc4668c6d1d23841","fromSide":"top","toNode":"3885cfcc44881217","toSide":"bottom"},
+		{"id":"b9167fce1a6aeff4","fromNode":"5fe99d2162118585","fromSide":"top","toNode":"48f6c98011992a86","toSide":"left"},
+		{"id":"d2d6406720b1afc8","fromNode":"5fe99d2162118585","fromSide":"bottom","toNode":"f2b4d36a9578f2fa","toSide":"left"},
+		{"id":"50f652a8ae765ec1","fromNode":"90f7403d2bf07182","fromSide":"left","toNode":"5fe99d2162118585","toSide":"bottom"},
+		{"id":"ffbce43dcdb4bf31","fromNode":"90f7403d2bf07182","fromSide":"right","toNode":"3885cfcc44881217","toSide":"bottom"}
+	]
+}

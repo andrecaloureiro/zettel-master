@@ -1,0 +1,124 @@
+Direção aula zero 1
+Contabilidade avançada
+
+estrutura conceitual básica r 2
+Descreve objetivo do relatório financeiro para fins gerais
+Auxiliar
+Normas internacionais de contabilidade e IFRS,  emitidas pelo IASB[1], conceitos consistentes
+Preparadores de relatórios financeiros
+Entender e interpretar os pronunciamentos
+
+CPC 00 Não define normas ou procedimentos
+
+capítulo um objetivo do relatório financeiro para fins gerais
+. Investidores credores por empréstimos e outros credores existentes e potenciais
+Decisões sobre instrumento de patrimônio e dívida empréstimos e direitos de votar a influenciar
+
+Informações sobre recursos reivindicações e alterações Além de eficácia e eficiência da administração e uso dos recursos econômicos
+
+Usuários primários Investidores credores e aqueles que estão no passivo e patrimônio líquido
+
+Relatórios financeiros baseiam se em estimativas julgamentos e modelos
+
+Efeitos de transações e outros eventos que afetam recursos econômicos e reivindicações
+Liquidez e solvência
+Necessidade de financiamento
+Previsão de fluxo de caixa e distribuição
+
+desempenho financeiro Capacidade na entidade de gerar fluxo de entrada de caixa líquido  E a avaliação de gestão de recursos da administração
+
+Capítulo II características qualitativas de informações financeiras úteis
+Custo é uma restrição generalizada Para a capacidade de fornecer informações
+Informações financeiras úteis se dividem em fundamentais e de melhora
+
+----------
+Características qualitativas fundamentais são relevância e representação fidedigna
+
+Relevância São informações capazes de fazer diferença em decisões tomadas por usuários Valor preditivo ou confirmatório.... A materialidade tem a ver com decisões serem influenciadas por omissão distorção ou obscuridade da informação
+Tem a ver com natureza ou magnitude da informação ou ambas no contexto da entidade
+
+Representação fidedigna Tem a ver com a essência do fenômeno Deve ser completa neutra(Prudência e imparcialidade)  e isenta de erros... Valores monetários devem ser estimados gerando incerteza na mensuração
+
+Aplicando as características qualitativas fundamentais... Primeiro lugar identificar o fenômeno econômico ... Segundo identificar o tipo de informação ... Terceiro determinar se informações estão disponíveis e se fornecem representação fidedigna
+
+-----------
+As características qualitativas de melhoria são Tempestividade comparatividade compreensibilidade e verificabilidade
+
+Comparabilidade tem a ver com similaridade e diferenças e existe no mínimo 2 itens... Consistência no método da informação
+
+Verificabilidade... Direta via observação direta ... Indireta via verificação de dados e de entrada e aplicação de recálculo
+
+Tempestividade Disponibilização a tempo para ser capaz de influenciar decisões
+
+Compreensibilidade
+
+Aplicação das características qualitativas de melhoria
+Processo interativo
+
+Restrições do custo sobre relatórios financeiros úteis
+Coleta processamento verificação e disseminação de informações financeiras
+Informações relevantes e fidedignas Ao menor custo de capital
+
+Capítulo III demonstrações contábeis e A Entidade que reporta demonstrações contábeis 
+
+Objetivo e alcance das demonstrações contábeis
+
+Perspectiva adotada nas demonstrações contábeis... Geral 
+
+Premissa de continuidade operacional
+
+Entidade que reporta
+
+Demonstrações contábeis consolidadas e não consolidadas... Consolidadas envolve controladora e controladas como uma única entidade... Não consolidadas envolve somente a controladora
+
+Capítulo IV Elementos das demonstrações contábeis
+
+Posição financeira ativos passivos e patrimônio líquido
+Desempenho financeiro receitas e despesas
+
+Ativo é um recurso econômico presente controlado e resultado de eventos passados
+
+Direitos podem corresponder à obrigação de outra parte caixa produtos ou serviços
+
+Potencial de produzir benefícios econômicos Mesmo que a probabilidade for baixa...
+Controle Capacidade de direcionar o uso do recurso econômico e obter os benefícios econômicos que podem influir dele
+
+Definição de passivo... obrigação presente de transferir recurso resultado de eventos passados
+obrigação... dever ou responsabilidade ... Não há capacidade prática de evitar
+Contrato legislação ou meio similares... Também como resultado de práticas usuais políticas publicadas ou declarações específicas... Obrigação presumida
+
+Transferência de recurso econômico... por atos contratuais... por eventos passados
+
+Definição de patrimônio líquido É a diferença entre ativo e passivo exigível 
+
+Definição de receita e despesa ... Tudo aquilo que afeta o patrimônio líquido... Com exceção de contribuições de detentores de direitos sobre o patrimônio e de distribuições a detentores de direitos sobre patrimônio (ex: aporte e pagto de dividendos)
+
+Capítulo 5 reconhecimento e desreconhecimento
+
+- Refaça a figura na página 88
+Critérios de reconhecimento ... Considerar materialidade custos Utilidade em forma de relevante representação fidedigna... Também Pode ser reconhecido em notas explicativas
+Relevância
+Baixa a probabilidade de entrada ou saída de benefícios econômicos... Notas explicativas
+Incerteza na mensuração
+
+Capítulo 6 mensuração
+
+Base pode ser Uma característica identificada... por exemplo custo histórico valor justo ou valor de cumprimento
+
+Bases de mensuração
+
+Custo histórico ... Preço da transação E origem... Pode ser ajustado a valor recuperável... Custos da aquisição ou criação do ativo
+
+Valor atual ... Valor na data de mensuração... Não resulta de preço de transação... Algumas bases de valor atual incluem Valor justo valor de cumprimento e custo corrente
+Valor justo Implica em uma transação ordenada com participantes de mercado
+Valor em uso É o valor presente dos fluxos de caixa que entidade espera obter ( perspectiva da entidade
+Valor de cumprimento é um passivo trazido ao valor presente 
+Custos Correntes... Custo de ativo equivalente na data de mensuração Representa o valor de entrada que reflete preço quantidade iria incorrer para adquirir O ativo ou passivo
+
+Valores de saída são valor justo valor em uso e valor de cumprimento
+
+Características qualitativas de melhoria e a restrição de custo
+
+Custo histórico
+Valor atual
+Mensuração do patrimônio líquido 

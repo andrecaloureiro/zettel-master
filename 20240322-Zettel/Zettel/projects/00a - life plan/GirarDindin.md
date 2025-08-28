@@ -1,0 +1,7 @@
+- comissão
+
+
+- consultoria
+
+
+- spread

@@ -1,0 +1,3 @@
+falada
+
+ou escrita

@@ -1,0 +1,142 @@
+#### a01 - Tributos- definição e espécies
+
+- apresentação
+	- Prof Ermilson Rabelo - aud fisco GO 
+	- IG: @profrabelo
+	
+- Conceito e objeto do Direito Tributário
+	- RAMO JURÍDICO AUTONOMO
+	- Paulo de Barros carvalho
+		- Conjunto de normas e princípios -> Instituir, fiscalizar, arrecadar tributos
+	- regula relaçãoes entre estado e Contribuinte ref à arrecadação de tributos
+	- ramo do direito públic
+		- Foco do DirPub - defesa do interesse publico
+		- prevalencia sobre particulares
+			- supremacia do interesse publico sobre o particular
+				- imperatividade
+	- raiz no direito Financeiro
+		- receitas originarias - exploração de patrimonio
+			- EX: ROYALTIES
+		- rec derivada - TRIBUTOS e multas
+
+- tributo 
+	- prestação em dinheiro  -> que estado exige de cidadãos e empresas -> para financiar atividades e serviços públicos.
+	- elemento nuclear do Dir trib
+	- espécies:
+		- impostos
+		- taxas
+		- contribuições de melhoria
+		- contribuições especiais
+		- empréstimo compulsório
+
+- fluxo de positivação do direito tributario
+	- 1) normas e principios fundamentais do STN no CF88 -> competencias e limitações com base em principios e imunidades
+	- 2) normas gerais CTN  + leis complementares - FG, Obg trib, cred trib, fiscalizaçõe outrso
+	- 3) leis ordinarias de entes e leis comple Fed - instituem tributo, hipoteses de incid, isenções,m e demais
+	- principio da legalidade
+	- principio da noventena
+	- lei comp 
+		- resolver conflitos de competencia
+		- regulamentar limitações const ao poder de tributar
+		- normas gerais sobre DirTrib
+			- pirncpios
+			- imunidades consat
+			- CTN - L5172/66
+				- ordinaria,
+				- recepcionada como materialmente complementar pela CF88
+					- recepção por compatibilidade
+			- LC 87/96 - Kandir . ICMS
+			- LC 116/2003 - ISS
+	- leis fed, est, mun de insituiição do tributo
+		- HI - hipoteses de incidencia
+		- Fato Gerador --> obrigação tributária
+			- relação juridica suj ativo - passivo
+			- objeto: pagto de tributo
+		- Fisco faz lançamento
+			- constitui direito tributario
+				- certo qnt a exigencia
+				- liquido qnt a valor
+			- garante o dir eito do estado
+			- etapas:
+				- verifica ocorrencia FG + obrigação
+				- determina material tributavel
+				- calcula o montante devido
+				- identifica suj Passivo
+				- Propoem aplicaçõa de penalidade passível
+	- outros caminhoas do fluxo de posit
+		- EXTINÇÃO DO CRED TRIB - a156 CTN
+			- pagamento
+			- compensação
+			- transação
+			- remissão - perdão lega
+			- decadencia
+			- prescrição
+			- conversao deposito em renda
+			- pagto antecipado e homologado
+			- consig em pagto
+			- decisao admin irreformavel
+			- sentença jud passado em julgado
+			- dação em pagto bem imovel
+		- exclusao cred trib - a175 CTN
+			- isencao - pre const
+			- anistia - post const
+		- suspensao exigibilidade - a151 CTN
+			- Parcelamento
+			- moratória
+			- reclamações e recursos
+			- Depósito integral do tributo
+			- liminar judicial
+		- insc em divida ativa
+			- execução fiscal L6830-80
+
+![[Pasted image 20241031160256.png]]
+
+- Conceito de tributo
+	- toda prestação pecuniária compulsoria,
+		- contribuição sindical
+			- era compulsoria (tributo)
+			- reforma trabalhista de L13467/2017 - tornou facultativo
+	- em moeda ou cujo valor nela se possa exprimir
+		- possibilidadade de daçao em pagto com bem imovel ( a156,iXI do CTN, desde LC104/2001)
+			- legislação de daçao com bem imovel
+				- Uniao: L13259/2016
+				- RJ: LC 8/77
+				- SP-capital - L13259/2001
+				- precisa haver legis para dação em pagto
+		- nao se admite pagto in labore ou in natura
+		- ADI 2405 : questiona possibilidade de pgto com bens moveis
+			- STF indicou a156 como  nao exaustivo
+			- STF, muda entendimento com RE 917.285, de 2020 -->  reforça somente imovel como daçao
+		-  nidades fiscais/ de referencia/ padroes
+	- que não constitua sanção de ato ilícito
+		- multa não é tributo (mesmo multa fiscal)
+		- pecunia non olet
+		- CTN a118 - FG deve-se abstrair da validade juridica dos atos
+	- instituída em lei e cobrada
+		- principio da legalidade
+		- criação por MP?
+			- deve ter relevancia e urgencia
+			- pode criar /aumentar tributo - desde que posteriormente convertida em lei
+			- exclusivo por LCP ( criação/alteração)
+				- emprest compulsorio
+				- IGrandFortuna
+				- Imposto residual Uniao (cf a154,I)
+				- ContribSeg social Resid Uniao
+				- Contrib sobre bens e serv
+				- Imposto sobre bens e serv
+				- imposto seletivo
+			- Imposto extraor de guerra
+				- lei ordinaria
+	- mediante atividade admin plenamente vinculadas
+		- forma ,prazo, proceidmento
+		- lancamento do credito no termos estritos da lei
+
+- sujeito passivo
+	- contribuinte 
+	- ou responsável
+
+- FGTS é tributo?
+	- não
+	- ver natureza e destinação dos recursos
+	- tributos sao destinados ao Tesouro nacional
+	- FGTS é conta/ direito de trabalhador

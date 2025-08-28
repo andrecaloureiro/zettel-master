@@ -1,0 +1,3 @@
+- Projeto para quem tem fome
+	- R$ 2 por uma refeição a qualquer hora do dia
+	- Iniciar como loss Leader para quantas pessoas?200?

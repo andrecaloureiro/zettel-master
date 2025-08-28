@@ -1,0 +1,135 @@
+revisao TI-a22- sql
+12/06/2003
+
+- os slides estao repletos de questoes de sql
+- tem q ver o video para acompanhar
+
+https://github.com/raphaelLacerda/estrategia/tree/master/sql
+para treinar comandos
+
+TRABALHANDO ESSA ESTRUTURA:
+https://app.diagrams.net/#G1oYMn-dyT1ygl0ub8fY560tsz47A7R3W7
+
+VIA TE AULA02- DE TI - GERAL
+https://www.estrategiaconcursos.com.br/app/dashboard/cursos/220889/aulas/2022878/videos/110268
+
+vid 1 e 2
+
+drop database  db1
+create database db2
+
+
+drop table tab1
+create table tab2
+
+id serial not null
+var1 int not null
+var2 varchar(50) not null,
+
+primary key (id)
+
+constraint fk_var1_outratab foreign key(var1) references outratab(id)
+
+------------
+vid3
+
+alter table infeccao ADD column data_ultima_atualizacao DATE
+
+/*alter table infeccao drop column data_ultim_atualizacao */
+
+inserindo valores ( DML)
+
+insert into tab1[(campo1,campo2,...)] values (v1,v2)
+
+delete from continente ( deleta todos os dados)
+
+insert into continente(nome) values ('América do Norte'),('América do Sul'),
+	('Ásia'),('Europa' ),('África' ),('Oceania'),('Antártida');
+
+alter TABLE pais add column total_populacao INT
+
+INSERT INTO PAIS (nome, total_populacao, continente_id) VALUES 
+('brasil', 200, 2), 
+('estados unidos', 300,1),
+('uruguai', 11, 2),
+('italia', 60, 4),
+('alemanha', 80, 4),
+('espanha', 47, 4),
+('africa do sul' ,57,5),
+('angola', 30,5), 
+('japao', 126, 3),
+('russia', 144, 3),
+('australia', 25,6),
+('nova zelandia',5,6);
+
+insert into laboratorio(nome)
+values 
+('Fiocruz' ),
+('Sanofi' ),
+('Oxford' ),
+('Sinopharm' );
+
+insert into doenca
+values
+(
+---------------
+
+vid4
+
+- teste de integridade, inserindo dado nulll em campo NOT null
+
+- atulizando registros da tabela --> ataulizar infectado num dado pais
+UPDATE infeccao SET total_infectados=100000 
+WHERE PAIS_ID=1 AND doenca_id=5
+
+SELECT = PROJECAO
+FROM = PLANO CARTESIANO
+WHERE = SELECAO
+
+DELETANDO UM REGISTRO
+DELETE FROM infeccao 
+WHERE PAIS_ID=3 AND DOENCA_ID=1
+
+---------------
+
+VID5 
+PROJECOES ( SELECT)
+
+SELECT * 
+FROM TABLE 
+ORDER BY [COLUMN] DESC/ASC
+
+FILTRAR COM UMA CONDIÇÃO
+SELECT * 
+FROM TABLE
+WHERE TOTAL_POPULAÇAO >=100
+ORDER_BY COL
+DESC/ASC
+
+COMO TRAZER REGISTROS JUNTANDO TABELAS? PELA CHAVE ESTRANGEIRA
+
+SELECT P.NOME, C.NOME FROM PAIS AS P, CONTINENTE AS C
+WHERE P.continente_id = C.id
+ORDER BY P.NOME ASC, C.NOME DESC
+
+USANDO INNER JOIN
+
+SELECT P.NOME AS PAIS_NOME, C.NOME CONTINENTE_NOME
+	FROM PAIS AS p
+    INNER JOIN continente AS c
+    ON P.continente_id = C.id
+ORDER BY C.NOME ASC, P.NOME DESC
+
+
+SELECT DISTINCT --> PARA EVIOTAR REPET
+
+/*SLEECIONE TODOS OS LABS Q JA PRODUZIRAM VAX = intersecao A inter b*/
+
+SELECT L.NOME AS LAB_NAME, D.NOME AS DOENCA_NOME
+	FROM laboratorio AS l
+    INNER JOIN doenca AS d
+    on d.laboratorio_responsavel_pela_vacina = l.id
+
+use left join --> para listar todos do from
+use right join para listar todos da tabela em inner join
+use full (outer) join para trazer tudo , com ou sem relac 

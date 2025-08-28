@@ -1,0 +1,15 @@
+revisao a17-Ti -Estrategia - fiscal regular
+PowerBi
+Piramide DIKW
+dados abertos
+metadados
+
+
+informação = fenomeno/evento associado a valor + metrica
+https://concursos.estrategia.com/questoes/62110655 
+https://concursos.estrategia.com/questoes/20831440
+https://concursos.estrategia.com/questoes/4000864457
+https://concursos.estrategia.com/questoes/4000714204
+
+
+sql videos 1 e 2 da aula 22 estrateia geral para concursos

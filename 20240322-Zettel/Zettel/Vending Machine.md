@@ -1,0 +1,8 @@
+- offices
+- apartmanet complex
+- warehouse
+- Gyms
+- College dorm
+- hotels
+- school
+--> high foot traffic location

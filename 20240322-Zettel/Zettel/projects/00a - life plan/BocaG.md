@@ -1,0 +1,3 @@
+- coisas do ap
+- pedir agua botijao
+- 

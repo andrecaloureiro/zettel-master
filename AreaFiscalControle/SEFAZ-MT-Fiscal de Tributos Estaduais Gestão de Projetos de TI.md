@@ -1,0 +1,1 @@
+[SEFAZ-MT (Fiscal de Tributos Estaduais) Gestão de Projetos de TI + Sistemas de Informação + Fundamentos de Banco de Dados + Ciências de Dados + Segurança da Informação - 2023 (Pós-Edital) - Estratégia Concursos (estrategiaconcursos.com.br)](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/242544/aulas)

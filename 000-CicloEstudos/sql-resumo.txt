@@ -1,0 +1,65 @@
+art of assembly
+
+controle de transaçõ 
+commit e rollback
+
+select sobrenome from pessoa
+where 
+pessoa.nome like "J%"
+AND
+pessoa.ano_nascimento >1980 
+letra d
+
+--> data control language ... como funciona grant e revoke--> como se cria usuarios?
+
+--> constraint e unique , not null primary key
+
+CREATE USER tjusr PASSWORD 'senhatemporaria';
+REVOKE ALL, ON processo FROM t jusr;
+GRANT SELECT ON processo TO t jusr;
+GRANT USAGE, SELECT ON ALL, SEQUENCES IN SCHEMA public TO t jusr;
+
+nome do serv 
+desc lotacao
+desc cargho
+where salario > 2000
+
+select nome,  lotacao.descricao, cargo .descricao from servidor, lotacao as l, cargo as c
+where
+c.salario>2000
+
+A SELECT servidor.nome, lotacao.descricao, cargo.descricao from servidor INNER
+JOIN lotacao on lotacao.idlotacao
+= servidor.lotacao_idlotacao INNER JOIN
+cargo on cargo.idcar = servidor.cargo_idcargo 
+WHERE cargo.salario > 2000;
+
+select count tipo from exame 
+where tipo = laboratorio
+
+_agner
+
+select * from servidores where nome like '_agner'(b)
+
+sintaxe correta? resolve o que é pedido?
+----
+vid 3
+
+pega nome de departamentos onde não haja funcionarios sexo M ( ou q so tem sexo feminino ou ninguem):
+
+SELECT nome FROM Departamento WHERE id_departamento
+NOT IN (SELECT  DISTINCT(id_departamento) FROM Funcionario
+WHERE sexo='M')
+
+--> essa query usa subselect ( not in (select)
+
+--> como usar on casacade e tabelas que nao podem ser apagadas quando sao chave estrangeiras de outra tabela
+
+-- clausula Having( usar depóis de group by
+
+--> cluausla limit para paginacao de resultados ( somente os x primeiros) 
+
+CREATE INDEX [nome] ON [Tabela[Nome]]
+
+delete usa where
+truncate deleta tudo

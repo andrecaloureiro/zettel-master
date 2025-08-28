@@ -1,0 +1,38 @@
+- GFAI   - Empretech - Aula05 #GFAI
+    - Ferramentas
+        - PFM x PF
+            - guiabolso
+            - orçamento pessoal
+        - DAta Driven
+        - Hyper Personalized
+            - como um alfaiate
+        - Continuous process
+            - feed
+            - update
+            - monitor
+            - repeat
+        - acesso por assinatura
+        - 
+    - e-money
+        - fidelity
+        - ver canal do YT
+    - money guide pro
+        - 100% goal based
+    - quicken
+    - Tempo medio de uso com cliente
+        - 34,5h por ano
+        - slide 12
+    - n26 bank
+    - warren
+    - open Banking
+        - API de integração
+        - ver + no bacen
+    - 1h05
+        - guia bolso
+        - coleta dados de outras IF
+    - desafio de integracao
+        - fluxo de caixa - IR
+            - classificação de dados
+            - 
+    - 
+    - 

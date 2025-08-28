@@ -1,0 +1,8 @@
+- baixo carboidrato
+- proteina e gordura suficiente
+- refeicoes a cada 2 ou 3 horas
+- [ ] cardapio de refeicoes
+	- [ ] ovos
+	- [ ] carnes 
+	- [ ] aves 
+	- [ ] peixes

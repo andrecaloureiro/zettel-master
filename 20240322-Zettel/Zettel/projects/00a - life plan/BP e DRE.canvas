@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"5974a7598d44a041","type":"text","text":"Balanço Patrimonial","x":-580,"y":-160,"width":250,"height":60},
+		{"id":"6b44f14bc9405f2d","type":"text","text":"[[00-LP-Passivos]]\n","x":-270,"y":-260,"width":190,"height":50},
+		{"id":"829c72c9805fdd9e","type":"text","text":"[[00-LP-Ativos]]\n","x":-270,"y":-40,"width":210,"height":50},
+		{"id":"a1cba3d5b5c4949b","type":"text","text":"Despesas","x":-120,"y":-350,"width":180,"height":50},
+		{"id":"9f15c5dcf40e6338","type":"text","text":"Receitas","x":-120,"y":-400,"width":180,"height":50},
+		{"id":"6d8e644821cfe064","type":"text","text":"Receitas","x":-110,"y":80,"width":160,"height":50},
+		{"id":"c590e8b91a744ed6","type":"text","text":"Despesas","x":-110,"y":130,"width":160,"height":50}
+	],
+	"edges":[
+		{"id":"62a931e019bc7ec2","fromNode":"829c72c9805fdd9e","fromSide":"bottom","toNode":"6d8e644821cfe064","toSide":"left"},
+		{"id":"3000d8b994ae09c1","fromNode":"829c72c9805fdd9e","fromSide":"bottom","toNode":"c590e8b91a744ed6","toSide":"left"},
+		{"id":"37b353bf63e015c3","fromNode":"5974a7598d44a041","fromSide":"right","toNode":"829c72c9805fdd9e","toSide":"top"},
+		{"id":"9f68547a20e7911d","fromNode":"5974a7598d44a041","fromSide":"right","toNode":"6b44f14bc9405f2d","toSide":"bottom"},
+		{"id":"f7a779a7309c3f3b","fromNode":"6b44f14bc9405f2d","fromSide":"top","toNode":"9f15c5dcf40e6338","toSide":"left"},
+		{"id":"290b1d6e5998a500","fromNode":"6b44f14bc9405f2d","fromSide":"top","toNode":"a1cba3d5b5c4949b","toSide":"left"}
+	]
+}

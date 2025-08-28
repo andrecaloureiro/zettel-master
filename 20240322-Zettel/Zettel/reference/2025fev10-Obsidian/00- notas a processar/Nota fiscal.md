@@ -1,0 +1,4 @@
+Teclado e mouse sem fio
+Casa vieira
+
+http://nfce.sefaz.al.gov.br/QRCode/consultarNFCe.jsp?p=27220112303616000463650320002154411823711947|2|1|2|F149345ED700F02530D029F8427A596E9291B231

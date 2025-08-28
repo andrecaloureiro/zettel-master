@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"71926e883c00883b","type":"text","text":"POOssibilidades:\n- acertar pelo menos 1 dezena ( pTodosJogosPossiveis -  PjogosZerados) =~ 36%\n\t- adicional por acertar a ordem\n- acertar  a soma das dezenas\n\t- [ver proabilidades](202502122319)\n\t- ","x":-47,"y":50,"width":587,"height":230},
+		{"id":"0521e0455e4145ef","type":"text","text":"Combo Sena\n- aposta em derivativos de resultado da mega","x":-600,"y":-240,"width":284,"height":133},
+		{"id":"8623ecec95705275","type":"text","text":"Chekclist\n\n- [x] calcular probabilidade de cada uma das somas individuais\n\n- [ ] Calcular preço justo de pagto para cada soma apostada\n\n- [ ] implementar compra de créditos em R$\n\n- [ ] payouts dinamicos --> f(pResult, potArrecadado)\n\n- [ ] sistema de credito para quem fizer indicações\n\n- [ ] autenticação para cada pessoa conseguir\n\n- firebase actions","x":20,"y":-820,"width":520,"height":460},
+		{"id":"5d6c82441eeb8fd6","type":"text","text":"Pegar:\n- Numero do sorteio (\"numero\")\n\t- numero do proximo (\"numeroConcursoProximo\")\n- dezenas sorteadas (\"listaDezenas\")\n\t- - daqui deriva a soma\n- datado resultado: \"dataApuracao\"\n\t- - datadoProx: (dataProximoConcurso)","x":-769,"y":-1029,"width":453,"height":229},
+		{"id":"b3a5f91d555a8973","type":"text","text":"[API de consulta](202502122332)","x":-1019,"y":-520,"width":250,"height":60},
+		{"id":"3398717b49fa6ba0","type":"text","text":"Input de aposta:\n\n- timestamp\n- array de dezenas escolhidas\n\t- max --> 10 ( q dá 1/6 de probab, payout de 30%)\n\t- 20 numeros --> p = 1/3, pay 15% \n- valor apostado\n\t- há algum limitador? ( pot da banca + pot arrecadado\n\t\t- pot da banca--> definido antes de abrir apostas, por concurso)\n\t\t- pot Coleta --> dinamico, aumenta","x":-1192,"y":-238,"width":423,"height":403},
+		{"id":"76ba885f623c2e54","x":-721,"y":-1314,"width":461,"height":194,"type":"text","text":"config no firebase:\n\nprojeto: megasena-2025fe12\napp-web: megasena-webapp\nhost: megasena-host [codesnippet](202502131012)\nfirestore: megasena-fdb\n"}
+	],
+	"edges":[
+		{"id":"3ee06878e969b6e4","fromNode":"0521e0455e4145ef","fromSide":"bottom","toNode":"71926e883c00883b","toSide":"top"},
+		{"id":"b207970d5f92a9b6","fromNode":"0521e0455e4145ef","fromSide":"top","toNode":"8623ecec95705275","toSide":"bottom"},
+		{"id":"a88f2e449fd6eb99","fromNode":"b3a5f91d555a8973","fromSide":"bottom","toNode":"0521e0455e4145ef","toSide":"top"},
+		{"id":"9083a63a614fba0e","fromNode":"0521e0455e4145ef","fromSide":"top","toNode":"5d6c82441eeb8fd6","toSide":"bottom"}
+	]
+}

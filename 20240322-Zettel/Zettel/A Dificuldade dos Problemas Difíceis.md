@@ -1,0 +1,71 @@
+- A formulação de resolução de problemas de Simon e Newell tem uma consequência imediata: a maioria dos problemas não é resolvível.
+- O espaço de possibilidades é grande demais para encontrar uma solução.
+- Sem um método inteligente, adivinhar aleatoriamente nunca funcionaria.
+- Um cubo mágico tem mais de quarenta e três quintilhões de configurações.
+- Explorar todas elas, mesmo que por apenas um segundo cada, exigiria cinco mil vezes a idade do universo.
+- No entanto, a tarefa de Wiles era traçar um curso em águas incomparavelmente mais vastas.
+- Enquanto um programa de computador pode ser escrito para resolver mecanicamente um cubo mágico, é impossível, mesmo em princípio, construir um dispositivo que possa provar qualquer pedaço de matemática.
+- O matemático, armado com conhecimento finito, deve navegar em um mar infinito sem garantia de chegar em segurança à outra margem.
+- O próprio Wiles estava ciente da probabilidade de falha: “Talvez os métodos de que eu precisava para completar a prova não fossem inventados por cem anos. Então, mesmo se eu estivesse no caminho certo, poderia estar vivendo no século errado.”
+- Se a maioria dos espaços de problemas é grande demais para ser buscada, como lidamos com isso?
+- A resposta de Simon foi que “satisfazemos”: em vez de escolher a melhor solução possível, escolhemos uma que seja boa o suficiente.
+- Um gerente não explora todas as possibilidades e informações antes de tomar uma decisão de negócios urgente.
+- Em vez disso, ele busca até encontrar uma opção boa o suficiente, dado seu tempo e atenção limitados.
+- Mas satisfazer tem duas grandes desvantagens.
+- A primeira é que, ao escolher a opção que é boa o suficiente, podemos nunca aprender a melhor opção.
+- Para problemas únicos, isso pode não ser um problema.
+- Mas se esperamos enfrentar o mesmo problema repetidamente, nossa tendência a escolher o que funciona no momento pode limitar nosso progresso eventual.
+- A pessoa que resolve um problema de digitação caçando e cutucando o teclado com um dedo se sairá bem, mas isso também dificultará o aprendizado do método de digitação por toque.
+- A segunda desvantagem é que até encontrar uma solução aceitável pode ser bastante difícil.
+- Na busca de Wiles, ele poderia ter se contentado com a elegância ou o comprimento da prova, mas certamente não com seu rigor matemático.
+- Uma prova que fosse um pouco desajeitada ou verborrágica poderia ser boa o suficiente, mas certamente não uma que violasse as regras da lógica.
+- Além de reduzir nossos padrões, outra maneira de reduzir a dificuldade de resolver problemas é usar o conhecimento para restringir nossa busca a direções mais frutíferas.
+- Em um extremo, isso elimina completamente a resolução de problemas.
+- Eu não preciso realizar uma busca para resolver 5 + 7.
+- Eu simplesmente me lembro que a resposta é 12.
+- De maneira semelhante, grande parte de nossa vida diária é livre de problemas porque salvamos a solução na memória.
+- Dirigir um carro, marcar uma consulta médica ou lavar a roupa não é um problema para a maioria dos adultos porque eles se lembram do caminho para a solução.
+- No entanto, você ainda pode se lembrar de uma época em que descobrir como usar uma máquina de lavar era um verdadeiro quebra-cabeça.
+- Onde colocar o detergente?
+- Quais roupas vão juntas e quais precisam ser separadas?
+- A experiência transforma problemas em rotinas.
+- Em alguns casos, a memória pode fornecer um método, mesmo que não possa fornecer uma resposta.
+- Eu não posso lembrar diretamente a resposta para 128 + 47.
+- No entanto, seguindo o algoritmo de adição multidígitos que aprendi na escola, posso facilmente chegar à resposta 175.
+- Nem todos os problemas têm algoritmos tão convenientes.
+- Isso surpreendeu os matemáticos.
+- Em 1900, o matemático David Hilbert propôs uma lista de vinte e três perguntas que esperava ver resolvidas no século seguinte.
+- Uma delas era um algoritmo para descobrir se equações como a do Último Teorema de Fermat tinham soluções inteiras.
+- Setenta anos depois, os matemáticos provaram que tal algoritmo não pode existir!
+- Para outros problemas, há um método que pode ser garantido para encontrar uma solução, mas não é muito melhor do que a estratégia de simplesmente tentar todas as possibilidades.
+- Sudoku, xadrez e até Tetris podem ser mostrados como pertencentes a essa classe de problemas.
+- Nossa experiência com problemas de sala de aula pode ser enganosa, portanto, já que a grande maioria dos problemas da vida real não tem um método que garante a resposta correta.
+- Mesmo que um método não possa prometer uma solução, ainda pode reduzir a quantidade de busca.
+- Heurísticas são métodos que não oferecem garantias, mas podem funcionar razoavelmente bem em muitos casos.
+- Enfrentando problemas técnicos, uma heurística é simplesmente desligar o dispositivo e ligá-lo novamente.
+- Isso não sempre funciona, mas resolve o problema em uma proporção surpreendente de casos.
+- Wiles não tinha um algoritmo de livro que pudesse aplicar – a refutação do décimo problema de Hilbert mostrou que não havia nenhum.
+- No entanto, ele tinha muitas heurísticas que adquiriu através de anos de estudo e prática fazendo matemática.
+- Aplicar a prova por indução, por exemplo, é uma estratégia matemática relativamente geral sempre que você deseja provar que uma propriedade vale para um número infinito de coisas.
+- Tudo o que você precisa fazer é mostrar que ela vale para a primeira coisa, e então mostrar que a propriedade não muda conforme você se move de uma coisa para a próxima.
+- Como derrubar uma fila de dominós, esse truque permite provar que algo é verdadeiro para um número infinito de itens sem realmente verificar um número infinito de vezes.
+- Essa heurística foi essencial para ligar cada elemento da curva elíptica na prova de Wiles com cada elemento de uma forma modular.
+- Outra heurística matemática comum é procurar um invariante.
+- Se você encontrar algo que não muda em um problema, não importa como você o modifique, pode evitar uma busca longa para resolver o problema.
+- Considere o problema do tabuleiro de xadrez mutilado.
+- Nesse problema, você é perguntado se pode colocar dominós para cobrir perfeitamente um tabuleiro de xadrez que teve os quadrados do canto superior esquerdo e inferior direito removidos.
+- Dado os sessenta e dois quadrados restantes, e cada dominó cobrindo dois quadrados, à primeira vista o problema parece envolver muita busca.
+- Muitas combinações diferentes de trinta e um dominós podem precisar ser tentadas para decidir se eles podem se encaixar.
+- No entanto, se você for esperto, pode procurar um invariante.
+- Um invariante é que cada dominó cobre exatamente um quadrado branco e um quadrado preto, não importa como seja colocado.
+- Uma vez que reconhecemos que os dois quadrados deletados eram brancos, agora fica claro por que nunca podemos cobrir o tabuleiro – seria necessário um dominó para cobrir dois quadrados pretos, o que acabamos de mostrar ser impossível.
+- Aplicar a heurística certa nos salvou de uma busca longa.
+- A prova por indução e a busca por invariantes são usadas em toda a matemática e lógica.
+- Ainda assim, elas funcionam apenas em uma gama relativamente estreita de problemas em comparação com aqueles que podemos encontrar na vida.
+- Compreender a indução não ajudará muito a pintar um retrato ou criar um plano de marketing.
+- Os psicólogos chamam esses tipos de métodos de domínio-específicos, porque se aplicam a uma faixa circunscrita de problemas.
+- Isso levanta uma questão interessante: existem heurísticas ou estratégias que funcionam em muitos tipos diferentes de problemas?
+- Em seu estudo de resolução de problemas, Simon e Newell observaram uma série de estratégias genéricas de resolução de problemas que as pessoas aplicavam a um conjunto diversificado de problemas.
+- Eles argumentaram que as pessoas usam essas estratégias como um recurso quando métodos mais específicos não estão disponíveis.
+- Simon e Newell chamaram esses métodos de fracos, para contrastá-los com os métodos fortes de algoritmos garantidos ou heurísticas de domínio-específico que reduzem drasticamente a busca de solução de problemas.
+- Esses métodos fracos incluem gerar-e-testar, análise de meios-fins, planejamento e escalada de colina.

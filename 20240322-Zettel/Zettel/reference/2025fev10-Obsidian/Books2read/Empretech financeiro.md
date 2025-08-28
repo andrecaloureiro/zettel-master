@@ -1,0 +1,52 @@
+- Aula 01
+- Aula02
+    - LGPD - Privacidade e segurança dados
+    - CLip Mr Robot —> serie da amazon
+        - mentoria do Anonymous Hacking Group
+    - A arte de enganar Kevin Mitnick  ] #Books2read
+    - ISO IEC 27002
+        - CIA
+            - Confidencialidade
+            - Integridade
+            - Disponibilidade /availability
+        - Processos, condutas e tecnicas
+    - Segurança de Info
+        - nao é despedicio de recurso e tempo
+        - é reputação e confiança
+        - Beneficios
+            - reducao de riscos
+            - diferencial de mercado
+            - atração de investors e clientes
+            - aprimora governança
+    - quais as informações mais sensiveis de um cliente?
+        - todas
+        - PEP — pessoas politicamente expostas
+        - tem que ser e parecer de confiança
+    - DAta Complaince
+        - desenhar o fluxo de dados
+            - quais dados coletar e em quais etapas?
+                - 1o contato
+                - reunioes subsequentes
+        - como é feita a limpeza de dados de seus clientes e prospects
+        - DPO - data protection officer
+        - proceidmentos de exclusao de dados
+        - LGPD cobre dados digitais ou nao digitais
+            - penalidade em agosto/2021
+            - o que sao dados pessoais
+                - o que identifica um individuo
+            - dados sensiveis
+                - insrido nos dados pessoais
+                - precisa de consntimento expresso + motivo da coleta
+                - ficha medica
+                - orientacao racial ou sexual, religiosa
+                - assuntos polemicos
+            - cobre quem esta em territorio brasileiro
+            - seus prestadores de servicos estao no brasil?
+            - base == consentimento
+            - 
+        - website: fireeye cyber threat map
+        - website have i been pwned?
+    - 
+    - 
+    - 
+- 

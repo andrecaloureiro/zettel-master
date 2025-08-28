@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8177cccedec66b95","type":"text","text":"A espiral positiva\nde Faturamento e Lucro\nde Andre C A Loureiro\n","x":-520,"y":-300,"width":237,"height":112},
+		{"id":"0f561caccdccc0eb","type":"text","text":"Qual é o resultado final?\n- gerar faturamento de R$ 100k\n- regozijar-se ao lembrar do processo\n- coletar centenas de depoimentos\n- oferecer muito valor antes de ofertar preço\n-  maior controle sobre meu tempo","x":-200,"y":-880,"width":480,"height":240},
+		{"id":"39e0d4dfe7c67944","type":"text","text":"[[Conteúdo]]  / coleta de testimonial","x":40,"y":-560,"width":373,"height":50}
+	],
+	"edges":[
+		{"id":"f14e24430cfa6fdf","fromNode":"8177cccedec66b95","fromSide":"top","toNode":"0f561caccdccc0eb","toSide":"left"},
+		{"id":"fd8dbda92edad534","fromNode":"8177cccedec66b95","fromSide":"right","toNode":"39e0d4dfe7c67944","toSide":"left"}
+	]
+}

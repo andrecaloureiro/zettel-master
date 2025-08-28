@@ -1,0 +1,58 @@
+
+- Sempre que não se pode ir da situação atual para a situação desejada apenas pela ação, deve-se recorrer ao pensamento. – Psicólogo Karl Duncker.
+- Como as pessoas resolvem problemas difíceis?
+- Existem métodos genéricos que funcionam para todos os tipos de problemas?
+- Como resolvemos problemas que ninguém jamais resolveu antes?
+- “Tenho uma prova verdadeiramente maravilhosa disso, mas esta margem é muito estreita para contê-la.” Com essa frase, Pierre de Fermat criou um mistério que perplexou matemáticos por mais de três séculos.
+- Esse mistério confundiu o grande Leonhard Euler.
+- Quase um século após a morte do enigmático matemático, Euler pediu a um amigo que vasculhasse sua antiga casa, esperando encontrar algum vestígio de uma prova.
+- Isso enganou os matemáticos Augustin Cauchy e Gabriel Lamé, que brevemente alegaram ter descoberto uma prova, antes de um erro fatal em sua lógica ser descoberto.
+- O industrial alemão Paul Wolfskehl ofereceu um prêmio de cem mil marcos a quem pudesse resolver o enigma.
+- Apesar de seus melhores esforços, a prova do Último Teorema de Fermat permaneceu um mistério.
+- A alegação de Fermat é fácil de entender, mesmo que não seja fácil de provar.
+- Pitágoras nos diz que em um triângulo retângulo, o quadrado da hipotenusa é a soma dos quadrados dos comprimentos dos outros dois lados: \(a^2 + b^2 = c^2\).
+- Se você brincar com isso, pode encontrar números inteiros que se encaixam na equação.
+- Os números 3, 4 e 5 servem (9 + 16 = 25); assim como 5, 12 e 13 (25 + 144 = 169).
+- Na verdade, existem infinitas dessas tríades pitagóricas, chamadas assim porque o próprio grego antigo mostrou que eram ilimitadas.
+- Mas e se você mudasse a equação, adicionando cubos em vez de quadrados?
+- Você poderia encontrar três números inteiros que se encaixam no padrão?
+- Fermat disse que não poderia.
+- De fato, ele argumentou que, se você tomasse qualquer expoente maior que dois, sempre falharia.
+- Expressado matematicamente, Fermat argumentou que a equação \(a^n + b^n = c^n\) não tinha soluções inteiras para \(n > 2\).
+- Andrew Wiles ouviu falar do enigma do Último Teorema de Fermat quando tinha dez anos de idade.
+- “Parecia tão simples, mas todos os grandes matemáticos da história não conseguiram resolvê-lo”, refletiu ele sobre seu primeiro encontro com o teorema.
+- “Eu soube naquele momento que nunca o deixaria de lado.”
+- Wiles foi para a escola, se formou na Universidade de Cambridge e se especializou em uma área da matemática conhecida como curvas elípticas.
+- O último enigma de Fermat nunca ficou longe dos pensamentos de Wiles enquanto ele estabelecia sua carreira.
+- Ainda assim, tendo superado matemáticos por séculos, ele não via um caminho à frente para encontrar uma prova.
+- Isso mudou em 1984.
+- O matemático Gerhard Frey sugeriu uma ligação inesperada entre o Último Teorema de Fermat e uma famosa conjectura feita por uma dupla no Japão.
+- Yutaka Taniyama e Goro Shimura argumentaram que dois ramos aparentemente distantes da árvore matemática estavam, na verdade, entrelaçados.
+- Eles argumentaram que cada forma modular tinha uma contraparte em uma curva elíptica.
+- A conjectura tinha sido uma ferramenta valiosa para matemáticos, com muitos artigos assumindo-a tentativamente para suas conclusões.
+- Ainda assim, não passava de uma suspeita.
+- A contribuição de Frey foi uma conexão ainda mais surpreendente: se a conjectura de Taniyama-Shimura fosse verdadeira, o mesmo valeria para o Último Teorema de Fermat.
+- Wiles, já um especialista em curvas elípticas, finalmente encontrou um caminho para realizar seu sonho de infância.
+- Tudo o que ele precisava fazer era provar que a conjectura de Taniyama e Shimura estava correta.
+- Wiles escolheu trabalhar em total segredo.
+- Tendo acumulado algum trabalho publicável, ele decidiu liberá-lo em uma série de artigos, criando a impressão de que ainda estava trabalhando em projetos antigos.
+- Ele parou de ir a conferências e reduziu suas tarefas de ensino ao mínimo.
+- Cada momento em que não estava no trabalho ou com a família, ele estava trabalhando na prova.
+- Adotando uma estratégia arriscada, ele se isolou da ajuda dos colegas.
+- Ele afirmou que a solidão aumentou seu foco.
+- Ainda assim, provavelmente não escapou à sua percepção que, se trabalhasse sozinho no problema, não teria que competir pela glória se descobrisse a prova.
+- Os primeiros dezoito meses de Wiles foram passados na biblioteca, aprendendo cada peça de matemática relacionada a formas modulares e curvas elípticas.
+- Como um aventureiro entrando em uma selva desconhecida, ele precisava equipar sua caixa de ferramentas para qualquer possibilidade.
+- Depois de dominar os conceitos essenciais, ele explorou a matemática por conta própria, procurando padrões que poderiam sugerir um caminho para uma prova.
+- Após dois anos de trabalho solitário, ele fez seu primeiro avanço.
+- Ele encontrou uma maneira de demonstrar que o primeiro elemento de cada forma modular estava ligado ao primeiro elemento de cada curva elíptica.
+- Agora ele só tinha uma infinidade de elementos pela frente.
+- Encontrando um impasse, ele sondou seus colegas em busca de ajuda, tomando cuidado para não revelar a natureza de seu projeto.
+- Talvez eles soubessem de alguma matemática ainda não publicada que escapou à atenção de Wiles?
+- Seu antigo orientador, John Coates, mencionou o trabalho feito por um de seus alunos, Matheus Flach, que estendia a técnica de outro matemático, Victor Kolyvagin.
+- “Parecia ser exatamente o que eu precisava,” lembrou Wiles, “embora eu soubesse que ainda precisaria desenvolver ainda mais esse método Kolyvagin-Flach.”
+- Wiles estava perto, mas “envolvia muitas ferramentas sofisticadas com as quais eu não estava realmente familiarizado. Havia muita álgebra difícil que exigia que eu aprendesse muita matemática nova.”
+- Wiles finalmente decidiu quebrar seu silêncio.
+- Confiando em seu amigo e colega matemático Nick Katz, ele obteve as dicas para finalizar sua prova.
+- Após sete anos de esforço, Wiles conseguiu o que nenhum matemático havia conseguido em mais de três séculos.
+- “Foi o momento mais importante da minha vida profissional,” refletiu Wiles em um documentário da BBC sobre seu triunfo, “Nada do que eu fizer novamente terá tanto significado.”

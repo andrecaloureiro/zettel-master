@@ -1,0 +1,20 @@
+- Essa visão sugere que enfrentamos dois tipos distintos de dificuldades na resolução de problemas.
+- O primeiro tipo de dificuldade ocorre quando enfrentamos um problema que nos desafia, mas seria rotina para outra pessoa.
+- Esta é uma dificuldade de aprender com os outros.
+- Quais são os métodos fortes que os especialistas usam para resolver esses problemas sem esforço?
+- Sem esse conhecimento, somos forçados a nos envolver em uma busca potencialmente longa e propensa a falhas para resolver o problema.
+- Se o problema não estiver muito fora de nossa zona de habilidade de resolução de problemas, podemos descobrir a resposta com algum esforço.
+- Mas se o espaço for grande demais, podemos nunca chegar à melhor abordagem.
+- O segundo tipo de dificuldade ocorre quando estamos nos aventurando na fronteira desconhecida além da capacidade de resolução de problemas de qualquer indivíduo.
+- Esse foi o desafio de Wiles enquanto ele buscava a prova do Último Teorema de Fermat.
+- Ele teve que encontrar a solução para um problema que nenhum matemático havia descoberto em mais de três séculos.
+- Dado o caminho que ele percorreu por vastas áreas do espaço do problema que eram totalmente desconhecidas para Fermat, parece bastante provável que o falecido francês não tivesse uma prova correta.
+- Talvez Fermat tivesse descoberto uma prova falha, como Cauchy ou Lamé.
+- Ou talvez ele tivesse encontrado uma rota alternativa, tão surpreendente e criativa que permaneceu intocada pelas melhores mentes matemáticas por centenas de anos.
+- Em qualquer caso, esse conhecimento morreu com Fermat, e assim Wiles teve que se aventurar no desconhecido ao traçar seu curso matemático.
+- A maioria de nós não enfrentará um problema tão difícil quanto o de Wiles.
+- No entanto, nunca eliminaremos a necessidade de resolver problemas porque a maioria das situações é única.
+- Você só precisa digitar uma ou duas frases antes de escrever algo que nunca foi dito antes na história da humanidade.
+- Cada ensaio escrito, música composta ou prédio projetado é um problema novo e, portanto, não pode ser simplesmente copiado de soluções do passado.
+- Mas mesmo que muitos problemas sejam novos, o conhecimento que é melhor servido para resolvê-los geralmente não é.
+- Ver mais longe no espaço do problema depende de estar em cima dos métodos fortes dos gigantes que vieram antes de nós.

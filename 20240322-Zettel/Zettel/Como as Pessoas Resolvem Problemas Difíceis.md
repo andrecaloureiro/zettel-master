@@ -1,0 +1,34 @@
+- Poucos desafios são tão complicados quanto o Último Teorema de Fermat.
+- No entanto, a história de Wiles revela muito sobre o pensamento por trás da resolução de problemas difíceis.
+- Em 1972, os cientistas cognitivos Herbert Simon e Allen Newell publicaram um livro marcante, Human Problem Solving, investigando esses processos mentais.
+- Em sua pesquisa, eles pediram aos participantes que compartilhassem o que estavam pensando enquanto resolviam problemas.
+- Comparando seu desempenho a um modelo, a dupla fez observações rigorosas sobre como as pessoas trabalham em quebra-cabeças difíceis.
+- Suas descobertas deram início a décadas de pesquisa e foram aplicadas em domínios tão diversos quanto xadrez, escrita, ciência, matemática e medicina.
+- Central para a teoria de Simon e Newell estava a ideia de que resolver problemas é uma busca através de um espaço de problemas.
+- Um espaço de problemas é como um labirinto: você sabe onde está agora e pode dizer se chegou ao destino.
+- Ao longo do caminho, no entanto, você está limitado por paredes que restringem como você pode se mover.
+- O que torna um labirinto difícil é que você não pode simplesmente caminhar diretamente para o fim, mas precisa buscar o caminho tortuoso que leva à saída.
+- Em um labirinto, o espaço do problema é físico.
+- Mas os espaços de problemas são tipicamente abstratos.
+- Considere tentar resolver um cubo mágico.
+- A posição inicial é o cubo embaralhado.
+- A posição final tem apenas uma cor em cada lado.
+- Os movimentos que você pode fazer são as torções e giros do cubo.
+- O espaço do problema aqui não é um espaço literal, mas um espaço de configurações.
+- Cada giro muda o estado do problema para um adjacente.
+- O objetivo, assim como no labirinto, é  navegar nesse espaço abstrato e ir do início ao fim.
+- Provar o Último Teorema de Fermat também foi uma busca através de um espaço de problemas.
+- No caso de Wiles, ele teve que escolher um ponto de partida de teoremas matemáticos previamente provados.
+- Seu objetivo final era escrever a declaração de que \(a^n + b^n = c^n\) não tinha soluções para \(n > 2\).
+- O que tornava a tarefa difícil era a exigência de que cada movimento no espaço do problema fosse uma dedução válida de resultados anteriores.
+- As restrições da lógica funcionavam como as paredes do labirinto, impedindo Wiles de escrever o que quisesse.
+- Wiles teve que traçar um caminho pelos corredores tortuosos da matemática até uma declaração confirmando que Fermat estava certo.
+- Depois que você se acostuma a vê-los, é fácil identificar espaços de problemas em todos os lugares.
+- Cientistas buscam através de um espaço de problemas para descobrir novas leis.
+- O ponto de partida é um conjunto confuso de dados.
+- O ponto final é uma teoria que explica os dados.
+- Resolver um problema envolve buscar tanto um espaço de hipóteses que possam explicar os dados quanto um espaço de possíveis experimentos que possam testar a teoria.
+- Um arquiteto projetando um prédio está buscando um espaço de problemas de possíveis designs, procurando um que atenda às restrições de custo, espaço e códigos de construção, enquanto tenta otimizar seu valor funcional e estético.
+- Escrever este capítulo foi um processo de resolução de problemas.
+- Meu ponto de partida foi um documento em branco.
+- O objetivo final era um capítulo concluído, explicando as ideias que eu queria apresentar.

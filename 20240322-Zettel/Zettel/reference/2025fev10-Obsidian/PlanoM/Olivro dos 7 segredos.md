@@ -1,0 +1,2 @@
+- crie um livro com 7 pedras em forma de puzzles #Money
+        - quem resolve os puzzles ganha um premio em  dinheiro

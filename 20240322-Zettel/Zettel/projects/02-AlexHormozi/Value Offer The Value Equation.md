@@ -1,0 +1,5 @@
+- the equation
+- up / down, where
+	- up = dream outcome x perc eived likelihood to achieve
+	- down = time delay x effort and sacrifice
+- focus on lowering the donw side

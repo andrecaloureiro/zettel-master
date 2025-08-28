@@ -1,0 +1,18 @@
+- GFAI - Empretech Aula 4 - backoffice
+    - Heart and wallet Survey
+    - Eficiencia
+        - slide 16-17
+        - x eficacia
+        - x efetividade
+    - design como UX
+    - videos pessoais de apresentacao
+    - 7 contatos em 1,5 anos para fechar
+    - parte 2:
+        - NPS - propensao a indicar
+        - pedir facilitar e incentivar
+        - Apice da UX —. GFAI : sintese
+        - lead gen para plan fin em USA —> 3500 USD
+        - stop asking for Referrals #Books2read
+        - qnt mais distante a data programada
+            - + facil a marcação com cliente
+            - maior a taxa de noshow

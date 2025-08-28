@@ -1,0 +1,33 @@
+#Estatística #ANOVA 
+
+Análise de Variância 2
+- 1. Conceitos Fundamentais 2
+	- ANOVA one-way
+	- comparação de média de 3 grupoos
+		- (2 populações  é distro t)
+	- hipoteses - exemplo: medias de 3 turmas mesma disciplina, professores diferentes:
+		- h0-nula : as medias das 3 turmas sao iguais
+		- h1 - alt: ha pelo menos uma media desiggual
+		- o trabalho do professor influencia de modo significativo na turma?
+	- FATOR: ha uma caracteristica com influencia significativa?
+		- tratamento: nível do fator
+	- segrega variacoes entre os grupos (tratamento) e dentro dos grujpos
+		- erros são variações por fatores desconhecidos
+			- homocedasticidade: erros com variacias iguais
+			- erros sao normais, media 0 e independentes
+			- caractiristicas iguais Às observadas na população
+	- tesate parametrico: ha uma suposicao a respeito da distro da populuação
+		- teste de Kruskal-Wallis: independe de normalidade e homocedasticidade
+		- requer independencia de observaçoes  e escala ordinal nas variaveis
+		- extensão do teste de Mann-Whitney (ou Wilcoxon-MannWhitney ou teste da soma de postos de Wilcoxon),  
+			- que compara 2 grupos, isto é, uma versão não paramétrica do Teste t
+		- compara media dos postos → pseudo-medianas
+		- nao necessita de grupos com mesma quantidade de amostra
+		- output : estatistica H:
+			- input:
+				- a) tamanho de amostra cada gruypo
+				- pseudo-mediana
+				- tamanho total da amostra
+			- compara com valor da distro qui^2 com g-1 graus de liberdade
+				- g: numero de grupos
+			- se H supera valor crítico, h0 é rejeitada
