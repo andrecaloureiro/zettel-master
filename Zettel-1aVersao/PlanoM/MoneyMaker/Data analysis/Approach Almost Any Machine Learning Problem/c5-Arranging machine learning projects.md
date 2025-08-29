@@ -1,0 +1,30 @@
+- this book will works with Ide/text Editor rather than Jupyter
+	- jupyter for EDA and chart/graph plot
+	- code to make problwemas as plug and play
+	- improve models with git
+
+- tHE STRUCTURE ODF a project folder:
+	- input
+		- train.csv
+		- test.csv
+	- src
+		- create_folds.py
+		- train.py
+		- inference.py
+		- models.py
+		- config.py
+		- model_dispatcher.py
+			- to dispatch different ML models
+	- models
+		- model_rf.bin
+		- model_et.bin
+	- notebooks
+		- exploration.ipynb
+		- check_data.ipynb
+	- readme.md
+	- license
+
+- implemented train.py
+	- using config.py file to set input and output files
+	- using model_dispatcher. py to select between model to apply 
+	- saving/dumping the trained .bin 

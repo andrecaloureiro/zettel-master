@@ -1,36 +1,22 @@
-# Arquivos de mídias grandes que você pediu para ignorar
-*.mp4
+# Ignora arquivos de mídia e outros tipos que não precisam ir para o GitHub
 *.mp3
+*.mp4
+*.png
 *.webm
+*.epub
+*.jpg
 *.pdf
 
-# Arquivos de configurações do VS Code
-.vscode/
+# Ignora arquivos de código
+*.js
+*.json
+*.css
+*.vault-stats
 
-# Arquivos de sincronização ou temporários do Obsidian
+# Ignora pastas e arquivos específicos
+noteblocDAta/
 .obsidian/
 .tmp.driveupload/
-.vault-stats
-.vault-stats.json
+.git/
+01-Gateway-xp/
 
-# Arquivos do Microsoft Office e planilhas
-*.docx
-*.xlsx
-*.gdoc
-*.gsheet
-*.pptx
-
-*.epub
-
-# Arquivos de log e temporários de texto
-
-*.lock
-*.log
-
-# Arquivos gerados por Python
-__pycache__/
-*.pyc
-
-# Outros arquivos de backup ou temporários
-*.bak
-*~

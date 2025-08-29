@@ -1,0 +1,96 @@
+
+
+
+
+BLOCO I: 
+1 Aprendizado supervisionado: 
+1.1 Regressão e Classificação. 
+1.2 Métricas de avaliação. 
+1.3 Overfitting e underfitting de modelos. 
+1.4 Regularização. 
+1.5 Seleção de modelos: Erro de Generalização. 
+1.6 Validação Cruzada. 
+1.7 Conjuntos de Treino, Validação e Teste. 
+1.8 Trade off entre Variância e Viés. 
+1.9 Algoritmos: Regressão Linear, Regressão Logística, Árvores de decisão e random forests, Máquina de suporte de vetores, Naive Bayes, K-NN e Ensembles. 
+1.10 Aprendizado supervisionado com Python scikit-learn. 
+1.11 Conceitos de otimização de hiperparâmetros. 
+
+2 Aprendizado não supervisionado.
+2.1 Redução de dimensionalidade: PCA. 
+2.2 Agrupamento K-Means. 
+2.3 Mistura de Gaussianas. 
+2.4 Agrupamento Hierárquico. 
+2.5 Regras de associação. 
+2.6 Aprendizado não supervisionado com Python scikitlearn. 
+
+3 Redes neurais artificiais. 
+3.1 Conceitos Básicos em Redes Neurais Artificiais: Definições e Arquitetura. 
+3.2 Funções de Ativação. 
+3.3 Otimização de Redes Neurais Artificiais: método do gradiente, método do gradiente estocástico, algoritmo backpropagation, métodos de inicialização dos pesos, Vanishing Gradients. 
+3.4 Métodos de regularização: penalização com normas L1 e L2, Dropout e Early Stopping. 
+3.5 Definições básicas de Redes Neurais Convolucionais. 
+3.6 Definições básicas de Redes Neurais Recorrentes. 
+3.7 Redes neurais com Python: treino de modelos com Keras e Pytorch. 
+
+BLOCO II: 
+1 Machine learning aplicado. 
+1.1 Noções de Visão computacional com redes neurais convolucionais: Classificação de imagens, Detecção de objetos e Segmentação de objetos e instâncias. 
+1.2 Noções de Processamento Natural de Linguagem: Stop-words, stemização, n-grams, TF-IDF, Modelagem de tópicos (LDA, NMF) e Word embeddings: CBOW e Skip Gram. 
+1.3 Conceitos Básicos em Séries Temporais. 
+
+2 Manipulação, tratamento e visualização de dados. 
+2.1 Técnicas de visualização de dados. 
+2.2 Lidando com valores faltantes. 
+2.3 Lidando com dados categóricos. 
+2.4 Normalização numérica. 
+2.5 Detecção e tratamento de outliers. 
+2.6 Manipulação de dataframes com Python Pandas: leitura de dados tabulares, seleção de linhas e colunas, agregação de dados, preenchimento de valores faltantes, remoção de duplicados, junção de dataframes. 
+
+3 Banco de dados e data warehouse. 
+3.1 Modelo entidade-relacionamento. 
+3.2 Mapeamento lógico relacional. 
+3.3 Normalização. 
+3.4 Linguagem de definição e manipulação de dados (SQL). 
+3.5 Conceitos de data warehousing e modelagem multidimensional (esquema estrela). 
+3.6 Conceitos gerais de Hadoop: HDFS, MapReduce, YARN e Spark. 
+3.7 Conceitos de Bancos NoSQL e Armazenamento orientado a objeto (object store). 
+
+BLOCO III: 1 Cálculo. 
+1.1 Pré-cálculo: Conjuntos, Coordenadas Cartesianas, Cônicas e Produtos Notáveis. 
+1.2 Funções. 
+1.3 Limites. 
+1.4 Derivadas. 
+1.5 Derivadas parciais. 
+1.6 Máximos e Mínimos. 
+1.7 Esboços de Gráficos de Funções. 
+1.8 Integrais. 
+
+2 Álgebra Linear para Ciência de Dados. 
+2.1 Notação de vetores e matrizes. 
+2.2 Operações com vetores e matrizes; produto escalar e produto vetorial. 
+2.3 Matriz identidade, inversa e transposta. 
+2.4 Transformações lineares.
+2.5 Normas (L1, L2). 
+2.6 Autovalores e autovetores. 
+2.7 Decomposição SVD. 
+2.8 Álgebra linear e operações matriciais com Python Numpy. 
+
+3 Probabilidade e estatística. 
+3.1 Conceitos de Probabilidade: Modelo de probabilidade, Probabilidade Condicional, Independência, Variáveis Aleatórias, Esperança, Variância e Covariância. 
+3.2 Distribuições Contínuas e Discretas: Normal, t-Student, Poisson, Exponencial, Binomial, Dirichlet. 
+3.3 Distribuições multidimensionais; matriz de covariância. 
+3.4 Estatísticas Descritivas. 
+3.5 Inferência Estatística: Teorema do Limite Central, Teste de Hipótese e Intervalo de Confiança, Estimador de Máxima Verossimilhança, Inferência Bayesiana.
+3.6 Coeficiente de correlação de Pearson. 
+3.7 Histogramas e curvas de frequência. 
+3.8 Diagrama boxplot.
+3.9 Avaliação de outliers. 
+
+4 Algoritmos e estrutura de dados. 
+4.1 Complexidade de algoritmos e notação assintótica (Big O). 
+
+5 Conceitos modernos de sistemas de informação. 
+5.1 Conceitos Nuvem: IaaS, PaaS e SaaS. 
+5.2 Conceitos de Containers: construção, registro, execução e orquestração. 
+5.3 Conceitos básicos de DevOps: versionamento com git, pipeline e CI/CD.

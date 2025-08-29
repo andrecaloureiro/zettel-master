@@ -1,0 +1,56 @@
+- - CFP - vender 20 clinicas financeiras a R$70 #Money #Anams
+    - rodar planilha excel
+    - rodar necessidade de poupar
+    - rodar aprendizado bitcoin
+    - rodar construção de patrimonio
+---
+- 
+- GFAI #Money #[[[ Notion GFAI Anam Breadown](https://www.notion.so/Clinica-financeir-e1496390761146beb83cfd4b0e78519d)]]  #Anams #[[anam breakdown]] 
+- 
+---
+- content
+- coach
+	- semi-auto
+ - 20k faturamento
+ - funis dw venda
+- capture warren fee
+---
+ - sell 7 free anamneses ( $0) —> ganhar tração
+    - sell 7 paid anamneses ( R$ 69,90 x7) —> ganhar tração
+        - trabalhar para R$ 150 / sessao e depois R$300
+    - sell 10-pack anams = 5 meses
+        - price of 9
+        - what to deliver?
+            - coachability — ping and demand daly report and feedback
+            - 
+        - quais porjetos para o horizonte de tempo sao valiosos?
+    - Collect data all along
+        - Cross main issues and pain points (== Xp)
+  ---
+- MOney management periodico #Money
+- periodicos , pontos de vida e sonhos update.
+- 
+- Week P make money with Anams: #Money #Anams
+    - anam breakdown
+        - present yourself
+        - [ Notion GFAI Anam Breadown](https://www.notion.so/Clinica-financeir-e1496390761146beb83cfd4b0e78519d)
+        - roteiro Anam GFAI:
+        - check / set expectations
+        - teach about the 7 pillars of CFP
+        - run the colelct board
+        - mbti test?
+        - give some graphs and financial points #Money #Salario #CFP
+            - asset distribution
+            - daily accountability ... weekly or bimonthly
+            - weak points
+            - strength points
+            - ameaças
+            - oportunidades
+            - MBTI
+            - run a brief overview of what could be get with a deeper work
+                - retirement planning?
+                - sucessao patrimonial
+                - asset allocation
+                - risk insurance
+                - quality of life
+                - 3rd person view

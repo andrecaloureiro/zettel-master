@@ -1,0 +1,69 @@
+#Money #Youtube
+
+- Youtube success - by [[Marques Brownlee]] - MKBHD Youtube #Learnpoints
+    - his passion: tech review
+    - do videos on your passions
+    - Marques adapted his own style watching other videos
+        - started with a laptop he got to school
+        - consistency is key
+    - he goes through his video 
+        - SAmnsung galaxy ultra u21 review
+    - 1) choose a topic to generate idea
+        - how he shares his experiences with X with the world
+    - **make something you would like to watch**
+    - 2) Scripting - research your topic
+        - he writes 98% of what he says
+        - say as many useful things in a short space
+        - research and planning
+            - who are you talking to?
+            - get high level and tech to a 5year old
+            - keep engaged
+            - keep informed
+            - infotainment
+        - start with a story line
+            - Qfinish with a why eding
+            - find a motif / common thread that persists through whole video
+            - a guiiding question to give the script
+                - and to keep evergreen updated conten
+                - shopping and entertainment world
+                - include even what seems obvious to you
+            - he keeps notes with google keep 0 on what he researches
+            - google drive to keep the scripts
+            - 
+        - 2 steps
+            - Centralized info dump
+            - script making
+    - 3) writing the script
+        - all there is between
+            - Hello I am
+            - and Thanks for watching
+        - what order of topic importance
+            - no real rule
+            - expect your audience time and attention
+            - what you would like to see/watch?
+            - how would you like it structured?
+        - number presentation
+            - give context
+                - trends over time
+                - comparison with other 
+                    - benchmark
+        - talk as if to a friend
+            - keep your tone in mind
+        - B-Roll
+            - extra footage to complment your point
+            - shoot small videos and name it zettelkasten
+        - The length
+            - enterntainng - shorter
+            - longer ‒ > check the flow ‒> the common thread
+        - 
+    - 4) developing visuals
+        - keep theme in mind ‒ 
+            - he likes the realistic feeling
+            - he talks his feelings
+        - realism ‒> being true to life
+        - 1st person shot
+        - 3rd person shot
+        - intro - animations shot
+        - top-down ‒> in a table
+        - A-roll ‒> talking to camera
+        - B-roll ‒> showing something

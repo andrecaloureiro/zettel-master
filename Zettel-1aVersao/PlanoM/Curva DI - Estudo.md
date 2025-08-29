@@ -1,0 +1,3 @@
+- grafar curva DI desde 01/01/2018 até cá
+	- plotar contra IBOV  e Dolar (delta %?) ou absoluto?
+	- plotar 1ano, 3anos , 5anos, 7anos, 9anos

@@ -1,0 +1,90 @@
+- art of profitability #Books2read
+    - cap3 - multicomponent 
+        - Burton
+            - bookstore
+            - Mid-atalntic Booksellers
+            - Outbound/ segmented selling
+        - High profit components
+        - 
+    - Cap4 - Multiboard
+        - control the providers
+        - only works if youre an expert 
+        - Ovitz
+            - Hollywood industry
+        - Build critical mass
+            - Start gravitational power
+            - Til they have no option but to deal with you
+        - 
+    - Cap5 - Time Profit
+        - Use numbers to ask and answer critical questions
+        - Some simple 7-8 calculations can mess a business plan
+        - Crucial skill
+            - Being able to take measures of the world
+        - Terry Allen
+            - Waterstone Brothers Investment Bank
+            - Number crunching
+            - Salesforce Strength on instant diffusion with each innovation on financila industry
+            - grab the market before oppobnents copy your innovation
+        - Innovation = tedium
+        - Paul Cook 
+            - President of Raychem Corp
+    - Cap6 - BlockBuster
+        - Marc Geron - Agri-Chem
+            - Ran US Manufacture of Swiss Based Pharma
+            - BlockBuster Model
+            - Quality  + Field Force Morale
+            - 27 Step Process
+                - Improve step 1,2
+                    - impact on step 8, 9, 10
+                    - 
+        - How to create BlockBusters?
+            - Merck , Disney and Glaxo
+            - The Imagined portfolio of 15 future innovations and blockbuster opportunities in agro market
+        - Each lead project needs a backup compound
+        - The front end loading
+            - 48h of cramming
+            - Total Immerson
+        - Ezra Pound - Writer
+            - "Make it new"
+    - books 2 read from art of Profitability #Books2read
+        - Obvious adams
+        - AoP .art of war
+        - Power to burn stephen singular Cap 2 e 6 a 10
+        - Innumeracy jonh paul allen
+        - Interview with paul cook raychem
+        - Only the Paranoid survive
+        - A techique for producibg ideas jay webb youbg
+        - Einstein dreams alan lightman
+        - Marc geron
+        - Asimov on astronomy chapter 8
+        - Made in america by sam walton 1st 5chaps
+        - Hilbert sequential specialization
+        - The profit zone chap 12
+        - The courag eto be disliked
+        - David ogilvy... Cofessions af ad man
+        - Ogilvy on advertising
+        - Ezra pound abc of reading c1
+        - From good to great
+        - 
+        - 
+
+
+- 
+- [ ] Cap 7
+- [ ] Cap 8
+- [ ] Cap 9
+- [ ] Cap 10
+- [ ] Cap 11
+- [ ] Cap 12
+- [ ] Cap 13
+- [ ] Cap 14
+- [ ] Cap 14
+- [ ] Cap 15
+- [ ] Cap 16
+- [ ] Cap 17
+- [ ] Cap 18
+- [ ] Cap 19
+- [ ] Cap 20
+- [ ] Cap 21
+- [ ] Cap 22
+- [ ] Cap 23

@@ -1,0 +1,368 @@
+Objeto das ações
+efeitos das decisões no controle concentrado e difuso
+participação do Senado Federal no controle difuso
+
+3- Objeto
+a) no controle difuso - via de defesa/ exceção
+- sujeita qualquer norma
+	- federal , estadual, distrital ou municipal
+	- não é relevante se a norma está em vigor
+	- pré-const(recepção) ou pós-const(constituição)
+
+b) no controle concentrado
+- i) ADOmissão 
+			- art. 103, §2º da CF/88 
+				- regulamentada pelos arts. 12-A a 12-H da Lei 9.868/99
+			- total ou parcial
+- II) ADC
+	- EC03/93 --> art. 102, I, “a”, CF, 
+		- arts. 13 a 21 da Lei 9.868/1999
+	- leis e atos pós CF88
+		- federais apenas
+- iii) ADI - art. 102, I, ‘a’, CF/88
+	- leis e atos
+		- federais ou estaduais
+		- pos CF88
+	- i) Para DF, só cabe para parte estadual da competência
+		- Súmula 642, STF
+		- Art. 32, § 1º, CF/88
+		- poderes do DF mantidos pela Uniao:
+			- Judiciario e MP-DF
+			- Policia Civil, militar e penal
+			- Bombeiros Milit
+			- DPE (EC69/12)
+	- II) normas suscetíveis - objeto nomológico
+		- originarias-->  nao sao suscetiveis 
+			- já sao o parâmetro
+			- Derivadas -> são suscetiveis... ex: PEC --> qnd se alega inicial contraria
+					- clausulas petreas ==  princípios imutaveis 
+	- iii) PEC e PLO/PLC 
+		- não suscetível a controle concentrado
+		- controle preventivo político
+		- so por MS de parlamentar
+	- iv) Sobre os decretos
+		- a) Decreto-lei -não é
+			- pré const ...e não existe pós CF88
+			- as que existem no ordenamento são materialmente compativeis com CF88
+		- Dec legislativo - é 
+			- p/ CN cumprir tarefas do a49 CF88
+		- c) dec autonomo
+			- PR edita
+			- nasce sem lei --> inova
+		- d) dec regulamentar
+			- PR regulamenta lei (a84IV)
+			- só ofende diretamente a lei que o cria
+			- afeta de forma reflexa a CF
+			- arrastamento pode afetar esse dec --> STF se mantém adstrito( vinculado ) ao objeto da inicial, ex: lei
+			- STF pode julgar norma inconst por fundamentos diferentes da inicial (*causa petendi*) - não se restringe a argumentos frageis da inicial
+			- Inicial pode pedir Inconst material e o STF julgar por inconst formal
+	- v)  Ausência de objeto
+		- ao longo da ADI , Lei é revogada
+			- ADI Extinta e sem exame de mérito
+			- Exceto se revogação fraudulenta
+		- Objeto se mantém caso MP seja convertida em Lei
+		- exame de relevancia e urgencia --> controle absolutamente excepcional - se flagra abuso de poder de legislar
+		- MP suspende norma mas nao a revoga
+	- vi) leis de efeitos concretos ( ex: leis de orçamento) podem se sujeitar ao controle abstrato
+		-  STF na ADI (MC) 4048
+			- normas orçamentarias
+		- controversia suscitada em abstrato
+	- vii) Quanto ao TSE
+		- consultas não são objeto de controle
+			- sem efeito vinculante
+		- resoluções contra CF88 são controladas
+	- viii) Tratados e convencoes internacionais internalizados -> sofrem controle
+	- ix) não se sujeitam: Súmulas e Sumulas vinculantes
+		- Sumula vinculante - reclamação
+		- sumula - ver recurso no tribunal
+	- x) MedProv --> o executivo determina urgencia e relevancia
+	- resolução de conselho podem sofrer ADI ( CNJ, CNMP, etc)
+
+----
+Questão: É vedado o controle de normas constitucionais originárias, súmulas vinculantes e medidas provisórias, entre outros atos normativos ou com força de lei." --> falsa, por que?
+-----
+
+- iv) ADPF - art. 4º, § 1º, da Lei nº 9.882/1999
+	- princípio da Subsidiariedade
+	- ação com feição mais objetiva
+	- previo esgotamento das demais vias
+	- STF. Fungibilidade entre ADI e ADPF
+		- exceto se erro grosseiro. Ex: ADPF para LOF, pós cf88
+	- objeto
+		- ADPF 101: import de pneu usado
+			- interpretaçoes divergentes entre admin e judiciario
+		- ADPF 405: decisões judiciais
+			- atos /leis q confrontem CF88 efetiva e materialmente
+		- ADPF 43-DF: não cabe ADPF para PEC
+		- ADPF 80-DF: não cabe ADPF para súmula
+			- setembro de 2020: STF mudou e passou a admitir ADPF  no caso gov SC x Sumula TJ/SC
+		- ADPF 147-DF: Nao cabe ADPF para SVinc
+		- ADPF 1: nao cabe ADPF para veto do Exec
+		- ADPF 84-DF: cabe ADPF para estabelecer regime aplicavel as relacoes juridicas formadas durante vigencia de norma impugnada
+		- Não Cabe ADPF para lei com teor identico de a outra revogada ( reação do legislativo) . CABe ADI ( erro grosseiro pode impedir fungibilidade)
+- 
+- 
+Efeitos no controle DIFUSO
+- Inter partes
+	- exceção: quanto Às partes:
+		- controle difuso - efeitos interpartes... 
+			- senado poderia tornar erga omnes por resolução 
+		- STF decidiu 2017 (ADI 3406/RJ e ADI 3470/RJ) - mutação constitucional
+			- senado apenas publica decisao do STF
+			- Caso incidental se torna erga omnes - para evitar anomias e fragmeentação da unidade(Mendes)
+			- não declarar apenas o ato normativo mas a matéria inconstitucional
+- Ex tunc (retro)
+	- Exceto: modulação temporal STF, 
+		- ex nunc da data de prolatada, pro futuro e pro praeterito
+		- 2/3 + de coro caso ADI
+		- Maioria Abs para ADC
+
+Efeitos no controle CONCENTRADO
+- Só cabe Embargo de declaração para sanar eventuais omissões, obscuridades ou contrariedades
+- Efeito Erga Omnes - objetivo
+	- exceção: 2/3 membros - exclui alguem ou delimita quem será atingido
+- Efeito Ex Tunc
+	- ato inconst é nulo , natimorto 
+		- presença de, ao menos, 8 ministros(2/3)
+		- maioria absoluta
+	- decisão do tribunal é declaratoria de circunstancia existente
+	- se há pedido de modulação de efeitos...modulação de temporariedade --> segurança juridica ou expecional interesse social -->2/3 ( 8 ministros) 
+	- ex nunc - pro futuro - pro praeterito --> 2/3 membros
+	- Se corte nao aprecia pedido de modulação de efeitos --> cabe embargo declaratorio
+		- se pedido modulação na inicial
+		- há precendentes de aceite de embarg declaratorio com unico intuito de modulçação , em casos peculiares--> informativo 599
+	- Legitimado a prropor ADI só pode interpor recurso se for parte do processo
+- Efeito Vinculante
+	- decisao do STF é obrigatoria
+	- vincula toddo judiciario e AdminPub de todas as esferas
+	- Subjetiva quem fica vinculado?
+		- normalmente revisão de decisão STF é feita via RECLAMAÇâo
+		- entender a afirmação:
+			- É bom frisar, contudo, que as turmas do STF e os Ministros, em suas manifestações monocráticas, ficam vinculados ao precedente e não podem superá-lo.
+	- Objetiva: qual parte?
+		- Teoria Restritiva - STF
+		- Teoria Extensiva - extende aos motivos determinantes
+- Efeito repristinatório 
+	- não é repristinação da LINDB
+	- Efeito tácito/ automatico-- se havia lei anterior à do objeto da ADI
+	- STF pode ser contra, se manifestando expressamente
+
+Efeitos da decisão definitiva na ADO
+- STF declara incost de omissão e comunica poder responsavel 
+- orgão admin pode receber prazo de 30 dias ( CF99 + art. 12-H da Lei 9.868/99)
+- ADO25/16 : STF deu 12 meses para congresso editar lei complementar + 12 meses prorrog
+	- regulamento d repasse de recursos
+	- uniao para UF e DF
+	- desoneracao de export ICMS
+	- 12 meses para lei ou TCU fixaria regras e calculo de cotas de cada ente
+	- em julho/2019: Estados e união : acordo homologado pelo STF em 05/2020
+- ADO 30/20
+	- deficientes auditivos, da lei (número 8.989/1995) + isencao do IPI
+	- 18 meses para congresso legislar a materia
+	- STF definiu que deveria ser aplicado às pessoas com deficiência auditiva o artigo 1º, inciso IV, da Lei nº 8.989/1995, que beneficia com a isenção do tributo pessoas com deficiência física, visual e mental e com transtornos do espectro autista
+	- L14287/2021 --> supriu omissao
+
+- Mandado de injucao x ADO
+	- MI: finalidade 1: viabilizar /concretizar ex de direto q nao tem norma regulamentadora
+	- MI fim 2: combater a omissao 
+		- fim 1 da ADO
+		- 
+
+Atuação do PGR e AGU no controle concentrado de Const
+- PGR
+	- a103 CF88
+	- vai participar de todas as ações do controle concentrado: ADI, ADC, ADO e ADPF 
+		- todos os processos de  competencia do STF ( a103, S3CF88)
+	- parecer opiniativo
+	- Se for autor de ADI ou ADC
+		- também acionado para parecer opinativo
+		- ele pode ser autor de ADI e manifestar parecer pedindo improcedencia do pedido
+	- Se for autor de ADO ou ADPF
+		- só emite parecer final se NÃO for autor
+		- ADO: vista do processo por 15 dias, apos prazo para informações, se NÃO Autor
+		- 5 dias para vista de arguição de processo
+	- PGR se manifesta após AGU ( até 15dias)
+- AGU
+	- citado nas ações de INCONStitucionalidade  para defender o ato ou texto impugnado, 
+		- Apesar de ADC tb poder declarar inconst , STF nao reconhece atuação de AGU em ADC
+	- desempenhando, portanto, o papel de curador da presunção de constitucionalidade da norma, 
+		-  **_defensor_** **_legis_**
+	- ADO: C-IIa L9868/99 relator pode solicitar manif do AGU, pz\ de 15 dias
+		- ADO omissao total não hga sentido participação de AGU pois nao ha norma a defender
+	- AGU deve sempre defender a norma
+		- STF hoje defende certa flexbilidade --> caso de 
+			- lei que ofende interesses da união
+			- lei que ja foi dada inconst pelo STF
+		- se pronunicar em defesa da constitucionalidade
+	- STF decide que a103 njão se estende aos estados --> Proc de Estado n ´faz papel de defesnor da lei
+	- PODE SEER CURADOR DE NORMAS FEDERAIS OUS ESTADUAIS q vão contra cf88
+
+art. 8° da Lei 9.868/1999
+	-Decorrido o prazo das informações da Ação Direta de Inconstitucionalidade, serão ouvidos, sucessivamente, o Advogado-Geral da União e o Procurador-Geral da República, que deverão manifestar-se, cada qual, no prazo de quinze dias.
+
+
+Amicus Curiae
+- pluralizar o debate constitnucional
+- entidade/orgao admin --> solicita ingresso no oprocesso
+- conhecimento/ experiuencia/ autoridade na materia
+- requisitos:
+	- relevancia da materia
+	- representatividade dos postulantes
+	- STF vem exigindo: pertinencia tematica
+	- decisao de ingresso depende do relator do processo
+	- STF ebntende: pessoa fisica nao tem representativade para ser amigo da corte em AD
+	- ADPF180/SP: pedido de admissao de amicus curiae --> subscrito por advogado regular
+- Natureza juridica da participação
+	- não é intervenção ( não há ganhos  / perdas particulares )
+	- Auxiliar o juízo ( Fredie Didier Júnior)
+	- Algun ministros STF entendem como: terceiro interveniente atipico
+	- CPC 205: 3o interveniente típico
+- Possibilidade recursal
+	- STF entendia: 
+		- despacho denegatório de amicus curiae pelo relator 
+			- possível recurso de agravo regimental dirigido ao Pleno
+		- admissão de ingresso --> irrecorrível
+	- 2018 - mudança: RecExt 602584/20018
+		- desconsidera possibnilidade de recurso de agravo
+		- não há recurso após admissão ou negativa de amicus curiae
+		- ago/ 2020 --> STF admitiu um Agravo regimental interposto em 2011 quando entendimento era diferente
+	- Amicus curiae tambem não é legitima para medida cautelar
+- Prazo para ingresso
+	- STf define momento limite
+		- 6x5 STF determina prazo limite como envio dos autos do relator para julgamento
+		- entenddimento confirmado pelo Pleno na ADI 5104
+- Apresentação de memoriais e sustentação oral
+	- STf admite sustentação ORAL ( e escrita)
+		- a131$3 do regimento interno STF
+- Participação de AC nas demais ações de controlee concetrado
+	- ADC e ADPF
+		- ADC admitido em analogia à participação em ADI ( a7$2L9868/99)
+		- ADPF idem
+	- CPC1035$4 --> admite AC no exame de repercussão geral ( rec extraordinário)
+	- Aprovação de Sumula Vinculante (a3$2L11417/06)
+- Distinções de atuação AC no controle concentrado abst e no novo CPC
+	- CPC: admite pessoas naturais
+		- CCAbs: só oragaos/ entidades
+	- CPC: admite embargos dec no julg de incidente de demandas repetitivas
+		- CCAbs: AC nao interpoe recursos (ADI 4.389 ED-AgR, ADI 3.931 ED)
+
+Medida Cautelar
+- a102,I,pCF88
+- MC em ADI
+	- possível ( a10 e11 L9868/99)
+	- pressupostos legitimadores pro STF
+		- periculum in mora
+		- fumus boni iuris
+		- conveniência(?!)
+			- verificar ([https://aluno.direcaoconcursos.com.br/course/6383d8d2bfbb411fc9a65aa5/module/6385ec06f41c257d29c9872c/lesson/635d5962a9ee7444438093bd/chapter/63a4b944a727d70bce6a4321#_ftn2]
+	- quorum: 8 MinSTF
+	- aprova com 6 minSTF ( maioria absoluta)
+	- durante recesso:
+		- pode ser conferida por relator
+		- referendada no pleno a posteriore
+	- fora do recesso:
+		- urgencia qualificada ( e riscos obj comprovados) podem autorizar  o relator a conceder
+		- ex: Gilmar Mendes ADI 5513 concedeu liminar
+			- suspende MP 722/16
+	- efeitos da concessao de cautelar
+		- indeferimento: 
+			- não dá margem a reclamação
+			- não vincula decisão da ADI
+		- concessão
+			- erga omnes e vinculante ( Judiciario e admin publica)
+			- ex nunc, via de regra
+			- efeito repristinatorio
+				- se for indesejado, deve ser pedido ao STF sucessivamente ( lei B e depois lei  A)
+		- momento de observancia obrigatoria da decisao -> publicação da ata de julgamento
+			-  no DOU
+			- no DJU 
+		- 
+- MC em ADC
+	- a21L9868/99
+	- pressupostos
+		- fumus boni iuris
+		- pewriculum in mora
+	- efeitos
+		- vinculante, erga omnes,
+		- ex nunc, em regra
+	- vale apos publicda ata da sessao de julgamento no DJU
+		- determina que juizes e tribunais suspendam julgamento de processos
+			- que usa a norma questionada como referencia
+			- STf julga em 180 dias ou MC perde eficacia
+				- pode prorrogar por maide 180 dias
+	- concessao por maioria absoluta dos MinSTF
+		- recesso: não há previsao , mas Natalia masson acredita q segue a linha da ADI e da concessao por relator
+- MC em ADO
+	- art 12F -- para omissao total ou parcial
+	- quorum: 8 ( 2/3) , aprova: 6 (maioria abs)
+	- prazo para orgao/autoridade se manifestar: 5 dias apos MC
+	- PGR: se indispensavel, 3 dias para se manifestar
+	- no julgamento, é facultada sustentação oral pelas partes
+	- efeitos:
+		- suspende processos jud e proced administrtaivos.
+		- confia ao STF conceber providencia adequada à controversia juridica
+- MC em ADPF
+	- concessao
+		- 6 minSTF para conceder ( maior absoluta)
+		- relator ,caso:
+			- extrema urgencia
+			- perigo de lesao grave
+			- periodo de recesso
+		- relator pode ouvir
+			- orgao/autoridade
+			- AGU
+			- PGR, 5 dias
+	- efeitos
+		- suspende processos jud e proced admin
+			- exceto se decorre de coisa julgada
+		- ADPF incidental:
+			- controversia const sobre lei/norma fed ou estad, inclui anterior à const
+		- ADPF 798 - reconhece estado de coisas inconstitucional
+			- sistema prisional brasileiro 
+			- violação sistematica e generalizada de direitos fundamentais dos presos.
+			- altas taxas de reincidencia
+			- ADPF 347 determina prazo de 90 dias
+				- juizes e trinuais realizem audiencias de custodia
+				- libera fundo penitenciario anual , proibe contingenciamentos
+			- RE 580252 - fev2017
+				- preso. indenização do estado por danos moras
+				- superlotação de cadeias  e situação degradante
+				- 
+	- 
+
+Tecnicas de decisão
+- antes se  discutia admissibilidade
+- hoje se discute limites que devem respeitar
+- 1) Inconst progressiva
+	- origem: dir Const germanico
+	- norma ainda constitucional --> passa a ser inconst
+	- peculiaridades faticas e temporais reconhecem a norma
+		- menos danoso do q situação de anomia por declaração de inconst e vácuo legal
+	- caso emblematico: questionamento de prazo em dobro para defensoria publica em processos penais
+		- vale até estruturação de instituição que permita igualdade com ministerio publico
+	- PlenoSTF: RE135328/SP --> 
+		- enquanto SP nao institui e organiza DefPubEst--> 
+		- subsiste a68CPP (norma ainda constitucional em transicao para inconst)
+	- ADI 6148/DF - mai/2022 - resolução conama
+		- resolução em transito para inconst
+		- considerou-se abaixo do necessario para controle da poluição atmosferica
+		- fixado prazo de 24 mese para conama fazer nova resolução
+- 2) Interpret conforme constituição
+	- salva a norma e a declara constitucional
+	- interpreta de maneira diferente-- em consonancia com CF88
+	- somente para normas polissemicas /plussignificativas 
+		- que dao margem a 2+ interpretação
+	- ADI 4277 - reconhece uniao homoafetiva como entidade familiar
+		- atribui ao art1723 do CC interpretação conf CF88 que impede nao reconhecimento
+- 3) declara parcial inconst sem reduzir texto
+	- origem : alemã
+	- ex : norma se aplica a 5 situações
+		- STF declara inconst aplicação para situação 2
+	- ADI 1946/DF - teto previdencia RGPS
+		- exclui do teto: salario maternidade / licença gestante
+		- STF considerou q a norma obrigava INSS somente ao TETO e o empregador ao que passasse --> inconstitucional e derrogatorio para mulher
+		- texto permeneceu integro
+- 4) apelo ao legislador
+	- situação ainda é constitucional. porem se encamiha para inconst
+	- casos de legis pre-const, em q o legislador teria que fazer adaptaçoes de leis ordinarias
+	- direito anterior se aplica na fase de transição

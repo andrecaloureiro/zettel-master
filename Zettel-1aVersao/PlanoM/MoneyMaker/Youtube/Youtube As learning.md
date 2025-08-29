@@ -1,0 +1,1 @@
+Get transcription and fast read before video

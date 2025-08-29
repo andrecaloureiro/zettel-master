@@ -1,0 +1,20 @@
+- GFAI - Empretech Aula 3 - backoffice #GFAI
+    - busca de alternativas
+        - codigos: capterra
+        - Saas : Alternative.to
+        - 
+    - metodologia NPS de avaliação
+    - Foco:
+        - checklist —> automatico
+        - integração de parceiros
+        - construir um funil top
+            - do
+            - drop
+            - delegate
+            - automatizado x manual
+        - automatizar e baratear custo de oportunidade
+    - read eric ries - lean startup #Books2read
+    - alterdata
+        - erp
+    - money.com
+        - ERP-Organizer

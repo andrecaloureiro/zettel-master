@@ -1,0 +1,4 @@
+-   _The Art of Feature Engineering_, a book by Pablo Duboue.
+-   _An Empirical Analysis of Feature Engineering for Predictive Modeling_, an article by Jeff Heaton.
+-   _Feature Engineering for Machine Learning_, a book by Alice Zheng and Amanda Casari. The tutorial on clustering was inspired by this excellent book.
+-   _Feature Engineering and Selection_, a book by Max Kuhn and Kjell Johnson.

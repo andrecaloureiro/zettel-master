@@ -1,0 +1,8 @@
+- Ticker
+- txt do dia
+- yyyymmdd
+- hh:mm
+- cpf
+- nome
+- tags
+- description
